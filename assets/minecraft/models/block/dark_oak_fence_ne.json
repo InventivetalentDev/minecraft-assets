@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_ne",
+    "textures": {
+        "texture": "blocks/planks_big_oak"
+    }
+}

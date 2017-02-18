@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "power=0": { "model": "daylight_detector_inverted" },
+        "power=1": { "model": "daylight_detector_inverted" },
+        "power=2": { "model": "daylight_detector_inverted" },
+        "power=3": { "model": "daylight_detector_inverted" },
+        "power=4": { "model": "daylight_detector_inverted" },
+        "power=5": { "model": "daylight_detector_inverted" },
+        "power=6": { "model": "daylight_detector_inverted" },
+        "power=7": { "model": "daylight_detector_inverted" },
+        "power=8": { "model": "daylight_detector_inverted" },
+        "power=9": { "model": "daylight_detector_inverted" },
+        "power=10": { "model": "daylight_detector_inverted" },
+        "power=11": { "model": "daylight_detector_inverted" },
+        "power=12": { "model": "daylight_detector_inverted" },
+        "power=13": { "model": "daylight_detector_inverted" },
+        "power=14": { "model": "daylight_detector_inverted" },
+        "power=15": { "model": "daylight_detector_inverted" }
+    }
+}
