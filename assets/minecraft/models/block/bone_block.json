@@ -1,0 +1,20 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "blocks/bone_block_top",
+        "side": "blocks/bone_block_side"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "texture": "#end", "cullface": "down" },
+                "up":    { "texture": "#end", "cullface": "up"   },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#side" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}
