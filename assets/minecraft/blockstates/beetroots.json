@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "age=0": { "model": "beetroots_stage0" },
+        "age=1": { "model": "beetroots_stage1" },
+        "age=2": { "model": "beetroots_stage2" },
+        "age=3": { "model": "beetroots_stage3" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":    { "model": "oak_log" },
+        "axis=z":     { "model": "oak_log", "x": 90 },
+        "axis=x":     { "model": "oak_log", "x": 90, "y": 90 },
+        "axis=none":   { "model": "oak_bark" }
+    }
+}
