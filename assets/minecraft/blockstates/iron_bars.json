@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "east=false,north=false,south=false,west=false": { "model": "bars_nsew" },
+        "east=false,north=true,south=false,west=false": { "model": "bars_n" },
+        "east=true,north=false,south=false,west=false": { "model": "bars_n", "y": 90 },
+        "east=false,north=false,south=true,west=false": { "model": "bars_n", "y": 180 },
+        "east=false,north=false,south=false,west=true": { "model": "bars_n", "y": 270 },
+        "east=true,north=true,south=false,west=false": { "model": "bars_ne" },
+        "east=true,north=false,south=true,west=false": { "model": "bars_ne", "y": 90 },
+        "east=false,north=false,south=true,west=true": { "model": "bars_ne", "y": 180 },
+        "east=false,north=true,south=false,west=true": { "model": "bars_ne", "y": 270 },
+        "east=false,north=true,south=true,west=false": { "model": "bars_ns" },
+        "east=true,north=false,south=false,west=true": { "model": "bars_ns", "y": 90 },
+        "east=true,north=true,south=true,west=false": { "model": "bars_nse" },
+        "east=true,north=false,south=true,west=true": { "model": "bars_nse", "y": 90 },
+        "east=false,north=true,south=true,west=true": { "model": "bars_nse", "y": 180 },
+        "east=true,north=true,south=false,west=true": { "model": "bars_nse", "y": 270 },
+        "east=true,north=true,south=true,west=true": { "model": "bars_nsew" }
+    }
+}

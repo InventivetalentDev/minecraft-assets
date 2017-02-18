@@ -1,0 +1,7 @@
+{
+    "parent": "block/column_side",
+    "textures": {
+        "end": "blocks/log_jungle_top",
+        "side": "blocks/log_jungle"
+    }
+}
