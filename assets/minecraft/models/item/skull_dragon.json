@@ -1,0 +1,10 @@
+{
+    "parent": "item/skull",
+    "display": {
+        "gui": {
+            "translation": [ -2, 2, 0 ],
+            "rotation": [ 30, 45, 0 ],
+            "scale": [ 0.6, 0.6, 0.6 ]
+        }
+    }
+}
