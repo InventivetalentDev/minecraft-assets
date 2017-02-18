@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "east=false,north=false,south=false,west=false": { "model": "purple_pane_nsew" },
+        "east=false,north=true,south=false,west=false": { "model": "purple_pane_n" },
+        "east=true,north=false,south=false,west=false": { "model": "purple_pane_n", "y": 90 },
+        "east=false,north=false,south=true,west=false": { "model": "purple_pane_s" },
+        "east=false,north=false,south=false,west=true": { "model": "purple_pane_s", "y": 90 },
+        "east=true,north=true,south=false,west=false": { "model": "purple_pane_ne" },
+        "east=true,north=false,south=true,west=false": { "model": "purple_pane_se" },
+        "east=false,north=false,south=true,west=true": { "model": "purple_pane_sw" },
+        "east=false,north=true,south=false,west=true": { "model": "purple_pane_nw" },
+        "east=false,north=true,south=true,west=false": { "model": "purple_pane_ns" },
+        "east=true,north=false,south=false,west=true": { "model": "purple_pane_ns", "y": 90 },
+        "east=true,north=true,south=true,west=false": { "model": "purple_pane_nse" },
+        "east=true,north=false,south=true,west=true": { "model": "purple_pane_sew" },
+        "east=false,north=true,south=true,west=true": { "model": "purple_pane_nsw" },
+        "east=true,north=true,south=false,west=true": { "model": "purple_pane_new" },
+        "east=true,north=true,south=true,west=true": { "model": "purple_pane_nsew" }
+    }
+}
