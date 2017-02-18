@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "items/fireworks_charge",
+        "layer1": "items/fireworks_charge_overlay"
+    }
+}
