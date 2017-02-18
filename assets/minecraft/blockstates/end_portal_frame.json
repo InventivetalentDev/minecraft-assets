@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "eye=false,facing=south": { "model": "end_portal_frame_empty" },
+        "eye=false,facing=west": { "model": "end_portal_frame_empty", "y": 90 },
+        "eye=false,facing=north": { "model": "end_portal_frame_empty", "y": 180 },
+        "eye=false,facing=east": { "model": "end_portal_frame_empty", "y": 270 },
+        "eye=true,facing=south": { "model": "end_portal_frame_filled" },
+        "eye=true,facing=west": { "model": "end_portal_frame_filled", "y": 90 },
+        "eye=true,facing=north": { "model": "end_portal_frame_filled", "y": 180 },
+        "eye=true,facing=east": { "model": "end_portal_frame_filled", "y": 270 }
+    }
+}
