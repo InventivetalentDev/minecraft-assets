@@ -1,0 +1,7 @@
+{
+    "parent": "block/fire_nsu1_flip",
+    "textures": {
+        "particle": "blocks/fire_layer_0",
+        "fire": "blocks/fire_layer_0"
+    }
+}
