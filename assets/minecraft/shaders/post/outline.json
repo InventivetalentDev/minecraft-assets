@@ -1,0 +1,18 @@
+{
+    "targets": [
+        "swap",
+        "final"
+    ],
+    "passes": [
+        {
+            "name": "outline",
+            "intarget": "final",
+            "outtarget": "swap"
+        },
+        {
+            "name": "blit",
+            "intarget": "swap",
+            "outtarget": "final"
+        }
+    ]
+}
