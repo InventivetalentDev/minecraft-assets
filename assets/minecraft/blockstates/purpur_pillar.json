@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "purpur_pillar_top" },
+        "axis=z": { "model": "purpur_pillar_top", "x": 90 },
+        "axis=x": { "model": "purpur_pillar_top", "x": 90, "y": 90 }
+    }
+}
