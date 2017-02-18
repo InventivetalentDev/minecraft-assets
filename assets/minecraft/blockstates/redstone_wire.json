@@ -1,0 +1,103 @@
+{
+    "variants": {
+        "east=none,north=none,south=none,west=none": { "model": "redstone_none" },
+
+        "east=none,north=side,south=none,west=none": { "model": "redstone_n" },
+        "east=none,north=none,south=side,west=none": { "model": "redstone_n" },
+        "east=side,north=none,south=none,west=none": { "model": "redstone_n", "y": 90 },
+        "east=none,north=none,south=none,west=side": { "model": "redstone_n", "y": 90 },
+
+        "east=none,north=up,south=none,west=none": { "model": "redstone_uns" },
+        "east=none,north=none,south=up,west=none": { "model": "redstone_uns", "y": 180, "uvlock": true },
+        "east=up,north=none,south=none,west=none": { "model": "redstone_uew" },
+        "east=none,north=none,south=none,west=up": { "model": "redstone_uew", "y": 180, "uvlock": true },
+
+        "east=side,north=side,south=none,west=none":   { "model": "redstone_ne", "uvlock": true },
+        "east=side,north=up,south=none,west=none":  { "model": "redstone_une", "uvlock": true },
+        "east=up,north=side,south=none,west=none":  { "model": "redstone_nue", "uvlock": true },
+        "east=up,north=up,south=none,west=none": { "model": "redstone_unue", "uvlock": true },
+
+        "east=side,north=none,south=side,west=none":   { "model": "redstone_ne", "y": 90, "uvlock": true },
+        "east=up,north=none,south=side,west=none":  { "model": "redstone_une", "y": 90, "uvlock": true },
+        "east=side,north=none,south=up,west=none":  { "model": "redstone_nue", "y": 90, "uvlock": true },
+        "east=up,north=none,south=up,west=none": { "model": "redstone_unue", "y": 90, "uvlock": true },
+
+        "east=none,north=none,south=side,west=side":   { "model": "redstone_ne", "y": 180, "uvlock": true },
+        "east=none,north=none,south=up,west=side":  { "model": "redstone_une", "y": 180, "uvlock": true },
+        "east=none,north=none,south=side,west=up":  { "model": "redstone_nue", "y": 180, "uvlock": true },
+        "east=none,north=none,south=up,west=up": { "model": "redstone_unue", "y": 180, "uvlock": true },
+
+        "east=none,north=side,south=none,west=side":   { "model": "redstone_ne", "y": 270, "uvlock": true },
+        "east=none,north=side,south=none,west=up":  { "model": "redstone_une", "y": 270, "uvlock": true },
+        "east=none,north=up,south=none,west=side":  { "model": "redstone_nue", "y": 270, "uvlock": true },
+        "east=none,north=up,south=none,west=up": { "model": "redstone_unue", "y": 270, "uvlock": true },
+
+        "east=none,north=side,south=side,west=none":  { "model": "redstone_n" },
+        "east=none,north=up,south=side,west=none": { "model": "redstone_uns" },
+        "east=none,north=side,south=up,west=none": { "model": "redstone_uns", "y": 180 },
+        "east=none,north=up,south=up,west=none": { "model": "redstone_unus" },
+
+        "east=side,north=none,south=none,west=side":  { "model": "redstone_n", "y": 90 },
+        "east=up,north=none,south=none,west=side": { "model": "redstone_uns", "y": 90 },
+        "east=side,north=none,south=none,west=up": { "model": "redstone_uns", "y": 270 },
+        "east=up,north=none,south=none,west=up": { "model": "redstone_ueuw" },
+
+        "east=side,north=side,south=side,west=none":    { "model": "redstone_nse", "uvlock": true },
+        "east=side,north=up,south=side,west=none":   { "model": "redstone_unse", "uvlock": true },
+        "east=side,north=side,south=up,west=none":   { "model": "redstone_nuse", "uvlock": true },
+        "east=up,north=side,south=side,west=none":   { "model": "redstone_nsue", "uvlock": true },
+        "east=up,north=side,south=up,west=none":  { "model": "redstone_nusue", "uvlock": true },
+        "east=side,north=up,south=up,west=none":  { "model": "redstone_unuse", "uvlock": true },
+        "east=up,north=up,south=side,west=none":  { "model": "redstone_unsue", "uvlock": true },
+        "east=up,north=up,south=up,west=none": { "model": "redstone_unusue", "uvlock": true },
+
+        "east=side,north=none,south=side,west=side":    { "model": "redstone_nse", "y": 90, "uvlock": true },
+        "east=up,north=none,south=side,west=side":   { "model": "redstone_unse", "y": 90, "uvlock": true },
+        "east=side,north=none,south=side,west=up":   { "model": "redstone_nuse", "y": 90, "uvlock": true },
+        "east=side,north=none,south=up,west=side":   { "model": "redstone_nsue", "y": 90, "uvlock": true },
+        "east=side,north=none,south=up,west=up":  { "model": "redstone_nusue", "y": 90, "uvlock": true },
+        "east=up,north=none,south=side,west=up":  { "model": "redstone_unuse", "y": 90, "uvlock": true },
+        "east=up,north=none,south=up,west=side":  { "model": "redstone_unsue", "y": 90, "uvlock": true },
+        "east=up,north=none,south=up,west=up": { "model": "redstone_unusue", "y": 90, "uvlock": true },
+
+        "east=none,north=side,south=side,west=side":    { "model": "redstone_nse", "y": 180, "uvlock": true },
+        "east=none,north=side,south=up,west=side":   { "model": "redstone_unse", "y": 180, "uvlock": true },
+        "east=none,north=up,south=side,west=side":   { "model": "redstone_nuse", "y": 180, "uvlock": true },
+        "east=none,north=side,south=side,west=up":   { "model": "redstone_nsue", "y": 180, "uvlock": true },
+        "east=none,north=up,south=side,west=up":  { "model": "redstone_nusue", "y": 180, "uvlock": true },
+        "east=none,north=up,south=up,west=side":  { "model": "redstone_unuse", "y": 180, "uvlock": true },
+        "east=none,north=side,south=up,west=up":  { "model": "redstone_unsue", "y": 180, "uvlock": true },
+        "east=none,north=up,south=up,west=up": { "model": "redstone_unusue", "y": 180, "uvlock": true },
+
+        "east=side,north=side,south=none,west=side":    { "model": "redstone_nse", "y": 270, "uvlock": true },
+        "east=side,north=side,south=none,west=up":   { "model": "redstone_unse", "y": 270, "uvlock": true },
+        "east=up,north=side,south=none,west=side":   { "model": "redstone_nuse", "y": 270, "uvlock": true },
+        "east=side,north=up,south=none,west=side":   { "model": "redstone_nsue", "y": 270, "uvlock": true },
+        "east=up,north=up,south=none,west=side":  { "model": "redstone_nusue", "y": 270, "uvlock": true },
+        "east=up,north=side,south=none,west=up":  { "model": "redstone_unuse", "y": 270, "uvlock": true },
+        "east=side,north=up,south=none,west=up":  { "model": "redstone_unsue", "y": 270, "uvlock": true },
+        "east=up,north=up,south=none,west=up": { "model": "redstone_unusue", "y": 270, "uvlock": true },
+
+        "east=side,north=side,south=side,west=side": { "model": "redstone_nsew", "uvlock": true },
+
+        "east=side,north=up,south=side,west=side": { "model": "redstone_unsew", "uvlock": true },
+        "east=side,north=side,south=up,west=side": { "model": "redstone_unsew", "y": 180, "uvlock": true },
+        "east=up,north=side,south=side,west=side": { "model": "redstone_unsew", "y": 90, "uvlock": true },
+        "east=side,north=side,south=side,west=up": { "model": "redstone_unsew", "y": 270, "uvlock": true },
+
+        "east=side,north=up,south=up,west=side": { "model": "redstone_unusew", "uvlock": true },
+        "east=up,north=side,south=side,west=up": { "model": "redstone_unusew", "y": 90, "uvlock": true },
+
+        "east=up,north=up,south=side,west=side": { "model": "redstone_unsuew", "uvlock": true },
+        "east=up,north=side,south=up,west=side": { "model": "redstone_unsuew", "y": 90, "uvlock": true },
+        "east=side,north=side,south=up,west=up": { "model": "redstone_unsuew", "y": 180, "uvlock": true },
+        "east=side,north=up,south=side,west=up": { "model": "redstone_unsuew", "y": 270, "uvlock": true },
+
+        "east=up,north=up,south=up,west=side": { "model": "redstone_unusuew", "uvlock": true },
+        "east=up,north=side,south=up,west=up": { "model": "redstone_unusuew", "y": 90, "uvlock": true },
+        "east=side,north=up,south=up,west=up": { "model": "redstone_unusuew", "y": 180, "uvlock": true },
+        "east=up,north=up,south=side,west=up": { "model": "redstone_unusuew", "y": 270, "uvlock": true },
+
+        "east=up,north=up,south=up,west=up": { "model": "redstone_unusueuw", "uvlock": true }
+    }
+}
