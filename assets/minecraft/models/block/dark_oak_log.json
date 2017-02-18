@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "blocks/log_big_oak_top",
+        "side": "blocks/log_big_oak"
+    }
+}
