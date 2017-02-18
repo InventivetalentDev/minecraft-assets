@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "structure_void" },
+            { "model": "structure_void", "y": 90 },
+            { "model": "structure_void", "y": 180 },
+            { "model": "structure_void", "y": 270 }
+        ]
+    }
+}
