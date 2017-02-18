@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "attached=false,facing=north,powered=false": { "model": "tripwire_hook" },
+        "attached=false,facing=south,powered=false": { "model": "tripwire_hook", "y": 180 },
+        "attached=false,facing=west,powered=false": { "model": "tripwire_hook", "y": 270 },
+        "attached=false,facing=east,powered=false": { "model": "tripwire_hook", "y": 90 },
+        "attached=true,facing=north,powered=false": { "model": "tripwire_hook_attached" },
+        "attached=true,facing=south,powered=false": { "model": "tripwire_hook_attached", "y": 180 },
+        "attached=true,facing=west,powered=false": { "model": "tripwire_hook_attached", "y": 270 },
+        "attached=true,facing=east,powered=false": { "model": "tripwire_hook_attached", "y": 90 },
+        "attached=false,facing=north,powered=true": { "model": "tripwire_hook_powered" },
+        "attached=false,facing=south,powered=true": { "model": "tripwire_hook_powered", "y": 180 },
+        "attached=false,facing=west,powered=true": { "model": "tripwire_hook_powered", "y": 270 },
+        "attached=false,facing=east,powered=true": { "model": "tripwire_hook_powered", "y": 90 },
+        "attached=true,facing=north,powered=true": { "model": "tripwire_hook_attached_powered" },
+        "attached=true,facing=south,powered=true": { "model": "tripwire_hook_attached_powered", "y": 180 },
+        "attached=true,facing=west,powered=true": { "model": "tripwire_hook_attached_powered", "y": 270 },
+        "attached=true,facing=east,powered=true": { "model": "tripwire_hook_attached_powered", "y": 90 }
+    }
+}
