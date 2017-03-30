@@ -1,0 +1,15 @@
+{
+    "display": {
+        "icon": "minecraft:beacon",
+        "title": "Create a beacon"
+    },
+    "parent": "minecraft:story/summon_wither",
+    "criteria": {
+        "beacon": {
+            "trigger": "minecraft:construct_beacon",
+            "conditions": {
+                "level": {"min": 1}
+            }
+        }
+    }
+}

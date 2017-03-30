@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": "minecraft:elytra",
+        "title": "Learn to Fly"
+    },
+    "parent": "minecraft:story/enter_end_gateway",
+    "criteria": {
+        "elytra": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:elytra"
+                    }
+                ]
+            }
+        }
+    }
+}

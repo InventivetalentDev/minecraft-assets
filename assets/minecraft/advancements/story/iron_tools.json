@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": "minecraft:iron_pickaxe",
+        "title": "Iron tools"
+    },
+    "parent": "minecraft:story/smelt_iron",
+    "criteria": {
+        "iron_pickaxe": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_pickaxe"
+                    }
+                ]
+            }
+        }
+    }
+}

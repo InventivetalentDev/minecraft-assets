@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": "minecraft:glass_bottle",
+        "title": "Brew a Potion"
+    },
+    "parent": "minecraft:story/obtain_blaze_rod",
+    "criteria": {
+        "potion": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:potion"
+                    }
+                ]
+            }
+        }
+    }
+}

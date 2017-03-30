@@ -1,0 +1,34 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:orange_banner"
+    ]
+  },
+  "criteria": {
+    "has_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:wool",
+            "data": 1
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "orange_banner"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wool"
+    ],
+    [
+      "has_the_recipe"
+    ]
+  ]
+}

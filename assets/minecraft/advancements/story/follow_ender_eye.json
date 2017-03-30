@@ -1,0 +1,15 @@
+{
+    "display": {
+        "icon": "minecraft:ender_eye",
+        "title": "Follow an Ender Eye"
+    },
+    "parent": "minecraft:story/obtain_blaze_rod",
+    "criteria": {
+        "near_stronghold": {
+            "trigger": "minecraft:used_ender_eye",
+            "conditions": {
+                "distance": {"max": 64}
+            }
+        }
+    }
+}

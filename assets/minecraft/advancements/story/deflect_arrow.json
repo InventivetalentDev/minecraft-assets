@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": "minecraft:shield",
+        "title": "Deflect an arrow"
+    },
+    "parent": "minecraft:story/obtain_armor",
+    "criteria": {
+        "deflected_projectile": {
+            "trigger": "minecraft:player_damaged",
+            "conditions": {
+                "damage": {
+                    "blocked": true,
+                    "is_projectile": true
+                }
+            }
+        }
+    }
+}

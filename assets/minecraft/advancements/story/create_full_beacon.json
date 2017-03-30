@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": "minecraft:beacon",
+        "title": "Create a full beacon",
+        "frame": "challenge"
+    },
+    "parent": "minecraft:story/create_beacon",
+    "criteria": {
+        "beacon": {
+            "trigger": "minecraft:construct_beacon",
+            "conditions": {
+                "level": 4
+            }
+        }
+    }
+}

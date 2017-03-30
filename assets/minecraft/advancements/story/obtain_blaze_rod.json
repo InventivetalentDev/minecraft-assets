@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": "minecraft:blaze_rod",
+        "title": "Obtain a Blaze Rod"
+    },
+    "parent": "minecraft:story/enter_the_nether",
+    "criteria": {
+        "blaze_rod": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:blaze_rod"
+                    }
+                ]
+            }
+        }
+    }
+}

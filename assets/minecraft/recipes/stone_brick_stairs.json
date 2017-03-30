@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stonebrick"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_brick_stairs",
+    "count": 4
+  }
+}

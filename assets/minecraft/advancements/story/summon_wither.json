@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": "minecraft:nether_star",
+        "title": "Summon the Wither"
+    },
+    "parent": "minecraft:story/enter_the_nether",
+    "criteria": {
+        "summoned": {
+            "trigger": "minecraft:summoned_entity",
+            "conditions": {
+                "entity": {
+                    "type": "ender_dragon"
+                }
+            }
+        }
+    }
+}
