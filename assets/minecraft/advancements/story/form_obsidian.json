@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": "minecraft:obsidian",
+        "title": "Form obsidian"
+    },
+    "parent": "minecraft:story/lava_bucket",
+    "criteria": {
+        "obsidian": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:obsidian"
+                    }
+                ]
+            }
+        }
+    }
+}

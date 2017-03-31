@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:double_plant",
+      "data": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:dye",
+    "data": 13,
+    "count": 2
+  }
+}

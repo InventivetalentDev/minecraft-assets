@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "minecraft:planks",
+      "data": 4
+    }
+  },
+  "result": {
+    "item": "minecraft:acacia_fence",
+    "count": 3
+  }
+}

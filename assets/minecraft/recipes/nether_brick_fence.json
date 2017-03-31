@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "minecraft:nether_brick_fence",
+    "count": 6
+  }
+}

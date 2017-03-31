@@ -1,0 +1,34 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:cookie"
+    ]
+  },
+  "criteria": {
+    "has_dye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dye",
+            "data": 3
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "cookie"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_dye"
+    ],
+    [
+      "has_the_recipe"
+    ]
+  ]
+}

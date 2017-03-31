@@ -1,0 +1,33 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:bed"
+    ]
+  },
+  "criteria": {
+    "has_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:wool"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "bed"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wool"
+    ],
+    [
+      "has_the_recipe"
+    ]
+  ]
+}
