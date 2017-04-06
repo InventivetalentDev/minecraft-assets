@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dye",
+      "data": 5
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 9
+    }
+  ],
+  "result": {
+    "item": "minecraft:dye",
+    "data": 13,
+    "count": 2
+  }
+}

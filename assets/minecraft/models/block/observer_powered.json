@@ -1,0 +1,6 @@
+{
+    "parent": "block/observer",
+    "textures": {
+        "bottom": "blocks/observer_back_lit"
+    }
+}

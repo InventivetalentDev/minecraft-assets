@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": "minecraft:bow",
+        "title": "Shoot something"
+    },
+    "parent": "adventure/kill_a_mob",
+    "criteria": {
+        "shot_arrow": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "damage": {
+                    "type": {
+                        "is_projectile": true
+                    }
+                }
+            }
+        }
+    }
+}

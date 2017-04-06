@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": "minecraft:stone_pickaxe",
+        "title": "Upgrade tools"
+    },
+    "parent": "minecraft:story/mine_stone",
+    "criteria": {
+        "stone_pickaxe": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_pickaxe"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "display": {
+        "icon": "minecraft:end_stone",
+        "title": "Enter the End"
+    },
+    "parent": "minecraft:story/follow_ender_eye",
+    "criteria": {
+        "entered_end_portal": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "minecraft:end_portal"
+            }
+        }
+    }
+}

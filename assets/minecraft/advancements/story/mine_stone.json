@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": "minecraft:wooden_pickaxe",
+        "title": "Mine stone"
+    },
+    "parent": "minecraft:story/root",
+    "criteria": {
+        "get_stone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:cobblestone"
+                    }
+                ]
+            }
+        }
+    }
+}

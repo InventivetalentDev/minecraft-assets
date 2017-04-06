@@ -1,0 +1,12 @@
+{
+    "display": {
+        "icon": "minecraft:emerald",
+        "title": "Complete a trade"
+    },
+    "parent": "adventure/root",
+    "criteria": {
+        "shot_arrow": {
+            "trigger": "minecraft:villager_trade"
+        }
+    }
+}

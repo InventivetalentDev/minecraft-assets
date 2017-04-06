@@ -1,0 +1,15 @@
+{
+    "display": {
+        "icon": "minecraft:potion",
+        "title": "Brew a Weakness Potion"
+    },
+    "parent": "minecraft:story/obtain_blaze_rod",
+    "criteria": {
+        "potion": {
+            "trigger": "minecraft:brewed_potion",
+            "conditions": {
+                "potion": "minecraft:weakness"
+            }
+        }
+    }
+}

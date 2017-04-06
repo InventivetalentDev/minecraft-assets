@@ -1,0 +1,15 @@
+{
+    "display": {
+        "icon": "minecraft:flint_and_steel",
+        "title": "Enter the Nether"
+    },
+    "parent": "minecraft:story/form_obsidian",
+    "criteria": {
+        "entered_nether_portal": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "minecraft:portal"
+            }
+        }
+    }
+}

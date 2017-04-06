@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:red_flower",
+      "data": 8
+    }
+  ],
+  "result": {
+    "item": "minecraft:dye",
+    "data": 7
+  }
+}

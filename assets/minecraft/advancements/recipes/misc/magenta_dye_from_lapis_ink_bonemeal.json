@@ -1,0 +1,34 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:magenta_dye_from_lapis_ink_bonemeal"
+    ]
+  },
+  "criteria": {
+    "has_dye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dye",
+            "data": 4
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "magenta_dye_from_lapis_ink_bonemeal"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_dye"
+    ],
+    [
+      "has_the_recipe"
+    ]
+  ]
+}
