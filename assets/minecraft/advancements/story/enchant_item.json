@@ -1,0 +1,13 @@
+{
+    "display": {
+        "icon": "minecraft:enchanted_book",
+        "title": "Enchanter",
+        "description": "Enchant an item at an Enchanting Table"
+    },
+    "parent": "minecraft:story/mine_diamond",
+    "criteria": {
+        "enchanted_item": {
+            "trigger": "minecraft:enchanted_item"
+        }
+    }
+}

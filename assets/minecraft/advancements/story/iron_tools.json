@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": "minecraft:iron_pickaxe",
+        "title": "Isn't It Iron Pick",
+        "description": "Upgrade your pickaxe"
+    },
+    "parent": "minecraft:story/smelt_iron",
+    "criteria": {
+        "iron_pickaxe": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_pickaxe"
+                    }
+                ]
+            }
+        }
+    }
+}

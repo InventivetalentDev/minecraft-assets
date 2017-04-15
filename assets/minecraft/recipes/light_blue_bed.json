@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:wool",
+      "data": 3
+    },
+    "X": {
+      "item": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:bed",
+    "data": 3
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:planks",
+      "data": 5
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_slab",
+    "data": 5,
+    "count": 6
+  }
+}

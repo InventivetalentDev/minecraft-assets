@@ -1,0 +1,42 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dye",
+      "data": 14
+    },
+    {
+      "item": "minecraft:sand",
+      "data": 0
+    },
+    {
+      "item": "minecraft:sand",
+      "data": 0
+    },
+    {
+      "item": "minecraft:sand",
+      "data": 0
+    },
+    {
+      "item": "minecraft:sand",
+      "data": 0
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "result": {
+    "item": "minecraft:concrete_powder",
+    "data": 1,
+    "count": 8
+  }
+}

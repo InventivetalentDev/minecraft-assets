@@ -1,0 +1,14 @@
+{
+    "display": {
+        "icon": "minecraft:golden_apple",
+        "title": "Zombie Doctor",
+        "description": "Cure a zombie villager.",
+        "frame": "goal"
+    },
+    "parent": "minecraft:story/brew_weakness_potion",
+    "criteria": {
+        "cured_zombie": {
+            "trigger": "minecraft:cured_zombie_villager"
+        }
+    }
+}

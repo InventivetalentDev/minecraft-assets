@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": "minecraft:ender_pearl",
+        "title": "Remote Getaway",
+        "description": "Defeat the dragon and escape the island"
+    },
+    "parent": "minecraft:story/enter_the_end",
+    "criteria": {
+        "entered_end_gateway": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "minecraft:end_gateway"
+            }
+        }
+    }
+}

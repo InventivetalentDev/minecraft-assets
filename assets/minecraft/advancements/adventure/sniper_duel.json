@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": "minecraft:arrow",
+        "title": "Sniper duel",
+        "description": "Kill a skeleton with an arrow from more than 50 meters",
+        "frame": "challenge"
+    },
+    "parent": "adventure/shoot_arrow",
+    "criteria": {
+        "killed_skeleton": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "killing_blow": {
+                    "is_projectile": true
+                },
+                "entity": {
+                    "distance": {
+                        "min": 50
+                    }
+                }
+            }
+        }
+    }
+}

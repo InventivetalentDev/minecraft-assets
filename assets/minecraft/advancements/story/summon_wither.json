@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": "minecraft:nether_star",
+        "title": "Withering Heights",
+        "description": "Summon the Wither"
+    },
+    "parent": "minecraft:story/enter_the_nether",
+    "criteria": {
+        "summoned": {
+            "trigger": "minecraft:summoned_entity",
+            "conditions": {
+                "entity": {
+                    "type": "wither"
+                }
+            }
+        }
+    }
+}
