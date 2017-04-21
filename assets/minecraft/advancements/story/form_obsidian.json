@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": "minecraft:obsidian",
+        "title": "Ice Bucket Challenge",
+        "description": "Form and mine a block of Obsidian"
+    },
+    "parent": "minecraft:story/lava_bucket",
+    "criteria": {
+        "obsidian": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:obsidian"
+                    }
+                ]
+            }
+        }
+    }
+}

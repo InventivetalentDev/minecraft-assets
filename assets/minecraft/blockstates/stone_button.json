@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "facing=up,powered=false":    { "model": "stone_button", "uvlock": true },
+        "facing=down,powered=false":  { "model": "stone_button", "uvlock": true, "x": 180 },
+        "facing=east,powered=false":  { "model": "stone_button", "uvlock": true, "x": 90, "y": 90 },
+        "facing=west,powered=false":  { "model": "stone_button", "uvlock": true, "x": 90, "y": 270 },
+        "facing=south,powered=false": { "model": "stone_button", "uvlock": true, "x": 90, "y": 180 },
+        "facing=north,powered=false": { "model": "stone_button", "uvlock": true, "x": 90 },
+        "facing=up,powered=true":     { "model": "stone_button_pressed", "uvlock": true },
+        "facing=down,powered=true":   { "model": "stone_button_pressed", "uvlock": true, "x": 180 },
+        "facing=east,powered=true":   { "model": "stone_button_pressed", "uvlock": true, "x": 90, "y": 90 },
+        "facing=west,powered=true":   { "model": "stone_button_pressed", "uvlock": true, "x": 90, "y": 270 },
+        "facing=south,powered=true":  { "model": "stone_button_pressed", "uvlock": true, "x": 90, "y": 180 },
+        "facing=north,powered=true":  { "model": "stone_button_pressed", "uvlock": true, "x": 90 }
+    }
+}

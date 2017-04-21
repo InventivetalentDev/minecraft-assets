@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": "minecraft:map",
+        "title": "Adventure",
+        "description": "Adventure, exploration and combat.",
+        "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
+    },
+    "criteria": {
+        "killed_something": {
+            "trigger": "minecraft:player_killed_entity"
+        },
+        "killed_by_something": {
+            "trigger": "minecraft:entity_killed_player"
+        }
+    },
+    "requirements": [["killed_something"], ["killed_by_something"]]
+}

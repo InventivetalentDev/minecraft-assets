@@ -1,0 +1,34 @@
+{
+  "rewards": {
+    "recipes": [
+      "minecraft:yellow_dye_from_dandelion"
+    ]
+  },
+  "criteria": {
+    "has_double_plant": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:double_plant",
+            "data": 0
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "yellow_dye_from_dandelion"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_double_plant"
+    ],
+    [
+      "has_the_recipe"
+    ]
+  ]
+}

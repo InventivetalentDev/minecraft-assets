@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": "minecraft:elytra",
+        "title": "Sky's the Limit",
+        "description": "Find an Elytra"
+    },
+    "parent": "minecraft:story/enter_end_gateway",
+    "criteria": {
+        "elytra": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:elytra"
+                    }
+                ]
+            }
+        }
+    }
+}

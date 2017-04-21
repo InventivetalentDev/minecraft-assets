@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": "minecraft:bow",
+        "title": "Take Aim",
+        "description": "Shoot something with a bow and arrow"
+    },
+    "parent": "adventure/kill_a_mob",
+    "criteria": {
+        "shot_arrow": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "damage": {
+                    "type": {
+                        "is_projectile": true
+                    }
+                }
+            }
+        }
+    }
+}
