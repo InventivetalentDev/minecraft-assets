@@ -1,0 +1,27 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ghast_tear"
+        },
+        "title": "Return to Sender",
+        "description": "Destroy a Ghast with a fireball",
+        "frame": "challenge"
+    },
+    "parent": "minecraft:nether/root",
+    "criteria": {
+        "killed_ghast": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:ghast"
+                },
+                "killing_blow": {
+                    "is_projectile": true,
+                    "direct_entity": {
+                        "type": "minecraft:fireball"
+                    }
+                }
+            }
+        }
+    }
+}

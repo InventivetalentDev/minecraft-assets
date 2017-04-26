@@ -1,0 +1,15 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:potion"
+        },
+        "title": "Local Brewery",
+        "description": "Brew a potion"
+    },
+    "parent": "minecraft:nether/obtain_blaze_rod",
+    "criteria": {
+        "potion": {
+            "trigger": "minecraft:brewed_potion"
+        }
+    }
+}

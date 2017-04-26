@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:stone_pickaxe"
+        },
+        "title": "Getting an Upgrade",
+        "description": "Construct a better pickaxe"
+    },
+    "parent": "minecraft:story/mine_stone",
+    "criteria": {
+        "stone_pickaxe": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:stone_pickaxe"
+                    }
+                ]
+            }
+        }
+    }
+}

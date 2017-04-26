@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:end_crystal"
+        },
+        "title": "The End... Again...",
+        "description": "Respawn the ender dragon",
+        "frame": "goal"
+    },
+    "parent": "end/kill_dragon",
+    "criteria": {
+        "summoned_dragon": {
+            "trigger": "minecraft:summoned_entity",
+            "conditions": {
+                "entity": {
+                    "type": "ender_dragon"
+                }
+            }
+        }
+    }
+}

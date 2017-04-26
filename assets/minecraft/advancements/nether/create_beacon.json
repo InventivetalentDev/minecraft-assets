@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:beacon"
+        },
+        "title": "Bring Home the Beacon",
+        "description": "Construct and place a Beacon"
+    },
+    "parent": "minecraft:nether/summon_wither",
+    "criteria": {
+        "beacon": {
+            "trigger": "minecraft:construct_beacon",
+            "conditions": {
+                "level": {"min": 1}
+            }
+        }
+    }
+}

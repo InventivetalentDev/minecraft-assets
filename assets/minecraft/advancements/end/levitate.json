@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shulker_shell"
+        },
+        "title": "Great View From Up Here",
+        "description": "Levitate for at least 30 seconds",
+        "frame": "challenge"
+    },
+    "parent": "minecraft:end/find_end_city",
+    "criteria": {
+        "levitated": {
+            "trigger": "minecraft:levitation",
+            "conditions": {
+                "duration": {
+                    "min": 600
+                }
+            }
+        }
+    }
+}

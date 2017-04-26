@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "blocks/double_plant_syringa_top"
+    }
+}

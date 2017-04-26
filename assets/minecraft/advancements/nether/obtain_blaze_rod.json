@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:blaze_rod"
+        },
+        "title": "Into Fire",
+        "description": "Relieve a Blaze of its rod"
+    },
+    "parent": "minecraft:nether/find_fortress",
+    "criteria": {
+        "blaze_rod": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:blaze_rod"
+                    }
+                ]
+            }
+        }
+    }
+}

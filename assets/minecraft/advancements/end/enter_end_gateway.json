@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:ender_pearl"
+        },
+        "title": "Remote Getaway",
+        "description": "Escape the island"
+    },
+    "parent": "minecraft:end/kill_dragon",
+    "criteria": {
+        "entered_end_gateway": {
+            "trigger": "minecraft:enter_block",
+            "conditions": {
+                "block": "minecraft:end_gateway"
+            }
+        }
+    }
+}

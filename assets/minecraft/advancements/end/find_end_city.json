@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:purpur_block"
+        },
+        "title": "City at the End of the Game",
+        "description": "Go on in, what could happen?"
+    },
+    "parent": "minecraft:end/enter_end_gateway",
+    "criteria": {
+        "in_city": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "EndCity"
+            }
+        }
+    }
+}
