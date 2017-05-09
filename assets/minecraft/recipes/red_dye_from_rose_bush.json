@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "red_dye",
+  "ingredients": [
+    {
+      "item": "minecraft:double_plant",
+      "data": 4
+    }
+  ],
+  "result": {
+    "item": "minecraft:dye",
+    "data": 1,
+    "count": 2
+  }
+}

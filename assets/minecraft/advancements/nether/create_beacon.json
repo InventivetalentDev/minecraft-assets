@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:beacon"
+        },
+        "title": {
+            "translate": "advancements.nether.create_beacon.title"
+        },
+        "description": {
+            "translate": "advancements.nether.create_beacon.description"
+        }
+    },
+    "parent": "minecraft:nether/summon_wither",
+    "criteria": {
+        "beacon": {
+            "trigger": "minecraft:construct_beacon",
+            "conditions": {
+                "level": {"min": 1}
+            }
+        }
+    }
+}

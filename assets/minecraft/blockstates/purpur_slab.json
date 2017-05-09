@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "half_slab_purpur" },
+        "half=top,variant=default": { "model": "upper_slab_purpur" }
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "group": "banner",
+  "pattern": [
+    "###",
+    "###",
+    " | "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:wool",
+      "data": 9
+    },
+    "|": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:banner",
+    "data": 6
+  }
+}
