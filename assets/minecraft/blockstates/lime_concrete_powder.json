@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "lime_concrete_powder" },
+            { "model": "lime_concrete_powder", "y": 90 },
+            { "model": "lime_concrete_powder", "y": 180 },
+            { "model": "lime_concrete_powder", "y": 270 }
+        ]
+    }
+}

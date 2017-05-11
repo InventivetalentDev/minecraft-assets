@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "group": "stained_hardened_clay",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:hardened_clay"
+    },
+    "X": {
+      "item": "minecraft:dye",
+      "data": 8
+    }
+  },
+  "result": {
+    "item": "minecraft:stained_hardened_clay",
+    "data": 7,
+    "count": 8
+  }
+}

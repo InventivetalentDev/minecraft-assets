@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shapeless",
+  "group": "light_blue_dye",
+  "ingredients": [
+    {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 15
+    }
+  ],
+  "result": {
+    "item": "minecraft:dye",
+    "data": 12,
+    "count": 2
+  }
+}

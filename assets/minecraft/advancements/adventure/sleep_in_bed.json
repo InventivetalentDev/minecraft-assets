@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:bed"
+        },
+        "title": {
+            "translate": "advancements.adventure.sleep_in_bed.title"
+        },
+        "description": {
+            "translate": "advancements.adventure.sleep_in_bed.description"
+        }
+    },
+    "parent": "adventure/root",
+    "criteria": {
+        "slept_in_bed": {
+            "trigger": "minecraft:slept_in_bed"
+        }
+    }
+}
