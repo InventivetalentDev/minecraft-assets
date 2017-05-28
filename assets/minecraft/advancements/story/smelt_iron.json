@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:iron_ingot"
+        },
+        "title": {
+            "translate": "advancements.story.smelt_iron.title"
+        },
+        "description": {
+            "translate": "advancements.story.smelt_iron.description"
+        }
+    },
+    "parent": "minecraft:story/upgrade_tools",
+    "criteria": {
+        "iron": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_ingot"
+                    }
+                ]
+            }
+        }
+    }
+}

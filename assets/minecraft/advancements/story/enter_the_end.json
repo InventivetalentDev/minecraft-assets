@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:end_stone"
+        },
+        "title": {
+            "translate": "advancements.story.enter_the_end.title"
+        },
+        "description": {
+            "translate": "advancements.story.enter_the_end.description"
+        }
+    },
+    "parent": "minecraft:story/follow_ender_eye",
+    "criteria": {
+        "entered_end": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "the_end"
+            }
+        }
+    }
+}
