@@ -1,0 +1,110 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:wheat"
+        },
+        "title": {
+            "translate": "advancements.husbandry.breed_an_animal.title"
+        },
+        "description": {
+            "translate": "advancements.husbandry.breed_an_animal.description"
+        }
+    },
+    "parent": "husbandry/root",
+    "criteria": {
+        "bred_horse": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "horse"
+                }
+            }
+        },
+        "bred_sheep": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "sheep"
+                }
+            }
+        },
+        "bred_cow": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "cow"
+                }
+            }
+        },
+        "bred_mooshroom": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "mooshroom"
+                }
+            }
+        },
+        "bred_pig": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "pig"
+                }
+            }
+        },
+        "bred_chicken": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "chicken"
+                }
+            }
+        },
+        "bred_wolf": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "wolf"
+                }
+            }
+        },
+        "bred_ocelot": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "ocelot"
+                }
+            }
+        },
+        "bred_rabbit": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "rabbit"
+                }
+            }
+        },
+        "bred_llama": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "llama"
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "bred_horse",
+            "bred_sheep",
+            "bred_cow",
+            "bred_mooshroom",
+            "bred_pig",
+            "bred_chicken",
+            "bred_wolf",
+            "bred_ocelot",
+            "bred_rabbit",
+            "bred_llama"
+        ]
+    ]
+}

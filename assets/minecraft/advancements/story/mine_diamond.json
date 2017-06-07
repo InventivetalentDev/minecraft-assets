@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:diamond"
+        },
+        "title": {
+            "translate": "advancements.story.mine_diamond.title"
+        },
+        "description": {
+            "translate": "advancements.story.mine_diamond.description"
+        }
+    },
+    "parent": "minecraft:story/iron_tools",
+    "criteria": {
+        "diamond": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:diamond"
+                    }
+                ]
+            }
+        }
+    }
+}

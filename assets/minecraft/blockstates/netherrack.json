@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "netherrack" },
+            { "model": "netherrack", "x": 90 },
+            { "model": "netherrack", "x": 180 },
+            { "model": "netherrack", "x": 270 },
+            { "model": "netherrack", "y": 90 },
+            { "model": "netherrack", "y": 90, "x": 90 },
+            { "model": "netherrack", "y": 90, "x": 180 },
+            { "model": "netherrack", "y": 90, "x": 270 },
+            { "model": "netherrack", "y": 180 },
+            { "model": "netherrack", "y": 180, "x": 90 },
+            { "model": "netherrack", "y": 180, "x": 180 },
+            { "model": "netherrack", "y": 180, "x": 270 },
+            { "model": "netherrack", "y": 270 },
+            { "model": "netherrack", "y": 270, "x": 90 },
+            { "model": "netherrack", "y": 270, "x": 180 },
+            { "model": "netherrack", "y": 270, "x": 270 }
+        ]
+    }
+}
