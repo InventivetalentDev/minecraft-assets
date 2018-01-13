@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "gold_ingot",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:gold_ingot",
+    "count": 9
+  }
+}

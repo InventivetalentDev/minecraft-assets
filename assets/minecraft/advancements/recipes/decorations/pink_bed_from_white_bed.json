@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:pink_bed_from_white_bed"
+    ]
+  },
+  "criteria": {
+    "has_bed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bed",
+            "data": 0
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pink_bed_from_white_bed"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_bed",
+      "has_the_recipe"
+    ]
+  ]
+}

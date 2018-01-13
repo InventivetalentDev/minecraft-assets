@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SIS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "I": {
+      "item": "minecraft:dye",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:prismarine",
+    "data": 2
+  }
+}

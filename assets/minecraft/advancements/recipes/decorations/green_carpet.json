@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:green_carpet"
+    ]
+  },
+  "criteria": {
+    "has_green_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:wool",
+            "data": 13
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "green_carpet"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_green_wool",
+      "has_the_recipe"
+    ]
+  ]
+}

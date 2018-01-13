@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:gold_nugget",
+      "minecraft:gold_ingot_from_nuggets"
+    ]
+  },
+  "criteria": {
+    "has_at_least_9_gold_nugget": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:gold_nugget",
+            "count": {
+              "min": 9
+            }
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "gold_ingot_from_nuggets"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_at_least_9_gold_nugget",
+      "has_the_recipe"
+    ]
+  ]
+}

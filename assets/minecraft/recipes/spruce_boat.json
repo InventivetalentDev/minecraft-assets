@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "boat",
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:planks",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "minecraft:spruce_boat"
+  }
+}
