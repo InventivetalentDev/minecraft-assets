@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "power=0": { "model": "heavy_pressure_plate_up" },
+        "power=1": { "model": "heavy_pressure_plate_down" },
+        "power=2": { "model": "heavy_pressure_plate_down" },
+        "power=3": { "model": "heavy_pressure_plate_down" },
+        "power=4": { "model": "heavy_pressure_plate_down" },
+        "power=5": { "model": "heavy_pressure_plate_down" },
+        "power=6": { "model": "heavy_pressure_plate_down" },
+        "power=7": { "model": "heavy_pressure_plate_down" },
+        "power=8": { "model": "heavy_pressure_plate_down" },
+        "power=9": { "model": "heavy_pressure_plate_down" },
+        "power=10": { "model": "heavy_pressure_plate_down" },
+        "power=11": { "model": "heavy_pressure_plate_down" },
+        "power=12": { "model": "heavy_pressure_plate_down" },
+        "power=13": { "model": "heavy_pressure_plate_down" },
+        "power=14": { "model": "heavy_pressure_plate_down" },
+        "power=15": { "model": "heavy_pressure_plate_down" }
+    }
+}
