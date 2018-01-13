@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=lower": { "model": "large_fern_bottom" },
+        "half=upper":    { "model": "large_fern_top" }
+    }
+}

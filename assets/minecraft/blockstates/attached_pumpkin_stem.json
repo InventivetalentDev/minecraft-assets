@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=west": { "model": "attached_pumpkin_stem" },
+        "facing=east": { "model": "attached_pumpkin_stem", "y": 180 },
+        "facing=north": { "model": "attached_pumpkin_stem", "y": 90 },
+        "facing=south": { "model": "attached_pumpkin_stem", "y": 270 }
+    }
+}

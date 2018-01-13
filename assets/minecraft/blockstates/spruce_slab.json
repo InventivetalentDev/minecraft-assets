@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "spruce_slab" },
+        "type=top": { "model": "spruce_slab_top" },
+        "type=double": { "model": "spruce_planks" }
+    }
+}

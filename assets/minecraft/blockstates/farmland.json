@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "moisture=0": { "model": "farmland" },
+        "moisture=1": { "model": "farmland" },
+        "moisture=2": { "model": "farmland" },
+        "moisture=3": { "model": "farmland" },
+        "moisture=4": { "model": "farmland" },
+        "moisture=5": { "model": "farmland" },
+        "moisture=6": { "model": "farmland" },
+        "moisture=7": { "model": "farmland_moist" }
+    }
+}

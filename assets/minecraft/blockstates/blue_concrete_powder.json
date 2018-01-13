@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "blue_concrete_powder" },
+            { "model": "blue_concrete_powder", "y": 90 },
+            { "model": "blue_concrete_powder", "y": 180 },
+            { "model": "blue_concrete_powder", "y": 270 }
+        ]
+    }
+}
