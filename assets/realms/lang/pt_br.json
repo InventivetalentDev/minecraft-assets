@@ -113,7 +113,7 @@
     "mco.configure.worlds.title": "Mundos",
     "mco.connect.authorizing": "Iniciando sess\u00e3o...",
     "mco.connect.connecting": "Conectando-se ao realm...",
-    "mco.connect.failed": "Falha ao conectar-se ao realm",
+    "mco.connect.failed": "N\u00e3o foi poss\u00edvel conectar-se ao realm",
     "mco.create.world": "Criar",
     "mco.create.world.error": "Voc\u00ea deve digitar um nome!",
     "mco.create.world.reset.title": "Criando mundo...",

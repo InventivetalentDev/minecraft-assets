@@ -182,7 +182,6 @@
     "block.minecraft.sandstone_slab": "S\u00e1ttogea\u0111givajahas",
     "block.minecraft.sandstone_stairs": "S\u00e1ttogea\u0111gi Trahppa ",
     "block.minecraft.sea_lantern": "Likta",
-    "block.minecraft.sign": "Sivdnidat",
     "block.minecraft.smooth_red_sandstone": "Fiinna s\u00e1ttogea\u0111gi",
     "block.minecraft.smooth_sandstone": "Fiinna S\u00e1ttogea\u0111gi",
     "block.minecraft.snow": "Muohta",
@@ -375,7 +374,6 @@
     "item.minecraft.cooked_rabbit": "Giksan Njoammilbiergu",
     "item.minecraft.cookie": "Keaksa",
     "item.minecraft.creeper_head": "Gobmi Oaivi",
-    "item.minecraft.dandelion_yellow": "Vuodjar\u00e1ssafiskat",
     "item.minecraft.dark_oak_boat": "\u010c\u00e1hppeseaikafanas",
     "item.minecraft.diamond": "Diam\u00e1ntta",
     "item.minecraft.diamond_axe": "Diam\u00e1ntta-\u00e1k\u0161u",
@@ -452,7 +450,6 @@
     "item.minecraft.rabbit": "Njuoska Njoammilbiergu",
     "item.minecraft.rabbit_foot": "Njoammiljuolgi",
     "item.minecraft.rabbit_hide": "Njoammiln\u00e1hkki",
-    "item.minecraft.redstone": "Ruoksatgea\u0111gi",
     "item.minecraft.saddle": "S\u00e1le",
     "item.minecraft.shield": "Vearjogovva",
     "item.minecraft.sign": "Sivdnidat",
@@ -695,6 +692,6 @@
     "translation.test.escape": "%%s %%%s %%%%s %%%%%s",
     "translation.test.invalid": "dearvva %",
     "translation.test.none": "Bures ain S\u00e1pmi!",
-    "translation.test.world": "m\u00e1ilbmi",
+    "translation.test.world": "world",
     "tutorial.open_inventory.description": "Deaddil %s"
 }

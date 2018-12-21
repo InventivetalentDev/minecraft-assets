@@ -85,12 +85,10 @@
     "block.minecraft.red_sand": "Kirikiri whero",
     "block.minecraft.red_stained_glass": "Whero \u014dpure koata",
     "block.minecraft.red_tulip": "Whero Tulip",
-    "block.minecraft.redstone_wire": "Redstone puehu",
     "block.minecraft.rose_bush": "R\u014dha",
     "block.minecraft.sand": "onep\u016b",
     "block.minecraft.sandstone": "H\u014danga",
     "block.minecraft.sandstone_stairs": "h\u014danga Arawhata",
-    "block.minecraft.sign": "Tohu",
     "block.minecraft.smooth_sandstone": "h\u014danga Whakaene",
     "block.minecraft.snow": "Huka",
     "block.minecraft.sponge": "hautai",
@@ -284,6 +282,7 @@
     "item.minecraft.painting": "Waituhi",
     "item.minecraft.paper": "Pepa",
     "item.minecraft.potato": "R\u012bwai",
+    "item.minecraft.redstone": "Redstone puehu",
     "item.minecraft.saddle": "Tera",
     "item.minecraft.sign": "Tohu",
     "item.minecraft.snowball": "Poi huka",
@@ -512,5 +511,5 @@
     "translation.test.invalid": "koa %",
     "translation.test.invalid2": "koa %s",
     "translation.test.none": "Kao, ao!",
-    "translation.test.world": "ao"
+    "translation.test.world": "world"
 }

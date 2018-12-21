@@ -1,24 +1,23 @@
 {
-    "pools": [
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
         {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "item",
-                    "name": "minecraft:purple_wool",
-                    "weight": 1
-                }
-            ]
-        },
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "loot_table",
-                    "name": "minecraft:entities/sheep",
-                    "weight": 1
-                }
-            ]
+          "type": "minecraft:item",
+          "name": "minecraft:purple_wool"
         }
-    ]
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "minecraft:entities/sheep"
+        }
+      ]
+    }
+  ]
 }

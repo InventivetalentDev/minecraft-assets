@@ -19,7 +19,7 @@
     "fortress": {
       "trigger": "minecraft:location",
       "conditions": {
-        "feature": "Fortress"
+        "feature": "fortress"
       }
     }
   },

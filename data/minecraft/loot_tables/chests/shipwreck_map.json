@@ -1,20 +1,21 @@
 {
+  "type": "minecraft:chest",
   "pools": [
     {
       "rolls": 1,
       "entries": [
         {
-          "type": "item",
-          "name": "minecraft:map",
+          "type": "minecraft:item",
           "functions": [
-              {
-                  "function": "minecraft:exploration_map",
-                  "destination": "buried_treasure",
-                  "decoration": "red_x",
-                  "zoom": 1,
-                  "skip_existing_chunks": false
-              }
-          ]
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "buried_treasure",
+              "decoration": "red_x",
+              "zoom": 1,
+              "skip_existing_chunks": false
+            }
+          ],
+          "name": "minecraft:map"
         }
       ]
     },
@@ -22,61 +23,61 @@
       "rolls": 3,
       "entries": [
         {
-          "type": "item",
-          "name": "minecraft:compass",
-          "weight": 1
+          "type": "minecraft:item",
+          "name": "minecraft:compass"
         },
         {
-          "type": "item",
-          "name": "minecraft:map",
-          "weight": 1
+          "type": "minecraft:item",
+          "name": "minecraft:map"
         },
         {
-          "type": "item",
-          "name": "minecraft:clock",
-          "weight": 1
+          "type": "minecraft:item",
+          "name": "minecraft:clock"
         },
         {
-          "type": "item",
-          "name": "minecraft:paper",
+          "type": "minecraft:item",
           "weight": 20,
           "functions": [
             {
-              "function": "set_count",
+              "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 10
+                "min": 1.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
+          ],
+          "name": "minecraft:paper"
         },
         {
-          "type": "item",
-          "name": "minecraft:feather",
+          "type": "minecraft:item",
           "weight": 10,
           "functions": [
             {
-              "function": "set_count",
+              "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 5
+                "min": 1.0,
+                "max": 5.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
+          ],
+          "name": "minecraft:feather"
         },
         {
-          "type": "item",
-          "name": "minecraft:book",
+          "type": "minecraft:item",
           "weight": 5,
           "functions": [
             {
-              "function": "set_count",
+              "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 5
+                "min": 1.0,
+                "max": 5.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
+          ],
+          "name": "minecraft:book"
         }
       ]
     }

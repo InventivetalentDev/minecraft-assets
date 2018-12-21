@@ -1,29 +1,30 @@
 {
-    "pools": [
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
         {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "item",
-                    "name": "minecraft:cod",
-                    "weight": 60
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:salmon",
-                    "weight": 25
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:tropical_fish",
-                    "weight": 2
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:pufferfish",
-                    "weight": 13
-                }
-            ]
+          "type": "minecraft:item",
+          "weight": 60,
+          "name": "minecraft:cod"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 25,
+          "name": "minecraft:salmon"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:tropical_fish"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 13,
+          "name": "minecraft:pufferfish"
         }
-    ]
+      ]
+    }
+  ]
 }

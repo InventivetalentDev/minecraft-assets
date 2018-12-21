@@ -106,6 +106,22 @@
           "type": "minecraft:turtle"
         }
       }
+    },
+    "minecraft:cat": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:cat"
+        }
+      }
+    },
+    "minecraft:panda": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:panda"
+        }
+      }
     }
   },
   "requirements": [
@@ -141,6 +157,12 @@
     ],
     [
       "minecraft:turtle"
+    ],
+    [
+      "minecraft:cat"
+    ],
+    [
+      "minecraft:panda"
     ]
   ]
 }

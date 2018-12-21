@@ -1,8 +1,8 @@
 {
-  "id": "1.13.2",
-  "type": "release",
-  "url": "https://launchermeta.mojang.com/v1/packages/df66b5a5f451d026c356ead8caf118c71919850b/1.13.2.json",
-  "time": "2018-11-06T13:39:05+00:00",
-  "releaseTime": "2018-10-22T11:41:07+00:00",
-  "downloadTimestamp": 1545374291656
+  "id": "18w50a",
+  "type": "snapshot",
+  "url": "https://launchermeta.mojang.com/v1/packages/bb3dedc8edfa074b4d5a6a483ff073801dde6479/18w50a.json",
+  "time": "2018-12-12T15:58:33+00:00",
+  "releaseTime": "2018-12-12T14:58:13+00:00",
+  "downloadTimestamp": 1545374364697
 }

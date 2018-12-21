@@ -2,10 +2,10 @@
   "type": "crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:ink_sac"
+      "item": "minecraft:black_dye"
     },
     {
-      "item": "minecraft:bone_meal"
+      "item": "minecraft:white_dye"
     }
   ],
   "result": {

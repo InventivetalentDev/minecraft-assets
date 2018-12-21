@@ -1,112 +1,121 @@
 {
+  "type": "minecraft:chest",
   "pools": [
     {
       "rolls": {
-        "min": 3,
-        "max": 6
+        "min": 3.0,
+        "max": 6.0,
+        "type": "minecraft:uniform"
       },
       "entries": [
         {
-          "type": "item",
-          "name": "minecraft:iron_ingot",
+          "type": "minecraft:item",
           "weight": 90,
           "functions": [
             {
-              "function": "set_count",
+              "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 5
+                "min": 1.0,
+                "max": 5.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
+          ],
+          "name": "minecraft:iron_ingot"
         },
         {
-          "type": "item",
-          "name": "minecraft:gold_ingot",
+          "type": "minecraft:item",
           "weight": 10,
           "functions": [
             {
-              "function": "set_count",
+              "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 5
+                "min": 1.0,
+                "max": 5.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
+          ],
+          "name": "minecraft:gold_ingot"
         },
         {
-          "type": "item",
-          "name": "minecraft:emerald",
+          "type": "minecraft:item",
           "weight": 40,
           "functions": [
             {
-              "function": "set_count",
+              "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 5
+                "min": 1.0,
+                "max": 5.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
+          ],
+          "name": "minecraft:emerald"
         },
         {
-          "type": "item",
-          "name": "minecraft:diamond",
-          "weight": 5
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:diamond"
         },
         {
-          "type": "item",
-          "name": "minecraft:experience_bottle",
-          "weight": 5
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:experience_bottle"
         }
       ]
     },
     {
       "rolls": {
-        "min": 2,
-        "max": 5
+        "min": 2.0,
+        "max": 5.0,
+        "type": "minecraft:uniform"
       },
       "entries": [
         {
-          "type": "item",
-          "name": "minecraft:iron_nugget",
+          "type": "minecraft:item",
           "weight": 50,
           "functions": [
             {
-              "function": "set_count",
+              "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 10
+                "min": 1.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
+          ],
+          "name": "minecraft:iron_nugget"
         },
         {
-          "type": "item",
-          "name": "minecraft:gold_nugget",
+          "type": "minecraft:item",
           "weight": 10,
           "functions": [
             {
-              "function": "set_count",
+              "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 10
+                "min": 1.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
+          ],
+          "name": "minecraft:gold_nugget"
         },
         {
-          "type": "item",
-          "name": "minecraft:lapis_lazuli",
+          "type": "minecraft:item",
           "weight": 20,
           "functions": [
             {
-              "function": "set_count",
+              "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 10
+                "min": 1.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
+          ],
+          "name": "minecraft:lapis_lazuli"
         }
       ]
     }

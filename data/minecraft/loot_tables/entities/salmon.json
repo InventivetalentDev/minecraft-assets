@@ -1,44 +1,45 @@
 {
-    "pools": [
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
         {
-            "rolls": 1,
-            "entries": [
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:furnace_smelt",
+              "conditions": [
                 {
-                    "type": "item",
-                    "name": "minecraft:salmon",
-                    "weight": 1,
-                    "functions": [
-                        {
-                            "function": "furnace_smelt",
-                            "conditions": [
-                                {
-                                    "condition": "entity_properties",
-                                    "entity": "this",
-                                    "properties": {
-                                        "on_fire": true
-                                    }
-                                }
-                            ]
-                        }
-                    ]
+                  "condition": "minecraft:entity_properties",
+                  "predicate": {
+                    "flags": {
+                      "is_on_fire": true
+                    }
+                  },
+                  "entity": "this"
                 }
-            ]
-        },
-        {
-            "conditions": [
-                {
-                    "condition": "random_chance",
-                    "chance": 0.05
-                }
-            ],
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "item",
-                    "name": "minecraft:bone_meal",
-                    "weight": 1
-                }
-            ]
+              ]
+            }
+          ],
+          "name": "minecraft:salmon"
         }
-    ]
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bone_meal"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.05
+        }
+      ]
+    }
+  ]
 }

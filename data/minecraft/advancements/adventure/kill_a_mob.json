@@ -207,6 +207,22 @@
           "type": "minecraft:drowned"
         }
       }
+    },
+    "minecraft:pillager": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:pillager"
+        }
+      }
+    },
+    "minecraft:illager_beast": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:illager_beast"
+        }
+      }
     }
   },
   "requirements": [
@@ -234,7 +250,9 @@
       "minecraft:zombie",
       "minecraft:zombie_villager",
       "minecraft:phantom",
-      "minecraft:drowned"
+      "minecraft:drowned",
+      "minecraft:pillager",
+      "minecraft:illager_beast"
     ]
   ]
 }

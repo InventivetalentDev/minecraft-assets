@@ -6,12 +6,12 @@
     ]
   },
   "criteria": {
-    "has_bonemeal": {
+    "has_white_dye": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:bone_meal"
+            "item": "minecraft:white_dye"
           }
         ]
       }
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:ink_sac"
+            "item": "minecraft:black_dye"
           }
         ]
       }
@@ -35,7 +35,7 @@
   },
   "requirements": [
     [
-      "has_bonemeal",
+      "has_white_dye",
       "has_black_dye",
       "has_the_recipe"
     ]

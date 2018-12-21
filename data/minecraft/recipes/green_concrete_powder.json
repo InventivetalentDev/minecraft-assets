@@ -3,7 +3,7 @@
   "group": "concrete_powder",
   "ingredients": [
     {
-      "item": "minecraft:cactus_green"
+      "item": "minecraft:green_dye"
     },
     {
       "item": "minecraft:sand"

@@ -1,94 +1,148 @@
 {
-    "pools": [
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
         {
-            "rolls": 1,
-            "entries": [
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.0,
+                "max": 0.9
+              }
+            }
+          ],
+          "name": "minecraft:leather_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:leather"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:bone"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{Potion:\"minecraft:water\"}"
+            }
+          ],
+          "name": "minecraft:potion"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:string"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_damage",
+              "damage": {
+                "min": 0.0,
+                "max": 0.9
+              }
+            }
+          ],
+          "name": "minecraft:fishing_rod"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:bowl"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:stick"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 10
+            }
+          ],
+          "name": "minecraft:ink_sac"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:tripwire_hook"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:rotten_flesh"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:alternative",
+              "terms": [
                 {
-                    "type": "item",
-                    "name": "minecraft:leather_boots",
-                    "weight": 10,
-                    "functions": [
-                        {
-                            "function": "set_damage",
-                            "damage": {
-                                "min": 0,
-                                "max": 0.90
-                            }
-                        }
-                    ]
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:jungle"
+                  }
                 },
                 {
-                    "type": "item",
-                    "name": "minecraft:leather",
-                    "weight": 10
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:jungle_hills"
+                  }
                 },
                 {
-                    "type": "item",
-                    "name": "minecraft:bone",
-                    "weight": 10
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:jungle_edge"
+                  }
                 },
                 {
-                    "type": "item",
-                    "name": "minecraft:potion",
-                    "weight": 10,
-                    "functions": [
-                        {
-                            "function": "set_nbt",
-                            "tag": "{Potion:\"minecraft:water\"}"
-                        }
-                    ]
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:bamboo_jungle"
+                  }
                 },
                 {
-                    "type": "item",
-                    "name": "minecraft:string",
-                    "weight": 5
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:modified_jungle"
+                  }
                 },
                 {
-                    "type": "item",
-                    "name": "minecraft:fishing_rod",
-                    "weight": 2,
-                    "functions": [
-                        {
-                            "function": "set_damage",
-                            "damage": {
-                                "min": 0,
-                                "max": 0.90
-                            }
-                        }
-                    ]
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:modified_jungle_edge"
+                  }
                 },
                 {
-                    "type": "item",
-                    "name": "minecraft:bowl",
-                    "weight": 10
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:stick",
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:ink_sac",
-                    "weight": 1,
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": 10
-                        }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:tripwire_hook",
-                    "weight": 10
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:rotten_flesh",
-                    "weight": 10
+                  "condition": "minecraft:location_check",
+                  "predicate": {
+                    "biome": "minecraft:bamboo_jungle_hills"
+                  }
                 }
-            ]
+              ]
+            }
+          ],
+          "weight": 10,
+          "name": "minecraft:bamboo"
         }
-    ]
+      ]
+    }
+  ]
 }

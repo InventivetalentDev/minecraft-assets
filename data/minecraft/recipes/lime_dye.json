@@ -2,10 +2,10 @@
   "type": "crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:cactus_green"
+      "item": "minecraft:green_dye"
     },
     {
-      "item": "minecraft:bone_meal"
+      "item": "minecraft:white_dye"
     }
   ],
   "result": {

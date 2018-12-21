@@ -1,42 +1,45 @@
 {
-    "pools": [
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
         {
-            "rolls": 1,
-            "entries": [
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0.0,
+                "max": 1.0,
+                "type": "minecraft:uniform"
+              }
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": {
+                "min": 0.0,
+                "max": 1.0
+              }
+            },
+            {
+              "function": "minecraft:furnace_smelt",
+              "conditions": [
                 {
-                    "type": "item",
-                    "name": "minecraft:cod",
-                    "weight": 1,
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 0,
-                                "max": 1
-                            }
-                        },
-                        {
-                            "function": "looting_enchant",
-                            "count": {
-                                "min": 0,
-                                "max": 1
-                            }
-                        },
-                        {
-                            "function": "furnace_smelt",
-                            "conditions": [
-                                {
-                                    "condition": "entity_properties",
-                                    "entity": "this",
-                                    "properties": {
-                                        "on_fire": true
-                                    }
-                                }
-                            ]
-                        }
-                    ]
+                  "condition": "minecraft:entity_properties",
+                  "predicate": {
+                    "flags": {
+                      "is_on_fire": true
+                    }
+                  },
+                  "entity": "this"
                 }
-            ]
+              ]
+            }
+          ],
+          "name": "minecraft:cod"
         }
-    ]
+      ]
+    }
+  ]
 }

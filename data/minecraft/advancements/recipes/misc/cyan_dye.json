@@ -11,17 +11,17 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:cactus_green"
+            "item": "minecraft:green_dye"
           }
         ]
       }
     },
-    "has_lapis": {
+    "has_blue_dye": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:lapis_lazuli"
+            "item": "minecraft:blue_dye"
           }
         ]
       }
@@ -36,7 +36,7 @@
   "requirements": [
     [
       "has_green_dye",
-      "has_lapis",
+      "has_blue_dye",
       "has_the_recipe"
     ]
   ]

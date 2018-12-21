@@ -3,7 +3,7 @@
   "group": "wool",
   "ingredients": [
     {
-      "item": "minecraft:rose_red"
+      "item": "minecraft:red_dye"
     },
     {
       "item": "minecraft:white_wool"

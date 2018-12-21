@@ -1,129 +1,137 @@
 {
+  "type": "minecraft:chest",
   "pools": [
     {
       "rolls": 1,
       "entries": [
         {
-          "type": "item",
+          "type": "minecraft:item",
           "name": "minecraft:heart_of_the_sea"
         }
       ]
     },
     {
       "rolls": {
-        "min": 5,
-        "max": 8
+        "min": 5.0,
+        "max": 8.0,
+        "type": "minecraft:uniform"
       },
       "entries": [
         {
-          "type": "item",
-          "name": "minecraft:iron_ingot",
+          "type": "minecraft:item",
           "weight": 20,
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 4
+                "min": 1.0,
+                "max": 4.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
+          ],
+          "name": "minecraft:iron_ingot"
         },
         {
-          "type": "item",
-          "name": "minecraft:gold_ingot",
+          "type": "minecraft:item",
           "weight": 10,
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 1,
-                "max": 4
+                "min": 1.0,
+                "max": 4.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
+          ],
+          "name": "minecraft:gold_ingot"
         },
         {
-          "type": "item",
-          "name": "minecraft:tnt",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 1,
-                "max": 2
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "rolls": {
-        "min": 1,
-        "max": 3
-      },
-      "entries": [
-        {
-          "type": "item",
-          "name": "minecraft:emerald",
+          "type": "minecraft:item",
           "weight": 5,
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 4,
-                "max": 8
+                "min": 1.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:diamond",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 2
-              }
-            }
-          ]
-        },
-        {
-          "type": "item",
-          "name": "minecraft:prismarine_crystals",
-          "weight": 5,
-          "functions": [
-            {
-              "function": "set_count",
-              "count": {
-                "min": 1,
-                "max": 5
-              }
-            }
-          ]
+          ],
+          "name": "minecraft:tnt"
         }
       ]
     },
     {
       "rolls": {
-        "min": 0,
-        "max": 1
+        "min": 1.0,
+        "max": 3.0,
+        "type": "minecraft:uniform"
       },
       "entries": [
         {
-          "type": "item",
-          "name": "minecraft:leather_chestplate",
-          "weight": 1
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4.0,
+                "max": 8.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:emerald"
         },
         {
-          "type": "item",
-          "name": "minecraft:iron_sword",
-          "weight": 1
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:diamond"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 5.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:prismarine_crystals"
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 0.0,
+        "max": 1.0,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_sword"
         }
       ]
     },
@@ -131,32 +139,32 @@
       "rolls": 2,
       "entries": [
         {
-          "type": "item",
-          "name": "minecraft:cooked_cod",
-          "weight": 1,
+          "type": "minecraft:item",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 4
+                "min": 2.0,
+                "max": 4.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
+          ],
+          "name": "minecraft:cooked_cod"
         },
         {
-          "type": "item",
-          "name": "minecraft:cooked_salmon",
-          "weight": 1,
+          "type": "minecraft:item",
           "functions": [
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": 2,
-                "max": 4
+                "min": 2.0,
+                "max": 4.0,
+                "type": "minecraft:uniform"
               }
             }
-          ]
+          ],
+          "name": "minecraft:cooked_salmon"
         }
       ]
     }

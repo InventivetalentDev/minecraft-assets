@@ -6,12 +6,12 @@
     ]
   },
   "criteria": {
-    "has_lapis": {
+    "has_blue_dye": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:lapis_lazuli"
+            "item": "minecraft:blue_dye"
           }
         ]
       }
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:rose_red"
+            "item": "minecraft:red_dye"
           }
         ]
       }
@@ -35,7 +35,7 @@
   },
   "requirements": [
     [
-      "has_lapis",
+      "has_blue_dye",
       "has_red_dye",
       "has_the_recipe"
     ]

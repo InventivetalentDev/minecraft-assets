@@ -679,7 +679,6 @@
     "item.minecraft.pufferfish": "\u0100k\u0113k\u0113",
     "item.minecraft.pumpkin_seeds": "Pala\u02bbai \u02bbAno\u02bbano",
     "item.minecraft.quartz": "Nekele Pohaku A\u02bbia\u02bbi",
-    "item.minecraft.redstone": "\u02bbUla\u02bbula Pohaku",
     "item.minecraft.rotten_flesh": "\u02bbI\u02bbo Pilau",
     "item.minecraft.saddle": "Noho lio",
     "item.minecraft.salmon": "Maka K\u0101mano",
@@ -970,5 +969,5 @@
     "translation.test.invalid": "aloha %",
     "translation.test.invalid2": "aloha %s",
     "translation.test.none": "Aloha, e ka honua!",
-    "translation.test.world": "honua"
+    "translation.test.world": "world"
 }

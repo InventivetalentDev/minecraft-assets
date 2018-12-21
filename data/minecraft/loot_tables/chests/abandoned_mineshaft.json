@@ -1,266 +1,282 @@
 {
-    "pools": [
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
         {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "item",
-                    "name": "minecraft:golden_apple",
-                    "weight": 20
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:enchanted_golden_apple",
-                    "weight": 1
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:name_tag",
-                    "weight": 30
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:book",
-                    "weight": 10,
-                    "functions": [
-                        {
-                            "function": "enchant_randomly"
-                        }
-                    ]
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:iron_pickaxe",
-                    "weight": 5
-                },
-                {
-                    "type": "empty",
-                    "weight": 5
-                }
-            ]
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "minecraft:golden_apple"
         },
         {
-            "rolls": {
-                "min": 2,
-                "max": 4
-            },
-            "entries": [
-                {
-                    "type": "item",
-                    "name": "minecraft:iron_ingot",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 1,
-                                "max": 5
-                            }
-                        }
-                    ],
-                    "weight": 10
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:gold_ingot",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 1,
-                                "max": 3
-                            }
-                        }
-                    ],
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:redstone",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 4,
-                                "max": 9
-                            }
-                        }
-                    ],
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:lapis_lazuli",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 4,
-                                "max": 9
-                            }
-                        }
-                    ],
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:diamond",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 1,
-                                "max": 2
-                            }
-                        }
-                    ],
-                    "weight": 3
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:coal",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 3,
-                                "max": 8
-                            }
-                        }
-                    ],
-                    "weight": 10
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:bread",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 1,
-                                "max": 3
-                            }
-                        }
-                    ],
-                    "weight": 15
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:melon_seeds",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 2,
-                                "max": 4
-                            }
-                        }
-                    ],
-                    "weight": 10
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:pumpkin_seeds",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 2,
-                                "max": 4
-                            }
-                        }
-                    ],
-                    "weight": 10
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:beetroot_seeds",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 2,
-                                "max": 4
-                            }
-                        }
-                    ],
-                    "weight": 10
-                }
-            ]
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_golden_apple"
         },
         {
-            "rolls": 3,
-            "entries": [
-                {
-                    "type": "item",
-                    "name": "minecraft:rail",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 4,
-                                "max": 8
-                            }
-                        }
-                    ],
-                    "weight": 20
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:powered_rail",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 1,
-                                "max": 4
-                            }
-                        }
-                    ],
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:detector_rail",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 1,
-                                "max": 4
-                            }
-                        }
-                    ],
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:activator_rail",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 1,
-                                "max": 4
-                            }
-                        }
-                    ],
-                    "weight": 5
-                },
-                {
-                    "type": "item",
-                    "name": "minecraft:torch",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 1,
-                                "max": 16
-                            }
-                        }
-                    ],
-                    "weight": 15
-                }
-            ]
+          "type": "minecraft:item",
+          "weight": 30,
+          "name": "minecraft:name_tag"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ],
+          "name": "minecraft:book"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:iron_pickaxe"
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 5
         }
-    ]
+      ]
+    },
+    {
+      "rolls": {
+        "min": 2.0,
+        "max": 4.0,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 5.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:iron_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 3.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:gold_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4.0,
+                "max": 9.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:redstone"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4.0,
+                "max": 9.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:lapis_lazuli"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 2.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:diamond"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 3.0,
+                "max": 8.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:coal"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 3.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:bread"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2.0,
+                "max": 4.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:melon_seeds"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2.0,
+                "max": 4.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:pumpkin_seeds"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2.0,
+                "max": 4.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:beetroot_seeds"
+        }
+      ]
+    },
+    {
+      "rolls": 3,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4.0,
+                "max": 8.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:rail"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 4.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:powered_rail"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 4.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:detector_rail"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 4.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:activator_rail"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 15,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 16.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:torch"
+        }
+      ]
+    }
+  ]
 }

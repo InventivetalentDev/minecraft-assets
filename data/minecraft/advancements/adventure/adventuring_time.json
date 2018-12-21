@@ -258,6 +258,18 @@
       "conditions": {
         "biome": "minecraft:deep_frozen_ocean"
       }
+    },
+    "minecraft:bamboo_jungle": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "minecraft:bamboo_jungle"
+      }
+    },
+    "minecraft:bamboo_jungle_hills": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "minecraft:bamboo_jungle_hills"
+      }
     }
   },
   "requirements": [
@@ -380,6 +392,12 @@
     ],
     [
       "minecraft:deep_frozen_ocean"
+    ],
+    [
+      "minecraft:bamboo_jungle"
+    ],
+    [
+      "minecraft:bamboo_jungle_hills"
     ]
   ]
 }
