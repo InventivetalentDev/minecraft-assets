@@ -1,0 +1,54 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:magenta_dye_from_lapis_red_pink"
+    ]
+  },
+  "criteria": {
+    "has_pink_dye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:pink_dye"
+          }
+        ]
+      }
+    },
+    "has_lapis": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:lapis_lazuli"
+          }
+        ]
+      }
+    },
+    "has_red_dye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:rose_red"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:magenta_dye_from_lapis_red_pink"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_pink_dye",
+      "has_lapis",
+      "has_red_dye",
+      "has_the_recipe"
+    ]
+  ]
+}

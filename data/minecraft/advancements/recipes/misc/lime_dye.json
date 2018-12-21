@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:lime_dye"
+    ]
+  },
+  "criteria": {
+    "has_green_dye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cactus_green"
+          }
+        ]
+      }
+    },
+    "has_bonemeal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bone_meal"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:lime_dye"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_green_dye",
+      "has_bonemeal",
+      "has_the_recipe"
+    ]
+  ]
+}
