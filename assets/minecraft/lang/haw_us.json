@@ -970,5 +970,5 @@
     "translation.test.invalid": "aloha %",
     "translation.test.invalid2": "aloha %s",
     "translation.test.none": "Aloha, e ka honua!",
-    "translation.test.world": "honua"
+    "translation.test.world": "world"
 }

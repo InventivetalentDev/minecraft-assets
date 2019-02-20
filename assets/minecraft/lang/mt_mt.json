@@ -2338,7 +2338,7 @@
     "subtitles.entity.potion.throw": "Flixkun intwadab",
     "subtitles.entity.rabbit.ambient": "Fenek wer\u017caq",
     "subtitles.entity.rabbit.attack": "Fenek attakka",
-    "subtitles.entity.rabbit.death": "Fenek miet",
+    "subtitles.entity.rabbit.death": "Fenek imut",
     "subtitles.entity.rabbit.hurt": "Fenek we\u0121\u0121a'",
     "subtitles.entity.rabbit.jump": "Fenek qabe\u017c",
     "subtitles.entity.sheep.ambient": "Nag\u0127\u0121a g\u0127ajtet",
@@ -2439,5 +2439,5 @@
     "translation.test.invalid": "aw %",
     "translation.test.invalid2": "aw %s",
     "translation.test.none": "Aw, dinja!",
-    "translation.test.world": "dinja"
+    "translation.test.world": "world"
 }

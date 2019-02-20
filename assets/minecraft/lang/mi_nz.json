@@ -512,5 +512,5 @@
     "translation.test.invalid": "koa %",
     "translation.test.invalid2": "koa %s",
     "translation.test.none": "Kao, ao!",
-    "translation.test.world": "ao"
+    "translation.test.world": "world"
 }

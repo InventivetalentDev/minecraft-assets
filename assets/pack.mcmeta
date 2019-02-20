@@ -280,6 +280,11 @@
             "name": "Norsk nynorsk",
             "bidirectional": false
         },
+        "kk_kz": {
+            "region": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+            "name": "\u049a\u0430\u0437\u0430\u049b \u0442\u0456\u043b\u0456",
+            "bidirectional": false
+        },
         "et_ee": {
             "region": "Eesti",
             "name": "Eesti keel",
@@ -577,7 +582,12 @@
         },
         "brb": {
             "region": "Nederland",
-            "name": "Braobans",
+            "name": "Brabants",
+            "bidirectional": false
+        },
+        "bar": {
+            "region": "Bayern",
+            "name": "Boarisch",
             "bidirectional": false
         }
     },

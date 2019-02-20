@@ -80,7 +80,7 @@
     "mco.configure.world.resourcepack.question.line2": "Queres descarreg\u00e1-lo e jogar?",
     "mco.configure.world.restore.download.question.line1": "O mundo ser\u00e1 transferido e adicionado aos seus mundos do modo Um Jogador.",
     "mco.configure.world.restore.download.question.line2": "Queres continuar?",
-    "mco.configure.world.restore.question.line1": "O teu Realm ser\u00e1 restaurado para a data '%s' (%s)",
+    "mco.configure.world.restore.question.line1": "O teu Realm ser\u00e1 restaurado para a data \"%s\" (%s)",
     "mco.configure.world.restore.question.line2": "Tens a certeza de que queres continuar?",
     "mco.configure.world.settings.title": "Defini\u00e7\u00f5es",
     "mco.configure.world.slot": "Mundo %s",
@@ -226,8 +226,8 @@
     "mco.upload.select.world.none": "N\u00e3o foram encontrados mundos de um jogador!",
     "mco.upload.select.world.subtitle": "Seleciona um mundo de um jogador para carregar",
     "mco.upload.select.world.title": "Carregar o mundo",
-    "mco.upload.size.failure.line1": "%s \u00e9 muito grande!",
+    "mco.upload.size.failure.line1": "\"%s\" \u00e9 demasiado grande!",
     "mco.upload.size.failure.line2": "\u00c9 %s. O tamanho m\u00e1ximo permitido \u00e9 de %s.",
-    "mco.upload.uploading": "A carregar '%s'",
+    "mco.upload.uploading": "A carregar \"%s\"",
     "mco.upload.verifying": "A verificar o mundo"
 }

@@ -179,7 +179,7 @@
     "mco.selectServer.expired": "Lej\u00e1rt realm",
     "mco.selectServer.expiredList": "Az el\u0151fizet\u00e9sed lej\u00e1rt",
     "mco.selectServer.expiredRenew": "Meg\u00faj\u00edt\u00e1s",
-    "mco.selectServer.expiredSubscribe": "Feliratkoz\u00e1s",
+    "mco.selectServer.expiredSubscribe": "El\u0151fizet\u00e9s",
     "mco.selectServer.expiredTrial": "Lej\u00e1rt a pr\u00f3baid\u0151d",
     "mco.selectServer.expires.day": "Egy napon bel\u00fcl lej\u00e1r",
     "mco.selectServer.expires.days": "%s nap m\u00falva lej\u00e1r",

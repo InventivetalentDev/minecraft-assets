@@ -695,6 +695,6 @@
     "translation.test.escape": "%%s %%%s %%%%s %%%%%s",
     "translation.test.invalid": "dearvva %",
     "translation.test.none": "Bures ain S\u00e1pmi!",
-    "translation.test.world": "m\u00e1ilbmi",
+    "translation.test.world": "world",
     "tutorial.open_inventory.description": "Deaddil %s"
 }
