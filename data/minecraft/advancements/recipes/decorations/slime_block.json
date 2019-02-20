@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:slime_block"
+    ]
+  },
+  "criteria": {
+    "has_at_least_9_slime_ball": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:slime_ball",
+            "count": {
+              "min": 9
+            }
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:slime_block"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_at_least_9_slime_ball",
+      "has_the_recipe"
+    ]
+  ]
+}

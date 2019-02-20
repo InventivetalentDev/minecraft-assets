@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:composter"
+    ]
+  },
+  "criteria": {
+    "has_wooden_fences": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:wooden_fences"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:composter"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wooden_fences",
+      "has_the_recipe"
+    ]
+  ]
+}
