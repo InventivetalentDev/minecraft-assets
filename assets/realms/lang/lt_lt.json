@@ -73,7 +73,7 @@
     "mco.configure.world.opening": "Atidaroma realm...",
     "mco.configure.world.players.error": "Nepavyko pakviesti pateikto \u017eaid\u0117jo",
     "mco.configure.world.players.title": "\u017daid\u0117jai",
-    "mco.configure.world.pvp": "\u017daid\u0117jas prie\u0161 \u017eaid\u0117ja",
+    "mco.configure.world.pvp": "PvP",
     "mco.configure.world.reset.question.line1": "J\u016bs\u0173 pasaulis bus atkurta, o dabartinis pasaulis bus prarastas",
     "mco.configure.world.reset.question.line2": "Ar tikrai norite t\u0119sti?",
     "mco.configure.world.resourcepack.question.line1": "\u0160i realm reikalauja alternatyvaus resurs\u0173 paketo.",

@@ -51,14 +51,6 @@
         }
       }
     },
-    "minecraft:polar_bear": {
-      "trigger": "minecraft:player_killed_entity",
-      "conditions": {
-        "entity": {
-          "type": "minecraft:polar_bear"
-        }
-      }
-    },
     "minecraft:blaze": {
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
@@ -240,9 +232,6 @@
     ],
     [
       "minecraft:enderman"
-    ],
-    [
-      "minecraft:polar_bear"
     ],
     [
       "minecraft:blaze"

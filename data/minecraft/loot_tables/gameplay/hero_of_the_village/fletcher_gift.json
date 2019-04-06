@@ -22,7 +22,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Potion:\"minecraft:speed\"}"
+              "tag": "{Potion:\"minecraft:swiftness\"}"
             }
           ],
           "name": "minecraft:tipped_arrow"

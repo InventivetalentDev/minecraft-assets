@@ -66,10 +66,6 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:nautilus_shell"
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:blue_key"
         }
       ]
     }

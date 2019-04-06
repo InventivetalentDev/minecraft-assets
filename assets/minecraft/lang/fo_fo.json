@@ -2252,6 +2252,7 @@
     "multiplayer.texturePrompt.line1": "Hesin amb\u00e6tari vi\u00f0m\u00e6lir, at t\u00fa br\u00fakar serligar tilfeingispakkar.",
     "multiplayer.texturePrompt.line2": "Vilt t\u00fa taka ni\u00f0ur og leggja ta\u00f0 inn sj\u00e1lvvirkandi?",
     "multiplayer.title": "Sp\u00e6l \u00e1 netinum",
+    "narrator.loading.done": "Li\u00f0ugt",
     "optimizeWorld.confirm.description": "Hettar fer at royna at alb\u00f8ta ver\u00f0 t\u00edna, vi\u00f0 at syrgja fyri at allar d\u00e1tur eru goymdar \u00ed n\u00fdggjasta sp\u00e6lhami. Hettar kann taka langa t\u00ed\u00f0, alt eftir ver\u00f0ini. T\u00e1 i\u00f0 hettar er li\u00f0ugt, fer ver\u00f0 t\u00edn koyra skj\u00f3tari, men fer ei longur vera h\u00e1ttl\u00edk vi\u00f0 eldri \u00fatg\u00e1vum av sp\u00e6linum. Ert t\u00fa v\u00edsur \u00ed, at t\u00fa vilt bl\u00edva vi\u00f0?",
     "optimizeWorld.confirm.title": "Alb\u00f8tir heimin",
     "optimizeWorld.info.converted": "Uppstiga\u00f0ir klunkar: %s",
