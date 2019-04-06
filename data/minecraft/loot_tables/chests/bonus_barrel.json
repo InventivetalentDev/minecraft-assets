@@ -1,0 +1,356 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1.0,
+        "max": 4.0,
+        "type": "minecraft:uniform"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 1.0,
+                "max": 30.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:bow"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 20.0,
+                "type": "minecraft:uniform"
+              }
+            },
+            {
+              "function": "minecraft:apply_random_effect"
+            }
+          ],
+          "name": "minecraft:arrow"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1.0,
+                "max": 20.0,
+                "type": "minecraft:uniform"
+              }
+            },
+            {
+              "function": "minecraft:apply_random_effect"
+            }
+          ],
+          "name": "minecraft:tipped_arrow"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:apply_random_effect"
+            }
+          ],
+          "name": "minecraft:potion"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:apply_random_effect"
+            }
+          ],
+          "name": "minecraft:splash_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:apply_random_effect"
+            }
+          ],
+          "name": "minecraft:lingering_potion"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:leather_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:leather_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:leather_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:leather_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:diamond_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:diamond_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:diamond_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 5.0,
+                "max": 10.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:diamond_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 10.0,
+                "max": 20.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:stone_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 10.0,
+                "max": 20.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:iron_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": {
+                "min": 10.0,
+                "max": 20.0,
+                "type": "minecraft:uniform"
+              },
+              "treasure": false
+            }
+          ],
+          "name": "minecraft:diamond_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "enchantments": [
+                "minecraft:multishot"
+              ]
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "BFC9000"
+              }
+            }
+          ],
+          "name": "minecraft:crossbow"
+        }
+      ]
+    },
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blue_key"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:yellow_key"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:red_key"
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 16
+        }
+      ]
+    }
+  ]
+}

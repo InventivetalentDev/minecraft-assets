@@ -1,0 +1,86 @@
+mov ax, 13h
+int 10h
+Thousands of colors!
+No co-processor required!
+MIDI support comming soon!
+Available on most BBSes!
+Too big for tape!
+Don't copy that floppy!
+Only 6 years until future!
+16-bit!
+Powered by Turbo Pascal!
+Program MineCraft;
+Memory protected!
+Not Windows 3.11 compatible!
+TCP/IP is just fad!
+IPX forever!
+AT!
+September got longer!
+Woo rec.games.computer.minecraft!
+As seen on teletext!
+Polyphonic (when supported)
+Watch out for MineCraft for Workgroups!
+"LINUX is obsolete"!
+Photorealistic rendering!
+FMVs! (CD-ROM version only)
+Degauss you monitor now!
+Perfect for LAN Party!
+Compatible with most phones!
+Visit as at gopher://minecraft.net
+Send us a postcard with your highscore!
+Patented exploding barrel technology!
+Kibo-free!
+Check out my geek code!
+31337!
+Clbuttic!
+VIRTUAL REALITY!
+Also try Another World!
+More dynamic than Myst!
+Serious Doom competitor!
+Dune II, but fantasy? Booooring!
+Really? What's next, SimChopper?
+Juice may be bad for you!
+More impact than Shoemaker–Levy!
+From country that brought you Ace of Base!
+I saw the sign!
+Woo, third place
+Two gold, one silver!
+Mir is still up there!
+Spielberg on the roll!
+Clever girl!
+Square Of Life!
+Blocky and Blockier!
+Somebody stop me!
+Lord of the Rings movie sucks!
+Wind of Change!
+Superman is dead!
+Look at that mullet!
+What if Greedo shot first?
+Ewoks? What next, talking seahorse!?
+My mom says it's nice!
+Smells Like Teen Spirit!
+By the power of Grayskull!
+Over 50mph!
+The most annoying sound in the world!
+Spared no expense!
+A whole new world!
+You can't handle the truth!
+Party time! Excellent!
+Rufio! Rufio!
+Cowabunga!
+The Year of the Cartridge!
+Now rated by the ESRB!
+Rated Kids to Adults!
+Now on Atari Lynx!
+Creepy babies! Highly collectable!
+You've got mail!
+As seen on the World-Wide Web!
+Rainbow unicorns!
+Welcome to Illager Mansion!
+Stay out of the Nether!
+Creeper Blood!
+Talk to the hand!
+Psyche!
+Woo, frosted tips!
+Have a cow, man!
+Degauss your CRT now!
