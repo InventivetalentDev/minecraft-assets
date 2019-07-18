@@ -440,6 +440,11 @@
             "name": "Occitan",
             "bidirectional": false
         },
+        "ba_ru": {
+            "region": "\u0420\u04d9\u0441\u04d9\u0439",
+            "name": "\u0411\u0430\u0448\u04a1\u043e\u0440\u0442\u0441\u0430",
+            "bidirectional": false
+        },
         "val_es": {
             "region": "Pa\u00eds Valenci\u00e0",
             "name": "Catal\u00e0 (Valenci\u00e0)",
@@ -525,6 +530,11 @@
             "name": "LOLCAT",
             "bidirectional": false
         },
+        "got_de": {
+            "region": "Dakia jah Heispanja",
+            "name": "Gutrazda",
+            "bidirectional": false
+        },
         "tzl_tzl": {
             "region": "Talossa",
             "name": "Talossan",
@@ -562,7 +572,7 @@
         },
         "szl": {
             "region": "G\u014drny \u015al\u014dnsk",
-            "name": "\u015al\u014dnsk\u014f g\u014fdka",
+            "name": "\u015al\u014dnski",
             "bidirectional": false
         },
         "ovd": {

@@ -63,8 +63,6 @@
     "mco.configure.world.slot": "%s Mundua",
     "mco.configure.world.slot.empty": "Hutsik",
     "mco.configure.world.slot.switch.question.line1": "zure erreinua aldatuko da beste mundu batera",
-    "mco.configure.world.slot.tooltip": "Aldatu mundua",
-    "mco.configure.world.slot.tooltip.active": "Bi klick sartzeko",
     "mco.configure.world.slot.tooltip.minigame": "Aldatu minijokua",
     "mco.configure.world.spawnAnimals": "Animaliak sortu",
     "mco.configure.world.spawnMonsters": "Munstroak  sortu",
