@@ -994,8 +994,7 @@
     "stat_type.minecraft.mined": "Cleiyt",
     "stat_type.minecraft.used": "Ymmyd",
     "stats.tooltip.type.statistic": "Staddysaght",
-    "title.oldgl1": "Hooar shin shenn chaart graafaght; foddee nagh bee cummys",
-    "title.oldgl2": "ayn dy chloie 'sy traa ry-heet tra vees OpenGL 2.0 eginagh.",
+    "title.oldgl.deprecation.line1": "Hooar shin shenn chaart graafaght; foddee nagh bee cummys",
     "translation.test.none": "Hello, seihll!",
     "translation.test.world": "world"
 }
