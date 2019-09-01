@@ -1,4 +1,4 @@
-#version 120
+#version 110
 
 uniform sampler2D DiffuseSampler;
 uniform sampler2D OverlaySampler;
@@ -7,10 +7,10 @@ uniform vec2 InSize;
 
 varying vec2 texCoord;
 
-uniform float MosaicSize = 1.0;
-uniform vec3 RedMatrix   = vec3(1.0, 0.0, 0.0);
-uniform vec3 GreenMatrix = vec3(0.0, 1.0, 0.0);
-uniform vec3 BlueMatrix  = vec3(0.0, 0.0, 1.0);
+uniform float MosaicSize;
+uniform vec3 RedMatrix;
+uniform vec3 GreenMatrix;
+uniform vec3 BlueMatrix;
 
 void main(){
     vec2 mosaicInSize = InSize / MosaicSize;

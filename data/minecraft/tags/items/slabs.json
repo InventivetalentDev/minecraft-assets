@@ -33,6 +33,8 @@
     "minecraft:andesite_slab",
     "minecraft:red_nether_brick_slab",
     "minecraft:polished_andesite_slab",
-    "minecraft:diorite_slab"
+    "minecraft:diorite_slab",
+    "minecraft:cut_sandstone_slab",
+    "minecraft:cut_red_sandstone_slab"
   ]
 }
