@@ -87,7 +87,7 @@
     "mco.configure.world.slot.empty": "Tom",
     "mco.configure.world.slot.switch.question.line1": "Dit Realm vil blive skiftet til en anden verden",
     "mco.configure.world.slot.switch.question.line2": "Er du sikker p\u00e5 at du vil forts\u00e6tte?",
-    "mco.configure.world.slot.tooltip": "Skift verden",
+    "mco.configure.world.slot.tooltip": "Skift til verden",
     "mco.configure.world.slot.tooltip.active": "Tilslut",
     "mco.configure.world.slot.tooltip.minigame": "Skift til mini-spil",
     "mco.configure.world.spawnAnimals": "Spawn dyr",
