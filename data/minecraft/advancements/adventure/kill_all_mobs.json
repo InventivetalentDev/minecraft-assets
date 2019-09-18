@@ -2,7 +2,8 @@
   "parent": "minecraft:adventure/kill_a_mob",
   "display": {
     "icon": {
-      "item": "minecraft:diamond_sword"
+      "item": "minecraft:diamond_sword",
+      "nbt": "{Damage:0}"
     },
     "title": {
       "translate": "advancements.adventure.kill_all_mobs.title"
