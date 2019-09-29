@@ -1,6 +1,10 @@
 {
     "mco.configure.world.edit.slot.name": "Honua inoa",
+    "mco.configure.world.invite.narration": "Loa\u02bba i\u0101 \u02bboe n\u0101 %s kono hou",
     "mco.gui.ok": "Maika\u02bbi",
     "mco.selectServer.play": "P\u0101\u02bbani",
-    "mco.terms.buttons.agree": "E\u02bbae"
+    "mco.template.select.narrate.authors": "Mea k\u0101kau: %s",
+    "mco.template.select.narrate.version": "m\u0101ka\u02bbi %s",
+    "mco.terms.buttons.agree": "E\u02bbae",
+    "narrator.select.list.position": "kumuhana %s ma waho o %s"
 }
