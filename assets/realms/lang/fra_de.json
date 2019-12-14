@@ -1,5 +1,8 @@
 {
     "mco.configure.world.buttons.done": "Feddi",
+    "mco.configure.world.invite.narration": "Du host %s neua Eilodunga",
+    "mco.connect.success": "Feddi",
+    "mco.gui.button": "Gnopf",
     "mco.gui.ok": "Ok",
-    "mco.terms.buttons.agree": "Zustimmen"
+    "mco.terms.buttons.agree": "Zustimme"
 }

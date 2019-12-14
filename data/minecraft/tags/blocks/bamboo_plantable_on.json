@@ -5,6 +5,10 @@
     "minecraft:bamboo_sapling",
     "minecraft:gravel",
     "#minecraft:sand",
-    "#minecraft:dirt_like"
+    "minecraft:dirt",
+    "minecraft:grass_block",
+    "minecraft:podzol",
+    "minecraft:coarse_dirt",
+    "minecraft:mycelium"
   ]
 }
