@@ -1,4 +1,4 @@
-#version 120
+#version 110
 
 uniform sampler2D DiffuseSampler;
 
@@ -7,10 +7,10 @@ varying vec2 oneTexel;
 
 uniform vec2 InSize;
 
-uniform vec3 ConvergeX = vec3(-1.0,  0.0, 0.5);
-uniform vec3 ConvergeY = vec3( 0.0, -1.0, 0.5);
-uniform vec3 RadialConvergeX = vec3(1.0, 1.0, 1.0);
-uniform vec3 RadialConvergeY = vec3(1.0, 1.0, 1.0);
+uniform vec3 ConvergeX;
+uniform vec3 ConvergeY;
+uniform vec3 RadialConvergeX;
+uniform vec3 RadialConvergeY;
 
 void main() {
     vec3 CoordX = texCoord.x * RadialConvergeX;
