@@ -302,7 +302,7 @@
         },
         "hi_in": {
             "region": "\u092d\u093e\u0930\u0924",
-            "name": "\u0939\u093f\u0928\u094d\u0926\u0940",
+            "name": "\u0939\u093f\u0902\u0926\u0940",
             "bidirectional": false
         },
         "ms_my": {
@@ -329,6 +329,11 @@
             "region": "United Kingdom",
             "name": "English",
             "bidirectional": false
+        },
+        "yi_de": {
+            "region": "\u05e4\u05bf\u05d0\u05b7\u05e8\u05d0\u05f2\u05e0\u05d9\u05e7\u05d8\u05e2 \u05e9\u05d8\u05d0\u05b7\u05d8\u05df",
+            "name": "\u05d9\u05d9\u05b4\u05d3\u05d9\u05e9",
+            "bidirectional": true
         },
         "mt_mt": {
             "region": "Malta",
@@ -440,6 +445,11 @@
             "name": "Occitan",
             "bidirectional": false
         },
+        "ba_ru": {
+            "region": "\u0420\u04d9\u0441\u04d9\u0439",
+            "name": "\u0411\u0430\u0448\u04a1\u043e\u0440\u0442\u0441\u0430",
+            "bidirectional": false
+        },
         "val_es": {
             "region": "Pa\u00eds Valenci\u00e0",
             "name": "Catal\u00e0 (Valenci\u00e0)",
@@ -525,6 +535,11 @@
             "name": "LOLCAT",
             "bidirectional": false
         },
+        "got_de": {
+            "region": "Dakia jah Heispanja",
+            "name": "Gutrazda",
+            "bidirectional": false
+        },
         "tzl_tzl": {
             "region": "Talossa",
             "name": "Talossan",
@@ -562,7 +577,7 @@
         },
         "szl": {
             "region": "G\u014drny \u015al\u014dnsk",
-            "name": "\u015al\u014dnsk\u014f g\u014fdka",
+            "name": "\u015al\u014dnski",
             "bidirectional": false
         },
         "ovd": {
@@ -589,10 +604,15 @@
             "region": "Bayern",
             "name": "Boarisch",
             "bidirectional": false
+        },
+        "scn": {
+            "region": "Sicilia",
+            "name": "Sicilianu",
+            "bidirectional": false
         }
     },
     "pack": {
         "description": "The default look and feel of Minecraft",
-        "pack_format": 4
+        "pack_format": 5
     }
 }

@@ -6,12 +6,12 @@
     ]
   },
   "criteria": {
-    "has_wooden_fences": {
+    "has_wood_slab": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:wooden_fences"
+            "tag": "minecraft:wooden_slabs"
           }
         ]
       }
@@ -25,7 +25,7 @@
   },
   "requirements": [
     [
-      "has_wooden_fences",
+      "has_wood_slab",
       "has_the_recipe"
     ]
   ]

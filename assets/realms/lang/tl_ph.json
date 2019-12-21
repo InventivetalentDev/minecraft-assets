@@ -1,0 +1,13 @@
+{
+    "mco.gui.button": "Pindutan",
+    "mco.gui.ok": "Ok lang",
+    "mco.selectServer.configure": "I-configure ang kaharian",
+    "mco.selectServer.create": "Lumikha ng kaharian",
+    "mco.selectServer.leave": "Iwanan ang kaharian",
+    "mco.selectServer.play": "Maglaro",
+    "mco.terms.buttons.agree": "Sang-ayon",
+    "mco.terms.buttons.disagree": "Huwag sumang-ayon",
+    "mco.terms.sentence.1": "Sumasang-ayon ako sa Minecraft Realms",
+    "mco.terms.sentence.2": "Panuntunan ng serbisyo",
+    "mco.terms.title": "Mga Tuntunin sa Serbisyo ng Realms"
+}
