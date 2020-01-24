@@ -2,7 +2,8 @@
   "parent": "minecraft:adventure/root",
   "display": {
     "icon": {
-      "item": "minecraft:iron_sword"
+      "item": "minecraft:iron_sword",
+      "nbt": "{Damage:0}"
     },
     "title": {
       "translate": "advancements.adventure.kill_a_mob.title"

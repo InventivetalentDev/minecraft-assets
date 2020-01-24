@@ -1,8 +1,8 @@
 {
-  "id": "19w14b",
-  "type": "snapshot",
-  "url": "https://launchermeta.mojang.com/v1/packages/eda0051523ec5df52cceed1ebe13135d3f268708/19w14b.json",
-  "time": "2019-04-05T11:01:05+00:00",
-  "releaseTime": "2019-04-05T10:33:58+00:00",
-  "downloadTimestamp": 1554571279571
+  "id": "1.15.2",
+  "type": "release",
+  "url": "https://launchermeta.mojang.com/v1/packages/7a959e36be42526415e7da01312b3ce9de3b9d3a/1.15.2.json",
+  "time": "2020-01-17T11:36:27+00:00",
+  "releaseTime": "2020-01-17T10:03:52+00:00",
+  "downloadTimestamp": 1579863028749
 }
