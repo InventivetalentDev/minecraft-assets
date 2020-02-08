@@ -1,5 +1,5 @@
 {
-    "parent": "block/fire_side",
+    "parent": "block/template_fire_side",
     "textures": {
         "particle": "block/fire_1",
         "fire": "block/fire_1"

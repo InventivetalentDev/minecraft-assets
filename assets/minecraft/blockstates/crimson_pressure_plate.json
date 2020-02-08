@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "block/crimson_pressure_plate" },
+        "powered=true": { "model": "block/crimson_pressure_plate_down" }
+    }
+}
