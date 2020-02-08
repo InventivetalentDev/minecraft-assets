@@ -3701,7 +3701,7 @@
     "selectWorld.versionUnknown": "desconocido",
     "selectWorld.versionWarning": "\u00a1Este mundo se jug\u00f3 por \u00faltima vez en la versi\u00f3n %s! \u00a1Si lo juegas en la versi\u00f3n actual podr\u00eda corromperse!",
     "selectWorld.world": "Mundo",
-    "sign.edit": "Texto del letrero:",
+    "sign.edit": "Texto del Letrero:",
     "slot.unknown": "Ranura desconocida: %s",
     "soundCategory.ambient": "Ambiente",
     "soundCategory.block": "Bloques",

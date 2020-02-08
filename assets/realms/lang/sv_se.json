@@ -206,7 +206,7 @@
     "mco.template.default.name": "V\u00e4rldsmall",
     "mco.template.info.tooltip": "Utgivarens webbplats",
     "mco.template.name": "Mall",
-    "mco.template.select.failure": "Vi kunde inte h\u00e4mta listan \u00f6ver inneh\u00e5ll f\u00f6r denna kategori.\nKontrollera din Internetanslutning eller f\u00f6rs\u00f6k igen senare.",
+    "mco.template.select.failure": "Vi kunde inte h\u00e4mta listan \u00f6ver inneh\u00e5ll f\u00f6r denna kategori.\nKontrollera din internetanslutning eller f\u00f6rs\u00f6k igen senare.",
     "mco.template.select.narrate.authors": "Skapare: %s",
     "mco.template.select.narrate.version": "version %s",
     "mco.template.select.none": "Hoppsan, det verkar som att denna inneh\u00e5llskategori \u00e4r f\u00f6r tillf\u00e4llet tom.\nKom tillbaka senare f\u00f6r nytt inneh\u00e5ll, eller\n%s om du \u00e4r en skapare.",

@@ -237,5 +237,5 @@
     "mco.upload.size.failure.line2": "Wynosi %s. Maksymalny dozwolony rozmiar to %s.",
     "mco.upload.uploading": "Przesy\u0142anie '%s'",
     "mco.upload.verifying": "Weryfikowanie Twojego \u015bwiata",
-    "narrator.select.list.position": "pozycja %s. z %s"
+    "narrator.select.list.position": "przedmiot %s z %s"
 }

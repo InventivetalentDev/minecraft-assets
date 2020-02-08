@@ -3399,7 +3399,7 @@
     "multiplayer.title": "Spil multiplayer",
     "multiplayerWarning.check": "Vis ikke denne sk\u00e6rm igen",
     "multiplayerWarning.header": "Online spil er ikke bed\u00f8mt",
-    "multiplayerWarning.message": "Under online spil kan du muligvis blive udsat for chatbeskeder eller andre typer af brugergenereret indhold, som ikke er blevet bed\u00f8mt, og muligvis ikke er egnet til alle aldre.",
+    "multiplayerWarning.message": "Under online spil kan du muligvis blive udsat for chat beskeder eller andre typer af brugergenereret indhold, som ikke er blevet bed\u00f8mt, og muligvis ikke er egnet til alle aldre.",
     "narration.suggestion": "Valgte forslag %s ud af %s: %s",
     "narration.suggestion.tooltip": "Valgte forslag %s ud af %s: %s (%s)",
     "narrator.button.accessibility": "Tilg\u00e6ngelighed",
