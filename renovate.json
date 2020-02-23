@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "maven": {
+    "enabled": true
+  },
+  "ignoreUnstable": false,
+  "hostRules": [{
+    "hostType": "maven",
+    "endpoint": "https://repo.inventivetalent.org/content/groups/public/"
+  }]
+}
