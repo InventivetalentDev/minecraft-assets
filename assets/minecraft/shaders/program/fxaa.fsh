@@ -1,3 +1,4 @@
+#version 110
 #extension GL_EXT_gpu_shader4 : enable
 
 uniform sampler2D DiffuseSampler;

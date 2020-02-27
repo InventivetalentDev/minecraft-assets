@@ -23,19 +23,19 @@
       "trigger": "minecraft:effects_changed",
       "conditions": {
         "effects": {
-          "minecraft:speed": {},
-          "minecraft:water_breathing": {},
+          "minecraft:regeneration": {},
+          "minecraft:strength": {},
           "minecraft:night_vision": {},
           "minecraft:poison": {},
-          "minecraft:regeneration": {},
           "minecraft:resistance": {},
-          "minecraft:jump_boost": {},
-          "minecraft:slowness": {},
-          "minecraft:strength": {},
-          "minecraft:slow_falling": {},
-          "minecraft:weakness": {},
           "minecraft:invisibility": {},
-          "minecraft:fire_resistance": {}
+          "minecraft:speed": {},
+          "minecraft:slowness": {},
+          "minecraft:weakness": {},
+          "minecraft:water_breathing": {},
+          "minecraft:fire_resistance": {},
+          "minecraft:jump_boost": {},
+          "minecraft:slow_falling": {}
         }
       }
     }

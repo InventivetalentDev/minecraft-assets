@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:adventure/shoot_arrow",
+  "display": {
+    "icon": {
+      "item": "minecraft:target"
+    },
+    "title": {
+      "translate": "advancements.adventure.bullseye.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.bullseye.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "bullseye": {
+      "trigger": "minecraft:target_hit",
+      "conditions": {
+        "signalStrength": 15
+      }
+    }
+  },
+  "requirements": [
+    [
+      "bullseye"
+    ]
+  ]
+}

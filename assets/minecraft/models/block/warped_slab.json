@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "block/warped_planks",
+        "top": "block/warped_planks",
+        "side": "block/warped_planks"
+    }
+}

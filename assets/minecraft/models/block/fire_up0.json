@@ -1,5 +1,5 @@
 {
-    "parent": "block/fire_up",
+    "parent": "block/template_fire_up",
     "textures": {
         "particle": "block/fire_0",
         "fire": "block/fire_0"

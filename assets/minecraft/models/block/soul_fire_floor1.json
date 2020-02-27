@@ -1,0 +1,7 @@
+{
+    "parent": "block/template_fire_floor",
+    "textures": {
+        "particle": "block/soul_fire_1",
+        "fire": "block/soul_fire_1"
+    }
+}
