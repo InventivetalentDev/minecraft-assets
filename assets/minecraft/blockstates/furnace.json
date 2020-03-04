@@ -1,12 +1,34 @@
 {
-    "variants": {
-        "facing=north,lit=false": { "model": "block/furnace" },
-        "facing=south,lit=false": { "model": "block/furnace", "y": 180 },
-        "facing=west,lit=false":  { "model": "block/furnace", "y": 270 },
-        "facing=east,lit=false":  { "model": "block/furnace", "y": 90 },
-        "facing=north,lit=true": { "model": "block/furnace_on" },
-        "facing=south,lit=true": { "model": "block/furnace_on", "y": 180 },
-        "facing=west,lit=true":  { "model": "block/furnace_on", "y": 270 },
-        "facing=east,lit=true":  { "model": "block/furnace_on", "y": 90 }
+  "variants": {
+    "facing=east,lit=false": {
+      "y": 90,
+      "model": "minecraft:block/furnace"
+    },
+    "facing=east,lit=true": {
+      "y": 90,
+      "model": "minecraft:block/furnace_on"
+    },
+    "facing=north,lit=false": {
+      "model": "minecraft:block/furnace"
+    },
+    "facing=north,lit=true": {
+      "model": "minecraft:block/furnace_on"
+    },
+    "facing=south,lit=false": {
+      "y": 180,
+      "model": "minecraft:block/furnace"
+    },
+    "facing=south,lit=true": {
+      "y": 180,
+      "model": "minecraft:block/furnace_on"
+    },
+    "facing=west,lit=false": {
+      "y": 270,
+      "model": "minecraft:block/furnace"
+    },
+    "facing=west,lit=true": {
+      "y": 270,
+      "model": "minecraft:block/furnace_on"
     }
+  }
 }

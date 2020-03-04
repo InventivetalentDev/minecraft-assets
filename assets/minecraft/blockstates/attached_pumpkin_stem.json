@@ -1,8 +1,19 @@
 {
-    "variants": {
-        "facing=west": { "model": "block/attached_pumpkin_stem" },
-        "facing=east": { "model": "block/attached_pumpkin_stem", "y": 180 },
-        "facing=north": { "model": "block/attached_pumpkin_stem", "y": 90 },
-        "facing=south": { "model": "block/attached_pumpkin_stem", "y": 270 }
+  "variants": {
+    "facing=east": {
+      "y": 180,
+      "model": "minecraft:block/attached_pumpkin_stem"
+    },
+    "facing=north": {
+      "y": 90,
+      "model": "minecraft:block/attached_pumpkin_stem"
+    },
+    "facing=south": {
+      "y": 270,
+      "model": "minecraft:block/attached_pumpkin_stem"
+    },
+    "facing=west": {
+      "model": "minecraft:block/attached_pumpkin_stem"
     }
+  }
 }

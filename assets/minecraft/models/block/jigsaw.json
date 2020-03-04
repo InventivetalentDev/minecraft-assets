@@ -1,12 +1,8 @@
 {
-    "parent": "block/cube",
-    "textures": {
-        "particle": "block/jigsaw_top",
-        "down": "block/jigsaw_bottom",
-        "up": "block/jigsaw_top",
-        "north": "block/jigsaw_side",
-        "east": "block/jigsaw_side",
-        "south": "block/jigsaw_side",
-        "west": "block/jigsaw_side"
-    }
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "minecraft:block/jigsaw_top",
+    "bottom": "minecraft:block/jigsaw_bottom",
+    "side": "minecraft:block/jigsaw_side"
+  }
 }

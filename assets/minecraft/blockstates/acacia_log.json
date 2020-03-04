@@ -1,7 +1,16 @@
 {
-    "variants": {
-        "axis=y":  { "model": "block/acacia_log" },
-        "axis=z":   { "model": "block/acacia_log", "x": 90 },
-        "axis=x":   { "model": "block/acacia_log", "x": 90, "y": 90 }
+  "variants": {
+    "axis=x": {
+      "x": 90,
+      "y": 90,
+      "model": "minecraft:block/acacia_log_horizontal"
+    },
+    "axis=y": {
+      "model": "minecraft:block/acacia_log"
+    },
+    "axis=z": {
+      "x": 90,
+      "model": "minecraft:block/acacia_log_horizontal"
     }
+  }
 }

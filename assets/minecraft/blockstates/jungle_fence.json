@@ -1,17 +1,48 @@
 {
-    "multipart": [
-        {   "apply": { "model": "block/jungle_fence_post" }},
-        {   "when": { "north": "true" },
-            "apply": { "model": "block/jungle_fence_side", "uvlock": true }
-        },
-        {   "when": { "east": "true" },
-            "apply": { "model": "block/jungle_fence_side", "y": 90, "uvlock": true }
-        },
-        {   "when": { "south": "true" },
-            "apply": { "model": "block/jungle_fence_side", "y": 180, "uvlock": true }
-        },
-        {   "when": { "west": "true" },
-            "apply": { "model": "block/jungle_fence_side", "y": 270, "uvlock": true }
-        }
-    ]
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/jungle_fence_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "uvlock": true,
+        "model": "minecraft:block/jungle_fence_side"
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "uvlock": true,
+        "y": 90,
+        "model": "minecraft:block/jungle_fence_side"
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "uvlock": true,
+        "y": 180,
+        "model": "minecraft:block/jungle_fence_side"
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "uvlock": true,
+        "y": 270,
+        "model": "minecraft:block/jungle_fence_side"
+      }
+    }
+  ]
 }

@@ -1,8 +1,19 @@
 {
-    "variants": {
-        "facing=south": { "model": "block/light_blue_glazed_terracotta" },
-        "facing=west": { "model": "block/light_blue_glazed_terracotta", "y": 90 },
-        "facing=north": { "model": "block/light_blue_glazed_terracotta", "y": 180 },
-        "facing=east": { "model": "block/light_blue_glazed_terracotta", "y": 270 }
+  "variants": {
+    "facing=east": {
+      "y": 270,
+      "model": "minecraft:block/light_blue_glazed_terracotta"
+    },
+    "facing=north": {
+      "y": 180,
+      "model": "minecraft:block/light_blue_glazed_terracotta"
+    },
+    "facing=south": {
+      "model": "minecraft:block/light_blue_glazed_terracotta"
+    },
+    "facing=west": {
+      "y": 90,
+      "model": "minecraft:block/light_blue_glazed_terracotta"
     }
+  }
 }

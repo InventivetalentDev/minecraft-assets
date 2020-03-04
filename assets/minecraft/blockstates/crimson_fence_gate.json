@@ -1,0 +1,80 @@
+{
+  "variants": {
+    "facing=east,in_wall=false,open=false": {
+      "y": 270,
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate"
+    },
+    "facing=east,in_wall=false,open=true": {
+      "y": 270,
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate_open"
+    },
+    "facing=east,in_wall=true,open=false": {
+      "y": 270,
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate_wall"
+    },
+    "facing=east,in_wall=true,open=true": {
+      "y": 270,
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate_wall_open"
+    },
+    "facing=north,in_wall=false,open=false": {
+      "y": 180,
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate"
+    },
+    "facing=north,in_wall=false,open=true": {
+      "y": 180,
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate_open"
+    },
+    "facing=north,in_wall=true,open=false": {
+      "y": 180,
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate_wall"
+    },
+    "facing=north,in_wall=true,open=true": {
+      "y": 180,
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate_wall_open"
+    },
+    "facing=south,in_wall=false,open=false": {
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate"
+    },
+    "facing=south,in_wall=false,open=true": {
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate_open"
+    },
+    "facing=south,in_wall=true,open=false": {
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate_wall"
+    },
+    "facing=south,in_wall=true,open=true": {
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate_wall_open"
+    },
+    "facing=west,in_wall=false,open=false": {
+      "y": 90,
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate"
+    },
+    "facing=west,in_wall=false,open=true": {
+      "y": 90,
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate_open"
+    },
+    "facing=west,in_wall=true,open=false": {
+      "y": 90,
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate_wall"
+    },
+    "facing=west,in_wall=true,open=true": {
+      "y": 90,
+      "uvlock": true,
+      "model": "minecraft:block/crimson_fence_gate_wall_open"
+    }
+  }
+}

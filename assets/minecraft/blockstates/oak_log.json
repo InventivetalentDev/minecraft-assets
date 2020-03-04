@@ -1,7 +1,16 @@
 {
-    "variants": {
-        "axis=y":    { "model": "block/oak_log" },
-        "axis=z":     { "model": "block/oak_log", "x": 90 },
-        "axis=x":     { "model": "block/oak_log", "x": 90, "y": 90 }
+  "variants": {
+    "axis=x": {
+      "x": 90,
+      "y": 90,
+      "model": "minecraft:block/oak_log_horizontal"
+    },
+    "axis=y": {
+      "model": "minecraft:block/oak_log"
+    },
+    "axis=z": {
+      "x": 90,
+      "model": "minecraft:block/oak_log_horizontal"
     }
+  }
 }

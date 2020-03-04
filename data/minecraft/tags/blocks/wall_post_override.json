@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:lantern",
+    "minecraft:soul_fire_lantern",
+    "minecraft:torch",
+    "minecraft:soul_fire_torch",
+    "minecraft:redstone_torch",
+    "minecraft:tripwire"
+  ]
+}

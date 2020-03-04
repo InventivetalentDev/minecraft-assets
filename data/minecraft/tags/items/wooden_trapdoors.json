@@ -6,6 +6,8 @@
     "minecraft:dark_oak_trapdoor",
     "minecraft:jungle_trapdoor",
     "minecraft:oak_trapdoor",
-    "minecraft:spruce_trapdoor"
+    "minecraft:spruce_trapdoor",
+    "minecraft:crimson_trapdoor",
+    "minecraft:warped_trapdoor"
   ]
 }

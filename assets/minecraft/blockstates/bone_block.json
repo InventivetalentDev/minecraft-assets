@@ -1,7 +1,16 @@
 {
-    "variants": {
-        "axis=y": { "model": "block/bone_block" },
-        "axis=z": { "model": "block/bone_block", "x": 90 },
-        "axis=x": { "model": "block/bone_block", "x": 90, "y": 90 }
+  "variants": {
+    "axis=x": {
+      "y": 90,
+      "x": 90,
+      "model": "minecraft:block/bone_block"
+    },
+    "axis=y": {
+      "model": "minecraft:block/bone_block"
+    },
+    "axis=z": {
+      "x": 90,
+      "model": "minecraft:block/bone_block"
     }
+  }
 }

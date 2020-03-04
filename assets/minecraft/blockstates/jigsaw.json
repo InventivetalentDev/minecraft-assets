@@ -1,10 +1,30 @@
 {
-    "variants": {
-        "facing=up": { "model": "block/jigsaw"},
-        "facing=down": { "model": "block/jigsaw", "x": 180 },
-        "facing=north": { "model": "block/jigsaw", "x" : 90},
-        "facing=south": { "model": "block/jigsaw", "x" : 90, "y": 180 },
-        "facing=west": { "model": "block/jigsaw", "x" : 90, "y": 270 },
-        "facing=east": { "model": "block/jigsaw", "x" : 90, "y": 90 }
+  "variants": {
+    "facing=down": {
+      "x": 180,
+      "model": "minecraft:block/jigsaw"
+    },
+    "facing=east": {
+      "y": 90,
+      "x": 90,
+      "model": "minecraft:block/jigsaw"
+    },
+    "facing=north": {
+      "x": 90,
+      "model": "minecraft:block/jigsaw"
+    },
+    "facing=south": {
+      "y": 180,
+      "x": 90,
+      "model": "minecraft:block/jigsaw"
+    },
+    "facing=up": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "facing=west": {
+      "y": 270,
+      "x": 90,
+      "model": "minecraft:block/jigsaw"
     }
+  }
 }

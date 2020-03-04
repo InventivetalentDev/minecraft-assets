@@ -1,7 +1,16 @@
 {
-    "variants": {
-        "axis=y":  { "model": "block/quartz_pillar" },
-        "axis=z":   { "model": "block/quartz_pillar", "x": 90 },
-        "axis=x":   { "model": "block/quartz_pillar", "x": 90, "y": 90 }
+  "variants": {
+    "axis=x": {
+      "x": 90,
+      "y": 90,
+      "model": "minecraft:block/quartz_pillar_horizontal"
+    },
+    "axis=y": {
+      "model": "minecraft:block/quartz_pillar"
+    },
+    "axis=z": {
+      "x": 90,
+      "model": "minecraft:block/quartz_pillar_horizontal"
     }
+  }
 }

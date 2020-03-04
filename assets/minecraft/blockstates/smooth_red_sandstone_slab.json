@@ -1,7 +1,13 @@
 {
-    "variants": {
-        "type=bottom": { "model": "block/smooth_red_sandstone_slab" },
-        "type=top": { "model": "block/smooth_red_sandstone_slab_top" },
-        "type=double": { "model": "block/smooth_red_sandstone" }
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/smooth_red_sandstone_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/smooth_red_sandstone"
+    },
+    "type=top": {
+      "model": "minecraft:block/smooth_red_sandstone_slab_top"
     }
+  }
 }

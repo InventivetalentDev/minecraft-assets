@@ -1,8 +1,19 @@
 {
-    "variants": {
-        "facing=south": { "model": "block/chipped_anvil" },
-        "facing=west": { "model": "block/chipped_anvil", "y": 90 },
-        "facing=north": { "model": "block/chipped_anvil", "y": 180 },
-        "facing=east": { "model": "block/chipped_anvil", "y": 270 }
+  "variants": {
+    "facing=east": {
+      "y": 270,
+      "model": "minecraft:block/chipped_anvil"
+    },
+    "facing=north": {
+      "y": 180,
+      "model": "minecraft:block/chipped_anvil"
+    },
+    "facing=south": {
+      "model": "minecraft:block/chipped_anvil"
+    },
+    "facing=west": {
+      "y": 90,
+      "model": "minecraft:block/chipped_anvil"
     }
+  }
 }

@@ -1,16 +1,50 @@
 {
-    "variants": {
-        "facing=up,powered=false": { "model": "block/observer", "x": 270 },
-        "facing=down,powered=false": { "model": "block/observer", "x": 90 },
-        "facing=north,powered=false": { "model": "block/observer" },
-        "facing=south,powered=false": { "model": "block/observer", "y": 180 },
-        "facing=west,powered=false": { "model": "block/observer", "y": 270 },
-        "facing=east,powered=false": { "model": "block/observer", "y": 90 },
-        "facing=up,powered=true": { "model": "block/observer_on", "x": 270 },
-        "facing=down,powered=true": { "model": "block/observer_on", "x": 90 },
-        "facing=north,powered=true": { "model": "block/observer_on" },
-        "facing=south,powered=true": { "model": "block/observer_on", "y": 180 },
-        "facing=west,powered=true": { "model": "block/observer_on", "y": 270 },
-        "facing=east,powered=true": { "model": "block/observer_on", "y": 90 }
+  "variants": {
+    "facing=down,powered=false": {
+      "x": 90,
+      "model": "minecraft:block/observer"
+    },
+    "facing=down,powered=true": {
+      "x": 90,
+      "model": "minecraft:block/observer_on"
+    },
+    "facing=east,powered=false": {
+      "y": 90,
+      "model": "minecraft:block/observer"
+    },
+    "facing=east,powered=true": {
+      "y": 90,
+      "model": "minecraft:block/observer_on"
+    },
+    "facing=north,powered=false": {
+      "model": "minecraft:block/observer"
+    },
+    "facing=north,powered=true": {
+      "model": "minecraft:block/observer_on"
+    },
+    "facing=south,powered=false": {
+      "y": 180,
+      "model": "minecraft:block/observer"
+    },
+    "facing=south,powered=true": {
+      "y": 180,
+      "model": "minecraft:block/observer_on"
+    },
+    "facing=up,powered=false": {
+      "x": 270,
+      "model": "minecraft:block/observer"
+    },
+    "facing=up,powered=true": {
+      "x": 270,
+      "model": "minecraft:block/observer_on"
+    },
+    "facing=west,powered=false": {
+      "y": 270,
+      "model": "minecraft:block/observer"
+    },
+    "facing=west,powered=true": {
+      "y": 270,
+      "model": "minecraft:block/observer_on"
     }
+  }
 }
