@@ -25,7 +25,7 @@
     "mco.client.incompatible.msg.line1": "\u60a8\u7684\u7528\u6236\u7aef\u8207 Realms \u4e0d\u76f8\u5bb9\u3002",
     "mco.client.incompatible.msg.line2": "\u8acb\u4f7f\u7528\u6700\u65b0\u7248\u672c\u7684 Minecraft\u3002",
     "mco.client.incompatible.msg.line3": "Realms \u8207\u5feb\u7167\u7248\u672c\u4e0d\u76f8\u5bb9",
-    "mco.client.incompatible.title": "\u5ba2\u6236\u7aef\u4e0d\u76f8\u5bb9\uff01",
+    "mco.client.incompatible.title": "\u7528\u6236\u7aef\u4e0d\u76f8\u5bb9\uff01",
     "mco.client.outdated.msg.line1": "\u60a8\u7684\u7528\u6236\u7aef\u7248\u672c\u592a\u820a\u4e26\u8207 Realms \u4e0d\u76f8\u5bb9\u3002",
     "mco.client.outdated.msg.line2": "\u8acb\u5347\u7d1a\u81f3\u6700\u65b0\u7248\u672c\u7684 Minecraft\u3002",
     "mco.client.outdated.title": "\u7528\u6236\u7aef\u7248\u672c\u592a\u820a\uff01",

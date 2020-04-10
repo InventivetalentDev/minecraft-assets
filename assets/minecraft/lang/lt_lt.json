@@ -3399,7 +3399,7 @@
     "multiplayer.title": "\u017daisti tinkle",
     "multiplayerWarning.check": "Daugiau nerodyti \u0161io ekrano",
     "multiplayerWarning.header": "\u017daidimas tinkle nereitinguotas",
-    "multiplayerWarning.message": "\u017daisdami tinkle galite susidurti su teksto \u017einut\u0117mis ar kitu vartotoj\u0173 sugeneruotu turiniu, kuris nebuvo reitinguotas, ir tod\u0117l gali netikti vis\u0173 am\u017ei\u0173 \u017emon\u0117ms.",
+    "multiplayerWarning.message": "\u017daisdami tinkle galite susidurti su teksto \u017einut\u0117mis ar kitu vartotoj\u0173 sugeneruotu t\u016brini\u0173, kuris nebuvo reitinguotas, ir tod\u0117l gali netikti vis\u0173 am\u017ei\u0173 \u017emon\u0117ms.",
     "narration.suggestion": "Pasirinktas pasi\u016blymas %s i\u0161 %s: %s",
     "narration.suggestion.tooltip": "Pasirinktas pasi\u016blymas %s i\u0161 %s: %s (%s)",
     "narrator.button.accessibility": "Prieinamumas",

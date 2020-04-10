@@ -59,6 +59,7 @@
     "mco.configure.world.edit.subscreen.experience": "Qualques param\u00e8tres son desactivats perque v\u00f2stre monde actual es una experi\u00e9ncia",
     "mco.configure.world.edit.subscreen.inspiration": "Qualques param\u00e8tres son desactivats perque v\u00f2stre monde actual es una inspiracion",
     "mco.configure.world.forceGameMode": "For\u00e7ar lo cambi de m\u00f2de de j\u00f2c",
+    "mco.configure.world.invite.narration": "Tu as %s nov\u00e8ls convits",
     "mco.configure.world.invite.profile.name": "Nom",
     "mco.configure.world.invited": "Convidat",
     "mco.configure.world.invites.normal.tooltip": "Utilizator Normal",
@@ -206,6 +207,8 @@
     "mco.template.info.tooltip": "Siti de l'editor",
     "mco.template.name": "Mod\u00e8l",
     "mco.template.select.failure": "Av\u00e8m pas pogut recuperar la lista del contengut per aqu\u00e8sta categoria.\nSe vos plai, verificatz v\u00f2stra connexion internet, o tornar ensajar mai tard.",
+    "mco.template.select.narrate.authors": "Autors: %s",
+    "mco.template.select.narrate.version": "version %s",
     "mco.template.select.none": "Ops, sembla que lo contengut d'aqu\u00e8sta categoria es actualament vu\u00e8g.\nSe vos plai, verificatz mai tard per de contengut nov\u00e8l, o se s\u00e8tz un creator, %s.",
     "mco.template.select.none.linkTitle": "pensatz de sometre quic\u00f2m vosautres-meteisses",
     "mco.template.title": "Mod\u00e8ls de Monde",
@@ -233,5 +236,6 @@
     "mco.upload.size.failure.line1": "'%s' es tr\u00f2p grand!",
     "mco.upload.size.failure.line2": "Fa %s. Lo maximom autorizat es %s.",
     "mco.upload.uploading": "Televersament de \"%s\"",
-    "mco.upload.verifying": "Verificacion de v\u00f2stra mapa"
+    "mco.upload.verifying": "Verificacion de v\u00f2stra mapa",
+    "narrator.select.list.position": "item %s de %s"
 }

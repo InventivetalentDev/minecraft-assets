@@ -605,9 +605,19 @@
             "name": "Boarisch",
             "bidirectional": false
         },
+        "esan": {
+            "region": "Andalu\u00e7\u00eda",
+            "name": "Andal\u00fbh",
+            "bidirectional": false
+        },
         "scn": {
             "region": "Sicilia",
             "name": "Sicilianu",
+            "bidirectional": false
+        },
+        "isv": {
+            "region": "Slavija",
+            "name": "Med\u017euslovjansky",
             "bidirectional": false
         }
     },

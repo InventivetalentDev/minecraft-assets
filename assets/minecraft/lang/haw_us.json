@@ -950,6 +950,7 @@
     "multiplayer.texturePrompt.line1": "Keia kikowaena ia kekahi i ka hana o ka oihana mau p\u016b\u02bbolo.",
     "multiplayer.texturePrompt.line2": "Anei oe makemake e onoaiiaea ia mea n\u014dna iho?",
     "multiplayer.title": "P\u0101\u02bbani a me kekahi poe kanaka",
+    "narration.suggestion.tooltip": "Mana\u02bbo i koho \u02bbia %s i waho o %s: %s (%s)",
     "narrator.button.accessibility": "Loa\u02bba",
     "narrator.button.difficulty_lock": "\u02bbO ka laka pa\u02bbakik\u012b",
     "narrator.button.difficulty_lock.locked": "Ku\u02bbe\u02bbia",

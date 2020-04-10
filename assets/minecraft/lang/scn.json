@@ -1878,7 +1878,7 @@
     "commands.experience.query.points": "%s ha %s punti esperienza",
     "commands.experience.set.levels.success.multiple": "I livelli di esperienza di %2$s giocatori sono stati impostati a %1$s",
     "commands.experience.set.levels.success.single": "I livelli di esperienza di %2$s sono stati impostati a %1$s",
-    "commands.experience.set.points.invalid": "Impossibile impostare punti esperienza sopra il massimo dell'attuale livello del giocatore",
+    "commands.experience.set.points.invalid": "I punti esperienza non possono essere maggiori del massimo consentito dall'attuale livello del giocatore",
     "commands.experience.set.points.success.multiple": "I punti esperienza di %2$s giocatori sono stati impostati a %1$s",
     "commands.experience.set.points.success.single": "I punti esperienza di %2$s sono stati impostati a %1$s",
     "commands.fill.failed": "Nessun blocco \u00e8 stato piazzato",

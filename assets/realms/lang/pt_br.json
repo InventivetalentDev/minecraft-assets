@@ -192,7 +192,7 @@
     "mco.selectServer.locked": "Realm bloqueado",
     "mco.selectServer.mapOnlySupportedForVersion": "Este mapa n\u00e3o \u00e9 compat\u00edvel na %s",
     "mco.selectServer.minigame": "Minijogo:",
-    "mco.selectServer.minigameNotSupportedInVersion": "N\u00e3o \u00e9 poss\u00edvel jogar esse minijogo na %s",
+    "mco.selectServer.minigameNotSupportedInVersion": "Este minijogo n\u00e3o \u00e9 compat\u00edvel na %s",
     "mco.selectServer.note": "Nota:",
     "mco.selectServer.open": "Realm aberto",
     "mco.selectServer.openserver": "Abrir realm",

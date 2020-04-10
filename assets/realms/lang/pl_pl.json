@@ -4,7 +4,7 @@
     "mco.account.update": "Zaktualizuj konto",
     "mco.activity.noactivity": "Brak aktywno\u015bci w ci\u0105gu ostatnich %s dni",
     "mco.activity.title": "Aktywno\u015b\u0107 graczy",
-    "mco.backup.button.download": "Pobierz najnowszy",
+    "mco.backup.button.download": "Pobierz najnowsz\u0105",
     "mco.backup.button.reset": "Resetuj \u015bwiat",
     "mco.backup.button.restore": "Przywr\u00f3\u0107",
     "mco.backup.button.upload": "Prze\u015blij sw\u00f3j \u015bwiat",
@@ -31,7 +31,7 @@
     "mco.client.outdated.title": "Nieaktualny klient!",
     "mco.configure.current.minigame": "Aktualna",
     "mco.configure.world.activityfeed.disabled": "Wykres aktywno\u015bci graczy jest tymczasowo niedost\u0119pny",
-    "mco.configure.world.backup": "Kopie zapasowe \u015bwiata",
+    "mco.configure.world.backup": "Kopie zapasowe",
     "mco.configure.world.buttons.activity": "Aktywno\u015b\u0107 gracza",
     "mco.configure.world.buttons.close": "Zamknij realm",
     "mco.configure.world.buttons.delete": "Usu\u0144",
@@ -237,5 +237,5 @@
     "mco.upload.size.failure.line2": "Wynosi %s. Maksymalny dozwolony rozmiar to %s.",
     "mco.upload.uploading": "Przesy\u0142anie '%s'",
     "mco.upload.verifying": "Weryfikowanie Twojego \u015bwiata",
-    "narrator.select.list.position": "przedmiot %s z %s"
+    "narrator.select.list.position": "element %s. z %s"
 }

@@ -59,7 +59,7 @@
     "mco.configure.world.edit.subscreen.experience": "Nekatere stvari so onemogo\u010dene, saj je trenutni svet izku\u0161nja",
     "mco.configure.world.edit.subscreen.inspiration": "Nekatere stvari so onemogo\u010dene, saj je trenutni svet navdih",
     "mco.configure.world.forceGameMode": "Vsili na\u010din igranja",
-    "mco.configure.world.invite.narration": "Ima\u0161 %s novih povabil",
+    "mco.configure.world.invite.narration": "%s novih povabil",
     "mco.configure.world.invite.profile.name": "Ime",
     "mco.configure.world.invited": "Povabljeni",
     "mco.configure.world.invites.normal.tooltip": "Navaden uporabnik",
