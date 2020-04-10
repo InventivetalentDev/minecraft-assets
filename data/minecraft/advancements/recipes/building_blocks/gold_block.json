@@ -6,15 +6,12 @@
     ]
   },
   "criteria": {
-    "has_at_least_9_gold_ingot": {
+    "has_gold_ingot": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:gold_ingot",
-            "count": {
-              "min": 9
-            }
+            "item": "minecraft:gold_ingot"
           }
         ]
       }
@@ -28,7 +25,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_gold_ingot",
+      "has_gold_ingot",
       "has_the_recipe"
     ]
   ]

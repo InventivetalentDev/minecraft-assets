@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/clay" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/clay"
     }
+  }
 }

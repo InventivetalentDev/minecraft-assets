@@ -1,4 +1,4 @@
-#version 120
+#version 110
 
 uniform sampler2D DiffuseSampler;
 
@@ -7,9 +7,9 @@ varying vec2 oneTexel;
 
 uniform vec2 InSize;
 
-uniform float Resolution = 4.0;
-uniform float Saturation = 1.5;
-uniform float MosaicSize = 8.0;
+uniform float Resolution;
+uniform float Saturation;
+uniform float MosaicSize;
 
 void main() {
     vec2 mosaicInSize = InSize / MosaicSize;

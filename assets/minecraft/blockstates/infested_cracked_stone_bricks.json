@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/cracked_stone_bricks" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/cracked_stone_bricks"
     }
+  }
 }

@@ -1,8 +1,19 @@
 {
-    "variants": {
-        "facing=east": { "model": "block/bubble_coral_wall_fan", "y": 90 },
-        "facing=south": { "model": "block/bubble_coral_wall_fan", "y": 180 },
-        "facing=west": { "model": "block/bubble_coral_wall_fan", "y": 270 },
-        "facing=north": { "model": "block/bubble_coral_wall_fan", "y": 0 }
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/bubble_coral_wall_fan",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "minecraft:block/bubble_coral_wall_fan"
+    },
+    "facing=south": {
+      "model": "minecraft:block/bubble_coral_wall_fan",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecraft:block/bubble_coral_wall_fan",
+      "y": 270
     }
+  }
 }

@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/fern" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/fern"
     }
+  }
 }
