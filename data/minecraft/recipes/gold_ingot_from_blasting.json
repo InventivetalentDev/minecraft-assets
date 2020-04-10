@@ -1,7 +1,7 @@
 {
   "type": "minecraft:blasting",
   "ingredient": {
-    "item": "minecraft:gold_ore"
+    "tag": "minecraft:gold_ores"
   },
   "result": "minecraft:gold_ingot",
   "experience": 1.0,

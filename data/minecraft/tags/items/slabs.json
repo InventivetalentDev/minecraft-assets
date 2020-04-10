@@ -1,16 +1,11 @@
 {
   "replace": false,
   "values": [
+    "#minecraft:wooden_slabs",
     "minecraft:stone_slab",
     "minecraft:smooth_stone_slab",
     "minecraft:stone_brick_slab",
     "minecraft:sandstone_slab",
-    "minecraft:acacia_slab",
-    "minecraft:birch_slab",
-    "minecraft:dark_oak_slab",
-    "minecraft:jungle_slab",
-    "minecraft:oak_slab",
-    "minecraft:spruce_slab",
     "minecraft:purpur_slab",
     "minecraft:quartz_slab",
     "minecraft:red_sandstone_slab",
@@ -33,6 +28,8 @@
     "minecraft:andesite_slab",
     "minecraft:red_nether_brick_slab",
     "minecraft:polished_andesite_slab",
-    "minecraft:diorite_slab"
+    "minecraft:diorite_slab",
+    "minecraft:cut_sandstone_slab",
+    "minecraft:cut_red_sandstone_slab"
   ]
 }

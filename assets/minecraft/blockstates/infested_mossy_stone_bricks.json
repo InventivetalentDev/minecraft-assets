@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/mossy_stone_bricks" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/mossy_stone_bricks"
     }
+  }
 }
