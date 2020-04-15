@@ -76,7 +76,7 @@
     "mco.configure.world.players.title": "Lojtar\u00ebt",
     "mco.configure.world.pvp": "Lojtar Kund\u00ebr Lojtar (PVP)",
     "mco.configure.world.reset.question.line1": "Bota juaj do t\u00eb rigjenerohet dhe bota e tanishme do te humbet",
-    "mco.configure.world.reset.question.line2": "A jeni t\u00eb sigurt\u00eb q\u00eb doni ta b\u00ebni k\u00ebt\u00eb?",
+    "mco.configure.world.reset.question.line2": "A jeni i sigurt q\u00eb doni t\u00eb vazhdoni?",
     "mco.configure.world.resourcepack.question.line1": "Ky realm k\u00ebrkon nj\u00eb paket\u00eb burimesh t\u00eb personalizuar",
     "mco.configure.world.resourcepack.question.line2": "A doni ta shkarkoni dhe instaloni at\u00eb automatikisht p\u00ebr t\u00eb luajtur?",
     "mco.configure.world.restore.download.question.line1": "Kjo bot do te shkarkohet dhe do te shtohet tek botat e juaja single player.",

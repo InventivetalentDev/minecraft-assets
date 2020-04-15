@@ -185,7 +185,7 @@
     "mco.selectServer.expiredSubscribe": "\u8ba2\u9605",
     "mco.selectServer.expiredTrial": "\u4f60\u7684\u8bd5\u7528\u671f\u5df2\u7ed3\u675f",
     "mco.selectServer.expires.day": "\u5c06\u5728\u4e00\u5929\u5185\u8fc7\u671f",
-    "mco.selectServer.expires.days": "\u5c06\u5728 %s \u5929\u540e\u8fc7\u671f",
+    "mco.selectServer.expires.days": "\u5c06\u5728%s\u5929\u540e\u8fc7\u671f",
     "mco.selectServer.expires.soon": "\u5373\u5c06\u8fc7\u671f",
     "mco.selectServer.info": "\u201cRealms\u201d\u662f\u4ec0\u4e48\uff1f",
     "mco.selectServer.leave": "\u9000\u51faRealm",

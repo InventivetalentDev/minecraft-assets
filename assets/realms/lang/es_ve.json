@@ -24,7 +24,7 @@
     "mco.brokenworld.title": "Tu mundo actual ya no es compatible",
     "mco.client.incompatible.msg.line1": "Tu cliente no es compatible con Minecraft Realms.",
     "mco.client.incompatible.msg.line2": "Por favor, usa la versi\u00f3n m\u00e1s reciente de Minecraft.",
-    "mco.client.incompatible.msg.line3": "Realms no es compatible con las versiones de prueba (snapshots).",
+    "mco.client.incompatible.msg.line3": "Realms no es compatible con las versiones snapshot.",
     "mco.client.incompatible.title": "\u00a1Cliente incompatible!",
     "mco.client.outdated.msg.line1": "Tu cliente est\u00e1 desactualizado y no es compatible con Realms.",
     "mco.client.outdated.msg.line2": "Por favor, actualiza a la versi\u00f3n m\u00e1s reciente de Minecraft.",

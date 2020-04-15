@@ -330,8 +330,13 @@
             "name": "English",
             "bidirectional": false
         },
+        "tl_ph": {
+            "region": "Pilipinas",
+            "name": "Tagalog",
+            "bidirectional": false
+        },
         "yi_de": {
-            "region": "\u05e4\u05bf\u05d0\u05b7\u05e8\u05d0\u05f2\u05e0\u05d9\u05e7\u05d8\u05e2 \u05e9\u05d8\u05d0\u05b7\u05d8\u05df",
+            "region": "\u05d0\u05e9\u05db\u05e0\u05d6\u05d9\u05e9\u05e2 \u05d9\u05d9\u05d3\u05df",
             "name": "\u05d9\u05d9\u05b4\u05d3\u05d9\u05e9",
             "bidirectional": true
         },
@@ -577,7 +582,7 @@
         },
         "szl": {
             "region": "G\u014drny \u015al\u014dnsk",
-            "name": "\u015al\u014dnski",
+            "name": "\u015al\u014dnsk\u014f",
             "bidirectional": false
         },
         "ovd": {

@@ -915,6 +915,7 @@
     "options.forceUnicodeFont": "Screeu ayns font Unicode",
     "options.fov": "Uillin Reayrt",
     "options.fov.max": "Smoo",
+    "options.framerate": "%s fps",
     "options.framerateLimit": "Leahys Chaslyssyn Smoo",
     "options.framerateLimit.max": "Gyn \u00c7heorey",
     "options.fullscreen": "Lane Scaailan",

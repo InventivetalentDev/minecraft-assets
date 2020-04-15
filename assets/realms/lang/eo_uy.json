@@ -1,6 +1,6 @@
 {
     "mco.account.privacy.info": "Legu plu pri Mojang kaj privatecole\u011dojn",
-    "mco.account.privacyinfo": "Mojang implementas specifaj proceduroj por helpi protekti infanojn kaj siajn privateco, inkluzive respekti kun la Akto pri Infanojn Privateco Protekto en la Interreto (COPPA) kaj la \u011cenerala Datum-Protekta Regularo (GDPR).\n\nVi eble bezonos akiri konsenton de gepatroj anta\u016d aliri vian konton de Realms.\n\nSe vi havas pli malnovan konton de Minecraft (vi ensalutas kun via uzantnomo), vi devas migri la konton al konto Mojang por aliri Realms.",
+    "mco.account.privacyinfo": "Mojang implementas specifaj proceduroj por helpi protekti infanojn kaj sia privateco, inkluzive respekti kun la Akto pri Infanojn Privateco Protekto en la Interreto (COPPA) kaj la \u011cenerala Datumo-Protekta Regularo (GDPR).\n\nVi eble bezonos akiri konsenton de gepatroj anta\u016d ol aliri vian konton de Realms.\n\nSe vi havas pli malnovan konton de Minecraft (vi ensalutas kun via uzantnomo), vi devas migri la konto al konto Mojang por aliri Realms.",
     "mco.account.update": "\u011cisdatigu konton",
     "mco.activity.noactivity": "Nenion de aktiveco por la pasintaj %s tagoj",
     "mco.activity.title": "Activeco de ludantoj",
@@ -209,7 +209,7 @@
     "mco.template.select.failure": "Ni ne povis rekuperi la liston de enhavo por \u0109i tio kategorio.\nBonvolu kontroli via konektado al Interreto, a\u016d provu denove poste.",
     "mco.template.select.narrate.authors": "A\u016dtoroj: %s",
     "mco.template.select.narrate.version": "versio: %s",
-    "mco.template.select.none": "Ups, \u011di \u015dajnas ke \u0109i tio enhavokategorio estas aktuale malplena.\nBonvolu rekontroli poste por pli enhavo, a\u016d se via estas kreinto, %s.",
+    "mco.template.select.none": "Ups, \u011di \u015dajnas ke \u0109i tiu enhavo-kategorio estas aktuale malplena.\nBonvolu rekontroli poste por pli enhavo, a\u016d se via estas kreinto, %s.",
     "mco.template.select.none.linkTitle": "konsideru sendi ion vi mem",
     "mco.template.title": "Mond\u015dablonoj",
     "mco.template.title.minigame": "Ludetoj",
