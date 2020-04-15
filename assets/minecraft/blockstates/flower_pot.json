@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/flower_pot" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/flower_pot"
     }
+  }
 }

@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/fletching_table" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/fletching_table"
     }
+  }
 }

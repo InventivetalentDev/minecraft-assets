@@ -1,6 +1,5 @@
 {
-    "textures": {
-        "particle": "item/barrier"
-    }
+  "textures": {
+    "particle": "minecraft:item/barrier"
+  }
 }
-

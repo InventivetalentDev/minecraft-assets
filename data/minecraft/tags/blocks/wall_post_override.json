@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:torch",
+    "minecraft:soul_fire_torch",
+    "minecraft:redstone_torch",
+    "minecraft:tripwire",
+    "#minecraft:signs"
+  ]
+}

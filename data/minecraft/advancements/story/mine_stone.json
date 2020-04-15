@@ -2,7 +2,8 @@
   "parent": "minecraft:story/root",
   "display": {
     "icon": {
-      "item": "minecraft:wooden_pickaxe"
+      "item": "minecraft:wooden_pickaxe",
+      "nbt": "{Damage:0}"
     },
     "title": {
       "translate": "advancements.story.mine_stone.title"
