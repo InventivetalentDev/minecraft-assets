@@ -1,7 +1,16 @@
 {
-    "variants": {
-        "axis=y": { "model": "block/birch_wood" },
-        "axis=z": { "model": "block/birch_wood", "x": 90 },
-        "axis=x": { "model": "block/birch_wood", "x": 90, "y": 90 }
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/birch_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "minecraft:block/birch_wood"
+    },
+    "axis=z": {
+      "model": "minecraft:block/birch_wood",
+      "x": 90
     }
+  }
 }

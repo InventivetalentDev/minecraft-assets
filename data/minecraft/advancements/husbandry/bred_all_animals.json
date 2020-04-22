@@ -130,6 +130,22 @@
           "type": "minecraft:fox"
         }
       }
+    },
+    "minecraft:bee": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:bee"
+        }
+      }
+    },
+    "minecraft:hoglin": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:hoglin"
+        }
+      }
     }
   },
   "requirements": [
@@ -174,6 +190,12 @@
     ],
     [
       "minecraft:fox"
+    ],
+    [
+      "minecraft:bee"
+    ],
+    [
+      "minecraft:hoglin"
     ]
   ]
 }
