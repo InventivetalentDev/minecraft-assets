@@ -26,6 +26,7 @@
     "mco.configure.world.edit.subscreen.experience": "Di\u1eb9 ninu aw\u1ecdn eto j\u1eb9 alaabo niwon agbaye l\u1ecdw\u1ecdl\u1ecdw\u1ecd r\u1eb9 j\u1eb9 iriri",
     "mco.configure.world.edit.subscreen.inspiration": "Di\u1eb9 ninu aw\u1ecdn eto j\u1eb9 alaabo niwon agbaye l\u1ecdw\u1ecdl\u1ecdw\u1ecd r\u1eb9 j\u1eb9 awokose",
     "mco.configure.world.forceGameMode": "Ipo ere agbara",
+    "mco.configure.world.invite.narration": "O ni aw\u1ecdn ifiwepe tuntun s%% ti",
     "mco.configure.world.invite.profile.name": "Oruko",
     "mco.configure.world.invited": "O pe",
     "mco.configure.world.invites.normal.tooltip": "Olumulo deede",
@@ -139,9 +140,12 @@
     "mco.selectServer.uninitialized": "T\u1eb9 lati b\u1eb9r\u1eb9 ij\u1ecdba titun r\u1eb9!",
     "mco.template.button.publisher": "Oludasile",
     "mco.template.button.trailer": "Trailer",
+    "mco.template.select.narrate.authors": "Aw\u1ecdn onk\u1ecdwe:%s",
+    "mco.template.select.narrate.version": "\u1eb9ya %s",
     "mco.terms.buttons.agree": "Gba",
     "mco.terms.buttons.disagree": "Ma \u1e63e gba",
     "mco.terms.sentence.1": "Mo ti gba aw\u1ecdn Ile-i\u1e63\u1eb9 Minecraft",
     "mco.terms.sentence.2": "Aw\u1ecdn ofin ti i\u1e63\u1eb9",
-    "mco.terms.title": "Aw\u1ecdn ofin imulo Im\u1ecdjuye ti I\u1e63\u1eb9"
+    "mco.terms.title": "Aw\u1ecdn ofin imulo Im\u1ecdjuye ti I\u1e63\u1eb9",
+    "narrator.select.list.position": "ohunkan%s jade ninu%s"
 }

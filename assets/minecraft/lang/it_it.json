@@ -3597,7 +3597,7 @@
     "resourcePack.incompatible.confirm.title": "Vuoi davvero caricare questo pacchetto di risorse?",
     "resourcePack.incompatible.new": "(Creato per una versione di Minecraft pi\u00f9 recente)",
     "resourcePack.incompatible.old": "(Creato per una versione di Minecraft pi\u00f9 vecchia)",
-    "resourcePack.load_fail": "Ricaricamento delle risorse non riuscito",
+    "resourcePack.load_fail": "Imposs. ricaricare risorse",
     "resourcePack.openFolder": "Apri la cartella dei pacchetti",
     "resourcePack.selected.title": "Pacchetti selezionati",
     "resourcePack.server.name": "Risorse specifiche del mondo",

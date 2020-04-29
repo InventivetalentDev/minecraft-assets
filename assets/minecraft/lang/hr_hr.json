@@ -3623,7 +3623,7 @@
     "selectWorld.allowCommands": "Dozvoli varanje:",
     "selectWorld.allowCommands.info": "Naredbe poput /gamemode, /experience",
     "selectWorld.backupEraseCache": "Izbri\u0161i predmemorirane podatke",
-    "selectWorld.backupJoinConfirmButton": "Napravi sigurnosnu kopiju i u\u010ditaj",
+    "selectWorld.backupJoinConfirmButton": "Sigurnosno kopiraj i u\u010ditaj",
     "selectWorld.backupJoinSkipButton": "Znam \u0161to radim!",
     "selectWorld.backupQuestion": "Stvarno \u017eelite u\u010ditati ovaj svijet?",
     "selectWorld.backupQuestion.customized": "Prilago\u0111eni svjetovi vi\u0161e nisu podr\u017eani",

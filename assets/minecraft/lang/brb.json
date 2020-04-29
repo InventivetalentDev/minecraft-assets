@@ -1835,7 +1835,7 @@
     "commands.debug.notRunning": "Debugprofileerder is nog niet gestart",
     "commands.debug.reportFailed": "Kon geen debugrapport aanmaken",
     "commands.debug.reportSaved": "Debugrapport opgeslagen in %s",
-    "commands.debug.started": "Foutopsporingsprofilering gestart",
+    "commands.debug.started": "Debugprofilering gestart",
     "commands.debug.stopped": "Debugprofilering gestopt na %s seconde(n) en %s tick(s) (%s tick(s) per seconde)",
     "commands.defaultgamemode.success": "De standaardspelmodus is nu %s",
     "commands.deop.failed": "Niets gewijzigd, omdat deze speler al geen beheerder is",

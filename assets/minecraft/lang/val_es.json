@@ -2289,7 +2289,7 @@
     "death.attack.netherBed.link": "Intenci\u00f3 del disseny del joc",
     "death.attack.netherBed.message": "%1$s ha sigut assassinat per %2$s",
     "death.attack.onFire": "%1$s s'ha socarrat i ha mort",
-    "death.attack.onFire.player": "%1$s s'ha cremat menter lluitava amb %2$s",
+    "death.attack.onFire.player": "%1$s s'ha cremat mentre lluitava contra %2$s",
     "death.attack.outOfWorld": "%1$s ha caigut al buit",
     "death.attack.outOfWorld.player": "%1$s no volia viure al mateix m\u00f3n que %2$s",
     "death.attack.player": "%1$s ha sigut assassinat per %2$s",

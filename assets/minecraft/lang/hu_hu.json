@@ -2291,7 +2291,7 @@
     "death.attack.onFire": "%1$s \u00f6ssze\u00e9gett",
     "death.attack.onFire.player": "%1$s ropog\u00f3sra s\u00fclt, mik\u00f6zben vele harcolt: %2$s",
     "death.attack.outOfWorld": "%1$s kizuhant a vil\u00e1gb\u00f3l",
-    "death.attack.outOfWorld.player": "%1$s nem akart %2$s j\u00e1t\u00e9kossal egy vil\u00e1gban \u00e9lni",
+    "death.attack.outOfWorld.player": "%1$s nem akart ugyanabban a vil\u00e1gban \u00e9lni, mint %2$s",
     "death.attack.player": "%1$s %2$s \u00e1ldozata lett",
     "death.attack.player.item": "%1$s %2$s j\u00e1t\u00e9kos %3$s nev\u0171 fegyver\u00e9nek \u00e1ldozata lett",
     "death.attack.starve": "%1$s \u00e9hen halt",

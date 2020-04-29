@@ -4064,7 +4064,7 @@
     "subtitles.entity.iron_golem.hurt": "G\u00f3lem de hierro herido",
     "subtitles.entity.iron_golem.repair": "G\u00f3lem de hierro repar\u00e1ndose",
     "subtitles.entity.item.break": "Objeto destruido",
-    "subtitles.entity.item.pickup": "Objeto ca\u00eddo",
+    "subtitles.entity.item.pickup": "Objeto recogido",
     "subtitles.entity.item_frame.add_item": "Objeto colocado en un marco",
     "subtitles.entity.item_frame.break": "Marco destruido",
     "subtitles.entity.item_frame.place": "Marco colocado",

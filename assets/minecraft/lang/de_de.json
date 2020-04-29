@@ -3323,7 +3323,7 @@
     "menu.options": "Optionen \u2026",
     "menu.paused": "Spiel angehalten",
     "menu.playdemo": "Demo-Welt spielen",
-    "menu.preparingSpawn": "Einstiegsbereich wird vorbereitet: %s%%",
+    "menu.preparingSpawn": "Einstiegsbereich wird vorbereitet: %s %%",
     "menu.quit": "Spiel beenden",
     "menu.reportBugs": "Fehler melden",
     "menu.resetdemo": "Demo-Welt zur\u00fccksetzen",
