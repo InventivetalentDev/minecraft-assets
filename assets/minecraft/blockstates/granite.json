@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/granite" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/granite"
     }
+  }
 }

@@ -1,6 +1,6 @@
 {
-    "parent": "block/rail_flat",
-    "textures": {
-        "rail": "block/rail"
-    }
+  "parent": "minecraft:block/rail_flat",
+  "textures": {
+    "rail": "minecraft:block/rail"
+  }
 }

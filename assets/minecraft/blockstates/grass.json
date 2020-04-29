@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/grass" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/grass"
     }
+  }
 }

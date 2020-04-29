@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/lime_wool" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/lime_wool"
     }
+  }
 }

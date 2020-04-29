@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/oak_sign" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/oak_sign"
     }
+  }
 }

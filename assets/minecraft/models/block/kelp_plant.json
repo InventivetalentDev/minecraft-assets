@@ -1,6 +1,6 @@
 {
-    "parent": "block/tinted_cross",
-    "textures": {
-        "cross": "block/kelp_plant"
-    }
+  "parent": "minecraft:block/tinted_cross",
+  "textures": {
+    "cross": "minecraft:block/kelp_plant"
+  }
 }
