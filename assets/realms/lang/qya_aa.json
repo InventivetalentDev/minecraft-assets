@@ -1,10 +1,12 @@
 {
+    "mco.account.update": "A ceuta fea",
     "mco.brokenworld.play": "Tyale",
     "mco.configure.world.buttons.moreoptions": "Amb\u00eb cilmi",
     "mco.configure.world.buttons.players": "Tyaleri",
     "mco.configure.world.edit.slot.name": "Ambaro ess\u00eb",
     "mco.configure.world.invite.profile.name": "Ess\u00eb",
     "mco.configure.world.on": "N\u00e1",
+    "mco.configure.world.players.error": "Tyalindo le i esse um\u00eb ea",
     "mco.configure.world.players.title": "Tyaleri",
     "mco.configure.world.pvp": "TyTyn",
     "mco.configure.world.slot": "Ambar %s",
