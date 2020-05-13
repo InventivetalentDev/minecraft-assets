@@ -1,5 +1,14 @@
 {
+    "mco.account.update": "Konto aktualisiern",
+    "mco.activity.title": "Spieleraktivit\u00e4t",
+    "mco.client.incompatible.title": "Inkompatibla Cliant!",
+    "mco.client.outdated.title": "Vaoideta Cliant!",
     "mco.configure.world.buttons.done": "Feddi",
+    "mco.configure.world.invite.narration": "Du host %s neua Eilodunga",
+    "mco.configure.world.players.error": "'s existiad koa Schbuia mid dem Naman",
+    "mco.connect.success": "Feddi",
+    "mco.gui.button": "Gnobf",
     "mco.gui.ok": "Ok",
-    "mco.terms.buttons.agree": "Zustimmen"
+    "mco.selectServer.play": "Spiele",
+    "mco.terms.buttons.agree": "Zustimme"
 }

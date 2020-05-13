@@ -2,13 +2,14 @@
   "parent": "minecraft:husbandry/plant_seed",
   "display": {
     "icon": {
-      "item": "minecraft:diamond_hoe"
+      "item": "minecraft:netherite_hoe",
+      "nbt": "{Damage:0}"
     },
     "title": {
-      "translate": "advancements.husbandry.break_diamond_hoe.title"
+      "translate": "advancements.husbandry.netherite_hoe.title"
     },
     "description": {
-      "translate": "advancements.husbandry.break_diamond_hoe.description"
+      "translate": "advancements.husbandry.netherite_hoe.description"
     },
     "frame": "challenge",
     "show_toast": true,
@@ -19,19 +20,20 @@
     "experience": 100
   },
   "criteria": {
-    "broke_hoe": {
-      "trigger": "minecraft:item_durability_changed",
+    "netherite_hoe": {
+      "trigger": "minecraft:inventory_changed",
       "conditions": {
-        "item": {
-          "item": "minecraft:diamond_hoe"
-        },
-        "durability": 0
+        "items": [
+          {
+            "item": "minecraft:netherite_hoe"
+          }
+        ]
       }
     }
   },
   "requirements": [
     [
-      "broke_hoe"
+      "netherite_hoe"
     ]
   ]
 }

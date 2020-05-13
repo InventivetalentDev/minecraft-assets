@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/nether_wart_block" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/nether_wart_block"
     }
+  }
 }
