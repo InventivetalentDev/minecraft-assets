@@ -19,7 +19,9 @@
     "in_stronghold": {
       "trigger": "minecraft:location",
       "conditions": {
-        "feature": "stronghold"
+        "location": {
+          "feature": "stronghold"
+        }
       }
     }
   },
