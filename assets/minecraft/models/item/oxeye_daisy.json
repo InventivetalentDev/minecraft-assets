@@ -1,6 +1,6 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "block/oxeye_daisy"
-    }
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/oxeye_daisy"
+  }
 }

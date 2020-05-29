@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/spruce_sign" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/spruce_sign"
     }
+  }
 }
