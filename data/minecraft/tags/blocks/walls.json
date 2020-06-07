@@ -14,6 +14,9 @@
     "minecraft:red_nether_brick_wall",
     "minecraft:sandstone_wall",
     "minecraft:end_stone_brick_wall",
-    "minecraft:diorite_wall"
+    "minecraft:diorite_wall",
+    "minecraft:blackstone_wall",
+    "minecraft:polished_blackstone_brick_wall",
+    "minecraft:polished_blackstone_wall"
   ]
 }

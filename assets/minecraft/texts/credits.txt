@@ -1,19 +1,18 @@
 [C]§f============
 [C]§eMinecraft Team
 [C]§f============
- 
+
 §7Original Creator
 §f          Markus Persson
- 
+
 §7Chief Creative Officer
 §f          Jens Bergensten
 
 §7Producers
 §f          Adrian Östergård
-§f          Aleksandra Zajac
 §f          Dejan Dimic
 §f          Fredrik Telenius
-§f          Marie Stålkrantz
+§f          Isabella Arningsmark
 
 §7Lead Engineer
 §f          Nathan Adams
@@ -30,10 +29,9 @@
 §f          Thomas Guimbretière
 
 §7Launcher Tech Lead
-§f          Mike Carlson
+§f          Mikael Hedberg
 
 §7Launcher Developers
-§f          Mikael Hedberg
 §f          Petr Mrázek
 
 §7Realms Tech Lead
@@ -60,6 +58,7 @@
 §f          Adam Martinsson
 §f          Matthew Dryden
 §f          Oskar Thysell
+§f          Sara Lempiäinen
 
 §7Art Directors
 §f          Johan Aronsson
@@ -70,9 +69,6 @@
 §7Graphics Artists
 §f          Jasper Boerstra
 §f          Mattis Grahm
-
-§7User Experience Design Director
-§f          Tobias Ahlin
 
 §7User Experience Design
 §f          Lily Ekman
@@ -96,6 +92,7 @@
 §7Sound Design
 §f          Daniel Rosenfeld
 §f          Kevin Martinez
+§f          Peter Hont
 
 §7Music composed by
 §f          Daniel Rosenfeld
@@ -119,7 +116,7 @@
 §f          Ulrika Höjgård
 
 §7Chief Technology Officer
-§f          Rikard Herlitz
+§f          Mike Carlson
 
 §7Chief Brand Officer
 §f          Lydia Winters
@@ -129,12 +126,24 @@
 
 §7Human Resources
 §f          Maja Samuelsson
+§f          Viktoria Petersson
+
+§7Director of Finance
+§f          Marina Kostesic
+
+§7Director of New Games
+§f          Patrick Liu
 
 §7Game Director
 §f          Måns Olson
 
 §7Game Designers
+§f          Christian Berg
 §f          Max Herngren
+
+§7Lead Game Developers
+§f          Kristoffer Jelbring
+§f          Niklas Börestam
 
 §7Game Developers
 §f          Adrian Toncean
@@ -142,33 +151,36 @@
 §f          Aron Nieminen
 §f          Christan Berg
 §f          Daniel Wustenhoff
-§f          Isaac de la Vega
-§f          Jakob Pogulis
-§f          Jakob Ryden
-§f          Jon Kågström
-§f          Kristoffer Jelbring
+§f          Jakob Rydén
+§f          Jon Maiga
 §f          Mårten Helander
-§f          Niklas Börestam
 
 §7Art Leads
 §f          Daniel Björkefors
+§f          Telemachus Stavropoulos
+
+§7Graphic Designers
+§f          Wiktor Persson
+§f          Markus Karlsson
 
 §73D/VFX
 §f          Christian Nordgren
-§f          Elin Ölund Forsling
 §f          Jakob Gavelli
 
 §7Lead System Engineers
-§f          Tom Miles
+§f          Jifeng Zhang
+§f          Robert Sjödahl
 §f          Torbjörn Allard
 
 §7System Developers
+§f          Anders Martini
+§f          Maksim Ivanov
 §f          Maria Katsourani
 §f          Mikael Malmqvist
-§f          Jifeng Zhang
+§f          Joakim Ejenstam
 §f          Jonas Bergström
+§f          Petter Gisslen
 §f          Pär Axelsson
-§f          Robert Sjödahl
 §f          Stefan Torstensson
 §f          Wenlan Yang
 
@@ -181,24 +193,33 @@
 §7Production Director
 §f          Olof Carlson Sandvik
 
+§7Head of Creative Production
+§f          Sheila Ho
+
+§7Production Manager
+§f 			Klas Hammarström
+
 §7Producers
+§f          Adele Major
 §f          David Nisshagen
 §f          Hampus Nilsson
-§f          Johannes Söderberg
+§f          Johannes Fridd
+§f          Kaya Hatcher
+§f          Lisa Kempe
 §f          Moira Ingeltun
+§f          Nicolette Suraga
 §f          Sarah Carton
 §f          Sebastian Falk
-§f          Sheila Ho
 §f          Åsa Skogström
 
 §7Project Managers
-§f          Henrik Pettersson
 §f          Isabella Balk
-§f          Lisa Kempe
-§f          Nicolette Suraga
 
 §7Director of Creative Communications
 §f          Owen Jones
+
+§7Head of Marketing Communications
+§f          Thomas Wiborgh
 
 §7Creative Communications Assistant
 §f          Per Landin
@@ -217,37 +238,49 @@
 §f          Mattias Victorin
 
 §7Customer Support
-§f          Angehlica Walling
 §f          Anna Lundgren
+§f          Andreas Thomasson
 §f          Antonia Kousathana
+§f          Cecilia Flumé
 §f          Cim Borg
 §f          David Stuart Dahlgren
 §f          Ellie Ashrafi
+§f          Fredrik Sandström
 §f          Freja Fors
 §f          Jonny Hair
 §f          Nasim Derakhshan
-§f          Nicole Jansson
+§f          Nima Tolouifar
 §f          Patrik Södergren
 §f          Rui Ribeiro
 §f          Sarah Mårtensson
 
-§7Office Managers
-§f          Alex Andersson
+§7Office Manager
 §f          Siri Hoel Andersson
 
-§7Finance Manager
-§f          Marina Kostesic
+§7Office Coordinators
+§f          Aleksandra Zajac
+§f          Joël Älveroth
 
-§7Finance Accountants
+§7Reception Manager
+§f          Chaimae Truving
+
+§7Financial Accountant
 §f          Josefina Axelsson
 
-§7IT Wizard
+§7IT Wizards
+§f          Cesar Sima Falck
 §f          Shoghi Cervantes
 
-§7Product Designers
+§7Product Designer Team Lead
 §f          Amanda Ström
+
+§7Product Designers
 §f          Filip Thoms
 §f          Jennifer Hammervald
+§f          Sherin Kwan
+
+§7Motion Graphics Designer
+§f          Kim Petersen
 
 §7Intellectual Property Enforcement Team Lead
 §f          Olle Personne
@@ -256,6 +289,8 @@
 §f          Mathias Andersson
 §f          Matilda Åkerman
 §f          Marcus Forss
+§f          Sylvia Chen
+§f          Johan Hedlund
 
 [C]§f===========
 [C]§eMojang Alumni
@@ -267,11 +302,20 @@
 §7Chief Finance Officer
 §f          Karin Severinson
 
+§7Chief Technology Officer
+§f          Rikard Herlitz
+
 §7Project Directors
 §f          Jakob Porsér
 
 §7Production Director
 §f          Daniel Kaplan
+
+§7Game Director
+§f          Henrik Pettersson
+
+§7Producers
+§7 			Marie Stålkrantz
 
 §7Assistant Producers
 §f          Warren Loo
@@ -279,6 +323,8 @@
 §7Game Developers
 §f          Christian Westman
 §f          Daniel Frisk
+§f          Isaac de la Vega
+§f          Jakob Pogulis
 §f          Johan Bernhardsson
 §f          Magnus Bentling
 §f          Markus Arvidsson
@@ -286,15 +332,24 @@
 §f          Ryan Holtz
 §f          Tobias Möllstam
 
+§73D/VFX
+§f          Elin Ölund Forsling
+
+§7User Experience Design Director
+§f          Tobias Ahlin
+
 §7Additional Programming
 §f          Elliot 'Hippoplatimus' Segal
 §f          Paul Spooner
 §f          Ryan 'Scaevolus' Hitchman
 
+§7Lead System Engineers
+§f          Tom Miles
+§f          Tomas Sommar
+
 §7System Developers
 §f          Leonard Gram
 §f          Martin Odhelius
-§f          Tomas Sommar
 
 §7Realms Developers
 §f          Amir Moulavi
@@ -320,6 +375,9 @@
 §7Creative Communications Manager
 §f          Martin Davies
 
+§7Creative Communications Assistant
+§f          Emily Richardson
+
 §7Business Intelligence
 §f          Brynjólfur Erlingsson
 
@@ -328,15 +386,14 @@
 §f          Ana Barata Martins
 §f          Andreas Andersson
 §f          Andreas Jörgensen
+§f          Angehlica Walling
 §f          Annika Tripke-Lund
 §f          Anton Albiin
 §f          Carl Johnsson
-§f          Cecilia Flumé
 §f          Dante Stjernberg
 §f          David Carlsson
 §f          Elin Frykholm
 §f          Eliza Hearsum
-§f          Emily Richardson
 §f          Erik Nordberg
 §f          Fredrik Henriksson
 §f          Henrik Davallius
@@ -344,21 +401,23 @@
 §f          Joe Liu
 §f          Kevin Vesterlund
 §f          Mike Till
+§f          Nicole Jansson
 §f          Rabi Hadad
 §f          Robert Miskiewicz
 §f          Robin Cocks
 §f          Robin Thunström
 §f          Theodor Colbing
- 
+
 §7Office Managers
+§f          Alex Andersson
 §f          Charlotte Wredesjö
 §f          Jill Curran
 §f          Linn Hultman
+§f          Mikaela Prim
 
 [C]§f============
 [C]§eSpecial Thanks
 [C]§f============
-
 §f          Daniel Brynolf
 §f          Pontus Hammarberg
 

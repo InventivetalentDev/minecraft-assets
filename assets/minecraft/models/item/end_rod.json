@@ -1,6 +1,3 @@
 {
-    "parent": "block/end_rod",
-    "textures": {
-        "layer0": "block/end_rod"
-    }
+  "parent": "minecraft:block/end_rod"
 }

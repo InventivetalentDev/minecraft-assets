@@ -12,7 +12,7 @@
               "source": "block_entity",
               "ops": [
                 {
-                  "source": "Owner",
+                  "source": "SkullOwner",
                   "target": "SkullOwner",
                   "op": "replace"
                 }

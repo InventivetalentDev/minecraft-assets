@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/acacia_planks" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/acacia_planks"
     }
+  }
 }
