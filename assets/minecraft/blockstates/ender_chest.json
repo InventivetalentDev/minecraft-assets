@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/ender_chest" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/ender_chest"
     }
+  }
 }

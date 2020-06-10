@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/glowstone" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/glowstone"
     }
+  }
 }

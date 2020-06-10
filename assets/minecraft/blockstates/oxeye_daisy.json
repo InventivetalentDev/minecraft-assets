@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/oxeye_daisy" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/oxeye_daisy"
     }
+  }
 }

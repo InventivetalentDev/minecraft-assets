@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/iron_ore" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/iron_ore"
     }
+  }
 }

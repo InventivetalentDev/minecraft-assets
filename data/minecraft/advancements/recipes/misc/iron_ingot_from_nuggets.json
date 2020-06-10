@@ -6,15 +6,12 @@
     ]
   },
   "criteria": {
-    "has_at_least_9_iron_nugget": {
+    "has_iron_nugget": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:iron_nugget",
-            "count": {
-              "min": 9
-            }
+            "item": "minecraft:iron_nugget"
           }
         ]
       }
@@ -28,7 +25,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_iron_nugget",
+      "has_iron_nugget",
       "has_the_recipe"
     ]
   ]
