@@ -1,6 +1,6 @@
 {
-    "parent": "block/template_wall_post",
-    "textures": {
-        "wall": "block/red_sandstone"
-    }
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "minecraft:block/red_sandstone"
+  }
 }

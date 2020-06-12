@@ -1,5 +1,6 @@
 {
     "parent": "builtin/generated",
+    "gui_light": "front",
     "display": {
         "ground": {
             "rotation": [ 0, 0, 0 ],

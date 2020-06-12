@@ -1,6 +1,6 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "block/rose_bush_top"
-    }
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/rose_bush_top"
+  }
 }

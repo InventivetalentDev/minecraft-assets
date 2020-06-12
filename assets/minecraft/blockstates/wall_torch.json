@@ -1,8 +1,19 @@
 {
-    "variants": {
-        "facing=east": { "model": "block/wall_torch" },
-        "facing=south": { "model": "block/wall_torch", "y": 90 },
-        "facing=west": { "model": "block/wall_torch", "y": 180 },
-        "facing=north": { "model": "block/wall_torch", "y": 270 }
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/wall_torch"
+    },
+    "facing=north": {
+      "model": "minecraft:block/wall_torch",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "minecraft:block/wall_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "minecraft:block/wall_torch",
+      "y": 180
     }
+  }
 }

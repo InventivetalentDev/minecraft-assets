@@ -1,8 +1,7 @@
 {
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom": "block/quartz_block_top",
-        "top": "block/quartz_block_top",
-        "side": "block/quartz_block_side"
-    }
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/quartz_block_top",
+    "side": "minecraft:block/quartz_block_side"
+  }
 }

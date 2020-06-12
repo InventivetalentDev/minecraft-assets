@@ -1,4 +1,4 @@
-#version 120
+#version 110
 
 uniform sampler2D DiffuseSampler;
 
@@ -7,13 +7,13 @@ varying vec2 oneTexel;
 
 uniform vec2 InSize;
 
-uniform vec3 Gray = vec3(0.3, 0.59, 0.11);
-uniform vec3 RedMatrix   = vec3(1.0, 0.0, 0.0);
-uniform vec3 GreenMatrix = vec3(0.0, 1.0, 0.0);
-uniform vec3 BlueMatrix  = vec3(0.0, 0.0, 1.0);
-uniform vec3 Offset = vec3(0.0, 0.0, 0.0);
-uniform vec3 ColorScale = vec3(1.0, 1.0, 1.0);
-uniform float Saturation = 1.8;
+uniform vec3 Gray;
+uniform vec3 RedMatrix;
+uniform vec3 GreenMatrix;
+uniform vec3 BlueMatrix;
+uniform vec3 Offset;
+uniform vec3 ColorScale;
+uniform float Saturation;
 
 void main() {
     vec4 InTexel = texture2D(DiffuseSampler, texCoord);

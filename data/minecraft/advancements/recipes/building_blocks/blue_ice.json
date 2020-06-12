@@ -6,15 +6,12 @@
     ]
   },
   "criteria": {
-    "has_at_least_9_packed_ice": {
+    "has_packed_ice": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:packed_ice",
-            "count": {
-              "min": 9
-            }
+            "item": "minecraft:packed_ice"
           }
         ]
       }
@@ -28,7 +25,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_packed_ice",
+      "has_packed_ice",
       "has_the_recipe"
     ]
   ]

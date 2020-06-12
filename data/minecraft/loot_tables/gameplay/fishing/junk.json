@@ -6,6 +6,11 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "weight": 17,
+          "name": "minecraft:lily_pad"
+        },
+        {
+          "type": "minecraft:item",
           "weight": 10,
           "functions": [
             {
