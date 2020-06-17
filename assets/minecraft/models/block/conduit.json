@@ -1,6 +1,5 @@
 {
-    "textures": {
-        "particle": "block/conduit"
-    }
+  "textures": {
+    "particle": "minecraft:block/conduit"
+  }
 }
-

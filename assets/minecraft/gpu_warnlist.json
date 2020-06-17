@@ -1,0 +1,13 @@
+{
+  "renderer" : [
+    "\\bMesa\\b",
+    "\\bGallium\\b"
+  ],
+  "version" : [
+    "^([0-2]\\.[0-9])",
+    "\\bMesa\\b"
+  ],
+  "vendor" : [
+    "\\bX\\.Org\\b"
+  ]
+}
