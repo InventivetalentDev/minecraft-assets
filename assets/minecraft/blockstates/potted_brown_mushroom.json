@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/potted_brown_mushroom" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/potted_brown_mushroom"
     }
+  }
 }

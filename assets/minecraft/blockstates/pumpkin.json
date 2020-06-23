@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/pumpkin" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/pumpkin"
     }
+  }
 }

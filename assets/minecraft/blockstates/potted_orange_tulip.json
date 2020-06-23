@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/potted_orange_tulip" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/potted_orange_tulip"
     }
+  }
 }
