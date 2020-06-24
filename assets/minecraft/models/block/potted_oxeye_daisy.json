@@ -1,6 +1,6 @@
 {
-    "parent": "block/flower_pot_cross",
-    "textures": {
-        "plant": "block/oxeye_daisy"
-    }
+  "parent": "minecraft:block/flower_pot_cross",
+  "textures": {
+    "plant": "minecraft:block/oxeye_daisy"
+  }
 }

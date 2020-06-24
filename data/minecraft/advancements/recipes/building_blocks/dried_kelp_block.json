@@ -6,25 +6,12 @@
     ]
   },
   "criteria": {
-    "has_at_least_9_dried_kelp": {
+    "has_dried_kelp": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dried_kelp",
-            "count": {
-              "min": 9
-            }
-          }
-        ]
-      }
-    },
-    "has_dried_kelp_block": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:dried_kelp_block"
+            "item": "minecraft:dried_kelp"
           }
         ]
       }
@@ -38,8 +25,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_dried_kelp",
-      "has_dried_kelp_block",
+      "has_dried_kelp",
       "has_the_recipe"
     ]
   ]

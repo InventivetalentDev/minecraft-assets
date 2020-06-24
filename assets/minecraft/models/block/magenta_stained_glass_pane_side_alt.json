@@ -1,7 +1,7 @@
 {
-    "parent": "block/template_glass_pane_side_alt",
-    "textures": {
-        "edge": "block/magenta_stained_glass_pane_top",
-        "pane": "block/magenta_stained_glass"
-    }
+  "parent": "minecraft:block/template_glass_pane_side_alt",
+  "textures": {
+    "pane": "minecraft:block/magenta_stained_glass",
+    "edge": "minecraft:block/magenta_stained_glass_pane_top"
+  }
 }

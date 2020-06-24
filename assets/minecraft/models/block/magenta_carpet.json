@@ -1,7 +1,6 @@
 {
-    "parent": "block/carpet",
-    "textures": {
-        "particle": "block/magenta_wool",
-        "wool": "block/magenta_wool"
-    }
+  "parent": "minecraft:block/carpet",
+  "textures": {
+    "wool": "minecraft:block/magenta_wool"
+  }
 }
