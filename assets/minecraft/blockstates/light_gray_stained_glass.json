@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/light_gray_stained_glass" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/light_gray_stained_glass"
     }
+  }
 }

@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/potted_azure_bluet" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/potted_azure_bluet"
     }
+  }
 }

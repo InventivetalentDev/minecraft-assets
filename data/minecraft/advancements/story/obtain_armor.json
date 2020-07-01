@@ -2,7 +2,8 @@
   "parent": "minecraft:story/smelt_iron",
   "display": {
     "icon": {
-      "item": "minecraft:iron_chestplate"
+      "item": "minecraft:iron_chestplate",
+      "nbt": "{Damage:0}"
     },
     "title": {
       "translate": "advancements.story.obtain_armor.title"
