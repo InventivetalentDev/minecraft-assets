@@ -2821,7 +2821,7 @@
     "gamerule.disableElytraMovementCheck": "Elytra hareket kontrol\u00fcn\u00fc kapat",
     "gamerule.disableRaids": "Bask\u0131nlar\u0131 devre d\u0131\u015f\u0131 b\u0131rak",
     "gamerule.doDaylightCycle": "Oyun i\u00e7i zaman\u0131 ilerlet",
-    "gamerule.doEntityDrops": "Varl\u0131k Ekipman\u0131 D\u00fc\u015ft\u00fc",
+    "gamerule.doEntityDrops": "Varl\u0131k ekipman\u0131 d\u00fc\u015fer",
     "gamerule.doEntityDrops.description": "Maden arabalar\u0131ndan (envanterleri dahil olmak \u00fczere), e\u015fya \u00e7er\u00e7evelerinden, botlardan vb. d\u00fc\u015fen e\u015fyalar\u0131 kontrol eder.",
     "gamerule.doFireTick": "Ate\u015fi yenile",
     "gamerule.doImmediateRespawn": "An\u0131nda yeniden do\u011fma",

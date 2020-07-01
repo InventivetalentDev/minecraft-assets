@@ -3734,7 +3734,7 @@
     "options.graphics.fabulous": "Fenomenalno!",
     "options.graphics.fabulous.tooltip": "%s grafika koristi sjenila zaslona za crtanje vremena, oblaka i \u010destica iza prozirnih blokova i vode.\nTo mo\u017ee ozbiljno utjecati na performanse prijenosnih ure\u0111aja i 4K zaslona.",
     "options.graphics.fancy": "Lijepo",
-    "options.graphics.fancy.tooltip": "Fantasti\u010dna grafika uravnote\u017euje performanse i kvalitetu za ve\u0107inu ma\u0161ina.\nVreme, oblaci i \u010destice se mo\u017eda ne pojavljuju iza prozra\u010dnih blokova ili vode.",
+    "options.graphics.fancy.tooltip": "Fantasti\u010dna grafika uravnote\u017euje performanse i kvalitetu za ve\u0107inu ma\u0161ina.\nVrijeme, oblaci i \u010destice se mo\u017eda ne pojavljuju iza prozra\u010dnih blokova ili vode.",
     "options.graphics.fast": "Brzo",
     "options.graphics.fast.tooltip": "Brza grafika smanjuje koli\u010dinu vidljive ki\u0161e i snijega.\nU\u010dinci transparentnosti su onemogu\u0107eni za razne blokove, poput li\u0161\u0107a stabala.",
     "options.graphics.warning.accept": "Nastavi bez podr\u0161ke",

@@ -3732,7 +3732,7 @@
     "options.gamma.min": "M\u00f6rkt",
     "options.graphics": "Grafik",
     "options.graphics.fabulous": "Fabul\u00f6st!",
-    "options.graphics.fabulous.tooltip": "%s grafik anv\u00e4nder sk\u00e4rmshaders f\u00f6r att rita v\u00e4der, moln och partiklar bakom genomskinliga block och vatten.\nDetta kan p\u00e5verka prestandan f\u00f6r b\u00e4rbara enheter och 4K-sk\u00e4rmar avsev\u00e4rt.",
+    "options.graphics.fabulous.tooltip": "Fabul\u00f6s grafik anv\u00e4nder sk\u00e4rmshaders f\u00f6r att rita v\u00e4der, moln och partiklar bakom genomskinliga block och vatten.\nDetta kan p\u00e5verka prestandan f\u00f6r b\u00e4rbara enheter och 4K-sk\u00e4rmar avsev\u00e4rt.",
     "options.graphics.fancy": "Snyggt",
     "options.graphics.fancy.tooltip": "Snygg grafik balanserar prestanda och kvalitet f\u00f6r de flesta datorerna.\nV\u00e4der, moln och partiklar kanske inte visas bakom genomskinliga block eller vatten.",
     "options.graphics.fast": "Snabbt",

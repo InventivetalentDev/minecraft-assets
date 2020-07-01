@@ -3905,7 +3905,7 @@
     "selectWorld.edit.backupFailed": "Error en la copia de seguridad",
     "selectWorld.edit.backupFolder": "Abrir carpeta de copias",
     "selectWorld.edit.backupSize": "Mundo copiado (%s MB)",
-    "selectWorld.edit.export_worldgen_settings": "Exportar ajustes de generaci\u00f3n de mundo",
+    "selectWorld.edit.export_worldgen_settings": "Exportar ajustes de generaci\u00f3n",
     "selectWorld.edit.export_worldgen_settings.failure": "Error al exportar",
     "selectWorld.edit.export_worldgen_settings.success": "Exportado con \u00e9xito",
     "selectWorld.edit.openFolder": "Abrir carpeta del mundo",

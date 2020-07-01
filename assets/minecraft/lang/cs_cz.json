@@ -2132,7 +2132,7 @@
     "commands.setidletimeout.success": "Hr\u00e1\u010d m\u016f\u017ee b\u00fdt nyn\u00ed neaktivn\u00ed %s min",
     "commands.setworldspawn.success": "Celosv\u011btov\u00fd v\u00fdchoz\u00ed bod byl nastaven na sou\u0159adnic\u00edch %s, %s, %s",
     "commands.spawnpoint.success.multiple": "V\u00fdchoz\u00ed bod na sou\u0159adnic\u00edch %s, %s, %s v dimenzi %s byl nastaven pro %s hr\u00e1\u010d\u016f",
-    "commands.spawnpoint.success.single": "Pro hr\u00e1\u010de %5$s byl na sou\u0159adnic\u00edch %1$s, %2$s, %3$s v dimenzi %%4$ nastaven v\u00fdchoz\u00ed bod",
+    "commands.spawnpoint.success.single": "Pro hr\u00e1\u010de %5$s byl na sou\u0159adnic\u00edch %1$s, %2$s, %3$s v dimenzi %4$s nastaven v\u00fdchoz\u00ed bod",
     "commands.spectate.not_spectator": "Hr\u00e1\u010d %s nen\u00ed v pozorovac\u00ed h\u0159e",
     "commands.spectate.self": "Nelze sledovat sebe sam\u00e9ho",
     "commands.spectate.success.started": "Zah\u00e1jeno sledov\u00e1n\u00ed entity %s",
