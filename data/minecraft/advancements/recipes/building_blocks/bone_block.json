@@ -6,15 +6,12 @@
     ]
   },
   "criteria": {
-    "has_at_least_9_bonemeal": {
+    "has_bonemeal": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:bone_meal",
-            "count": {
-              "min": 9
-            }
+            "item": "minecraft:bone_meal"
           }
         ]
       }
@@ -28,7 +25,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_bonemeal",
+      "has_bonemeal",
       "has_the_recipe"
     ]
   ]

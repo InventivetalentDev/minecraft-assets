@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/spruce_sapling" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/spruce_sapling"
     }
+  }
 }

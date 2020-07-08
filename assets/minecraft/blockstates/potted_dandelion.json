@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/potted_dandelion" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/potted_dandelion"
     }
+  }
 }
