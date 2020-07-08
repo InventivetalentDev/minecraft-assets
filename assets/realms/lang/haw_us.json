@@ -1,4 +1,6 @@
 {
+    "mco.account.privacy.info": "E heluhelu hou a\u02bbe e pili ana i n\u0101 loina \u02bbo Mojang a me n\u0101 huna",
+    "mco.account.privacyinfo": "Hana \u02bbo Mojang i kekahi mau ka\u02bbina hana e k\u014dkua ai i ka m\u0101lama \u02bbana i n\u0101 keiki a me k\u0101 l\u0101kou pilikino e pili p\u016b ana me ka ho\u02bbok\u014d \u02bbana me ka \u02bb\u0100pana Kuhihewa P\u016bnaewele a N\u0101 Keiki (COPPA) a me n\u0101 General Data Protection Regment (GDPR).\n\nPono \u02bboe e ki\u02bbi i ka \u02bbae makua ma mua o ke komo \u02bbana i k\u0101u mo\u02bbok\u0101ki Realms.\n\nIn\u0101 he mo\u02bbo\u02bb\u014dlelo Minecraft kahiko (ua komo p\u016b \u02bboe me kou inoa inoa), pono \u02bboe e ho\u02bbone\u02bbe i ka mo\u02bbolelo i kahi mo\u02bbo Mojang e \u02bbike ai i n\u0101 Realms.",
     "mco.account.update": "Ho\u02bbohou hou i ka mo\u02bbok\u0101ki",
     "mco.activity.noactivity": "\u02bbA\u02bbohe hana no n\u0101 l\u0101 i hala mua o %s",
     "mco.activity.title": "N\u0101 hana p\u0101\u02bbani",
@@ -201,8 +203,11 @@
     "mco.template.default.name": "N\u0101 hi\u02bbohi\u02bbona honua",
     "mco.template.info.tooltip": "Paena p\u016bnaewele",
     "mco.template.name": "H\u014d\u02bboia",
+    "mco.template.select.failure": "\u02bbA\u02bbole hiki i\u0101 m\u0101kou ke ki\u02bbi hou i ka papa inoa o n\u0101 \u02bbike no k\u0113ia \u02bb\u0101pana.\nE \u02bbolu\u02bbolu e n\u0101n\u0101 i k\u0101u pili p\u016bnaewele, a e ho\u02bb\u0101\u02bbo hou ma hope.",
     "mco.template.select.narrate.authors": "Mea k\u0101kau: %s",
     "mco.template.select.narrate.version": "m\u0101ka\u02bbi %s",
+    "mco.template.select.none": "N\u0101n\u0101, n\u0101n\u0101 \u02bboe i ka pau \u02bbole o k\u0113ia \u02bbatikala.\nE \u02bbolu\u02bbolu e n\u0101n\u0101 ma hope mai no ka \u02bbikepili hou, a i \u02bbole he mea hana hou,\n%s.",
+    "mco.template.select.none.linkTitle": "e no\u02bbono\u02bbo e h\u0101\u02bbawi i kekahi mea i\u0101 \u02bboe iho",
     "mco.template.title": "N\u0101 hi\u02bbohi\u02bbona honua",
     "mco.template.title.minigame": "Minigame",
     "mco.template.trailer.tooltip": "Palapala ki\u02bbi ki\u02bbi ki\u02bbi",

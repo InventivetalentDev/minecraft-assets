@@ -223,7 +223,7 @@
     "mco.upload.close.failure": "No se puede cerrar tu realm. Por favor, int\u00e9ntalo de nuevo m\u00e1s tarde",
     "mco.upload.done": "Subida completada",
     "mco.upload.failed": "\u00a1Subida fallida! (%s)",
-    "mco.upload.hardcore": "\u00a1Los mundos en modo extremo no pueden ser subidos!",
+    "mco.upload.hardcore": "\u00a1Los mundos en modo hardcore no pueden ser subidos!",
     "mco.upload.preparing": "Preparando tu mundo",
     "mco.upload.select.world.none": "\u00a1No se han encontrado mundos en el modo un jugador!",
     "mco.upload.select.world.subtitle": "Selecciona un mundo del modo un jugador para subirlo",

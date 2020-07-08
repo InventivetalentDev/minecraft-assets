@@ -25,7 +25,7 @@
     "mco.client.incompatible.msg.line1": "Tw\u00f3j klient jest niekompatybilny z Realms.",
     "mco.client.incompatible.msg.line2": "Prosimy o korzystanie z najnowszej wersji Minecrafta.",
     "mco.client.incompatible.msg.line3": "Realms jest niekompatybilny ze snapshotami.",
-    "mco.client.incompatible.title": "Niekompatybilny klient!",
+    "mco.client.incompatible.title": "Klient jest niekompatybilny!",
     "mco.client.outdated.msg.line1": "Tw\u00f3j klient jest przestarza\u0142y i niekompatybilny z Realms.",
     "mco.client.outdated.msg.line2": "Prosz\u0119 zaktualizowa\u0107 Minecrafta do najnowszej wersji.",
     "mco.client.outdated.title": "Przestarza\u0142y klient!",
