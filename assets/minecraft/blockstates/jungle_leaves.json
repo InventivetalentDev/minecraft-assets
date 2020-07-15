@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/jungle_leaves" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/jungle_leaves"
     }
+  }
 }

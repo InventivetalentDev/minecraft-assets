@@ -1,10 +1,21 @@
 {
-    "variants": {
-        "": [
-            { "model": "block/dirt" },
-            { "model": "block/dirt", "y": 90 },
-            { "model": "block/dirt", "y": 180 },
-            { "model": "block/dirt", "y": 270 }
-        ]
-    }
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/dirt"
+      },
+      {
+        "model": "minecraft:block/dirt",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/dirt",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/dirt",
+        "y": 270
+      }
+    ]
+  }
 }

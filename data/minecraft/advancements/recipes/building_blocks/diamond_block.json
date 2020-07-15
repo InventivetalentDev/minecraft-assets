@@ -6,15 +6,12 @@
     ]
   },
   "criteria": {
-    "has_at_least_9_diamond": {
+    "has_diamond": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:diamond",
-            "count": {
-              "min": 9
-            }
+            "item": "minecraft:diamond"
           }
         ]
       }
@@ -28,7 +25,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_diamond",
+      "has_diamond",
       "has_the_recipe"
     ]
   ]

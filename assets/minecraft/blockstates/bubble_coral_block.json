@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/bubble_coral_block" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/bubble_coral_block"
     }
+  }
 }

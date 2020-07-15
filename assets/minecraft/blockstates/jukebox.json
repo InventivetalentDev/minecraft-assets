@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/jukebox" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/jukebox"
     }
+  }
 }
