@@ -72,7 +72,7 @@
     "mco.configure.world.off": "Fra",
     "mco.configure.world.on": "Til",
     "mco.configure.world.opening": "\u00c5bner dit Realm...",
-    "mco.configure.world.players.error": "En spiller med det s\u00e5fremte navn eksisterer ikke",
+    "mco.configure.world.players.error": "En spiller med det angivne navn eksisterer ikke",
     "mco.configure.world.players.title": "Spillere",
     "mco.configure.world.pvp": "PVP",
     "mco.configure.world.reset.question.line1": "Din verden vil blive genskabt, og din nuv\u00e6rende verden vil g\u00e5 tabt",
