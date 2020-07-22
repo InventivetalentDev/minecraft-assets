@@ -1,7 +1,7 @@
 {
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "block/smooth_stone",
-        "side": "block/smooth_stone_slab_side"
-    }
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/smooth_stone",
+    "side": "minecraft:block/smooth_stone_slab_side"
+  }
 }
