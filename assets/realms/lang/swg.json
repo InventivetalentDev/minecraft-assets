@@ -1,7 +1,7 @@
 {
     "mco.account.privacy.info": "Erfahre mehr \u00fcber Mojang und Datenschutzgesetze",
     "mco.account.privacyinfo": "Mojang wendet bestimmte Verfahren an, um Kinder und deren Privatsph\u00e4re zu sch\u00fctzen. So werden unter anderem das  \u201eGesetz zum Schutz der Privatsph\u00e4re von Kindern im Internet\u201c  (COPPA) und die Datenschutz-Grundverordnung (DSGVO) eingehalten.\n\nM\u00f6glicherweise ben\u00f6tigst du die Zustimmung deiner Eltern, um auf dein Realms-Konto zuzugreifen.\n\nWenn du ein \u00e4lteres Minecraft-Konto hast (du meldest dich mit deinem Benutzernamen an), musst du dieses in ein Mojang-Konto umwandeln, um auf Realms zugreifen zu k\u00f6nnen.",
-    "mco.account.update": "Konto aktualisieren",
+    "mco.account.update": "Konto verwalten",
     "mco.activity.noactivity": "Keine Aktivit\u00e4t in den letzten %s Tagen",
     "mco.activity.title": "Spieleraktivit\u00e4t",
     "mco.backup.button.download": "Aktuellste herunterladen",
@@ -205,7 +205,7 @@
     "mco.template.name": "Vorlaga",
     "mco.template.select.failure": "Die Liste mit den Inhalten dieser Kategorie konnte nicht abgerufen werden. \nBitte \u00fcberpr\u00fcfe deine Internetverbindung oder versuche es sp\u00e4ter erneut.",
     "mco.template.select.narrate.authors": "Autoren: %s",
-    "mco.template.select.narrate.version": "Version %s",
+    "mco.template.select.narrate.version": "Version",
     "mco.template.select.none": "Hoppla, diese Inhaltskategorie scheint aktuell leer zu sein.\nBitte schaue demn\u00e4chst noch einmal vorbei, oder erw\u00e4ge,\nwenn du ein Ersteller bist, %s.",
     "mco.template.select.none.linkTitle": "selbst einen Inhalt einzureichen",
     "mco.template.title": "Weltvorlagen",

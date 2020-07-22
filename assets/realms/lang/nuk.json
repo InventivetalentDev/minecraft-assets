@@ -1,5 +1,16 @@
 {
+    "mco.brokenworld.play": "\u0294umc\u030c\u0313aaqmis",
     "mco.configure.world.buttons.done": "\u0294i\u02d1naxi",
+    "mco.configure.world.slot": "Nism\u02c0a",
+    "mco.configure.world.subscription.day": "n\u0313aas",
+    "mco.configure.world.subscription.days": "n\u0313aas",
+    "mco.configure.world.subscription.month": "hupa\u0142",
+    "mco.configure.world.subscription.months": "hupa\u0142",
+    "mco.configure.worlds.title": "Nism\u02c0a",
     "mco.connect.success": "\u0294i\u02d1naxi",
-    "mco.gui.ok": "\u0294o\u02d1-q-"
+    "mco.gui.button": "Naa",
+    "mco.gui.ok": "\u0294o\u02d1-q-",
+    "mco.reset.world.adventure": "Waha\u02d1k",
+    "mco.selectServer.close": "mus\u030csaap",
+    "mco.selectServer.play": "\u0294umc\u030c\u0313aaqmis"
 }

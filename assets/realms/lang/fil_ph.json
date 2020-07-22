@@ -25,7 +25,7 @@
     "mco.client.incompatible.msg.line1": "Ang iyong client ay hindi compatible sa Realms.",
     "mco.client.incompatible.msg.line2": "Mangyaring gumamit ng mas bagong bersyon ng Minecraft.",
     "mco.client.incompatible.msg.line3": "Ang Realms ay hindi compatible sa mga snapshot na bersyon.",
-    "mco.client.incompatible.title": "Hindi compatible ang client!",
+    "mco.client.incompatible.title": "Hindi compatible ang kliyente!",
     "mco.client.outdated.msg.line1": "Ang iyong client ay hindi updated at hindi compatible sa Realms.",
     "mco.client.outdated.msg.line2": "Mangyaring gumamit ng mas bagong bersyon ng Minecraft.",
     "mco.client.outdated.title": "Hindi updated ang client!",
