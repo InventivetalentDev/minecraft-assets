@@ -2,7 +2,8 @@
   "parent": "minecraft:story/obtain_armor",
   "display": {
     "icon": {
-      "item": "minecraft:shield"
+      "item": "minecraft:shield",
+      "nbt": "{Damage:0}"
     },
     "title": {
       "translate": "advancements.story.deflect_arrow.title"

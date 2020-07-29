@@ -1,4 +1,8 @@
-{   "parent": "block/block",
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "#dirt"
+    },
     "elements": [
         {   "from": [ 0, 0, 0 ],
             "to": [ 16, 15, 16 ],

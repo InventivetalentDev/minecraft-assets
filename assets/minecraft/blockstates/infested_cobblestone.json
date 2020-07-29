@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/cobblestone" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/cobblestone"
     }
+  }
 }

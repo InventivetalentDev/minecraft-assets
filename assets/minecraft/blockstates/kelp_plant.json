@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/kelp_plant" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/kelp_plant"
     }
+  }
 }
