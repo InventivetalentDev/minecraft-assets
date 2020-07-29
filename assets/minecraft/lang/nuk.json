@@ -1,6 +1,7 @@
 {
     "addServer.add": "\u0294i\u02d1naxi",
     "advancements.adventure.root.title": "Waha\u02d1k",
+    "advancements.sad_label": ":(",
     "attribute.modifier.equals.0": "%s %s",
     "attribute.modifier.equals.1": "%s%% %s",
     "attribute.modifier.equals.2": "%s%% %s",
@@ -51,6 +52,7 @@
     "createWorld.customize.custom.useWaterLakes": "\u0295a\u0294uk",
     "createWorld.customize.flat.height": "\u0294unaac\u030ca\u0294iik",
     "createWorld.customize.flat.layer": "%s",
+    "deathScreen.titleScreen": "Nuu-Naa",
     "debug.gamemodes.press_f4": "[ F4 ]",
     "disconnect.genericReason": "%s",
     "entity.minecraft.wolf": "Qwayac\u0315iik",
@@ -67,6 +69,7 @@
     "gui.recipebook.toggleRecipes.craftable": "Nuu-aa-ss",
     "gui.recipebook.toggleRecipes.smeltable": "Nuu-aa-ss",
     "gui.recipebook.toggleRecipes.smokable": "Nuu-aa-ss",
+    "gui.toMenu": "Nuu-cha-nuuna",
     "gui.toTitle": "Naan na-nuuna",
     "gui.up": "pits\u030ci\u019b",
     "gui.yes": "Haa",
