@@ -3684,6 +3684,7 @@
     "options.fov": "Angulus Visus",
     "options.fov.max": "Professionalis Trem\u0113s",
     "options.fov.min": "Normalis",
+    "options.fovEffectScale": "FOV Effecti",
     "options.framerate": "%s fps",
     "options.framerateLimit": "Maxime Replicircuitio",
     "options.framerateLimit.max": "Infinitus",
