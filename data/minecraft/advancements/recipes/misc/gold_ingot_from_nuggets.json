@@ -6,15 +6,12 @@
     ]
   },
   "criteria": {
-    "has_at_least_9_gold_nugget": {
+    "has_gold_nugget": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:gold_nugget",
-            "count": {
-              "min": 9
-            }
+            "item": "minecraft:gold_nugget"
           }
         ]
       }
@@ -28,7 +25,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_gold_nugget",
+      "has_gold_nugget",
       "has_the_recipe"
     ]
   ]
