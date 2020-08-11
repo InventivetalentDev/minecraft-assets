@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/birch_sign" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/birch_sign"
     }
+  }
 }

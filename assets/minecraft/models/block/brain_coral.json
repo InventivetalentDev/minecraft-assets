@@ -1,6 +1,6 @@
 {
-    "parent": "block/cross",
-    "textures": {
-        "cross": "block/brain_coral"
-    }
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "minecraft:block/brain_coral"
+  }
 }

@@ -1,6 +1,6 @@
 {
-    "parent": "block/button_inventory",
-    "textures": {
-        "texture": "block/acacia_planks"
-    }
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "minecraft:block/acacia_planks"
+  }
 }

@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/dragon_egg" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/dragon_egg"
     }
+  }
 }

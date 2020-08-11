@@ -1,6 +1,6 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/skull_banner_pattern"
-    }
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/skull_banner_pattern"
+  }
 }
