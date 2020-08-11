@@ -43,6 +43,7 @@
     "mco.configure.world.delete.question.line1": "Tvoj rilm bude postojanno izgubjeny",
     "mco.configure.world.description": "Popisok Realmu",
     "mco.configure.world.edit.slot.name": "Nazva sv\u011bta",
+    "mco.configure.world.edit.subscreen.inspiration": "R\u0119d parametrov jest odr\u011b\u010denym, jerbo tut\u010dasny sv\u011bt jest sv\u011btom za inspiracij\u0173",
     "mco.configure.world.forceGameMode": "Izmo\u017ei re\u017eim igry",
     "mco.configure.world.invite.narration": "U vas sut nove pozvanja %s",
     "mco.configure.world.invite.profile.name": "Ime",

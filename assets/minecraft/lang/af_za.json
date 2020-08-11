@@ -2152,6 +2152,7 @@
     "commands.stopsound.success.sourceless.any": "Alle klanke is gestop",
     "commands.stopsound.success.sourceless.sound": "\"%s' klank is gestop",
     "commands.summon.failed": "Kon nie die entiteit oproep nie",
+    "commands.summon.failed.uuid": "Unable to summon entity due to duplicate UUIDs",
     "commands.summon.invalidPosition": "Ongeldige posisie vir oproeping",
     "commands.summon.success": "Gedagvaar nuwe %s",
     "commands.tag.add.failed": "Die teiken het reeds die etiket of te veel etikette",

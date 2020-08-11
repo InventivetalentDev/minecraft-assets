@@ -1,7 +1,7 @@
 {
     "mco.account.privacy.info": "Read more \u2018bout Mojang n\u2019 privacy laws",
     "mco.account.privacyinfo": "Mojang implements certain procedures t' help protect little sandcrabs and their privacy including complying with the Children\u2019s Online Privacy Protection Act (COPPA) and General Data Protection Regulation (GDPR).\n\nYa may need t' obtain parental consent before accessin' yer Realms account.\n\nIf ye have an older Minecraft account (ye log in with yer username), ye need t' migrate the account to a Mojang account in order t' access Realms.",
-    "mco.account.update": "Batten down the hatches",
+    "mco.account.update": "Shipshape your vessel",
     "mco.activity.noactivity": "There be no crew updates for the last %s days",
     "mco.activity.title": "Mate activity",
     "mco.backup.button.download": "Plunder ye Latest Update",
@@ -97,7 +97,7 @@
     "mco.configure.world.spawnProtection": "Spawn protection",
     "mco.configure.world.status": "State",
     "mco.configure.world.subscription.day": "earth cycle",
-    "mco.configure.world.subscription.days": "days",
+    "mco.configure.world.subscription.days": "cycles",
     "mco.configure.world.subscription.expired": "Dead",
     "mco.configure.world.subscription.extend": "Extend subscription",
     "mco.configure.world.subscription.less_than_a_day": "Less than a sunrise",

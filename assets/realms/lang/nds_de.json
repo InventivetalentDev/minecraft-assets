@@ -59,6 +59,7 @@
     "mco.configure.world.edit.subscreen.experience": "Enige Instellens s\u00fcnd deaktiv, wiel dien aktuell Wereld een Unnerfindenwereld is",
     "mco.configure.world.edit.subscreen.inspiration": "En deyl Instellings sint deaktiveerd, \u00fcmdat dyn nutydige Wereld en Inspiratioon is",
     "mco.configure.world.forceGameMode": "Sp\u00f6lmodus bedwingen",
+    "mco.configure.world.invite.narration": "Du hast %s neeie Inladungen",
     "mco.configure.world.invite.profile.name": "Naam",
     "mco.configure.world.invited": "Inlooden",
     "mco.configure.world.invites.normal.tooltip": "Normalen Bruker",
@@ -204,6 +205,7 @@
     "mco.template.name": "V\u00f6rlaag",
     "mco.template.select.failure": "De List mit de Inhalten van disse Klauss kunn nich ofropen worden.\nBidde kiek dien Internettverbinnen naok, of vers\u00f6k et naast.",
     "mco.template.select.narrate.authors": "Autoren: %s",
+    "mco.template.select.narrate.version": "version %s",
     "mco.template.select.none": "Ups, disse Inhaltklauss schient upst\u00fcnds leeg to sien.\nBidde kiek noch eenmal v\u00f6rbi, of, wenn du in Maker b\u00fcst,\n%s.",
     "mco.template.select.none.linkTitle": "s\u00fclvst een Inhalt in te geven",
     "mco.template.title": "Weltvorlagen",
@@ -229,5 +231,6 @@
     "mco.upload.size.failure.line1": "'%s' es to groot!",
     "mco.upload.size.failure.line2": "Et is %s. De maximaal toegevt Gr\u00f6tt is %s.",
     "mco.upload.uploading": "Laad '%s' up",
-    "mco.upload.verifying": "Kiek dien Wereld nao"
+    "mco.upload.verifying": "Kiek dien Wereld nao",
+    "narrator.select.list.position": "objekt %s van %s"
 }

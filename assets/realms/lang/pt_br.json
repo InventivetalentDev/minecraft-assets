@@ -203,7 +203,7 @@
     "mco.template.default.name": "Modelo do mundo",
     "mco.template.info.tooltip": "P\u00e1gina do criador",
     "mco.template.name": "Modelo",
-    "mco.template.select.failure": "N\u00e3o encontramos a lista de conte\u00fados nessa categoria.\nVerifique a sua conex\u00e3o de internet ou tente novamente mais tarde.",
+    "mco.template.select.failure": "N\u00e3o encontramos a lista de conte\u00fados nessa categoria.\nVerifique a sua conex\u00e3o com a internet ou tente novamente mais tarde.",
     "mco.template.select.narrate.authors": "Autores: %s",
     "mco.template.select.narrate.version": "Vers\u00e3o %s",
     "mco.template.select.none": "Opa! Parece que essa categoria de conte\u00fado est\u00e1 vazia no momento.\nVolte mais tarde, ou, caso voc\u00ea seja um criador, \n%s.",
