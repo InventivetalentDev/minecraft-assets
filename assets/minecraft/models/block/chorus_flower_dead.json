@@ -1,8 +1,6 @@
 {
-    "parent": "block/chorus_flower",
-    "textures": {
-        "texture": "block/chorus_flower_dead",
-        "bottom": "block/chorus_plant",
-        "particle": "block/chorus_flower_dead"
-    }
+  "parent": "minecraft:block/template_chorus_flower",
+  "textures": {
+    "texture": "minecraft:block/chorus_flower_dead"
+  }
 }

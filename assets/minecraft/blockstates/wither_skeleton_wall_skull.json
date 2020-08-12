@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/soul_sand" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/skull"
     }
+  }
 }

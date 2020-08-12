@@ -19,9 +19,15 @@
     "summoned": {
       "trigger": "minecraft:summoned_entity",
       "conditions": {
-        "entity": {
-          "type": "minecraft:wither"
-        }
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type": "minecraft:wither"
+            },
+            "entity": "this"
+          }
+        ]
       }
     }
   },

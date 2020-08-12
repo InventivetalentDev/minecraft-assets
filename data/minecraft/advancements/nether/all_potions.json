@@ -24,18 +24,18 @@
       "conditions": {
         "effects": {
           "minecraft:speed": {},
-          "minecraft:water_breathing": {},
-          "minecraft:night_vision": {},
-          "minecraft:poison": {},
-          "minecraft:regeneration": {},
-          "minecraft:resistance": {},
-          "minecraft:jump_boost": {},
           "minecraft:slowness": {},
           "minecraft:strength": {},
-          "minecraft:slow_falling": {},
-          "minecraft:weakness": {},
+          "minecraft:jump_boost": {},
+          "minecraft:regeneration": {},
+          "minecraft:fire_resistance": {},
+          "minecraft:water_breathing": {},
           "minecraft:invisibility": {},
-          "minecraft:fire_resistance": {}
+          "minecraft:night_vision": {},
+          "minecraft:weakness": {},
+          "minecraft:poison": {},
+          "minecraft:slow_falling": {},
+          "minecraft:resistance": {}
         }
       }
     }
