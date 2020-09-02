@@ -142,7 +142,7 @@
     "mco.gui.ok": "Ok",
     "mco.invites.button.accept": "Accepter",
     "mco.invites.button.reject": "Rejeter",
-    "mco.invites.nopending": "Pas d'invitation en attente !",
+    "mco.invites.nopending": "Pas d'invitation re\u00e7ue !",
     "mco.invites.pending": "Nouvelles invitations !",
     "mco.invites.title": "Invitations en attente",
     "mco.minigame.world.changeButton": "S\u00e9lectionner un autre mini-jeu",

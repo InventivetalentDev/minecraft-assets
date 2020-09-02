@@ -3955,7 +3955,7 @@
     "selectWorld.gameMode.survival": "Overlive",
     "selectWorld.gameMode.survival.line1": "Look for lodes, craft, gain",
     "selectWorld.gameMode.survival.line2": "cunning, health and hunger",
-    "selectWorld.gameRules": "Rules of the game",
+    "selectWorld.gameRules": "Game Laws",
     "selectWorld.import_worldgen_settings": "Use Already Made Settings",
     "selectWorld.import_worldgen_settings.deprecated.question": "Some of the functions used in this world are outdated and will no longer work in the future. Do you want to continue?",
     "selectWorld.import_worldgen_settings.deprecated.title": "Warning! These settings are using deprecated features",

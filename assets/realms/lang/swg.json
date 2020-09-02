@@ -97,7 +97,7 @@
     "mco.configure.world.spawnProtection": "Spawnpunktschutz",
     "mco.configure.world.status": "Status",
     "mco.configure.world.subscription.day": "Dag",
-    "mco.configure.world.subscription.days": "Tage",
+    "mco.configure.world.subscription.days": "D\u00e4g",
     "mco.configure.world.subscription.expired": "Abgelaufen",
     "mco.configure.world.subscription.extend": "Abonnement verl\u00e4ngern",
     "mco.configure.world.subscription.less_than_a_day": "Weniger als ein Tag",
