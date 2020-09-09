@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/packed_ice" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/packed_ice"
     }
+  }
 }
