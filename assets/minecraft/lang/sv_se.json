@@ -3938,7 +3938,7 @@
     "selectWorld.edit.title": "Redigera v\u00e4rld",
     "selectWorld.enterName": "Namn p\u00e5 v\u00e4rld",
     "selectWorld.enterSeed": "Fr\u00f6 till v\u00e4rldsgeneratorn",
-    "selectWorld.futureworld.error.text": "N\u00e5gonting gick fel n\u00e4r du f\u00f6rs\u00f6kte l\u00e4sa in en v\u00e4rld fr\u00e5n en framtida version. Detta var till att b\u00f6rja med en riskabel \u00e5tg\u00e4rd, ledsen att det inte fungerade.",
+    "selectWorld.futureworld.error.text": "N\u00e5gonting gick fel n\u00e4r du f\u00f6rs\u00f6kte l\u00e4sa in en v\u00e4rld fr\u00e5n en framtida version. Detta var en riskabel \u00e5tg\u00e4rd fr\u00e5n b\u00f6rjan, ledsen att det inte fungerade.",
     "selectWorld.futureworld.error.title": "Ett fel uppstod!",
     "selectWorld.gameMode": "Spell\u00e4ge",
     "selectWorld.gameMode.adventure": "\u00c4ventyr",
