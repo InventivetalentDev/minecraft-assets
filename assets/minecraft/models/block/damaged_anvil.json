@@ -1,6 +1,6 @@
 {
-    "parent": "block/anvil",
-    "textures": {
-        "top": "block/damaged_anvil_top"
-    }
+  "parent": "minecraft:block/template_anvil",
+  "textures": {
+    "top": "minecraft:block/damaged_anvil_top"
+  }
 }

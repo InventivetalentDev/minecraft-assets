@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/cobweb" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/cobweb"
     }
+  }
 }

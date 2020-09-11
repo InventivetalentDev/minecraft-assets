@@ -265,9 +265,14 @@
             "name": "Espa\u00f1ol",
             "bidirectional": false
         },
+        "es_ec": {
+            "region": "Ecuador",
+            "name": "Espa\u00f1ol",
+            "bidirectional": false
+        },
         "th_th": {
             "region": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
-            "name": "\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22",
+            "name": "\u0e44\u0e17\u0e22",
             "bidirectional": false
         },
         "hr_hr": {
@@ -302,7 +307,7 @@
         },
         "hi_in": {
             "region": "\u092d\u093e\u0930\u0924",
-            "name": "\u0939\u093f\u0928\u094d\u0926\u0940",
+            "name": "\u0939\u093f\u0902\u0926\u0940",
             "bidirectional": false
         },
         "ms_my": {
@@ -329,6 +334,16 @@
             "region": "United Kingdom",
             "name": "English",
             "bidirectional": false
+        },
+        "tl_ph": {
+            "region": "Pilipinas",
+            "name": "Tagalog",
+            "bidirectional": false
+        },
+        "yi_de": {
+            "region": "\u05d0\u05e9\u05db\u05e0\u05d6\u05d9\u05e9\u05e2 \u05d9\u05d9\u05d3\u05df",
+            "name": "\u05d9\u05d9\u05b4\u05d3\u05d9\u05e9",
+            "bidirectional": true
         },
         "mt_mt": {
             "region": "Malta",
@@ -362,7 +377,7 @@
         },
         "moh_ca": {
             "region": "Kanien'keh\u00e1:ka",
-            "name": "Kanien\u2019k\u00e9ha",
+            "name": "Kanien\u2019k\u00e9ha,",
             "bidirectional": false
         },
         "fo_fo": {
@@ -438,6 +453,11 @@
         "oc_fr": {
             "region": "Occit\u00e0nia",
             "name": "Occitan",
+            "bidirectional": false
+        },
+        "ba_ru": {
+            "region": "\u0420\u04d9\u0441\u04d9\u0439",
+            "name": "\u0411\u0430\u0448\u04a1\u043e\u0440\u0442\u0441\u0430",
             "bidirectional": false
         },
         "val_es": {
@@ -525,6 +545,11 @@
             "name": "LOLCAT",
             "bidirectional": false
         },
+        "got_de": {
+            "region": "Dakia jah Heispanja",
+            "name": "Gutrazda",
+            "bidirectional": false
+        },
         "tzl_tzl": {
             "region": "Talossa",
             "name": "Talossan",
@@ -562,12 +587,12 @@
         },
         "szl": {
             "region": "G\u014drny \u015al\u014dnsk",
-            "name": "\u015al\u014dnsk\u014f g\u014fdka",
+            "name": "\u015al\u014dnsk\u014f",
             "bidirectional": false
         },
         "ovd": {
             "region": "Swerre",
-            "name": "\u00d6vdalsk",
+            "name": "\u00d6vdalska",
             "bidirectional": false
         },
         "enp": {
@@ -589,10 +614,25 @@
             "region": "Bayern",
             "name": "Boarisch",
             "bidirectional": false
+        },
+        "esan": {
+            "region": "Andalu\u00e7\u00eda",
+            "name": "Andal\u00fbh",
+            "bidirectional": false
+        },
+        "scn": {
+            "region": "Sicilia",
+            "name": "Sicilianu",
+            "bidirectional": false
+        },
+        "isv": {
+            "region": "Slavija",
+            "name": "Med\u017euslovjansky",
+            "bidirectional": false
         }
     },
     "pack": {
         "description": "The default look and feel of Minecraft",
-        "pack_format": 4
+        "pack_format": 6
     }
 }

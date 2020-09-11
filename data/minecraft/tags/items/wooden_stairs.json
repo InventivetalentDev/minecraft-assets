@@ -6,6 +6,8 @@
     "minecraft:birch_stairs",
     "minecraft:jungle_stairs",
     "minecraft:acacia_stairs",
-    "minecraft:dark_oak_stairs"
+    "minecraft:dark_oak_stairs",
+    "minecraft:crimson_stairs",
+    "minecraft:warped_stairs"
   ]
 }

@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/potted_allium" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/potted_allium"
     }
+  }
 }

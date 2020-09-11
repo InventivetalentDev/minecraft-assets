@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/chiseled_stone_bricks" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/chiseled_stone_bricks"
     }
+  }
 }
