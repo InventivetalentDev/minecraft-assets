@@ -1,6 +1,6 @@
 {
-    "parent": "block/template_fence_gate_wall",
-    "textures": {
-        "texture": "block/oak_planks"
-    }
+  "parent": "minecraft:block/template_fence_gate_wall",
+  "textures": {
+    "texture": "minecraft:block/oak_planks"
+  }
 }

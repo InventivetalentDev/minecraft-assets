@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/chiseled_quartz_block" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/chiseled_quartz_block"
     }
+  }
 }

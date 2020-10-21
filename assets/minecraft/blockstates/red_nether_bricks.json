@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/red_nether_bricks" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/red_nether_bricks"
     }
+  }
 }

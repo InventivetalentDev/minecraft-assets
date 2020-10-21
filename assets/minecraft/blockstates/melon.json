@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/melon" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/melon"
     }
+  }
 }
