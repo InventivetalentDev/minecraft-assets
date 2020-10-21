@@ -2000,7 +2000,7 @@
     "commands.enchant.failed.itemless": "%s is not holding any item",
     "commands.enchant.failed.level": "%s is higher than the maximum level of %s supported by that enchantment",
     "commands.enchant.success.multiple": "Applied enchantment %s to %s entities",
-    "commands.enchant.success.single": "Applied enchantment %s to %s' s item",
+    "commands.enchant.success.single": "Applied enchantment %s to %s's item",
     "commands.execute.blocks.toobig": "Too many blocks in the specified area (maximum %s, specified %s)",
     "commands.execute.conditional.fail": "Test failed",
     "commands.execute.conditional.fail_count": "Test failed, count: %s",

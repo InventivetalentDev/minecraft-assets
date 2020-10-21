@@ -810,6 +810,7 @@
     "debug.copy_location.message": "Goobta loo daabacay",
     "debug.crash.warning": "Dhibaatada %s...",
     "debug.gamemodes.press_f4": "[ F4 ]",
+    "debug.prefix": "[Debug]:",
     "demo.day.1": "Demo Tani socon doonaa shan maalmood ciyaarta, aad sameyso fiican!",
     "demo.day.2": "Maalinta Labo",
     "demo.day.3": "Maalinta Saddex",

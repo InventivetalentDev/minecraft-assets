@@ -3838,7 +3838,7 @@
     "pack.incompatible.new": "(\u00dajabb Minecraft verzi\u00f3ra k\u00e9sz\u00fclt)",
     "pack.incompatible.old": "(R\u00e9gebbi Minecraft verzi\u00f3ra k\u00e9sz\u00fclt)",
     "pack.nameAndSource": "%s (%s)",
-    "pack.openFolder": "Csomag mapp\u00e1j\u00e1nak megnyit\u00e1sa",
+    "pack.openFolder": "Csomagok mappa megnyit\u00e1sa",
     "pack.selected.title": "Kiv\u00e1lasztva",
     "pack.source.builtin": "be\u00e9p\u00edtett",
     "pack.source.local": "helyi",

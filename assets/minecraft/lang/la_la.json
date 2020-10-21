@@ -3787,7 +3787,7 @@
     "options.narrator.off": "INACTIVUM",
     "options.narrator.system": "Ratio Narrat",
     "options.off": "INACTIVUM",
-    "options.off.composed": "%sInactivus",
+    "options.off.composed": "%s Inactivus",
     "options.on": "ACTIVUM",
     "options.on.composed": "%s: ITA",
     "options.particles": "Particulae",

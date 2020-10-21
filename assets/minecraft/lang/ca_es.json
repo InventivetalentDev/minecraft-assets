@@ -4127,7 +4127,7 @@
     "structure_block.mode_info.corner": "Mode V\u00e8rtex: Indica Posici\u00f3 i Mida",
     "structure_block.mode_info.data": "Dades: Fes servir la L\u00f2gica del Joc",
     "structure_block.mode_info.load": "Mode: Carrega - Carrega des d'un Fitxer",
-    "structure_block.mode_info.save": "Mode: Desa - Desa al Fitxer",
+    "structure_block.mode_info.save": "Mode de desat - Desa al Fitxer",
     "structure_block.position": "Posici\u00f3 relativa",
     "structure_block.position.x": "posici\u00f3 relativa x",
     "structure_block.position.y": "posici\u00f3 relativa y",

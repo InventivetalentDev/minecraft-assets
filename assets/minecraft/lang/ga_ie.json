@@ -3731,6 +3731,7 @@
     "options.fov.min": "Gn\u00e1th",
     "options.fovEffectScale": "FOV \u00e9ifeachta\u00ed",
     "options.fovEffectScale.off": "As",
+    "options.fovEffectScale.tooltip": "Riala\u00edonn s\u00e9 an m\u00e9id is f\u00e9idir leis an r\u00e9imse radhairc a athr\u00fa le h\u00e9ifeachta\u00ed luais.",
     "options.framerate": "%s fss",
     "options.framerateLimit": "R\u00e1ta Fr\u00e1ma\u00ed is M\u00f3",
     "options.framerateLimit.max": "Gan teorainn",

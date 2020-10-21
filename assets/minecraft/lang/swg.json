@@ -1851,7 +1851,7 @@
     "color.minecraft.red": "Roat",
     "color.minecraft.white": "Weis",
     "color.minecraft.yellow": "Geal",
-    "command.context.here": "<--[HERE]",
+    "command.context.here": "<--[D\u00c5]",
     "command.context.parse_error": "%s an Position %s: %s",
     "command.exception": "Befehl fehlerhaft: %s",
     "command.expected.separator": "Leerzeichen vor neuem Argument erwartet",

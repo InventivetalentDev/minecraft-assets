@@ -823,6 +823,7 @@
     "death.attack.sting": "%1$s was stung to death",
     "death.attack.sting.player": "%1$s was stung to death by %2$s",
     "debug.gamemodes.press_f4": "[ F4 ]",
+    "debug.prefix": "[Debug]:",
     "demo.day.2": "Secund ziua",
     "demo.day.3": "Tier\u00e7\u00e9a ziua",
     "demo.day.4": "Quart\u00e9a ziua",
