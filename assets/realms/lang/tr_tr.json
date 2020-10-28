@@ -1,5 +1,5 @@
 {
-    "mco.account.privacy.info": "Mojang ve gizlilik haklar\u0131 hakk\u0131nda daha fazlas\u0131n\u0131 oku",
+    "mco.account.privacy.info": "Mojang ve gizlilik yasalar\u0131 hakk\u0131nda daha fazlas\u0131n\u0131 okuyun",
     "mco.account.privacyinfo": "Mojang, \u00c7ocuklar\u0131n \u00c7evrimi\u00e7i Gizlili\u011fini Koruma Yasas\u0131'na (COPPA) ve Genel Veri Koruma Y\u00f6netmeli\u011fine (GDPR) uygun olarak \u00e7ocuklar\u0131n korunmas\u0131na ve gizlili\u011fine yard\u0131mc\u0131 olmak i\u00e7in belirli prosed\u00fcrleri uygulamaktad\u0131r.\n\nRealms hesab\u0131n\u0131za eri\u015fmeden \u00f6nce ebeveyn izni alman\u0131z gerekebilir.\n\nDaha eski bir Minecraft hesab\u0131n\u0131z varsa (kullan\u0131c\u0131 ad\u0131n\u0131zla giri\u015f yapt\u0131\u011f\u0131n\u0131z), Realms'e eri\u015fmek i\u00e7in hesab\u0131 bir Mojang hesab\u0131na d\u00f6n\u00fc\u015ft\u00fcrmeniz gerekir.",
     "mco.account.update": "Hesab\u0131 G\u00fcncelle",
     "mco.activity.noactivity": "Son %s g\u00fcnd\u00fcr hi\u00e7bir etkinlik yok",
@@ -57,7 +57,7 @@
     "mco.configure.world.edit.slot.name": "D\u00fcnya ad\u0131",
     "mco.configure.world.edit.subscreen.adventuremap": "\u015eu an ki d\u00fcnyan\u0131z bir macera haritas\u0131 oldu\u011fundan baz\u0131 ayarlar pasifle\u015ftirildi",
     "mco.configure.world.edit.subscreen.experience": "\u015eu an ki d\u00fcnyan\u0131z bir deneyim haritas\u0131 oldu\u011fundan baz\u0131 ayarlar pasifle\u015ftirildi",
-    "mco.configure.world.edit.subscreen.inspiration": "\u015eu anki d\u00fcnyan\u0131z bir al\u0131nt\u0131 oldu\u011fundan baz\u0131 ayarlar devre d\u0131\u015f\u0131 b\u0131rak\u0131ld\u0131",
+    "mco.configure.world.edit.subscreen.inspiration": "\u015eu anki d\u00fcnyan\u0131z bir ilham haritas\u0131 oldu\u011fundan baz\u0131 ayarlar devre d\u0131\u015f\u0131 b\u0131rak\u0131ld\u0131",
     "mco.configure.world.forceGameMode": "Oyun modunu zorla",
     "mco.configure.world.invite.narration": "%s yeni davetiniz var",
     "mco.configure.world.invite.profile.name": "Ad",

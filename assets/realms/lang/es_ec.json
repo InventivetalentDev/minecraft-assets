@@ -206,7 +206,7 @@
     "mco.template.select.failure": "No pudimos recuperar la lista de contenido de esta categor\u00eda.\nPor favor, revisa tu conexi\u00f3n a internet, o int\u00e9ntalo m\u00e1s tarde.",
     "mco.template.select.narrate.authors": "Autores: %s",
     "mco.template.select.narrate.version": "versi\u00f3n %s",
-    "mco.template.select.none": "\u00a1Ups! Parece que esta categor\u00eda no tiene contenido actualmente.\nPor favor, rev\u00edsala m\u00e1s tarde para ver si hay contenido nuevo, o, si eres un creador(a), %s.",
+    "mco.template.select.none": "\u00a1Ups! Parece que esta categor\u00eda no tiene contenido actualmente.\nPor favor, rev\u00edsala m\u00e1s tarde para ver si hay contenido nuevo, o, si eres creador(a), %s.",
     "mco.template.select.none.linkTitle": "quiz\u00e1s podr\u00edas enviarnos alguna de tus ideas",
     "mco.template.title": "Plantillas de mundo",
     "mco.template.title.minigame": "Minijuegos",
