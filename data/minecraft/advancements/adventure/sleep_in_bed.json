@@ -17,7 +17,8 @@
   },
   "criteria": {
     "slept_in_bed": {
-      "trigger": "minecraft:slept_in_bed"
+      "trigger": "minecraft:slept_in_bed",
+      "conditions": {}
     }
   },
   "requirements": [

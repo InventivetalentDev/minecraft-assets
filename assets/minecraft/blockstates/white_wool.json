@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/white_wool" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/white_wool"
     }
+  }
 }

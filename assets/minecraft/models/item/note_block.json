@@ -1,3 +1,3 @@
 {
-    "parent": "block/note_block"
+  "parent": "minecraft:block/note_block"
 }

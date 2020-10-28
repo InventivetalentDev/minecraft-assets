@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/dead_horn_coral" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/dead_horn_coral"
     }
+  }
 }
