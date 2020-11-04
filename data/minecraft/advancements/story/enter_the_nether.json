@@ -2,7 +2,8 @@
   "parent": "minecraft:story/form_obsidian",
   "display": {
     "icon": {
-      "item": "minecraft:flint_and_steel"
+      "item": "minecraft:flint_and_steel",
+      "nbt": "{Damage:0}"
     },
     "title": {
       "translate": "advancements.story.enter_the_nether.title"

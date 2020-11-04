@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/potted_dark_oak_sapling" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/potted_dark_oak_sapling"
     }
+  }
 }

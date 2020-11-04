@@ -1,6 +1,6 @@
 {
-    "parent": "item/template_bed",
-    "textures": {
-        "particle": "block/red_wool"
-    }
+  "parent": "minecraft:item/template_bed",
+  "textures": {
+    "particle": "minecraft:block/red_wool"
+  }
 }
