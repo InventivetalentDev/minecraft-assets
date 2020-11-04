@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/gold_ore" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/gold_ore"
     }
+  }
 }

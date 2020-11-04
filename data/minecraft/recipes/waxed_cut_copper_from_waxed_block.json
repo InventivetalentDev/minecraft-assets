@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:waxed_copper"
+    }
+  },
+  "result": {
+    "item": "minecraft:waxed_cut_copper",
+    "count": 4
+  }
+}

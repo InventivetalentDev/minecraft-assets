@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/cornflower" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/cornflower"
     }
+  }
 }

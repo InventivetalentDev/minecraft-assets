@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/spyglass"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "scoping": 1
+            },
+            "model": "item/spyglass_in_use"
+        }
+    ]
+}

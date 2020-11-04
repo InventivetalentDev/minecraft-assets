@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/green_wool" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/green_wool"
     }
+  }
 }

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:waxed_cut_copper_stairs_from_waxed_block"
+    ]
+  },
+  "criteria": {
+    "has_waxed_cut_copper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:waxed_cut_copper"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:waxed_cut_copper_stairs_from_waxed_block"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_waxed_cut_copper",
+      "has_the_recipe"
+    ]
+  ]
+}
