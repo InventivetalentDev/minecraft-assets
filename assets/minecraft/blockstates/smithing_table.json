@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/smithing_table" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/smithing_table"
     }
+  }
 }

@@ -1,7 +1,7 @@
 {
-    "parent": "block/template_glass_pane_side",
-    "textures": {
-        "edge": "block/glass_pane_top",
-        "pane": "block/glass"
-    }
+  "parent": "minecraft:block/template_glass_pane_side",
+  "textures": {
+    "pane": "minecraft:block/glass",
+    "edge": "minecraft:block/glass_pane_top"
+  }
 }

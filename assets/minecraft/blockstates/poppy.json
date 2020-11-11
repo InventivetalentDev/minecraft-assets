@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/poppy" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/poppy"
     }
+  }
 }

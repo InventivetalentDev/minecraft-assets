@@ -1,0 +1,24 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/spyglass"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 155, -45, -25 ],
+            "translation": [ 5, -3.5, -2.5 ],
+            "scale": [ 0.8, 0.8, 0.8 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 155, 125, 25 ],
+            "translation": [ 3, -3.5, -2.5 ],
+            "scale": [ 0.8, 0.8, 0.8 ]
+        },
+        "firstperson_righthand": {
+            "scale": [ 0.0, 0.0, 0.0 ]
+        },
+        "firstperson_lefthand": {
+            "scale": [ 0.0, 0.0, 0.0 ]
+        }
+    }
+}

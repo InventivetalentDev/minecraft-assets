@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/spruce_leaves" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/spruce_leaves"
     }
+  }
 }

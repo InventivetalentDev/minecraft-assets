@@ -1,7 +1,7 @@
 {
-    "parent": "block/door_top",
-    "textures": {
-        "bottom": "block/spruce_door_bottom",
-        "top": "block/spruce_door_top"
-    }
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "top": "minecraft:block/spruce_door_top",
+    "bottom": "minecraft:block/spruce_door_bottom"
+  }
 }

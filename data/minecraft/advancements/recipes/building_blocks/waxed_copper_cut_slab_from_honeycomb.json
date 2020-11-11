@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:waxed_copper_cut_slab_from_honeycomb"
+    ]
+  },
+  "criteria": {
+    "has_copper_cut_slab": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:cut_copper_slab"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:waxed_copper_cut_slab_from_honeycomb"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_copper_cut_slab",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,4 +1,8 @@
-{   "parent": "block/thin_block",
+{
+    "parent": "block/thin_block",
+    "textures": {
+        "particle": "#wool"
+    },
     "elements": [
         {   "from": [ 0, 0, 0 ],
             "to": [ 16, 1, 16 ],

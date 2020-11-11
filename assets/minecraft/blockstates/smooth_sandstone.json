@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/smooth_sandstone" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/smooth_sandstone"
     }
+  }
 }
