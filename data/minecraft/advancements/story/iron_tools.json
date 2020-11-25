@@ -2,7 +2,8 @@
   "parent": "minecraft:story/smelt_iron",
   "display": {
     "icon": {
-      "item": "minecraft:iron_pickaxe"
+      "item": "minecraft:iron_pickaxe",
+      "nbt": "{Damage:0}"
     },
     "title": {
       "translate": "advancements.story.iron_tools.title"
