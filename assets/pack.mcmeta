@@ -211,7 +211,7 @@
             "bidirectional": false
         },
         "gl_es": {
-            "region": "Galicia",
+            "region": "Galicia / Galiza",
             "name": "Galego",
             "bidirectional": false
         },
@@ -236,7 +236,7 @@
             "bidirectional": false
         },
         "got_de": {
-            "region": " Gutland",
+            "region": "Gutland",
             "name": "Gutrazda",
             "bidirectional": false
         },
@@ -397,7 +397,7 @@
         },
         "moh_ca": {
             "region": "Kanien'keh\u00e1:ka",
-            "name": "Kanien\u2019k\u00e9ha",
+            "name": "Kanien\u2019k\u00e9ha,",
             "bidirectional": false
         },
         "mn_mn": {

@@ -3653,7 +3653,7 @@
     "multiplayer.status.cannot_connect": "Error al conectar",
     "multiplayer.status.cannot_resolve": "Error al resolver el nombre del host",
     "multiplayer.status.finished": "Conexi\u00f3n finalizada",
-    "multiplayer.status.incompatible": "\u00a1Versi\u00f3n Incompatible!",
+    "multiplayer.status.incompatible": "\u00a1Versi\u00f3n incompatible!",
     "multiplayer.status.no_connection": "(sin conexi\u00f3n)",
     "multiplayer.status.old": "Desactualizado",
     "multiplayer.status.ping": "%s ms",
@@ -3755,9 +3755,9 @@
     "options.fov": "Campo de visi\u00f3n",
     "options.fov.max": "Quake Pro",
     "options.fov.min": "Normal",
-    "options.fovEffectScale": "Efectos de c. de visi\u00f3n",
+    "options.fovEffectScale": "Efectos de FOV",
     "options.fovEffectScale.off": "NO",
-    "options.fovEffectScale.tooltip": "Modifica la intensidad del efecto que genera la velocidad en el campo de visi\u00f3n.",
+    "options.fovEffectScale.tooltip": "Modifica la intensidad del efecto que genera la velocidad en el campo de visi\u00f3n (FOV).",
     "options.framerate": "%s",
     "options.framerateLimit": "FPS m\u00e1ximos",
     "options.framerateLimit.max": "Sin l\u00edmite",
@@ -4807,6 +4807,6 @@
     "tutorial.open_inventory.title": "\u00a1Abr\u00ed tu inventario!",
     "tutorial.punch_tree.description": "Manten\u00e9 %s.",
     "tutorial.punch_tree.title": "\u00a1Destru\u00ed el \u00e1rbol!",
-    "tutorial.socialInteractions.description": "Presiona %s para abrir",
+    "tutorial.socialInteractions.description": "Apret\u00e1 %s para abrir",
     "tutorial.socialInteractions.title": "Interacciones sociales"
 }

@@ -3787,6 +3787,7 @@
     "options.guiScale.auto": "liek magicz",
     "options.hidden": "Hiddn",
     "options.hideMatchedNames": "Hide macht naems",
+    "options.hideMatchedNames.tooltip": "udur katz can givez u presunts in werd wrappur.\nWif dis enabl: hidun katz vil be faund wif presunt sendur naems.",
     "options.invertMouse": "esuoM trevnI",
     "options.key.hold": "Prezz",
     "options.key.toggle": "Togel",

@@ -3786,6 +3786,8 @@
     "options.guiScale": "GUI-Gr\u00e9isst",
     "options.guiScale.auto": "Auto",
     "options.hidden": "Verstoppt",
+    "options.hideMatchedNames": "No Numm filteren",
+    "options.hideMatchedNames.tooltip": "E puer Server vun Dr\u00ebtt-Parteie sch\u00e9cke Chatnoriichten an engem net standardm\u00e9issege Format.\nWann d\u00ebs Optioun aktiv\u00e9iert ass, ginn ausgeblent Spiller a Funktioun vum Ofsendernumm am Chat zougeuerdent.",
     "options.invertMouse": "Maus \u00ebmk\u00e9ieren",
     "options.key.hold": "Unhalen",
     "options.key.toggle": "\u00cbmschalten",

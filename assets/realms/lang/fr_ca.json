@@ -137,7 +137,7 @@
     "mco.errorMessage.6002": "Les conditions d'utilisation n'ont pas \u00e9t\u00e9 accept\u00e9es",
     "mco.errorMessage.6003": "La limite de t\u00e9l\u00e9chargement a \u00e9t\u00e9 atteinte",
     "mco.errorMessage.6004": "La limite d'upload a \u00e9t\u00e9 atteinte",
-    "mco.errorMessage.connectionFailure": "Une erreur est survenue, veuillez r\u00e9essayer plus tard",
+    "mco.errorMessage.connectionFailure": "Une erreur est survenue, veuillez r\u00e9essayer plus tard.",
     "mco.gui.button": "Bouton",
     "mco.gui.ok": "Ok",
     "mco.invites.button.accept": "Accepter",

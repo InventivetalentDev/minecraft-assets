@@ -2548,7 +2548,7 @@
     "disconnect.kicked": "Du blev utsparkad fr\u00e5n spelet",
     "disconnect.loginFailed": "Misslyckades att logga in",
     "disconnect.loginFailedInfo": "Misslyckades att logga in: %s",
-    "disconnect.loginFailedInfo.insufficientPrivileges": "Flerspelarl\u00e4get \u00e4r inaktiverat. Kontrollera inst\u00e4llningarna f\u00f6r ditt Microsoft-konto.",
+    "disconnect.loginFailedInfo.insufficientPrivileges": "Flerspelarl\u00e4get \u00e4r inaktiverat. V\u00e4nligen kontrollera inst\u00e4llningarna f\u00f6r ditt Microsoft-konto.",
     "disconnect.loginFailedInfo.invalidSession": "Ogiltig session (F\u00f6rs\u00f6k att starta om spelet och programstartaren)",
     "disconnect.loginFailedInfo.serversUnavailable": "Autentiseringsservrarna \u00e4r just nu nere f\u00f6r underh\u00e5ll.",
     "disconnect.lost": "Anslutningen avbr\u00f6ts",
