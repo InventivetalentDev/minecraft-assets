@@ -16,19 +16,6 @@
         ]
       }
     },
-    "has_at_least_9_redstone": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:redstone",
-            "count": {
-              "min": 9
-            }
-          }
-        ]
-      }
-    },
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
@@ -39,7 +26,6 @@
   "requirements": [
     [
       "has_redstone_block",
-      "has_at_least_9_redstone",
       "has_the_recipe"
     ]
   ]

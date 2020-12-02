@@ -6,15 +6,12 @@
     ]
   },
   "criteria": {
-    "has_at_least_9_lapis": {
+    "has_lapis": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:lapis_lazuli",
-            "count": {
-              "min": 9
-            }
+            "item": "minecraft:lapis_lazuli"
           }
         ]
       }
@@ -28,7 +25,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_lapis",
+      "has_lapis",
       "has_the_recipe"
     ]
   ]

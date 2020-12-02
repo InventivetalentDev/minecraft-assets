@@ -2,7 +2,8 @@
   "parent": "minecraft:adventure/kill_a_mob",
   "display": {
     "icon": {
-      "item": "minecraft:trident"
+      "item": "minecraft:trident",
+      "nbt": "{Damage:0}"
     },
     "title": {
       "translate": "advancements.adventure.throw_trident.title"

@@ -6,15 +6,12 @@
     ]
   },
   "criteria": {
-    "has_at_least_9_wheat": {
+    "has_wheat": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:wheat",
-            "count": {
-              "min": 9
-            }
+            "item": "minecraft:wheat"
           }
         ]
       }
@@ -28,7 +25,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_wheat",
+      "has_wheat",
       "has_the_recipe"
     ]
   ]

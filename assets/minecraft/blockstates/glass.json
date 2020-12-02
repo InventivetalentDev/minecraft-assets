@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/glass" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/glass"
     }
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lightly_weathered_copper_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:lightly_weathered_cut_copper",
+    "count": 4
+  }
+}
