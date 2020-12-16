@@ -3,10 +3,11 @@
   "pools": [
     {
       "rolls": {
+        "type": "minecraft:uniform",
         "min": 3.0,
-        "max": 10.0,
-        "type": "minecraft:uniform"
+        "max": 10.0
       },
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
@@ -15,10 +16,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 1.0,
-                "max": 12.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 12.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:paper"
@@ -30,10 +32,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 2.0,
-                "max": 6.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 6.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:potato"
@@ -45,10 +48,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 2.0,
-                "max": 6.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 6.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:poisonous_potato"
@@ -60,10 +64,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 4.0,
-                "max": 8.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 8.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:carrot"
@@ -75,10 +80,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 8.0,
-                "max": 21.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 21.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:wheat"
@@ -91,8 +97,17 @@
               "function": "minecraft:set_stew_effect",
               "effects": [
                 {
-                  "type": "minecraft:speed",
+                  "type": "minecraft:saturation",
                   "duration": {
+                    "type": "minecraft:uniform",
+                    "min": 7.0,
+                    "max": 10.0
+                  }
+                },
+                {
+                  "type": "minecraft:night_vision",
+                  "duration": {
+                    "type": "minecraft:uniform",
                     "min": 7.0,
                     "max": 10.0
                   }
@@ -100,27 +115,7 @@
                 {
                   "type": "minecraft:jump_boost",
                   "duration": {
-                    "min": 7.0,
-                    "max": 10.0
-                  }
-                },
-                {
-                  "type": "minecraft:weakness",
-                  "duration": {
-                    "min": 6.0,
-                    "max": 8.0
-                  }
-                },
-                {
-                  "type": "minecraft:poison",
-                  "duration": {
-                    "min": 10.0,
-                    "max": 20.0
-                  }
-                },
-                {
-                  "type": "minecraft:saturation",
-                  "duration": {
+                    "type": "minecraft:uniform",
                     "min": 7.0,
                     "max": 10.0
                   }
@@ -128,8 +123,25 @@
                 {
                   "type": "minecraft:blindness",
                   "duration": {
+                    "type": "minecraft:uniform",
                     "min": 5.0,
                     "max": 7.0
+                  }
+                },
+                {
+                  "type": "minecraft:poison",
+                  "duration": {
+                    "type": "minecraft:uniform",
+                    "min": 10.0,
+                    "max": 20.0
+                  }
+                },
+                {
+                  "type": "minecraft:weakness",
+                  "duration": {
+                    "type": "minecraft:uniform",
+                    "min": 6.0,
+                    "max": 8.0
                   }
                 }
               ]
@@ -144,10 +156,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 2.0,
-                "max": 8.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 8.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:coal"
@@ -159,10 +172,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 5.0,
-                "max": 24.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 24.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:rotten_flesh"
@@ -174,10 +188,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 1.0,
-                "max": 3.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 3.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:pumpkin"
@@ -189,10 +204,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 1.0,
-                "max": 3.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 3.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:bamboo"
@@ -204,10 +220,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 1.0,
-                "max": 5.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 5.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:gunpowder"
@@ -218,10 +235,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 1.0,
-                "max": 2.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 2.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:tnt"

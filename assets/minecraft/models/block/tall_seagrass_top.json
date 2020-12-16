@@ -1,7 +1,6 @@
 {
-    "parent": "block/seagrass",
-    "textures": {
-        "seagrass": "block/tall_seagrass_top",
-        "particle": "block/tall_seagrass_top"
-    }
+  "parent": "minecraft:block/template_seagrass",
+  "textures": {
+    "texture": "minecraft:block/tall_seagrass_top"
+  }
 }

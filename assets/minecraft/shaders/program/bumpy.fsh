@@ -1,4 +1,4 @@
-#version 120
+#version 110
 
 uniform sampler2D DiffuseSampler;
 
@@ -29,6 +29,6 @@ void main(){
     f += (du * i) - (dd * i);
     f += (dr * i) - (dl * i);
 
-    vec4 color = c * clamp(f, 0.5, 2);
+    vec4 color = c * clamp(f, 0.5, 2.0);
     gl_FragColor = vec4(color.rgb, 1.0);
 }

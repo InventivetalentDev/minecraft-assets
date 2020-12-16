@@ -1,6 +1,6 @@
 {
-    "parent": "block/two_turtle_eggs",
-    "textures": {
-        "all": "block/turtle_egg_slightly_cracked"
-    }
+  "parent": "minecraft:block/template_two_turtle_eggs",
+  "textures": {
+    "all": "minecraft:block/turtle_egg_slightly_cracked"
+  }
 }
