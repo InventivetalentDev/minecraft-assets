@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/gray_concrete" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/gray_concrete"
     }
+  }
 }

@@ -6,15 +6,12 @@
     ]
   },
   "criteria": {
-    "has_at_least_9_emerald": {
+    "has_emerald": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:emerald",
-            "count": {
-              "min": 9
-            }
+            "item": "minecraft:emerald"
           }
         ]
       }
@@ -28,7 +25,7 @@
   },
   "requirements": [
     [
-      "has_at_least_9_emerald",
+      "has_emerald",
       "has_the_recipe"
     ]
   ]
