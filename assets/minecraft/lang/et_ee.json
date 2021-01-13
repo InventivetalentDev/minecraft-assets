@@ -2178,7 +2178,7 @@
     "commands.team.list.members.success": "Meeskonnas %s on %s liiget: %s",
     "commands.team.list.teams.empty": "Meeskondi ei ole",
     "commands.team.list.teams.success": "Meeskondi on %s: %s",
-    "commands.team.option.collisionRule.success": "L\u00e4bistavusreegel meeskonnal %s on n\u00fc\u00fcd \"%s\"",
+    "commands.team.option.collisionRule.success": "Kokkup\u00f5rkereegel meeskonnal %s on n\u00fc\u00fcd \"%s\"",
     "commands.team.option.collisionRule.unchanged": "Midagi ei muutunud. Kokkup\u00f5rkereegel on juba selle v\u00e4\u00e4rtusega",
     "commands.team.option.color.success": "Meeskonna %s v\u00e4rv on n\u00fc\u00fcd %s",
     "commands.team.option.color.unchanged": "Midagi ei muutunud. See meeskond juba omab seda v\u00e4rvi",

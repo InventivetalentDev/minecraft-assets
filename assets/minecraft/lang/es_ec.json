@@ -3786,7 +3786,7 @@
     "options.guiScale": "Tama\u00f1o de interfaz",
     "options.guiScale.auto": "Auto.",
     "options.hidden": "Oculto",
-    "options.hideMatchedNames": "Ocultar los nombres de los jugadores coincidentes",
+    "options.hideMatchedNames": "Ocultar nombres coincidentes",
     "options.hideMatchedNames.tooltip": "Es posible que los servidores de terceros env\u00eden mensajes en formatos poco habituales.\nSi esta opci\u00f3n est\u00e1 activada, los jugadores ocultos ser\u00e1n emparejados seg\u00fan su nombre de emisor de chat.",
     "options.invertMouse": "Invertir mouse",
     "options.key.hold": "Mantener",
