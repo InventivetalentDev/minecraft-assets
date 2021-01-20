@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/white_shulker_box" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/white_shulker_box"
     }
+  }
 }
