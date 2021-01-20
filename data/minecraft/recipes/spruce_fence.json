@@ -6,11 +6,11 @@
     "W#W"
   ],
   "key": {
-    "#": {
-      "item": "minecraft:stick"
-    },
     "W": {
       "item": "minecraft:spruce_planks"
+    },
+    "#": {
+      "item": "minecraft:stick"
     }
   },
   "result": {

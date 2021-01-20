@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/orange_stained_glass" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/orange_stained_glass"
     }
+  }
 }

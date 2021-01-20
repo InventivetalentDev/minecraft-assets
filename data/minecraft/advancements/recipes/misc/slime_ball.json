@@ -6,19 +6,6 @@
     ]
   },
   "criteria": {
-    "has_at_least_9_slime_ball": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "item": "minecraft:slime_ball",
-            "count": {
-              "min": 9
-            }
-          }
-        ]
-      }
-    },
     "has_slime": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -38,7 +25,6 @@
   },
   "requirements": [
     [
-      "has_at_least_9_slime_ball",
       "has_slime",
       "has_the_recipe"
     ]
