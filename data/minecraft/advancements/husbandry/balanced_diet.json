@@ -322,6 +322,22 @@
           "item": "minecraft:sweet_berries"
         }
       }
+    },
+    "honey_bottle": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:honey_bottle"
+        }
+      }
+    },
+    "glow_berries": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "minecraft:glow_berries"
+        }
+      }
     }
   },
   "requirements": [
@@ -438,6 +454,12 @@
     ],
     [
       "sweet_berries"
+    ],
+    [
+      "honey_bottle"
+    ],
+    [
+      "glow_berries"
     ]
   ]
 }

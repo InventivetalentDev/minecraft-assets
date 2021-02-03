@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/jungle_sapling" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/jungle_sapling"
     }
+  }
 }

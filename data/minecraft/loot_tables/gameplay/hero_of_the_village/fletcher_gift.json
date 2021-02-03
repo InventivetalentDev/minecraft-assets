@@ -2,7 +2,8 @@
   "type": "minecraft:gift",
   "pools": [
     {
-      "rolls": 1,
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
@@ -15,10 +16,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 1.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:set_nbt",
@@ -33,10 +35,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 1.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:set_nbt",
@@ -51,10 +54,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 1.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:set_nbt",
@@ -69,10 +73,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 1.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:set_nbt",
@@ -87,10 +92,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 1.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:set_nbt",
@@ -105,10 +111,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 1.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:set_nbt",
@@ -123,10 +130,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 1.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:set_nbt",
@@ -141,10 +149,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 1.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:set_nbt",
@@ -159,10 +168,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 1.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:set_nbt",
@@ -177,10 +187,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 1.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:set_nbt",
@@ -195,10 +206,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 1.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:set_nbt",
@@ -213,10 +225,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 1.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:set_nbt",
@@ -231,10 +244,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 0.0,
-                "max": 1.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 1.0
+              },
+              "add": false
             },
             {
               "function": "minecraft:set_nbt",

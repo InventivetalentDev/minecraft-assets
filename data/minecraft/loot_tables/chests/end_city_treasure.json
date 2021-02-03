@@ -3,10 +3,11 @@
   "pools": [
     {
       "rolls": {
+        "type": "minecraft:uniform",
         "min": 2.0,
-        "max": 6.0,
-        "type": "minecraft:uniform"
+        "max": 6.0
       },
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
@@ -15,10 +16,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 2.0,
-                "max": 7.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 7.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:diamond"
@@ -30,10 +32,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 4.0,
-                "max": 8.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 8.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:iron_ingot"
@@ -45,10 +48,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 2.0,
-                "max": 7.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 7.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:gold_ingot"
@@ -60,10 +64,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 2.0,
-                "max": 6.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 6.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:emerald"
@@ -75,10 +80,11 @@
             {
               "function": "minecraft:set_count",
               "count": {
+                "type": "minecraft:uniform",
                 "min": 1.0,
-                "max": 10.0,
-                "type": "minecraft:uniform"
-              }
+                "max": 10.0
+              },
+              "add": false
             }
           ],
           "name": "minecraft:beetroot_seeds"
@@ -107,9 +113,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }
@@ -123,9 +129,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }
@@ -139,9 +145,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }
@@ -155,9 +161,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }
@@ -171,9 +177,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }
@@ -187,9 +193,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }
@@ -203,9 +209,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }
@@ -219,9 +225,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }
@@ -235,9 +241,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }
@@ -251,9 +257,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }
@@ -267,9 +273,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }
@@ -283,9 +289,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }
@@ -299,9 +305,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }
@@ -315,9 +321,9 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
+                "type": "minecraft:uniform",
                 "min": 20.0,
-                "max": 39.0,
-                "type": "minecraft:uniform"
+                "max": 39.0
               },
               "treasure": true
             }

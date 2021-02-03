@@ -6,7 +6,7 @@
     ]
   },
   "criteria": {
-    "has_acacia_planks": {
+    "has_planks": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -25,7 +25,7 @@
   },
   "requirements": [
     [
-      "has_acacia_planks",
+      "has_planks",
       "has_the_recipe"
     ]
   ]

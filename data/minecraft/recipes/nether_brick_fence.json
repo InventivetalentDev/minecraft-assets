@@ -1,14 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "#-#",
-    "#-#"
+    "W#W",
+    "W#W"
   ],
   "key": {
-    "#": {
+    "W": {
       "item": "minecraft:nether_bricks"
     },
-    "-": {
+    "#": {
       "item": "minecraft:nether_brick"
     }
   },
