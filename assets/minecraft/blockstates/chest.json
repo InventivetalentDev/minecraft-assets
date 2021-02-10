@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/chest" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/chest"
     }
+  }
 }

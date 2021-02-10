@@ -1,8 +1,8 @@
 {
-    "parent": "block/slab_top",
-    "textures": {
-        "bottom": "block/diorite",
-        "top": "block/diorite",
-        "side": "block/diorite"
-    }
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "minecraft:block/diorite",
+    "top": "minecraft:block/diorite",
+    "side": "minecraft:block/diorite"
+  }
 }
