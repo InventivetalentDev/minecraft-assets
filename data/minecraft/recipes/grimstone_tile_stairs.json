@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:grimstone_tiles"
+    }
+  },
+  "result": {
+    "item": "minecraft:grimstone_tile_stairs",
+    "count": 4
+  }
+}

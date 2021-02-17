@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:polished_grimstone_wall"
+    ]
+  },
+  "criteria": {
+    "has_polished_grimstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:polished_grimstone"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:polished_grimstone_wall"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_polished_grimstone",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:chiseled_grimstone"
+    ]
+  },
+  "criteria": {
+    "has_grimstone_slab": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:grimstone_slab"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:chiseled_grimstone"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_grimstone_slab",
+      "has_the_recipe"
+    ]
+  ]
+}

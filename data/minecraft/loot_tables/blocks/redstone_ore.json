@@ -2,7 +2,8 @@
   "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:alternatives",
@@ -32,10 +33,11 @@
                 {
                   "function": "minecraft:set_count",
                   "count": {
+                    "type": "minecraft:uniform",
                     "min": 4.0,
-                    "max": 5.0,
-                    "type": "minecraft:uniform"
-                  }
+                    "max": 5.0
+                  },
+                  "add": false
                 },
                 {
                   "function": "minecraft:apply_bonus",

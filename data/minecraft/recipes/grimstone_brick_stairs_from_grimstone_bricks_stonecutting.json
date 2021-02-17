@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:grimstone_bricks"
+  },
+  "result": "minecraft:grimstone_brick_stairs",
+  "count": 1
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:grimstone_tile_stairs_from_grimstone_tiles_stonecutting"
+    ]
+  },
+  "criteria": {
+    "has_grimstone_tiles": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:grimstone_tiles"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:grimstone_tile_stairs_from_grimstone_tiles_stonecutting"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_grimstone_tiles",
+      "has_the_recipe"
+    ]
+  ]
+}

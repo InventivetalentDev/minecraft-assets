@@ -19,7 +19,9 @@
     "in_city": {
       "trigger": "minecraft:location",
       "conditions": {
-        "feature": "endcity"
+        "location": {
+          "feature": "endcity"
+        }
       }
     }
   },

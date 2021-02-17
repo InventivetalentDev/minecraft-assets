@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:grimstone_slab"
+    ]
+  },
+  "criteria": {
+    "has_grimstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:grimstone"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:grimstone_slab"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_grimstone",
+      "has_the_recipe"
+    ]
+  ]
+}

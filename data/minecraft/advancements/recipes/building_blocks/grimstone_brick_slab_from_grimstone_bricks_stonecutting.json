@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:grimstone_brick_slab_from_grimstone_bricks_stonecutting"
+    ]
+  },
+  "criteria": {
+    "has_grimstone_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:grimstone_bricks"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:grimstone_brick_slab_from_grimstone_bricks_stonecutting"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_grimstone_bricks",
+      "has_the_recipe"
+    ]
+  ]
+}

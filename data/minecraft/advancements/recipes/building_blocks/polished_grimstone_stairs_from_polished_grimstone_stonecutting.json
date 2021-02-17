@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:polished_grimstone_stairs_from_polished_grimstone_stonecutting"
+    ]
+  },
+  "criteria": {
+    "has_polished_grimstone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:polished_grimstone"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:polished_grimstone_stairs_from_polished_grimstone_stonecutting"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_polished_grimstone",
+      "has_the_recipe"
+    ]
+  ]
+}

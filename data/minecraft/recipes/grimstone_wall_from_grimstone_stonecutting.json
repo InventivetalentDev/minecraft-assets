@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:grimstone"
+  },
+  "result": "minecraft:grimstone_wall",
+  "count": 1
+}

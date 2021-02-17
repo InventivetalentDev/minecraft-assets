@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/orange_shulker_box" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/orange_shulker_box"
     }
+  }
 }

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/polished_grimstone_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/polished_grimstone"
+    },
+    "type=top": {
+      "model": "minecraft:block/polished_grimstone_slab_top"
+    }
+  }
+}

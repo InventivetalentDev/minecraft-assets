@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:grimstone_tile_wall"
+    ]
+  },
+  "criteria": {
+    "has_grimstone_tiles": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:grimstone_tiles"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:grimstone_tile_wall"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_grimstone_tiles",
+      "has_the_recipe"
+    ]
+  ]
+}
