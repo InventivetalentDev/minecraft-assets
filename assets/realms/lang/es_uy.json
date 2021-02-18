@@ -115,7 +115,7 @@
     "mco.connect.authorizing": "Iniciando sesi\u00f3n...",
     "mco.connect.connecting": "Conectando al realm...",
     "mco.connect.failed": "Error al conectar con el realm",
-    "mco.connect.success": "Aceptar",
+    "mco.connect.success": "Hecho",
     "mco.create.world": "Crear",
     "mco.create.world.error": "\u00a1Ten\u00e9s que escribir un nombre!",
     "mco.create.world.reset.title": "Creando mundo...",

@@ -232,5 +232,5 @@
     "mco.upload.size.failure.line2": "De grootte is %s; De maximaal toegestane grootte is %s.",
     "mco.upload.uploading": "'%s' uploaden",
     "mco.upload.verifying": "Wereld controleren",
-    "narrator.select.list.position": "item %s van de %s"
+    "narrator.select.list.position": "voorwerp %s van de %s"
 }
