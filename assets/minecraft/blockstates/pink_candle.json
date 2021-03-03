@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "candles=1": {
+      "model": "minecraft:block/pink_candle_one_candle"
+    },
+    "candles=2": {
+      "model": "minecraft:block/pink_candle_two_candles"
+    },
+    "candles=3": {
+      "model": "minecraft:block/pink_candle_three_candles"
+    },
+    "candles=4": {
+      "model": "minecraft:block/pink_candle_four_candles"
+    }
+  }
+}

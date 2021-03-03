@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/deepslate"
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored"
+      },
+      {
+        "model": "minecraft:block/deepslate",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/deepslate_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

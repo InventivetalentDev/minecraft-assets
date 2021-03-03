@@ -1,0 +1,38 @@
+{
+  "variants": {
+    "half=lower": [
+      {
+        "model": "minecraft:block/small_dripleaf_bottom"
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_bottom",
+        "y": 270
+      }
+    ],
+    "half=upper": [
+      {
+        "model": "minecraft:block/small_dripleaf_top"
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/small_dripleaf_top",
+        "y": 270
+      }
+    ]
+  }
+}
