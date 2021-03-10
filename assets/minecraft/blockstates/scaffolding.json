@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "distance=0": { "model": "block/scaffolding_stable" },
+        "distance=1": { "model": "block/scaffolding_unstable" },
+        "distance=2": { "model": "block/scaffolding_unstable" },
+        "distance=3": { "model": "block/scaffolding_unstable" },
+        "distance=4": { "model": "block/scaffolding_unstable" },
+        "distance=5": { "model": "block/scaffolding_unstable" }
+    }
+}

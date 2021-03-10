@@ -1,0 +1,16 @@
+{
+    "mco.account.privacy.info": "G\u1ee5kwuo banyere iwu Mojang na nzuzo",
+    "mco.account.update": "Melite aka\u1ee5nt\u1ee5 g\u1ecb",
+    "mco.configure.world.activityfeed.disabled": "Ihe ndek\u1ecd egwu egwu na-ad\u1ecbgh\u1ecb nwa oge",
+    "mco.configure.world.buttons.done": "Emela",
+    "mco.configure.world.buttons.edit": "Nt\u1ecdala",
+    "mco.configure.world.edit.subscreen.inspiration": "Enwere \u1ee5f\u1ecdd\u1ee5 nt\u1ecdala n'ihi na \u1ee5wa a b\u1ee5 ihe mkpali",
+    "mco.configure.world.location": "Ebe",
+    "mco.configure.worlds.title": "\u1ee4wa",
+    "mco.connect.success": "Emela",
+    "mco.reset.world.inspiration": "Mkpali",
+    "mco.template.button.trailer": "Trailer nke ihe nkiri",
+    "mco.template.select.failure": "Any\u1ecb enwegh\u1ecb ike ibudata listi \u1ecdd\u1ecbnaya maka \u1ee5d\u1ecb a.\nLelee njik\u1ecd \u1ecantanet\u1ecb ma \u1ecd b\u1ee5 gbal\u1ecba \u1ecdz\u1ecd mgbe e mes\u1ecbr\u1ecb.",
+    "mco.template.select.none": "Ma, \u1ecd d\u1ecb ka \u1ee5d\u1ecb \u1ecdd\u1ecbnaya a d\u1ecb ugbu a.\nLelee az\u1ee5 mgbe e mes\u1ecbr\u1ecb maka \u1ecdd\u1ecbnaya \u1ecdh\u1ee5r\u1ee5 ma \u1ecd b\u1ee5r\u1ee5 na \u1ecb b\u1ee5 onye okike,\n%s.",
+    "mco.template.select.none.linkTitle": "t\u1ee5lee izipu ihe n'ime mmad\u1ee5"
+}
