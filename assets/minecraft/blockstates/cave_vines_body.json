@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "berries=false": {
+      "model": "minecraft:block/cave_vines_body"
+    },
+    "berries=true": {
+      "model": "minecraft:block/cave_vines_body_lit"
+    }
+  }
+}
