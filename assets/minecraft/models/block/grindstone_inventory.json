@@ -1,0 +1,34 @@
+{
+	"parent": "block/grindstone",
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [ 0.525, 0.525, 0.525 ]
+		},
+		"thirdperson_lefthand": {
+			"scale": [ 0.525, 0.525, 0.525 ]
+		},
+		"firstperson_righthand": {
+			"scale": [ 0.4, 0.4, 0.4 ],
+			"rotation": [ 0, 0, 0 ]
+		},
+		"firstperson_lefthand": {
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"head": {
+			"scale": [ 1.675, 1.675, 1.675 ],
+			"translation": [ 0, 7.5, 0 ],
+			"rotation": [ 0, 0, 0 ]
+		},
+		"ground": {
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 0, 0 ]
+		},
+		"gui": {
+			"scale": [ 0.75, 0.75, 0.75 ],
+			"rotation": [ 20, 25, 0 ],
+			"translation": [ 0, -0.5, 0 ]
+		}
+	}
+}
