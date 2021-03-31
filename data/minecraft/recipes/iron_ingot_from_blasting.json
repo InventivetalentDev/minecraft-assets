@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "tag": "minecraft:iron_ores"
+  },
+  "result": "minecraft:iron_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}
