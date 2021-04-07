@@ -1,0 +1,480 @@
+[C]§f============
+[C]§eMinecraft Team
+[C]§f============
+
+§7Original Creator
+§f          Markus Persson
+
+§7Chief Creative Officer
+§f          Jens Bergensten
+
+§7Executive Producer
+§f          Sara Jansson Bach
+
+§7Producers
+§f          Adrian Östergård
+§f          Dejan Dimic
+§f          Isabella Arningsmark
+§f          Marcus Bodin
+§f          Marie Stålkrantz
+
+§7Associate Producers
+§f          Anna Lundgren
+§f          Sara Lidberg
+
+§7Technical Director
+§f          Nathan Adams
+
+§7Tech Leads
+§f          Mikael Hedberg
+§f          Sebastian Hindefelt
+
+§7Game Developers
+§f          Agnes Larsson
+§f          Alexander Sandor
+§f          Alexander Torstling
+§f          Alexander Östman
+§f          Bartosz Bok
+§f          Billy Sjöberg
+§f          Bjarni Gudmundsson
+§f          Brandon Pearce
+§f          Cory Scheviak
+§f          David Dalström
+§f          Erik Broes
+§f          Felix Jones
+§f          Georgii Gavrichev
+§f          Henning Erlandsen
+§f          Henrik Kniberg
+§f          Joachim Larsson
+§f          Johannes Busch
+§f          Josh Letellier
+§f          Kristoffer Kobosko
+§f          Maria Lemón
+§f          Matthew Gatland
+§f          Michael Stoyke
+§f          Niclas Unnervik
+§f          Nilay Karaoglu
+§f          Nir Vaknin
+§f          Pouya Ashraf
+§f          Sina Tamanna
+§f          Thomas Guimbretière
+
+§7Quality Assurance
+§f          Paul Coada
+§f          Thommy Siverman Mörk
+§f          Zackarias Gustavsson
+
+§7Launcher Tech Lead
+§f          Márcio Oliveira
+
+§7Launcher Developers
+§f          Linus Cumselius
+§f          Marc Neander
+§f          Mikael Malmqvist
+§f          Petr Mrázek
+
+§7Launcher User Experience Designer
+§f          Lucas Morales
+
+§7Realms Senior Product Manager
+§f          Fredrik Telenius
+
+§7Realms Product Manager
+§f          Kevin Katona
+
+§7Realms Tech Lead
+§f          Lawrence Sanchez
+
+§7Realms Developers
+§f          Brian Threvathan
+§f          Cullen Waters
+§f          Lawrence Sanchez
+§f          Nathan Sosnovske
+§f          Nicolas Suc
+
+§7Minecraft Content Lead
+§f          Matthew Dryden
+
+§7Minecraft Content Coordinator
+§f          Adam Martinsson
+§f          Oskar Thysell
+§f          Sara Lempiäinen
+
+§7Art Directors
+§f          Johan Aronsson
+§f          Markus Toivonen
+§f          Martin Johansson
+§f          Ninni Landin
+
+§7Graphics Artists
+§f          Chi Wong
+§f          Jasper Boerstra
+§f          Mattis Grahm
+
+§7User Experience Design
+§f          Josefine Lindqvist
+§f          Lily Ekman
+§f          Oscar Nilsson
+
+§7Lead User Experience Developers
+§f          Paulo Ragonha
+
+§7User Experience Developers
+§f          Albin Odervall
+§f          Anna Päärni
+§f          Dario Vodopivec
+§f          Emelie Sidesiö
+§f          Emil Hedemalm
+§f          Kirill Mikhel
+§f          Marlon Huber-Smith
+§f          Michael Novén
+§f          Oleg Kozitsyn
+§f          Oskar Carlbaum
+§f          Oskar Pedersen
+§f          Richard Pihlcrantz
+
+§7Sound Director
+§f          Samuel Åberg
+
+§7Sound Design
+§f          Daniel Rosenfeld
+§f          Kevin Martinez
+§f          Peter Hont
+
+§7Music composed by
+§f          Daniel Rosenfeld
+§f          Lena Raine
+
+§7Writing
+§f          Julian Gough
+
+§7Developers of Mo’ Creatures
+§f          Dan Roque
+§f          John Olarte (DrZhark)
+§f          Kent Christian Jensen
+
+[C]§f========
+[C]§eMojang
+[C]§f========
+
+§7Chief Executive Officer
+§f          Jonas Mårtensson
+
+§7Chief Operations Officer
+§f          Ulrika Höjgård
+
+§7Chief Technology Officer
+§f          Mike Carlson
+
+§7Chief Brand Officer
+§f          Lydia Winters
+
+§7Chief Content Officer
+§f          Vu Bui
+
+§7Human Resources
+§f          Maja Samuelsson
+§f          Viktoria Petersson
+
+§7Director of Finance
+§f          Marina Kostesic
+
+§7Director of New Games
+§f          Patrick Liu
+
+§7Game Director
+§f          Måns Olson
+
+§7Game Designers
+§f          Christian Berg
+§f          Max Herngren
+
+§7Lead Game Developers
+§f          Kristoffer Jelbring
+§f          Niklas Börestam
+
+§7Game Developers
+§f          Adrian Toncean
+§f          Anton Arbring
+§f          Aron Nieminen
+§f          Christan Berg
+§f          Daniel Wustenhoff
+§f          Jakob Rydén
+§f          Jon Maiga
+§f          Mårten Helander
+§f          Tomas Alaeus
+
+§7Art Leads
+§f          Daniel Björkefors
+§f          Telemachus Stavropoulos
+
+§7Graphic Designers
+§f          Wiktor Persson
+§f          Markus Karlsson
+
+§73D/VFX
+§f          Christian Nordgren
+§f          Jakob Gavelli
+
+§7Lead System Engineers
+§f          Jifeng Zhang
+§f          Robert Sjödahl
+§f          Torbjörn Allard
+
+§7System Developers
+§f          Alexandre Pretto Nunes
+§f          Anders Martini
+§f          Maksim Ivanov
+§f          Maria Katsourani
+§f          Mikael Malmqvist
+§f          Joakim Ejenstam
+§f          Jonas Bergström
+§f          Petter Gisslen
+§f          Pär Axelsson
+§f          Stefan Torstensson
+§f          Wenlan Yang
+
+§7Experience Design
+§f          Daniel Feldt
+
+§7Director of Business Development
+§f          Patrick Geuder
+
+§7Production Director
+§f          Olof Carlson Sandvik
+
+§7Head of Creative Production
+§f          Sheila Ho
+
+§7Production Manager
+§f          Klas Hammarström
+
+§7Producers
+§f          Adele Major
+§f          David Nisshagen
+§f          Hampus Nilsson
+§f          Johannes Fridd
+§f          Kaya Hatcher
+§f          Lisa Kempe
+§f          Moira Ingeltun
+§f          Nicolette Suraga
+§f          Sarah Carton
+§f          Sebastian Falk
+§f          Åsa Skogström
+
+§7Associate Producers
+§f          Marc Watson
+
+§7Project Managers
+§f          Isabella Balk
+
+§7Director of Creative Communications
+§f          Owen Jones
+
+§7Head of Marketing Communications
+§f          Thomas Wiborgh
+
+§7Creative Communications Assistant
+§f          Per Landin
+§f          Tom Stone
+
+§7Head of Community Relations
+§f          Karim Walldén
+
+§7Community Relations Coordinator
+§f          Josefin Olsson
+
+§7Head of Social Media
+§f          Alice Löfgren
+
+§7Customer Support Team Lead
+§f          Mattias Victorin
+
+§7Customer Support
+§f          Andreas Thomasson
+§f          Antonia Kousathana
+§f          Cecilia Flumé
+§f          Cim Borg
+§f          David Stuart Dahlgren
+§f          Ellie Ashrafi
+§f          Fredrik Sandström
+§f          Freja Fors
+§f          Jonny Hair
+§f          Nasim Derakhshan
+§f          Nima Tolouifar
+§f          Patrik Södergren
+§f          Rui Ribeiro
+§f          Sarah Mårtensson
+
+§7Office Manager
+§f          Siri Hoel Andersson
+
+§7Office Coordinators
+§f          Aleksandra Zajac
+§f          Joël Älveroth
+
+§7Reception Manager
+§f          Chaimae Truving
+
+§7Financial Accountant
+§f          Josefina Axelsson
+
+§7IT Wizards
+§f          Cesar Sima Falck
+§f          Shoghi Cervantes
+
+§7Product Designer Team Lead
+§f          Amanda Ström
+
+§7Product Designers
+§f          Filip Thoms
+§f          Jennifer Hammervald
+§f          Sherin Kwan
+
+§7Motion Graphics Designer
+§f          Kim Petersen
+
+§7Intellectual Property Enforcement Team Lead
+§f          Olle Personne
+
+§7Intellectual Property Enforcement Agents
+§f          Mathias Andersson
+§f          Matilda Åkerman
+§f          Marcus Forss
+§f          Sylvia Chen
+§f          Johan Hedlund
+
+[C]§f===========
+[C]§eMojang Alumni
+[C]§f===========
+
+§7Chief Executive Officers
+§f          Carl Manneh
+
+§7Chief Finance Officer
+§f          Karin Severinson
+
+§7Chief Technology Officer
+§f          Rikard Herlitz
+
+§7Project Directors
+§f          Jakob Porsér
+
+§7Production Director
+§f          Daniel Kaplan
+
+§7Game Director
+§f          Henrik Pettersson
+
+§7Assistant Producers
+§f          Warren Loo
+
+§7Game Developers
+§f          Christian Westman
+§f          Daniel Frisk
+§f          Isaac de la Vega
+§f          Jakob Pogulis
+§f          Johan Bernhardsson
+§f          Magnus Bentling
+§f          Markus Arvidsson
+§f          Nathan Gilbert
+§f          Ryan Holtz
+§f          Tobias Möllstam
+
+§73D/VFX
+§f          Elin Ölund Forsling
+
+§7User Experience Design Director
+§f          Tobias Ahlin
+
+§7Additional Programming
+§f          Elliot 'Hippoplatimus' Segal
+§f          Paul Spooner
+§f          Ryan 'Scaevolus' Hitchman
+
+§7Lead System Engineers
+§f          Tom Miles
+§f          Tomas Sommar
+
+§7System Developers
+§f          Christoffer Hammarström
+§f          Leonard Gram
+§f          Martin Odhelius
+
+§7Realms Developers
+§f          Amir Moulavi
+§f          David Marby
+§f          Erik Bylund
+§f          Johnny Sjöö
+§f          Magnus Jäderberg
+§f          Mats Henricson
+§f          Philip Vieira
+
+§7Graphics Artists
+§f          Kristoffer Zetterstrand
+§f          Poi Poi Chen
+
+§7Head of Social Media
+§f          Amelia Dale
+
+§7Merchandise Art Director
+§f          Alexis Holmqvist
+
+§7Additional Graphics
+§f          Jonatan Pöljö
+§f          Mariana Graham Ramirez
+
+§7Creative Communications Manager
+§f          Martin Davies
+
+§7Creative Communications Assistant
+§f          Emily Richardson
+
+§7Business Intelligence
+§f          Brynjólfur Erlingsson
+
+§7Customer Support
+§f          Amelia Lindroth Henriksson
+§f          Ana Barata Martins
+§f          Andreas Andersson
+§f          Andreas Jörgensen
+§f          Angehlica Walling
+§f          Annika Tripke-Lund
+§f          Anton Albiin
+§f          Carl Johnsson
+§f          Dante Stjernberg
+§f          David Carlsson
+§f          Elin Frykholm
+§f          Eliza Hearsum
+§f          Erik Nordberg
+§f          Fredrik Henriksson
+§f          Henrik Davallius
+§f          Henry Shi
+§f          Joe Liu
+§f          Kevin Vesterlund
+§f          Mike Till
+§f          Nicole Jansson
+§f          Rabi Hadad
+§f          Robert Miskiewicz
+§f          Robin Cocks
+§f          Robin Thunström
+§f          Theodor Colbing
+
+§7Office Managers
+§f          Alex Andersson
+§f          Charlotte Wredesjö
+§f          Jill Curran
+§f          Linn Hultman
+§f          Mikaela Prim
+
+[C]§f============
+[C]§eSpecial Thanks
+[C]§f============
+§f          Daniel Brynolf
+§f          Pontus Hammarberg
+
+
+
+
+
+§f"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover." §7- Unknown
