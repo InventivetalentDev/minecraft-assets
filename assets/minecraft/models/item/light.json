@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/light"
+  },
+  "overrides": [
+    { "predicate": { "level": 0 }, "model": "item/light_00" },
+    { "predicate": { "level": 1 }, "model": "item/light_01" },
+    { "predicate": { "level": 2 }, "model": "item/light_02" },
+    { "predicate": { "level": 3 }, "model": "item/light_03" },
+    { "predicate": { "level": 4 }, "model": "item/light_04" },
+    { "predicate": { "level": 5 }, "model": "item/light_05" },
+    { "predicate": { "level": 6 }, "model": "item/light_06" },
+    { "predicate": { "level": 7 }, "model": "item/light_07" },
+    { "predicate": { "level": 8 }, "model": "item/light_08" },
+    { "predicate": { "level": 9 }, "model": "item/light_09" },
+    { "predicate": { "level": 10 }, "model": "item/light_10" },
+    { "predicate": { "level": 11 }, "model": "item/light_11" },
+    { "predicate": { "level": 12 }, "model": "item/light_12" },
+    { "predicate": { "level": 13 }, "model": "item/light_13" },
+    { "predicate": { "level": 14 }, "model": "item/light_14" },
+    { "predicate": { "level": 15 }, "model": "item/light_15" }
+  ]
+}
