@@ -1,0 +1,18 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "minecraft:block/hanging_roots"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 1 ],
+            "scale": [ 0.55, 0.55, 0.55 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 25 ],
+            "translation": [ 1.13, 0, 1.13],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        }
+    }
+}
