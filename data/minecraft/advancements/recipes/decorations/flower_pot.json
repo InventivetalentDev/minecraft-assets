@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:flower_pot"
+    ]
+  },
+  "criteria": {
+    "has_brick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:brick"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:flower_pot"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_brick",
+      "has_the_recipe"
+    ]
+  ]
+}
