@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:yellow_dye_from_sunflower"
+    ]
+  },
+  "criteria": {
+    "has_sunflower": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:sunflower"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:yellow_dye_from_sunflower"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_sunflower",
+      "has_the_recipe"
+    ]
+  ]
+}
