@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:cooked_beef"
+    ]
+  },
+  "criteria": {
+    "has_beef": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:beef"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:cooked_beef"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_beef",
+      "has_the_recipe"
+    ]
+  ]
+}
