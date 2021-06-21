@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:cracked_deepslate_tiles"
+    ]
+  },
+  "criteria": {
+    "has_deepslate_tiles": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:deepslate_tiles"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:cracked_deepslate_tiles"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_deepslate_tiles",
+      "has_the_recipe"
+    ]
+  ]
+}
