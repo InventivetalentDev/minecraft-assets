@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:lime_bed"
+    ]
+  },
+  "criteria": {
+    "has_lime_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:lime_wool"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:lime_bed"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_lime_wool",
+      "has_the_recipe"
+    ]
+  ]
+}
