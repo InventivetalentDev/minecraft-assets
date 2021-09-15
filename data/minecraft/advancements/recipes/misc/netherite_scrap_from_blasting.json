@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:netherite_scrap_from_blasting"
+    ]
+  },
+  "criteria": {
+    "has_ancient_debris": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:ancient_debris"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:netherite_scrap_from_blasting"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_ancient_debris",
+      "has_the_recipe"
+    ]
+  ]
+}
