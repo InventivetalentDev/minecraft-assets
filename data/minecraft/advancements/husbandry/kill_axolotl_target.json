@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:husbandry/axolotl_in_a_bucket",
+  "display": {
+    "icon": {
+      "item": "minecraft:tropical_fish_bucket"
+    },
+    "title": {
+      "translate": "advancements.husbandry.kill_axolotl_target.title"
+    },
+    "description": {
+      "translate": "advancements.husbandry.kill_axolotl_target.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "kill_axolotl_target": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "source": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type": "minecraft:axolotl"
+            },
+            "entity": "this"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "kill_axolotl_target"
+    ]
+  ]
+}
