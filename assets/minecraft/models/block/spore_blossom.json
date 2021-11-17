@@ -1,0 +1,54 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "block/spore_blossom",
+        "flower": "block/spore_blossom",
+        "base": "block/spore_blossom_base"
+    },
+    "elements": [
+        {   "from": [ 1, 15.9, 1 ],
+            "to": [ 15, 15.9, 15 ],
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 1, 1, 15, 15 ], "texture": "#base"},
+                "down": { "uv": [ 1, 1, 15, 15 ], "texture": "#base"}
+            }
+        },
+        {   "from": [ 8, 15.7, 0 ],
+            "to": [ 24, 15.7, 16 ],
+            "rotation": { "origin": [ 8, 16, 0 ], "axis": "z", "angle": -22.5, "rescale": false },
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 16 ], "texture": "#flower", "rotation": 90 },
+                "down": { "uv": [ 0, 16, 16, 0 ], "texture": "#flower", "rotation": 270 }
+            }
+        },
+        {   "from": [ -8, 15.7, 0 ],
+            "to": [ 8, 15.7, 16 ],
+            "rotation": { "origin": [ 8, 16, 0 ], "axis": "z", "angle": 22.5, "rescale": false },
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 16 ], "texture": "#flower", "rotation": 270 },
+                "down": { "uv": [ 0, 16, 16, 0 ], "texture": "#flower", "rotation": 90 }
+            }
+        },
+        {   "from": [ 0, 15.7, 8 ],
+            "to": [ 16, 15.7, 24 ],
+            "rotation": { "origin": [ 0, 16, 8 ], "axis": "x", "angle": 22.5, "rescale": false },
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 16, 16, 0, 0 ], "texture": "#flower" },
+                "down": { "uv": [ 16, 0, 0, 16 ], "texture": "#flower" }
+            }
+        },
+        {   "from": [ 0, 15.7, -8 ],
+            "to": [ 16, 15.7, 8 ],
+            "rotation": { "origin": [ 0, 16, 8 ], "axis": "x", "angle": -22.5, "rescale": false },
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 0, 0, 16, 16 ], "texture": "#flower" },
+                "down": { "uv": [ 0, 16, 16, 0 ], "texture": "#flower" }
+            }
+        }
+    ]
+}
