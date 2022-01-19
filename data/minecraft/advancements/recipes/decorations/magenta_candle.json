@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:magenta_candle"
+    ]
+  },
+  "criteria": {
+    "has_magenta_dye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:magenta_dye"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:magenta_candle"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_magenta_dye",
+      "has_the_recipe"
+    ]
+  ]
+}
