@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:tinted_glass"
+    ]
+  },
+  "criteria": {
+    "has_amethyst_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:amethyst_shard"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:tinted_glass"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_amethyst_shard",
+      "has_the_recipe"
+    ]
+  ]
+}

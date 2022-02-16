@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:magenta_dye_from_lilac"
+    ]
+  },
+  "criteria": {
+    "has_lilac": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:lilac"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:magenta_dye_from_lilac"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_lilac",
+      "has_the_recipe"
+    ]
+  ]
+}
