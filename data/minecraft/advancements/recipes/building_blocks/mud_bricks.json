@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:mud_bricks"
+    ]
+  },
+  "criteria": {
+    "has_packed_mud": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:packed_mud"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:mud_bricks"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_packed_mud",
+      "has_the_recipe"
+    ]
+  ]
+}

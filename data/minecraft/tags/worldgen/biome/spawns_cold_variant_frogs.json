@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:snowy_plains",
+    "minecraft:ice_spikes",
+    "#minecraft:is_mountain",
+    "#minecraft:is_end"
+  ]
+}
