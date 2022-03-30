@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:chest"
+    },
+    {
+      "item": "minecraft:jungle_boat"
+    }
+  ],
+  "result": {
+    "item": "minecraft:jungle_chest_boat"
+  }
+}

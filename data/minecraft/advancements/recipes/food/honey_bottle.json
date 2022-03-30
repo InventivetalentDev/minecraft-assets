@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:honey_bottle"
+    ]
+  },
+  "criteria": {
+    "has_honey_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:honey_block"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:honey_bottle"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_honey_block",
+      "has_the_recipe"
+    ]
+  ]
+}

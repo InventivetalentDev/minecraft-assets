@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "shrieking=false": {
+      "model": "minecraft:block/sculk_shrieker"
+    },
+    "shrieking=true": {
+      "model": "minecraft:block/sculk_shrieker"
+    }
+  }
+}

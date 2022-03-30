@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:chest"
+    },
+    {
+      "item": "minecraft:acacia_boat"
+    }
+  ],
+  "result": {
+    "item": "minecraft:acacia_chest_boat"
+  }
+}
