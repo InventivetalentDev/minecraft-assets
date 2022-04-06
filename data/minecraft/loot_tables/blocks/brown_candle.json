@@ -1,0 +1,62 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "minecraft:brown_candle",
+                  "properties": {
+                    "candles": "2"
+                  }
+                }
+              ],
+              "count": 2.0,
+              "add": false
+            },
+            {
+              "function": "minecraft:set_count",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "minecraft:brown_candle",
+                  "properties": {
+                    "candles": "3"
+                  }
+                }
+              ],
+              "count": 3.0,
+              "add": false
+            },
+            {
+              "function": "minecraft:set_count",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "minecraft:brown_candle",
+                  "properties": {
+                    "candles": "4"
+                  }
+                }
+              ],
+              "count": 4.0,
+              "add": false
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ],
+          "name": "minecraft:brown_candle"
+        }
+      ]
+    }
+  ]
+}

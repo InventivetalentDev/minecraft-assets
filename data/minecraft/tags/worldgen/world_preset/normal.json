@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:normal",
+    "minecraft:flat",
+    "minecraft:large_biomes",
+    "minecraft:amplified",
+    "minecraft:single_biome_surface"
+  ]
+}

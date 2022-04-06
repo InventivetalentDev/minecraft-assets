@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boat",
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:mangrove_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:mangrove_boat"
+  }
+}

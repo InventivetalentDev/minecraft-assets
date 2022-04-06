@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:cookie"
+    },
+    "title": {
+      "translate": "advancements.husbandry.allay_deliver_item_to_player.title"
+    },
+    "description": {
+      "translate": "advancements.husbandry.allay_deliver_item_to_player.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "allay_deliver_item_to_player": {
+      "trigger": "minecraft:item_delivered_to_player",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "allay_deliver_item_to_player"
+    ]
+  ]
+}

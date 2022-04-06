@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:sponge"
+    ]
+  },
+  "criteria": {
+    "has_wet_sponge": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:wet_sponge"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:sponge"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wet_sponge",
+      "has_the_recipe"
+    ]
+  ]
+}

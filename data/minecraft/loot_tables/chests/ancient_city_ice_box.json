@@ -1,0 +1,113 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 4.0,
+        "max": 10.0
+      },
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_stew_effect",
+              "effects": [
+                {
+                  "type": "minecraft:blindness",
+                  "duration": {
+                    "type": "minecraft:uniform",
+                    "min": 5.0,
+                    "max": 7.0
+                  }
+                },
+                {
+                  "type": "minecraft:night_vision",
+                  "duration": {
+                    "type": "minecraft:uniform",
+                    "min": 7.0,
+                    "max": 10.0
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2.0,
+                "max": 6.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:suspicious_stew"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 10.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:golden_carrot"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1.0,
+                "max": 10.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:baked_potato"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2.0,
+                "max": 6.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:packed_ice"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2.0,
+                "max": 6.0
+              },
+              "add": false
+            }
+          ],
+          "name": "minecraft:snowball"
+        }
+      ]
+    }
+  ]
+}

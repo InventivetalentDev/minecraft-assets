@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:hit_ground",
+    "minecraft:step"
+  ]
+}

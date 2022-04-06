@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:gold_ingot_from_nuggets"
+    ]
+  },
+  "criteria": {
+    "has_gold_nugget": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:gold_nugget"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:gold_ingot_from_nuggets"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_gold_nugget",
+      "has_the_recipe"
+    ]
+  ]
+}
