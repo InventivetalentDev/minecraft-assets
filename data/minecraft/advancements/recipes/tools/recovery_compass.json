@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:recovery_compass"
+    ]
+  },
+  "criteria": {
+    "has_echo_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:echo_shard"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:recovery_compass"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_echo_shard",
+      "has_the_recipe"
+    ]
+  ]
+}

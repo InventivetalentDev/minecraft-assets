@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "diamond",
+  "ingredient": {
+    "item": "minecraft:diamond_ore"
+  },
+  "result": "minecraft:diamond",
+  "experience": 1.0,
+  "cookingtime": 100
+}

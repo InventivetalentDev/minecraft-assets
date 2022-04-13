@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:tabby",
+    "minecraft:black",
+    "minecraft:red",
+    "minecraft:siamese",
+    "minecraft:british",
+    "minecraft:calico",
+    "minecraft:persian",
+    "minecraft:ragdoll",
+    "minecraft:white",
+    "minecraft:jellie"
+  ]
+}

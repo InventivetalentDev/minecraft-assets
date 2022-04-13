@@ -1,0 +1,134 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:damage_source_properties",
+                "predicate": {
+                  "source_entity": {
+                    "type": "minecraft:frog"
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:entity_properties",
+              "predicate": {
+                "type_specific": {
+                  "size": {
+                    "min": 2
+                  },
+                  "type": "slime"
+                }
+              },
+              "entity": "this"
+            }
+          ],
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": -2.0,
+                "max": 1.0
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:looting_enchant",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 0.0,
+                "max": 1.0
+              }
+            }
+          ],
+          "name": "minecraft:magma_cream"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:damage_source_properties",
+              "predicate": {
+                "source_entity": {
+                  "type": "minecraft:frog",
+                  "type_specific": {
+                    "variant": "minecraft:warm",
+                    "type": "frog"
+                  }
+                }
+              }
+            }
+          ],
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0,
+              "add": false
+            }
+          ],
+          "name": "minecraft:pearlescent_froglight"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:damage_source_properties",
+              "predicate": {
+                "source_entity": {
+                  "type": "minecraft:frog",
+                  "type_specific": {
+                    "variant": "minecraft:cold",
+                    "type": "frog"
+                  }
+                }
+              }
+            }
+          ],
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0,
+              "add": false
+            }
+          ],
+          "name": "minecraft:verdant_froglight"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:damage_source_properties",
+              "predicate": {
+                "source_entity": {
+                  "type": "minecraft:frog",
+                  "type_specific": {
+                    "variant": "minecraft:temperate",
+                    "type": "frog"
+                  }
+                }
+              }
+            }
+          ],
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1.0,
+              "add": false
+            }
+          ],
+          "name": "minecraft:ochre_froglight"
+        }
+      ]
+    }
+  ]
+}
