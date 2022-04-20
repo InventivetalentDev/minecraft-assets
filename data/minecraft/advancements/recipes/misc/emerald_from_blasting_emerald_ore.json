@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:emerald_from_blasting_emerald_ore"
+    ]
+  },
+  "criteria": {
+    "has_emerald_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:emerald_ore"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:emerald_from_blasting_emerald_ore"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_emerald_ore",
+      "has_the_recipe"
+    ]
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "parent": "minecraft:husbandry/tadpole_in_a_bucket",
+  "display": {
+    "icon": {
+      "item": "minecraft:lead"
+    },
+    "title": {
+      "translate": "advancements.husbandry.leash_all_frog_variants.title"
+    },
+    "description": {
+      "translate": "advancements.husbandry.leash_all_frog_variants.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "minecraft:temperate": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:lead"
+          ]
+        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type": "minecraft:frog",
+              "type_specific": {
+                "variant": "minecraft:temperate",
+                "type": "frog"
+              }
+            },
+            "entity": "this"
+          }
+        ]
+      }
+    },
+    "minecraft:warm": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:lead"
+          ]
+        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type": "minecraft:frog",
+              "type_specific": {
+                "variant": "minecraft:warm",
+                "type": "frog"
+              }
+            },
+            "entity": "this"
+          }
+        ]
+      }
+    },
+    "minecraft:cold": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:lead"
+          ]
+        },
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "type": "minecraft:frog",
+              "type_specific": {
+                "variant": "minecraft:cold",
+                "type": "frog"
+              }
+            },
+            "entity": "this"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:temperate"
+    ],
+    [
+      "minecraft:warm"
+    ],
+    [
+      "minecraft:cold"
+    ]
+  ]
+}
