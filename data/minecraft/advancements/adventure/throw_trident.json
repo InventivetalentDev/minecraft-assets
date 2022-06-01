@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:adventure/kill_a_mob",
+  "criteria": {
+    "shot_trident": {
+      "conditions": {
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "minecraft:trident"
+            },
+            "is_projectile": true
+          }
+        }
+      },
+      "trigger": "minecraft:player_hurt_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.adventure.throw_trident.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:trident",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.adventure.throw_trident.title"
+    }
+  },
+  "requirements": [
+    [
+      "shot_trident"
+    ]
+  ]
+}

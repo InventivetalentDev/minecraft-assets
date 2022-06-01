@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:nether/get_wither_skull",
+  "criteria": {
+    "summoned": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:wither"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.nether.summon_wither.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:nether_star"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.nether.summon_wither.title"
+    }
+  },
+  "requirements": [
+    [
+      "summoned"
+    ]
+  ]
+}
