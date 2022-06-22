@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "tamed_animal": {
+      "conditions": {},
+      "trigger": "minecraft:tame_animal"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.husbandry.tame_an_animal.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:lead"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.husbandry.tame_an_animal.title"
+    }
+  },
+  "requirements": [
+    [
+      "tamed_animal"
+    ]
+  ]
+}
