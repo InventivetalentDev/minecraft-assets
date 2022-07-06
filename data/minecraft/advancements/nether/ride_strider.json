@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:nether/root",
+  "criteria": {
+    "used_warped_fungus_on_a_stick": {
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:warped_fungus_on_a_stick"
+          ]
+        },
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "vehicle": {
+                "type": "minecraft:strider"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:item_durability_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.nether.ride_strider.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:warped_fungus_on_a_stick",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.nether.ride_strider.title"
+    }
+  },
+  "requirements": [
+    [
+      "used_warped_fungus_on_a_stick"
+    ]
+  ]
+}
