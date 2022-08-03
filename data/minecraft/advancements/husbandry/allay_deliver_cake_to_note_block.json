@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:husbandry/allay_deliver_item_to_player",
+  "criteria": {
+    "allay_deliver_cake_to_note_block": {
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:cake"
+          ]
+        },
+        "location": {
+          "block": {
+            "blocks": [
+              "minecraft:note_block"
+            ]
+          }
+        }
+      },
+      "trigger": "minecraft:allay_drop_item_on_block"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.husbandry.allay_deliver_cake_to_note_block.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:note_block"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.husbandry.allay_deliver_cake_to_note_block.title"
+    }
+  },
+  "requirements": [
+    [
+      "allay_deliver_cake_to_note_block"
+    ]
+  ]
+}
