@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "make_a_sign_glow": {
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:glow_ink_sac"
+          ]
+        },
+        "location": {
+          "block": {
+            "tag": "minecraft:signs"
+          }
+        }
+      },
+      "trigger": "minecraft:item_used_on_block"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.husbandry.make_a_sign_glow.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:glow_ink_sac"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.husbandry.make_a_sign_glow.title"
+    }
+  },
+  "requirements": [
+    [
+      "make_a_sign_glow"
+    ]
+  ]
+}
