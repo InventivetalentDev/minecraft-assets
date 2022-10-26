@@ -1,0 +1,57 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "fall_from_world_height": {
+      "conditions": {
+        "distance": {
+          "y": {
+            "min": 379.0
+          }
+        },
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "position": {
+                  "y": {
+                    "max": -59.0
+                  }
+                }
+              }
+            }
+          }
+        ],
+        "start_position": {
+          "position": {
+            "y": {
+              "min": 319.0
+            }
+          }
+        }
+      },
+      "trigger": "minecraft:fall_from_height"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.adventure.fall_from_world_height.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:water_bucket"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.adventure.fall_from_world_height.title"
+    }
+  },
+  "requirements": [
+    [
+      "fall_from_world_height"
+    ]
+  ]
+}

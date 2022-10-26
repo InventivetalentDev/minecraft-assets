@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:creeper_head"
+    }
+  ],
+  "result": {
+    "item": "minecraft:creeper_banner_pattern"
+  }
+}
