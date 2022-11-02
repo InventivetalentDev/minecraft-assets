@@ -1,0 +1,12 @@
+{
+  "feature": "minecraft:single_piece_of_grass",
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:matching_blocks",
+        "blocks": "minecraft:air"
+      }
+    }
+  ]
+}

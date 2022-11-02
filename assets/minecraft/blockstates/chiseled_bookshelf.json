@@ -1,0 +1,109 @@
+{
+  "variants": {
+    "books_stored=0,facing=east": {
+      "model": "minecraft:block/chiseled_bookshelf_stage0",
+      "y": 90
+    },
+    "books_stored=0,facing=north": {
+      "model": "minecraft:block/chiseled_bookshelf_stage0"
+    },
+    "books_stored=0,facing=south": {
+      "model": "minecraft:block/chiseled_bookshelf_stage0",
+      "y": 180
+    },
+    "books_stored=0,facing=west": {
+      "model": "minecraft:block/chiseled_bookshelf_stage0",
+      "y": 270
+    },
+    "books_stored=1,facing=east": {
+      "model": "minecraft:block/chiseled_bookshelf_stage1",
+      "y": 90
+    },
+    "books_stored=1,facing=north": {
+      "model": "minecraft:block/chiseled_bookshelf_stage1"
+    },
+    "books_stored=1,facing=south": {
+      "model": "minecraft:block/chiseled_bookshelf_stage1",
+      "y": 180
+    },
+    "books_stored=1,facing=west": {
+      "model": "minecraft:block/chiseled_bookshelf_stage1",
+      "y": 270
+    },
+    "books_stored=2,facing=east": {
+      "model": "minecraft:block/chiseled_bookshelf_stage2",
+      "y": 90
+    },
+    "books_stored=2,facing=north": {
+      "model": "minecraft:block/chiseled_bookshelf_stage2"
+    },
+    "books_stored=2,facing=south": {
+      "model": "minecraft:block/chiseled_bookshelf_stage2",
+      "y": 180
+    },
+    "books_stored=2,facing=west": {
+      "model": "minecraft:block/chiseled_bookshelf_stage2",
+      "y": 270
+    },
+    "books_stored=3,facing=east": {
+      "model": "minecraft:block/chiseled_bookshelf_stage3",
+      "y": 90
+    },
+    "books_stored=3,facing=north": {
+      "model": "minecraft:block/chiseled_bookshelf_stage3"
+    },
+    "books_stored=3,facing=south": {
+      "model": "minecraft:block/chiseled_bookshelf_stage3",
+      "y": 180
+    },
+    "books_stored=3,facing=west": {
+      "model": "minecraft:block/chiseled_bookshelf_stage3",
+      "y": 270
+    },
+    "books_stored=4,facing=east": {
+      "model": "minecraft:block/chiseled_bookshelf_stage4",
+      "y": 90
+    },
+    "books_stored=4,facing=north": {
+      "model": "minecraft:block/chiseled_bookshelf_stage4"
+    },
+    "books_stored=4,facing=south": {
+      "model": "minecraft:block/chiseled_bookshelf_stage4",
+      "y": 180
+    },
+    "books_stored=4,facing=west": {
+      "model": "minecraft:block/chiseled_bookshelf_stage4",
+      "y": 270
+    },
+    "books_stored=5,facing=east": {
+      "model": "minecraft:block/chiseled_bookshelf_stage5",
+      "y": 90
+    },
+    "books_stored=5,facing=north": {
+      "model": "minecraft:block/chiseled_bookshelf_stage5"
+    },
+    "books_stored=5,facing=south": {
+      "model": "minecraft:block/chiseled_bookshelf_stage5",
+      "y": 180
+    },
+    "books_stored=5,facing=west": {
+      "model": "minecraft:block/chiseled_bookshelf_stage5",
+      "y": 270
+    },
+    "books_stored=6,facing=east": {
+      "model": "minecraft:block/chiseled_bookshelf_stage6",
+      "y": 90
+    },
+    "books_stored=6,facing=north": {
+      "model": "minecraft:block/chiseled_bookshelf_stage6"
+    },
+    "books_stored=6,facing=south": {
+      "model": "minecraft:block/chiseled_bookshelf_stage6",
+      "y": 180
+    },
+    "books_stored=6,facing=west": {
+      "model": "minecraft:block/chiseled_bookshelf_stage6",
+      "y": 270
+    }
+  }
+}
