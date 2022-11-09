@@ -1,0 +1,13 @@
+{
+  "features": {
+    "enabled": [
+      "minecraft:update_1_20"
+    ]
+  },
+  "pack": {
+    "description": {
+      "translate": "dataPack.update_1_20.description"
+    },
+    "pack_format": 10
+  }
+}
