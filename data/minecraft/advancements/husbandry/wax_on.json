@@ -1,0 +1,57 @@
+{
+  "parent": "minecraft:husbandry/safely_harvest_honey",
+  "criteria": {
+    "wax_on": {
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:honeycomb"
+          ]
+        },
+        "location": {
+          "block": {
+            "blocks": [
+              "minecraft:copper_block",
+              "minecraft:exposed_copper",
+              "minecraft:weathered_copper",
+              "minecraft:oxidized_copper",
+              "minecraft:cut_copper",
+              "minecraft:exposed_cut_copper",
+              "minecraft:weathered_cut_copper",
+              "minecraft:oxidized_cut_copper",
+              "minecraft:cut_copper_slab",
+              "minecraft:exposed_cut_copper_slab",
+              "minecraft:weathered_cut_copper_slab",
+              "minecraft:oxidized_cut_copper_slab",
+              "minecraft:cut_copper_stairs",
+              "minecraft:exposed_cut_copper_stairs",
+              "minecraft:weathered_cut_copper_stairs",
+              "minecraft:oxidized_cut_copper_stairs"
+            ]
+          }
+        }
+      },
+      "trigger": "minecraft:item_used_on_block"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.husbandry.wax_on.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:honeycomb"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.husbandry.wax_on.title"
+    }
+  },
+  "requirements": [
+    [
+      "wax_on"
+    ]
+  ]
+}
