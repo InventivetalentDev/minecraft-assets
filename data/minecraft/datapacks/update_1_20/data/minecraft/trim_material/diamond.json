@@ -1,0 +1,10 @@
+{
+  "asset_name": "diamond",
+  "description": {
+    "color": "#6EECD2",
+    "translate": "trim_material.minecraft.diamond"
+  },
+  "incompatible_armor_material": "diamond",
+  "ingredient": "minecraft:diamond",
+  "item_model_index": 0.8
+}

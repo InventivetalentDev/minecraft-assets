@@ -1,0 +1,10 @@
+{
+  "asset_name": "gold",
+  "description": {
+    "color": "#DEB12D",
+    "translate": "trim_material.minecraft.gold"
+  },
+  "incompatible_armor_material": "gold",
+  "ingredient": "minecraft:gold_ingot",
+  "item_model_index": 0.6
+}
