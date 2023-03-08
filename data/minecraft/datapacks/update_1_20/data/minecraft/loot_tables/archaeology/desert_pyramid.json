@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pottery_shard_archer"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pottery_shard_prize"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pottery_shard_skull"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gunpowder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tnt"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}
