@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sculk_catalyst"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

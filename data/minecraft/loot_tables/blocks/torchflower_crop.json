@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:block",
+  "functions": [
+    {
+      "function": "minecraft:explosion_decay"
+    }
+  ],
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "block": "minecraft:torchflower_crop",
+                  "condition": "minecraft:block_state_property",
+                  "properties": {
+                    "age": "2"
+                  }
+                }
+              ],
+              "name": "minecraft:torchflower"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:torchflower_seeds"
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}
