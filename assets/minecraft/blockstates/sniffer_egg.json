@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "minecraft:block/sniffer_egg_not_cracked"
+    },
+    "age=1": {
+      "model": "minecraft:block/sniffer_egg_slightly_cracked"
+    },
+    "age=2": {
+      "model": "minecraft:block/sniffer_egg_very_cracked"
+    }
+  }
+}
