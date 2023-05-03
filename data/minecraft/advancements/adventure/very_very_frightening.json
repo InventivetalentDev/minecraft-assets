@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:adventure/throw_trident",
+  "criteria": {
+    "struck_villager": {
+      "conditions": {
+        "victims": [
+          [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:villager"
+              }
+            }
+          ]
+        ]
+      },
+      "trigger": "minecraft:channeled_lightning"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.adventure.very_very_frightening.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:trident",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.adventure.very_very_frightening.title"
+    }
+  },
+  "requirements": [
+    [
+      "struck_villager"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
