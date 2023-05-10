@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "brown_bed",
+  "ingredients": [
+    {
+      "item": "minecraft:brown_dye"
+    },
+    {
+      "item": "minecraft:green_bed"
+    }
+  ],
+  "result": {
+    "item": "minecraft:brown_bed"
+  }
+}

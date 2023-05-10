@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "pink_carpet",
+  "ingredients": [
+    {
+      "item": "minecraft:pink_dye"
+    },
+    {
+      "item": "minecraft:blue_carpet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pink_carpet"
+  }
+}

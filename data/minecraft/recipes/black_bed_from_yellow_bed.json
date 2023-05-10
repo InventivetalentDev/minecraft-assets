@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "black_bed",
+  "ingredients": [
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "minecraft:yellow_bed"
+    }
+  ],
+  "result": {
+    "item": "minecraft:black_bed"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "red_carpet",
+  "ingredients": [
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item": "minecraft:purple_carpet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:red_carpet"
+  }
+}

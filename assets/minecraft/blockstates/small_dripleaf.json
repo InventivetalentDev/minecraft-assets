@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,half=lower": {
+      "model": "minecraft:block/small_dripleaf_bottom",
+      "y": 90
+    },
+    "facing=east,half=upper": {
+      "model": "minecraft:block/small_dripleaf_top",
+      "y": 90
+    },
+    "facing=north,half=lower": {
+      "model": "minecraft:block/small_dripleaf_bottom"
+    },
+    "facing=north,half=upper": {
+      "model": "minecraft:block/small_dripleaf_top"
+    },
+    "facing=south,half=lower": {
+      "model": "minecraft:block/small_dripleaf_bottom",
+      "y": 180
+    },
+    "facing=south,half=upper": {
+      "model": "minecraft:block/small_dripleaf_top",
+      "y": 180
+    },
+    "facing=west,half=lower": {
+      "model": "minecraft:block/small_dripleaf_bottom",
+      "y": 270
+    },
+    "facing=west,half=upper": {
+      "model": "minecraft:block/small_dripleaf_top",
+      "y": 270
+    }
+  }
+}

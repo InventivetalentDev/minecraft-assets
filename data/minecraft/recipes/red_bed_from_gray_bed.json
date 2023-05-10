@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "red_bed",
+  "ingredients": [
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item": "minecraft:gray_bed"
+    }
+  ],
+  "result": {
+    "item": "minecraft:red_bed"
+  }
+}

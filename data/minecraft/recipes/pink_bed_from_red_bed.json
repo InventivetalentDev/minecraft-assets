@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "pink_bed",
+  "ingredients": [
+    {
+      "item": "minecraft:pink_dye"
+    },
+    {
+      "item": "minecraft:red_bed"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pink_bed"
+  }
+}

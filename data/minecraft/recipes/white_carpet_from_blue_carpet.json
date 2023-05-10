@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "white_carpet",
+  "ingredients": [
+    {
+      "item": "minecraft:white_dye"
+    },
+    {
+      "item": "minecraft:blue_carpet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:white_carpet"
+  }
+}

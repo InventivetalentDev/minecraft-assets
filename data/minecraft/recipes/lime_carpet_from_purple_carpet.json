@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "lime_carpet",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "item": "minecraft:purple_carpet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lime_carpet"
+  }
+}

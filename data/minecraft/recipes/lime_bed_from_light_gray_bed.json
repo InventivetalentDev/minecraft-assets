@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "lime_bed",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "item": "minecraft:light_gray_bed"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lime_bed"
+  }
+}
