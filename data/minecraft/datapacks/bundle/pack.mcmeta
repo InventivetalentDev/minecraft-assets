@@ -1,0 +1,13 @@
+{
+  "features": {
+    "enabled": [
+      "minecraft:bundle"
+    ]
+  },
+  "pack": {
+    "description": {
+      "translate": "dataPack.bundle.description"
+    },
+    "pack_format": 15
+  }
+}
