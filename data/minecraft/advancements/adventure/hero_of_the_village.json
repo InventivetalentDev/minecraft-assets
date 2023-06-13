@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:adventure/voluntary_exile",
+  "criteria": {
+    "hero_of_the_village": {
+      "conditions": {},
+      "trigger": "minecraft:hero_of_the_village"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.adventure.hero_of_the_village.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:white_banner",
+      "nbt": "{BlockEntityTag:{Patterns:[{Color:9,Pattern:\"mr\"},{Color:8,Pattern:\"bs\"},{Color:7,Pattern:\"cs\"},{Color:8,Pattern:\"bo\"},{Color:15,Pattern:\"ms\"},{Color:8,Pattern:\"hh\"},{Color:8,Pattern:\"mc\"},{Color:15,Pattern:\"bo\"}],id:\"minecraft:banner\"},HideFlags:32,display:{Name:'{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}'}}"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.adventure.hero_of_the_village.title"
+    }
+  },
+  "requirements": [
+    [
+      "hero_of_the_village"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  },
+  "sends_telemetry_event": true
+}

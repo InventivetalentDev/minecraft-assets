@@ -1,0 +1,17 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "entity/shield_base"
+        },
+        {
+            "type": "single",
+            "resource": "entity/shield_base_nopattern"
+        },
+        {
+            "type": "directory",
+            "source": "entity/shield",
+            "prefix": "entity/shield/"
+        }
+    ]
+}
