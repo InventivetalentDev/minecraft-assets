@@ -1,0 +1,7 @@
+{
+  "asset_id": "minecraft:rib",
+  "description": {
+    "translate": "trim_pattern.minecraft.rib"
+  },
+  "template_item": "minecraft:rib_armor_trim_smithing_template"
+}
