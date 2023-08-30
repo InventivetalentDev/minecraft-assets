@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:husbandry/root",
+  "criteria": {
+    "tadpole_bucket": {
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:tadpole_bucket"
+          ]
+        }
+      },
+      "trigger": "minecraft:filled_bucket"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.husbandry.tadpole_in_a_bucket.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:tadpole_bucket"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.husbandry.tadpole_in_a_bucket.title"
+    }
+  },
+  "requirements": [
+    [
+      "tadpole_bucket"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
