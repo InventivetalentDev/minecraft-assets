@@ -1,0 +1,8 @@
+{
+  "asset_id": "minecraft:host",
+  "decal": false,
+  "description": {
+    "translate": "trim_pattern.minecraft.host"
+  },
+  "template_item": "minecraft:host_armor_trim_smithing_template"
+}
