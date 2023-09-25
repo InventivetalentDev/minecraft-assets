@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:husbandry/obtain_sniffer_egg",
+  "criteria": {
+    "feed_snifflet": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:sniffer",
+              "flags": {
+                "is_baby": true
+              }
+            }
+          }
+        ],
+        "item": {
+          "tag": "minecraft:sniffer_food"
+        }
+      },
+      "trigger": "minecraft:player_interacted_with_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.husbandry.feed_snifflet.description"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:torchflower_seeds"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.husbandry.feed_snifflet.title"
+    }
+  },
+  "requirements": [
+    [
+      "feed_snifflet"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
