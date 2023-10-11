@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:story/enter_the_nether",
+  "criteria": {
+    "in_stronghold": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "minecraft:stronghold"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.story.follow_ender_eye.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:ender_eye"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.story.follow_ender_eye.title"
+    }
+  },
+  "requirements": [
+    [
+      "in_stronghold"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

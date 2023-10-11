@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "carpet",
+  "key": {
+    "#": {
+      "item": "minecraft:purple_wool"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "item": "minecraft:purple_carpet"
+  },
+  "show_notification": true
+}
