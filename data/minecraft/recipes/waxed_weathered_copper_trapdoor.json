@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "waxed_weathered_cut_copper_trapdoor",
+  "key": {
+    "#": {
+      "item": "minecraft:waxed_weathered_copper"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:waxed_weathered_copper_trapdoor"
+  },
+  "show_notification": true
+}
