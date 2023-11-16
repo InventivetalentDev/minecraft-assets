@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "waxed_exposed_copper_door",
+  "ingredients": [
+    {
+      "item": "minecraft:exposed_copper_door"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "result": {
+    "item": "minecraft:waxed_exposed_copper_door"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "minecraft:block/medium_amethyst_bud",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "minecraft:block/medium_amethyst_bud",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "minecraft:block/medium_amethyst_bud",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "minecraft:block/medium_amethyst_bud",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "minecraft:block/medium_amethyst_bud"
+    },
+    "facing=west": {
+      "model": "minecraft:block/medium_amethyst_bud",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

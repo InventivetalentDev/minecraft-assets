@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:nether/find_fortress",
+  "criteria": {
+    "blaze_rod": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:blaze_rod"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.nether.obtain_blaze_rod.description"
+    },
+    "icon": {
+      "item": "minecraft:blaze_rod"
+    },
+    "title": {
+      "translate": "advancements.nether.obtain_blaze_rod.title"
+    }
+  },
+  "requirements": [
+    [
+      "blaze_rod"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
