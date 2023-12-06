@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "waxed_oxidized_copper_bulb",
+  "ingredients": [
+    {
+      "item": "minecraft:oxidized_copper_bulb"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "result": {
+    "item": "minecraft:waxed_oxidized_copper_bulb"
+  }
+}
