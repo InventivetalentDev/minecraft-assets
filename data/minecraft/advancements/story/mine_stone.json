@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:story/root",
+  "criteria": {
+    "get_stone": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:stone_tool_materials"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.mine_stone.description"
+    },
+    "icon": {
+      "item": "minecraft:wooden_pickaxe",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.story.mine_stone.title"
+    }
+  },
+  "requirements": [
+    [
+      "get_stone"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
