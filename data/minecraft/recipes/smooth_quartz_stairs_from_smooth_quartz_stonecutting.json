@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:smooth_quartz"
+  },
+  "result": {
+    "id": "minecraft:smooth_quartz_stairs"
+  }
+}

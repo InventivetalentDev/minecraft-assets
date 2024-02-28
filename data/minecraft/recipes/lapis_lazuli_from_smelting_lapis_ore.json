@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "lapis_lazuli",
+  "ingredient": {
+    "item": "minecraft:lapis_ore"
+  },
+  "result": "minecraft:lapis_lazuli"
+}

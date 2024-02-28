@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:end_stone"
+  },
+  "result": {
+    "id": "minecraft:end_stone_brick_stairs"
+  }
+}
