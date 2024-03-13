@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:nether/obtain_ancient_debris",
+  "criteria": {
+    "use_lodestone": {
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": "minecraft:lodestone"
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": "minecraft:compass"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:item_used_on_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.nether.use_lodestone.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:lodestone"
+    },
+    "title": {
+      "translate": "advancements.nether.use_lodestone.title"
+    }
+  },
+  "requirements": [
+    [
+      "use_lodestone"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

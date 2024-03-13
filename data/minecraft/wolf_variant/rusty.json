@@ -1,0 +1,6 @@
+{
+  "angry_texture": "minecraft:textures/entity/wolf/wolf_rusty_angry.png",
+  "biomes": "minecraft:sparse_jungle",
+  "tame_texture": "minecraft:textures/entity/wolf/wolf_rusty_tame.png",
+  "texture": "minecraft:textures/entity/wolf/wolf_rusty.png"
+}

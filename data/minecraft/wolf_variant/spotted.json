@@ -1,0 +1,6 @@
+{
+  "angry_texture": "minecraft:textures/entity/wolf/wolf_spotted_angry.png",
+  "biomes": "minecraft:savanna_plateau",
+  "tame_texture": "minecraft:textures/entity/wolf/wolf_spotted_tame.png",
+  "texture": "minecraft:textures/entity/wolf/wolf_spotted.png"
+}
