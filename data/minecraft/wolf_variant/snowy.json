@@ -1,0 +1,6 @@
+{
+  "angry_texture": "minecraft:textures/entity/wolf/wolf_snowy_angry.png",
+  "biomes": "minecraft:grove",
+  "tame_texture": "minecraft:textures/entity/wolf/wolf_snowy_tame.png",
+  "texture": "minecraft:textures/entity/wolf/wolf_snowy.png"
+}
