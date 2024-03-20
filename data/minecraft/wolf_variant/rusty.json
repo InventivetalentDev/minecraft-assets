@@ -1,0 +1,6 @@
+{
+  "angry_texture": "minecraft:entity/wolf/wolf_rusty_angry",
+  "biomes": "#minecraft:is_jungle",
+  "tame_texture": "minecraft:entity/wolf/wolf_rusty_tame",
+  "wild_texture": "minecraft:entity/wolf/wolf_rusty"
+}

@@ -1,0 +1,92 @@
+{
+  "parent": "minecraft:husbandry/tadpole_in_a_bucket",
+  "criteria": {
+    "minecraft:cold": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:frog",
+              "type_specific": {
+                "type": "minecraft:frog",
+                "variant": "minecraft:cold"
+              }
+            }
+          }
+        ],
+        "item": {
+          "items": "minecraft:lead"
+        }
+      },
+      "trigger": "minecraft:player_interacted_with_entity"
+    },
+    "minecraft:temperate": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:frog",
+              "type_specific": {
+                "type": "minecraft:frog",
+                "variant": "minecraft:temperate"
+              }
+            }
+          }
+        ],
+        "item": {
+          "items": "minecraft:lead"
+        }
+      },
+      "trigger": "minecraft:player_interacted_with_entity"
+    },
+    "minecraft:warm": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:frog",
+              "type_specific": {
+                "type": "minecraft:frog",
+                "variant": "minecraft:warm"
+              }
+            }
+          }
+        ],
+        "item": {
+          "items": "minecraft:lead"
+        }
+      },
+      "trigger": "minecraft:player_interacted_with_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.husbandry.leash_all_frog_variants.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:lead"
+    },
+    "title": {
+      "translate": "advancements.husbandry.leash_all_frog_variants.title"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:temperate"
+    ],
+    [
+      "minecraft:warm"
+    ],
+    [
+      "minecraft:cold"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
