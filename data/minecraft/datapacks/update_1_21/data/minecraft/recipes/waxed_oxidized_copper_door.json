@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "waxed_oxidized_cut_copper_door",
+  "key": {
+    "#": {
+      "item": "minecraft:waxed_oxidized_copper"
+    }
+  },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "id": "minecraft:waxed_oxidized_copper_door"
+  }
+}
