@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "level=0": {
+      "model": "minecraft:block/light_00"
+    },
+    "level=1": {
+      "model": "minecraft:block/light_01"
+    },
+    "level=10": {
+      "model": "minecraft:block/light_10"
+    },
+    "level=11": {
+      "model": "minecraft:block/light_11"
+    },
+    "level=12": {
+      "model": "minecraft:block/light_12"
+    },
+    "level=13": {
+      "model": "minecraft:block/light_13"
+    },
+    "level=14": {
+      "model": "minecraft:block/light_14"
+    },
+    "level=15": {
+      "model": "minecraft:block/light_15"
+    },
+    "level=2": {
+      "model": "minecraft:block/light_02"
+    },
+    "level=3": {
+      "model": "minecraft:block/light_03"
+    },
+    "level=4": {
+      "model": "minecraft:block/light_04"
+    },
+    "level=5": {
+      "model": "minecraft:block/light_05"
+    },
+    "level=6": {
+      "model": "minecraft:block/light_06"
+    },
+    "level=7": {
+      "model": "minecraft:block/light_07"
+    },
+    "level=8": {
+      "model": "minecraft:block/light_08"
+    },
+    "level=9": {
+      "model": "minecraft:block/light_09"
+    }
+  }
+}
