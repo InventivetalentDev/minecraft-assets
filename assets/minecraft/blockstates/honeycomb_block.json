@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "block/honeycomb_block" }
+    }
+}

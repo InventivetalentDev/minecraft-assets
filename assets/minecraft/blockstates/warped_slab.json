@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/warped_slab" },
+        "type=top": { "model": "block/warped_slab_top" },
+        "type=double": { "model": "block/warped_planks" }
+    }
+}
