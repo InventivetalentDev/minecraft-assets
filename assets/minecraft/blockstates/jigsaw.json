@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "minecraft:block/jigsaw",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "minecraft:block/jigsaw",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "minecraft:block/jigsaw",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "minecraft:block/jigsaw",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "minecraft:block/jigsaw"
+    },
+    "facing=west": {
+      "model": "minecraft:block/jigsaw",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

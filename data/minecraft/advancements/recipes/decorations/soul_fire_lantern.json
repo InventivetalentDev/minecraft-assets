@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:soul_fire_lantern"
+    ]
+  },
+  "criteria": {
+    "has_soul_fire_torch": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:soul_fire_torch"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:soul_fire_lantern"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_soul_fire_torch",
+      "has_the_recipe"
+    ]
+  ]
+}
