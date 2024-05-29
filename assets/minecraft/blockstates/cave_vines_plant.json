@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "berries=false": {
+      "model": "minecraft:block/cave_vines_plant"
+    },
+    "berries=true": {
+      "model": "minecraft:block/cave_vines_plant_lit"
+    }
+  }
+}
