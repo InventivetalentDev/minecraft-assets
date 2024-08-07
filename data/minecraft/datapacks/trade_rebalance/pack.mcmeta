@@ -1,0 +1,13 @@
+{
+  "features": {
+    "enabled": [
+      "minecraft:trade_rebalance"
+    ]
+  },
+  "pack": {
+    "description": {
+      "translate": "dataPack.trade_rebalance.description"
+    },
+    "pack_format": 48
+  }
+}

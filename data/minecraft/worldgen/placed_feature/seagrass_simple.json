@@ -1,0 +1,46 @@
+{
+  "feature": "minecraft:seagrass_simple",
+  "placement": [
+    {
+      "type": "minecraft:carving_mask",
+      "step": "liquid"
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 10
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:stone",
+            "offset": [
+              0,
+              -1,
+              0
+            ]
+          },
+          {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:water"
+          },
+          {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:water",
+            "offset": [
+              0,
+              1,
+              0
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
