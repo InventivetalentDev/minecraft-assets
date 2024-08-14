@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "map=false": { "model": "block/glow_item_frame" },
+        "map=true":  { "model": "block/glow_item_frame_map" }
+    }
+}
