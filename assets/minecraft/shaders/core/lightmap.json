@@ -1,0 +1,17 @@
+{
+    "vertex": "minecraft:core/blit_screen",
+    "fragment": "minecraft:core/lightmap",
+    "samplers": [
+    ],
+    "uniforms": [
+        { "name": "AmbientLightFactor", "type": "float",     "count": 1,  "values": [1.0] },
+        { "name": "SkyFactor",          "type": "float",     "count": 1,  "values": [1.0] },
+        { "name": "BlockFactor",        "type": "float",     "count": 1,  "values": [1.0] },
+        { "name": "UseBrightLightmap",  "type": "int",       "count": 1,  "values": [0] },
+        { "name": "SkyLightColor",      "type": "float",     "count": 3,  "values": [1.0] },
+        { "name": "NightVisionFactor",  "type": "float",     "count": 1,  "values": [0.0] },
+        { "name": "DarknessScale",      "type": "float",     "count": 1,  "values": [0.0] },
+        { "name": "DarkenWorldFactor",  "type": "float",     "count": 1,  "values": [0.0] },
+        { "name": "BrightnessFactor",   "type": "float",     "count": 1,  "values": [1.0] }
+    ]
+}
