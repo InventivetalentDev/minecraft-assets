@@ -1,0 +1,37 @@
+{
+  "loot_tables_to_eject": [
+    {
+      "data": "minecraft:spawners/ominous/trial_chamber/key",
+      "weight": 3
+    },
+    {
+      "data": "minecraft:spawners/ominous/trial_chamber/consumables",
+      "weight": 7
+    }
+  ],
+  "simultaneous_mobs": 3.0,
+  "simultaneous_mobs_added_per_player": 0.5,
+  "spawn_potentials": [
+    {
+      "data": {
+        "entity": {
+          "id": "minecraft:bogged"
+        },
+        "equipment": {
+          "loot_table": "minecraft:equipment/trial_chamber_ranged",
+          "slot_drop_chances": {
+            "body": 0.0,
+            "chest": 0.0,
+            "feet": 0.0,
+            "head": 0.0,
+            "legs": 0.0,
+            "mainhand": 0.0,
+            "offhand": 0.0
+          }
+        }
+      },
+      "weight": 1
+    }
+  ],
+  "ticks_between_spawn": 20
+}
