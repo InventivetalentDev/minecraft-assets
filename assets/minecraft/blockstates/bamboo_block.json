@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/bamboo_block_x"
+    },
+    "axis=y": {
+      "model": "minecraft:block/bamboo_block_y"
+    },
+    "axis=z": {
+      "model": "minecraft:block/bamboo_block_z"
+    }
+  }
+}

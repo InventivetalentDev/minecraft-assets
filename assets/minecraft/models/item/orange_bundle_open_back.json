@@ -1,0 +1,6 @@
+{
+  "parent": "item/bundle",
+  "textures": {
+    "layer0": "item/orange_bundle_open_back"
+  }
+}
