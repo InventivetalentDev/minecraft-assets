@@ -1,0 +1,6 @@
+{
+  "parent": "item/bundle",
+  "textures": {
+    "layer0": "item/magenta_bundle_open_front"
+  }
+}

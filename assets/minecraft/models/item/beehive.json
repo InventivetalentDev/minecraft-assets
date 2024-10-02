@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/beehive_empty",
+  "overrides" : [
+    {
+      "predicate" : {
+        "honey_level" : 0
+      },
+      "model" : "item/beehive_empty"
+    },
+    {
+      "predicate" : {
+        "honey_level" : 1
+      },
+      "model" : "item/beehive_honey"
+    }
+  ]
+}

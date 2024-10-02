@@ -1,0 +1,13 @@
+{
+  "features": {
+    "enabled": [
+      "minecraft:winter_drop"
+    ]
+  },
+  "pack": {
+    "description": {
+      "translate": "dataPack.winter_drop.description"
+    },
+    "pack_format": 56
+  }
+}
