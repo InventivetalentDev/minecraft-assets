@@ -1,0 +1,63 @@
+{
+    "sources": [
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "trims/entity/humanoid/coast",
+                "trims/entity/humanoid_leggings/coast",
+                "trims/entity/humanoid/sentry",
+                "trims/entity/humanoid_leggings/sentry",
+                "trims/entity/humanoid/dune",
+                "trims/entity/humanoid_leggings/dune",
+                "trims/entity/humanoid/wild",
+                "trims/entity/humanoid_leggings/wild",
+                "trims/entity/humanoid/ward",
+                "trims/entity/humanoid_leggings/ward",
+                "trims/entity/humanoid/eye",
+                "trims/entity/humanoid_leggings/eye",
+                "trims/entity/humanoid/vex",
+                "trims/entity/humanoid_leggings/vex",
+                "trims/entity/humanoid/tide",
+                "trims/entity/humanoid_leggings/tide",
+                "trims/entity/humanoid/snout",
+                "trims/entity/humanoid_leggings/snout",
+                "trims/entity/humanoid/rib",
+                "trims/entity/humanoid_leggings/rib",
+                "trims/entity/humanoid/spire",
+                "trims/entity/humanoid_leggings/spire",
+                "trims/entity/humanoid/wayfinder",
+                "trims/entity/humanoid_leggings/wayfinder",
+                "trims/entity/humanoid/shaper",
+                "trims/entity/humanoid_leggings/shaper",
+                "trims/entity/humanoid/silence",
+                "trims/entity/humanoid_leggings/silence",
+                "trims/entity/humanoid/raiser",
+                "trims/entity/humanoid_leggings/raiser",
+                "trims/entity/humanoid/host",
+                "trims/entity/humanoid_leggings/host",
+                "trims/entity/humanoid/flow",
+                "trims/entity/humanoid_leggings/flow",
+                "trims/entity/humanoid/bolt",
+                "trims/entity/humanoid_leggings/bolt"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "gold": "trims/color_palettes/gold",
+                "diamond": "trims/color_palettes/diamond",
+                "netherite": "trims/color_palettes/netherite",
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "emerald": "trims/color_palettes/emerald",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst",
+                "iron_darker": "trims/color_palettes/iron_darker",
+                "gold_darker": "trims/color_palettes/gold_darker",
+                "diamond_darker": "trims/color_palettes/diamond_darker",
+                "netherite_darker": "trims/color_palettes/netherite_darker",
+                "resin": "trims/color_palettes/resin"
+            }
+        }
+    ]
+}
