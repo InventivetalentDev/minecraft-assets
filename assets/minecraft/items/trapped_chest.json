@@ -1,0 +1,22 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:special",
+      "base": "minecraft:item/trapped_chest",
+      "model": {
+        "type": "minecraft:chest",
+        "texture": "minecraft:trapped"
+      }
+    },
+    "on_true": {
+      "type": "minecraft:special",
+      "base": "minecraft:item/trapped_chest",
+      "model": {
+        "type": "minecraft:chest",
+        "texture": "minecraft:christmas"
+      }
+    },
+    "property": "minecraft:xmas"
+  }
+}
