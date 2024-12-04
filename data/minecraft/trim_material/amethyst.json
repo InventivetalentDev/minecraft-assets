@@ -1,0 +1,8 @@
+{
+  "asset_name": "amethyst",
+  "description": {
+    "color": "#9A5CC6",
+    "translate": "trim_material.minecraft.amethyst"
+  },
+  "ingredient": "minecraft:amethyst_shard"
+}
