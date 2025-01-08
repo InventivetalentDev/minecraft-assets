@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:wheat",
+    "X": "minecraft:cocoa_beans"
+  },
+  "pattern": [
+    "#X#"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:cookie"
+  }
+}

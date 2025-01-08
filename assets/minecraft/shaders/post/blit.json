@@ -1,0 +1,12 @@
+{
+    "vertex": "minecraft:post/blit",
+    "fragment": "minecraft:post/blit",
+    "samplers": [
+        { "name": "InSampler" }
+    ],
+    "uniforms": [
+        { "name": "ProjMat",       "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+        { "name": "OutSize",       "type": "float",     "count": 2,  "values": [ 1.0, 1.0 ] },
+        { "name": "ColorModulate", "type": "float",     "count": 4,  "values": [ 1.0, 1.0, 1.0, 1.0 ] }
+    ]
+}
