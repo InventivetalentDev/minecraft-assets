@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "test_block_mode=accept": {
+      "model": "minecraft:block/test_block_accept"
+    },
+    "test_block_mode=fail": {
+      "model": "minecraft:block/test_block_fail"
+    },
+    "test_block_mode=log": {
+      "model": "minecraft:block/test_block_log"
+    },
+    "test_block_mode=start": {
+      "model": "minecraft:block/test_block_start"
+    }
+  }
+}
