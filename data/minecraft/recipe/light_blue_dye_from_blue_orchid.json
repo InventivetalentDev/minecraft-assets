@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "light_blue_dye",
+  "ingredients": [
+    "minecraft:blue_orchid"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:light_blue_dye"
+  }
+}
