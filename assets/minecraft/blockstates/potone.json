@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/potone"
+      },
+      {
+        "model": "minecraft:block/potone_mirrored"
+      },
+      {
+        "model": "minecraft:block/potone",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/potone_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

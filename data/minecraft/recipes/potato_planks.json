@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "minecraft:potato_stem"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:potato_planks"
+  }
+}

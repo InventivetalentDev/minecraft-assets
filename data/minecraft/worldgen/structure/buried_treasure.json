@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:buried_treasure",
+  "biomes": "#minecraft:has_structure/buried_treasure",
+  "density_checks": [],
+  "spawn_overrides": {},
+  "step": "underground_structures"
+}

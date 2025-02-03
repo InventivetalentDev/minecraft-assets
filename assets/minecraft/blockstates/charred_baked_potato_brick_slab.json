@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/charred_baked_potato_brick_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/charred_baked_potato_bricks"
+    },
+    "type=top": {
+      "model": "minecraft:block/charred_baked_potato_brick_slab_top"
+    }
+  }
+}

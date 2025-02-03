@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:potato_buds",
+  "config": {
+    "max_height": 12,
+    "spread_height": 4,
+    "spread_width": 8
+  }
+}

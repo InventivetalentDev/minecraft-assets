@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/big_brain",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "minecraft:block/big_brain"
+    },
+    "facing=south": {
+      "model": "minecraft:block/big_brain",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecraft:block/big_brain",
+      "y": 270
+    }
+  }
+}

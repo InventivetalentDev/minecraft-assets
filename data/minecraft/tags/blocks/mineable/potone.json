@@ -1,0 +1,31 @@
+{
+  "values": [
+    "minecraft:resin_ore",
+    "minecraft:potone_diamond_ore",
+    "minecraft:potone_redstone_ore",
+    "minecraft:potone_copper_ore",
+    "minecraft:potone_iron_ore",
+    "minecraft:potone_gold_ore",
+    "minecraft:potone_lapis_ore",
+    "minecraft:potone",
+    "minecraft:potone_slab",
+    "minecraft:potone_stairs",
+    "minecraft:potone_wall",
+    "minecraft:taterstone",
+    "minecraft:taterstone_slab",
+    "minecraft:taterstone_stairs",
+    "minecraft:taterstone_wall",
+    "minecraft:expired_baked_potato_bricks",
+    "minecraft:expired_baked_potato_brick_slab",
+    "minecraft:expired_baked_potato_brick_stairs",
+    "minecraft:expired_baked_potato_brick_wall",
+    "minecraft:charred_baked_potato_bricks",
+    "minecraft:charred_baked_potato_brick_slab",
+    "minecraft:charred_baked_potato_brick_stairs",
+    "minecraft:charred_baked_potato_brick_wall",
+    "minecraft:baked_potato_bricks",
+    "minecraft:baked_potato_brick_slab",
+    "minecraft:baked_potato_brick_stairs",
+    "minecraft:baked_potato_brick_wall"
+  ]
+}

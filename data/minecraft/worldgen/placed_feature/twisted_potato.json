@@ -1,0 +1,17 @@
+{
+  "feature": "minecraft:twisted_potato",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 1,
+      "start_offset": 0
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 13
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

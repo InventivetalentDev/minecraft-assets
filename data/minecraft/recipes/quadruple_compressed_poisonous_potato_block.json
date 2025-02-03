@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:triple_compressed_poisonous_potato_block"
+    },
+    {
+      "item": "minecraft:triple_compressed_poisonous_potato_block"
+    },
+    {
+      "item": "minecraft:triple_compressed_poisonous_potato_block"
+    },
+    {
+      "item": "minecraft:triple_compressed_poisonous_potato_block"
+    },
+    {
+      "item": "minecraft:triple_compressed_poisonous_potato_block"
+    },
+    {
+      "item": "minecraft:triple_compressed_poisonous_potato_block"
+    },
+    {
+      "item": "minecraft:triple_compressed_poisonous_potato_block"
+    },
+    {
+      "item": "minecraft:triple_compressed_poisonous_potato_block"
+    },
+    {
+      "item": "minecraft:triple_compressed_poisonous_potato_block"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:quadruple_compressed_poisonous_potato_block"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "P": {
+      "item": "minecraft:poisonous_potato"
+    }
+  },
+  "pattern": [
+    "#P#",
+    "# #"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:poisonous_polytra"
+  }
+}

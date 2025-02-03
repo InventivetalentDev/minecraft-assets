@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:potato_refinement",
+  "bottle_ingredient": {
+    "item": "minecraft:glass_bottle"
+  },
+  "experience": 0.1,
+  "ingredient": {
+    "item": "minecraft:poisonous_potato"
+  },
+  "refinement_time": 125,
+  "result": {
+    "count": 1,
+    "id": "minecraft:poisonous_potato_oil"
+  }
+}

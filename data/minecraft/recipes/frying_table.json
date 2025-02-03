@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "P": {
+      "item": "minecraft:potato_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "g": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "pattern": [
+    "  S",
+    "IIg",
+    "PP "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:frying_table"
+  }
+}

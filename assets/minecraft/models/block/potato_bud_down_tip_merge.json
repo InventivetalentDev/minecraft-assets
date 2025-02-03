@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pointed_dripstone",
+  "textures": {
+    "cross": "minecraft:block/potato_bud_down_tip_merge"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "parent": "minecraft:potato/root",
+  "criteria": {
+    "said_potato": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "stats": [
+                  {
+                    "type": "minecraft:custom",
+                    "stat": "minecraft:said_potato",
+                    "value": {
+                      "min": 99
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:said_potato"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.sweet_potato_talker.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:potato_flower"
+    },
+    "title": {
+      "translate": "advancements.potato.sweet_potato_talker.title"
+    }
+  },
+  "requirements": [
+    [
+      "said_potato"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

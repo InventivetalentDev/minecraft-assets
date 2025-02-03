@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:mineshaft",
+  "biomes": "#minecraft:is_potato",
+  "density_checks": [],
+  "mineshaft_type": "potato",
+  "spawn_overrides": {},
+  "step": "underground_structures"
+}

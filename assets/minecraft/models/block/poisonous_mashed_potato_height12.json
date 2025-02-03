@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_layered_height12",
+  "textures": {
+    "texture": "minecraft:block/poisonous_mashed_potato"
+  }
+}

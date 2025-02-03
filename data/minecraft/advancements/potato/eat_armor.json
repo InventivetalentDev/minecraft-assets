@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:potato/root",
+  "criteria": {
+    "eat_armor": {
+      "trigger": "minecraft:eat_armor"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.eat_armor.description"
+    },
+    "hidden": true,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:poisonous_potato_chestplate"
+    },
+    "title": {
+      "translate": "advancements.potato.eat_armor.title"
+    }
+  },
+  "requirements": [
+    [
+      "eat_armor"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

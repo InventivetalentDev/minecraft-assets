@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "minecraft:block/terredepomme",
+    "side": "minecraft:block/corrupted_peelgrass_block_side",
+    "top": "minecraft:block/corrupted_peelgrass_block"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:potone"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:potone_wall"
+  }
+}

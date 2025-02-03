@@ -1,0 +1,32 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:colosseum/treasure/connectors/center_to_wall_middle",
+        "processors": "minecraft:colosseum_veins",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:colosseum/treasure/connectors/center_to_wall_top",
+        "processors": "minecraft:colosseum_veins",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:colosseum/treasure/connectors/center_to_wall_top_entrance",
+        "processors": "minecraft:colosseum_veins",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:potato/lubricate",
+  "criteria": {
+    "throw_lubricated_item": {
+      "conditions": {
+        "min_lubrication": 1
+      },
+      "trigger": "minecraft:throw_lubricated"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.lubricate_whee.description"
+    },
+    "hidden": true,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:ice"
+    },
+    "title": {
+      "translate": "advancements.potato.lubricate_whee.title"
+    }
+  },
+  "requirements": [
+    [
+      "throw_lubricated_item"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

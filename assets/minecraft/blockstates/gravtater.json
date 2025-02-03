@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/gravtater"
+      },
+      {
+        "model": "minecraft:block/gravtater",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/gravtater",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/gravtater",
+        "y": 270
+      }
+    ]
+  }
+}

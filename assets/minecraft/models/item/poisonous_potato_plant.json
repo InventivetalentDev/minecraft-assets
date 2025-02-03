@@ -1,0 +1,6 @@
+{
+    "parent": "item/poisonous_potato",
+    "overrides": [
+        { "predicate": { "hovered": 0.5 }, "model": "item/poisonous_potato_plant_unmasked" }
+    ]
+}

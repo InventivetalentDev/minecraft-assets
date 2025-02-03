@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:floatato"
+    },
+    "T": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "X": {
+      "item": "minecraft:hot_potato"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:floatater"
+  }
+}

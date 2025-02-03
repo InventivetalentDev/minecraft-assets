@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:potato/lubricate",
+  "criteria": {
+    "lubricate_boots": {
+      "conditions": {
+        "result_predicate": {
+          "type": "lubrication",
+          "item_predicate": {
+            "items": "#minecraft:foot_armor"
+          },
+          "min_lubrication": 1
+        }
+      },
+      "trigger": "minecraft:potato_refined"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.lubricate_boots.description"
+    },
+    "hidden": true,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:poisonous_pota_toes"
+    },
+    "title": {
+      "translate": "advancements.potato.lubricate_boots.title"
+    }
+  },
+  "requirements": [
+    [
+      "lubricate_boots"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

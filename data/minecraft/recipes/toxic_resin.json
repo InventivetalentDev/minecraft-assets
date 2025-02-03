@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "minecraft:poisonous_potato_oil"
+  },
+  "result": {
+    "id": "minecraft:toxic_resin"
+  }
+}

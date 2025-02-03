@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:desert_pyramid",
+  "biomes": "#minecraft:has_structure/desert_pyramid",
+  "density_checks": [],
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:baked_potato"
+    },
+    "X": {
+      "item": "minecraft:poisonous_potato"
+    }
+  },
+  "pattern": [
+    "#X",
+    "X#"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:expired_baked_potato_bricks"
+  }
+}

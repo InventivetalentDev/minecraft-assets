@@ -1,0 +1,64 @@
+{
+  "type": "minecraft:ruined_portal",
+  "biomes": "#minecraft:has_structure/ruined_portatols",
+  "density_checks": [],
+  "setups": [
+    {
+      "air_pocket_probability": 1.0,
+      "can_be_cold": true,
+      "mossiness": 0.4,
+      "overgrown": false,
+      "placement": "underground",
+      "potaot": true,
+      "replace_with_blackstone": false,
+      "vines": false,
+      "weight": 0.1
+    },
+    {
+      "air_pocket_probability": 0.5,
+      "can_be_cold": true,
+      "mossiness": 0.1,
+      "overgrown": false,
+      "placement": "on_land_surface",
+      "potaot": true,
+      "replace_with_blackstone": false,
+      "vines": false,
+      "weight": 0.3
+    },
+    {
+      "air_pocket_probability": 0.0,
+      "can_be_cold": true,
+      "mossiness": 0.2,
+      "overgrown": false,
+      "placement": "partly_buried",
+      "potaot": true,
+      "replace_with_blackstone": false,
+      "vines": false,
+      "weight": 0.1
+    },
+    {
+      "air_pocket_probability": 0.0,
+      "can_be_cold": false,
+      "mossiness": 0.8,
+      "overgrown": false,
+      "placement": "on_ocean_floor",
+      "potaot": true,
+      "replace_with_blackstone": false,
+      "vines": true,
+      "weight": 0.1
+    },
+    {
+      "air_pocket_probability": 1.0,
+      "can_be_cold": true,
+      "mossiness": 0.2,
+      "overgrown": false,
+      "placement": "in_mountain",
+      "potaot": true,
+      "replace_with_blackstone": false,
+      "vines": false,
+      "weight": 0.2
+    }
+  ],
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

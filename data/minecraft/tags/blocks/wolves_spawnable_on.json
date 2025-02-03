@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:grass_block",
+    "minecraft:peelgrass_block",
+    "minecraft:corrupted_peelgrass_block",
+    "minecraft:snow",
+    "minecraft:snow_block",
+    "minecraft:coarse_dirt",
+    "minecraft:podzol"
+  ]
+}

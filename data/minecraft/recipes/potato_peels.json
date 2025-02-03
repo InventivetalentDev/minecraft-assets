@@ -1,0 +1,63 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:potato_peels"
+      },
+      {
+        "item": "minecraft:orange_potato_peels"
+      },
+      {
+        "item": "minecraft:magenta_potato_peels"
+      },
+      {
+        "item": "minecraft:light_blue_potato_peels"
+      },
+      {
+        "item": "minecraft:yellow_potato_peels"
+      },
+      {
+        "item": "minecraft:lime_potato_peels"
+      },
+      {
+        "item": "minecraft:pink_potato_peels"
+      },
+      {
+        "item": "minecraft:gray_potato_peels"
+      },
+      {
+        "item": "minecraft:light_gray_potato_peels"
+      },
+      {
+        "item": "minecraft:cyan_potato_peels"
+      },
+      {
+        "item": "minecraft:purple_potato_peels"
+      },
+      {
+        "item": "minecraft:blue_potato_peels"
+      },
+      {
+        "item": "minecraft:brown_potato_peels"
+      },
+      {
+        "item": "minecraft:green_potato_peels"
+      },
+      {
+        "item": "minecraft:red_potato_peels"
+      },
+      {
+        "item": "minecraft:black_potato_peels"
+      }
+    ],
+    {
+      "item": "minecraft:white_dye"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:potato_peels"
+  }
+}

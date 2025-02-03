@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_roots",
+  "textures": {
+    "texture": "minecraft:block/weak_roots"
+  }
+}

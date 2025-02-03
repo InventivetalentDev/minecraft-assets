@@ -1,0 +1,93 @@
+{
+  "parent": "block/block",
+    "textures": {
+        "particle": "block/potato_portal",
+        "portal": "block/potato_portal"
+    },
+  "elements": [
+    {
+      "from": [11, 0, -6],
+      "to": [13, 25, 10],
+      "rotation": {"angle": 22.5, "axis": "x", "origin": [8, 0, 8]},
+      "faces": {
+        "north": {"uv": [0, 0, 2, 16], "texture": "#portal"},
+        "east": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+        "south": {"uv": [0, 0, 2, 16], "texture": "#portal"},
+        "west": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+        "up": {"uv": [0, 0, 16, 2], "rotation": 270, "texture": "#portal"},
+        "down": {"uv": [0, 0, 16, 2], "rotation": 90, "texture": "#portal"}
+      }
+    },
+    {
+      "from": [3, 0, 6],
+      "to": [5, 25, 22],
+      "rotation": {"angle": -22.5, "axis": "x", "origin": [8, 0, 8]},
+      "faces": {
+        "north": {"uv": [0, 0, 2, 16], "texture": "#portal"},
+        "east": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+        "south": {"uv": [0, 0, 2, 16], "texture": "#portal"},
+        "west": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+        "up": {"uv": [0, 0, 16, 2], "rotation": 270, "texture": "#portal"},
+        "down": {"uv": [0, 0, 16, 2], "rotation": 90, "texture": "#portal"}
+      }
+    },
+    {
+      "from": [-6, 0, 3],
+      "to": [10, 25, 5],
+      "rotation": {"angle": -22.5, "axis": "z", "origin": [8, 0, 8]},
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+        "east": {"uv": [0, 0, 2, 16], "texture": "#portal"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+        "west": {"uv": [0, 0, 2, 16], "texture": "#portal"},
+        "up": {"uv": [0, 0, 16, 2], "rotation": 180, "texture": "#portal"},
+        "down": {"uv": [0, 0, 16, 2], "rotation": 180, "texture": "#portal"}
+      }
+    },
+    {
+      "from": [6, 0, 11],
+      "to": [22, 25, 13],
+      "rotation": {"angle": 22.5, "axis": "z", "origin": [8, 0, 8]},
+      "faces": {
+        "north": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+        "east": {"uv": [0, 0, 2, 16], "texture": "#portal"},
+        "south": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+        "west": {"uv": [0, 0, 2, 16], "texture": "#portal"},
+        "up": {"uv": [0, 0, 16, 2], "rotation": 180, "texture": "#portal"},
+        "down": {"uv": [0, 0, 16, 2], "rotation": 180, "texture": "#portal"}
+      }
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [ 30, 225, 0 ],
+      "translation": [ 0, 4, 0],
+      "scale":[ 1.225, 1.225, 1.225 ]
+    },
+    "ground": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 0, 3, 0],
+      "scale":[ 0.75, 0.75, 0.75 ]
+    },
+    "fixed": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 0, 0, 0],
+      "scale":[ 0.5, 0.5, 0.5 ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [ 75, 45, 0 ],
+      "translation": [ 0, 2.5, 0],
+      "scale": [ 0.875, 0.875, 0.875 ]
+    },
+    "firstperson_righthand": {
+      "rotation": [ 0, 45, 0 ],
+      "translation": [ 0, 0, 0 ],
+      "scale": [ 0.95, 0.95, 0.95 ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [ 0, 225, 0 ],
+      "translation": [ 0, 0, 0 ],
+      "scale": [ 0.95, 0.95, 0.95 ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "amber",
+  "description": {
+    "color": "#E58904",
+    "translate": "trim_material.minecraft.amber"
+  },
+  "ingredient": "minecraft:amber_gem",
+  "item_model_index": 1.0
+}

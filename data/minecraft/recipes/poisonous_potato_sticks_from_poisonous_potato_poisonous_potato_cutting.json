@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:poisonous_potato_cutting",
+  "ingredient": {
+    "item": "minecraft:poisonous_potato"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:poisonous_potato_sticks"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "type": "minecraft:nether_forest_vegetation",
+  "config": {
+    "spread_height": 4,
+    "spread_width": 8,
+    "state_provider": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "data": {
+            "Name": "minecraft:potato_sprouts"
+          },
+          "weight": 2
+        },
+        {
+          "data": {
+            "Name": "minecraft:potatoes",
+            "Properties": {
+              "age": "0",
+              "tater_boost": "0"
+            }
+          },
+          "weight": 4
+        },
+        {
+          "data": {
+            "Name": "minecraft:potatoes",
+            "Properties": {
+              "age": "4",
+              "tater_boost": "0"
+            }
+          },
+          "weight": 5
+        },
+        {
+          "data": {
+            "Name": "minecraft:potatoes",
+            "Properties": {
+              "age": "7",
+              "tater_boost": "0"
+            }
+          },
+          "weight": 5
+        },
+        {
+          "data": {
+            "Name": "minecraft:short_grass"
+          },
+          "weight": 5
+        },
+        {
+          "data": {
+            "Name": "minecraft:tall_grass",
+            "Properties": {
+              "half": "lower"
+            }
+          },
+          "weight": 3
+        }
+      ]
+    }
+  }
+}

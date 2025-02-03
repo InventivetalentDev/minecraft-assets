@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient": {
+    "item": "minecraft:charred_baked_potato_bricks"
+  },
+  "result": {
+    "id": "minecraft:charcoal"
+  }
+}

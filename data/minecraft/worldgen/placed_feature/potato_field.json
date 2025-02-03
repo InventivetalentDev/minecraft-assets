@@ -1,0 +1,13 @@
+{
+  "feature": "minecraft:potato_field",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 8,
+      "start_offset": 2
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

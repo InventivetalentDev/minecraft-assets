@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "enabled=false": {
+      "model": "minecraft:block/vicious_potato"
+    },
+    "enabled=true": {
+      "model": "minecraft:block/vicious_potato_enabled"
+    }
+  }
+}

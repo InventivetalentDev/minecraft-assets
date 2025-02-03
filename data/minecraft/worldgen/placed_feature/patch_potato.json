@@ -1,0 +1,13 @@
+{
+  "feature": "minecraft:patch_potato",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 1,
+      "start_offset": 2
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

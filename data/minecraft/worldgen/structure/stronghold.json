@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stronghold",
+  "biomes": "#minecraft:has_structure/stronghold",
+  "density_checks": [],
+  "spawn_overrides": {},
+  "step": "surface_structures",
+  "terrain_adaptation": "bury"
+}

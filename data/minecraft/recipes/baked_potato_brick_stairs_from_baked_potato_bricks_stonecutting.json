@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:baked_potato_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:baked_potato_brick_stairs"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "parent" : "item/handheld",
+  "textures" : {
+    "layer0" : "item/lashing_potato"
+  },
+  "overrides" : [
+    {
+      "predicate" : {
+        "lashing_potato_extended" : 1
+      },
+      "model" : "item/lashing_potato_extended"
+    }
+  ]
+}

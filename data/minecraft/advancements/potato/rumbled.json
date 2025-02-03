@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:potato/root",
+  "criteria": {
+    "rumble_plant": {
+      "trigger": "minecraft:rumble_plant"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.rumbled.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:poisonous_potato_plant"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.potato.rumbled.title"
+    }
+  },
+  "requirements": [
+    [
+      "rumble_plant"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

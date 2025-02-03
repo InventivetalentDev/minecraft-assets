@@ -1,0 +1,38 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"0": "block/tater",
+		"1": "block/big_brain_front_back",
+		"2": "block/big_brain_left_right",
+		"3": "block/big_brain_top_bottom",
+		"particle": "block/tater"
+	},
+	"elements": [
+		{
+			"name": "tater",
+			"from": [6, 0, 6],
+			"to": [10, 5, 10],
+			"faces": {
+				"north": {"uv": [4, 0, 8, 5], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 5], "texture": "#0"},
+				"south": {"uv": [4, 5, 8, 10], "texture": "#0"},
+				"west": {"uv": [4, 5, 0, 10], "texture": "#0"},
+				"up": {"uv": [12, 4, 8, 0], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [12, 4, 8, 8], "rotation": 270, "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"name": "brain",
+			"from": [1, 5, 1],
+			"to": [15, 15, 15],
+			"faces": {
+				"north": {"uv": [1, 2, 15, 12], "texture": "#1"},
+				"east": {"uv": [1, 4, 15, 14], "texture": "#2"},
+				"south": {"uv": [15, 2, 1, 12], "texture": "#1"},
+				"west": {"uv": [15, 4, 1, 14], "texture": "#2"},
+				"up": {"uv": [1, 1, 15, 15], "rotation": 90, "texture": "#3"},
+				"down": {"uv": [1, 1, 15, 15], "rotation": 270, "texture": "#3"}
+			}
+		}
+	]
+}

@@ -1,0 +1,604 @@
+{
+  "ambient.arboretum.loop": {
+    "sounds": [
+      {
+        "name": "nothingtoseeheremovealong:ambient/potato/arboretum",
+        "stream": true
+      }
+    ]
+  },
+  "ambient.corruption.loop": {
+    "sounds": [
+      {
+        "name": "nothingtoseeheremovealong:ambient/potato/corruption",
+        "stream": true
+      }
+    ]
+  },
+  "ambient.fields.loop": {
+    "sounds": [
+      {
+        "name": "nothingtoseeheremovealong:ambient/potato/fields",
+        "stream": true
+      }
+    ]
+  },
+  "ambient.hash.loop": {
+    "sounds": [
+      {
+        "name": "nothingtoseeheremovealong:ambient/potato/hash",
+        "stream": true
+      }
+    ]
+  },
+  "ambient.wasteland.loop": {
+    "sounds": [
+      {
+        "name": "nothingtoseeheremovealong:ambient/potato/wasteland",
+        "stream": true
+      }
+    ]
+  },
+  "block.corrupted_peelgrass_block.break": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break1",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break2",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break3",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break4",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break5",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break6"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.corrupted_peelgrass_block.fall": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step1",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step2",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step3",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step4",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step5",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step6"
+    ]
+  },
+  "block.corrupted_peelgrass_block.hit": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step1",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step2",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step3",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step4",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step5",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step6"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.corrupted_peelgrass_block.place": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break1",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break2",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break3",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break4",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break5",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/break6"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.corrupted_peelgrass_block.step": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step1",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step2",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step3",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step4",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step5",
+      "nothingtoseeheremovealong:block/corrupted_peelgrass_block/step6"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.gravtater.break": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/gravtater/break1",
+      "nothingtoseeheremovealong:block/gravtater/break2",
+      "nothingtoseeheremovealong:block/gravtater/break3",
+      "nothingtoseeheremovealong:block/gravtater/break4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.gravtater.fall": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/gravtater/step1",
+      "nothingtoseeheremovealong:block/gravtater/step2",
+      "nothingtoseeheremovealong:block/gravtater/step3",
+      "nothingtoseeheremovealong:block/gravtater/step4"
+    ]
+  },
+  "block.gravtater.hit": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/gravtater/step1",
+      "nothingtoseeheremovealong:block/gravtater/step2",
+      "nothingtoseeheremovealong:block/gravtater/step3",
+      "nothingtoseeheremovealong:block/gravtater/step4"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.gravtater.place": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/gravtater/break1",
+      "nothingtoseeheremovealong:block/gravtater/break2",
+      "nothingtoseeheremovealong:block/gravtater/break3",
+      "nothingtoseeheremovealong:block/gravtater/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.gravtater.step": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/gravtater/step1",
+      "nothingtoseeheremovealong:block/gravtater/step2",
+      "nothingtoseeheremovealong:block/gravtater/step3",
+      "nothingtoseeheremovealong:block/gravtater/step4"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.peelgrass_block.break": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/peelgrass_block/break1",
+      "nothingtoseeheremovealong:block/peelgrass_block/break2",
+      "nothingtoseeheremovealong:block/peelgrass_block/break3",
+      "nothingtoseeheremovealong:block/peelgrass_block/break4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.peelgrass_block.fall": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/peelgrass_block/step1",
+      "nothingtoseeheremovealong:block/peelgrass_block/step2",
+      "nothingtoseeheremovealong:block/peelgrass_block/step3",
+      "nothingtoseeheremovealong:block/peelgrass_block/step4",
+      "nothingtoseeheremovealong:block/peelgrass_block/step5",
+      "nothingtoseeheremovealong:block/peelgrass_block/step6"
+    ]
+  },
+  "block.peelgrass_block.hit": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/peelgrass_block/step1",
+      "nothingtoseeheremovealong:block/peelgrass_block/step2",
+      "nothingtoseeheremovealong:block/peelgrass_block/step3",
+      "nothingtoseeheremovealong:block/peelgrass_block/step4",
+      "nothingtoseeheremovealong:block/peelgrass_block/step5",
+      "nothingtoseeheremovealong:block/peelgrass_block/step6"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.peelgrass_block.place": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/peelgrass_block/break1",
+      "nothingtoseeheremovealong:block/peelgrass_block/break2",
+      "nothingtoseeheremovealong:block/peelgrass_block/break3",
+      "nothingtoseeheremovealong:block/peelgrass_block/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.peelgrass_block.step": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/peelgrass_block/step1",
+      "nothingtoseeheremovealong:block/peelgrass_block/step2",
+      "nothingtoseeheremovealong:block/peelgrass_block/step3",
+      "nothingtoseeheremovealong:block/peelgrass_block/step4",
+      "nothingtoseeheremovealong:block/peelgrass_block/step5",
+      "nothingtoseeheremovealong:block/peelgrass_block/step6"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.potone.break": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/potone/break1",
+      "nothingtoseeheremovealong:block/potone/break2",
+      "nothingtoseeheremovealong:block/potone/break3",
+      "nothingtoseeheremovealong:block/potone/break4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.potone.fall": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/potone/step1",
+      "nothingtoseeheremovealong:block/potone/step2",
+      "nothingtoseeheremovealong:block/potone/step3",
+      "nothingtoseeheremovealong:block/potone/step4",
+      "nothingtoseeheremovealong:block/potone/step5",
+      "nothingtoseeheremovealong:block/potone/step6"
+    ]
+  },
+  "block.potone.hit": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/potone/step1",
+      "nothingtoseeheremovealong:block/potone/step2",
+      "nothingtoseeheremovealong:block/potone/step3",
+      "nothingtoseeheremovealong:block/potone/step4",
+      "nothingtoseeheremovealong:block/potone/step5",
+      "nothingtoseeheremovealong:block/potone/step6"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.potone.place": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/potone/break1",
+      "nothingtoseeheremovealong:block/potone/break2",
+      "nothingtoseeheremovealong:block/potone/break3",
+      "nothingtoseeheremovealong:block/potone/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.potone.step": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/potone/step1",
+      "nothingtoseeheremovealong:block/potone/step2",
+      "nothingtoseeheremovealong:block/potone/step3",
+      "nothingtoseeheremovealong:block/potone/step4",
+      "nothingtoseeheremovealong:block/potone/step5",
+      "nothingtoseeheremovealong:block/potone/step6"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "block.terredepomme.break": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/terredepomme/break1",
+      "nothingtoseeheremovealong:block/terredepomme/break2",
+      "nothingtoseeheremovealong:block/terredepomme/break3",
+      "nothingtoseeheremovealong:block/terredepomme/break4"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "block.terredepomme.fall": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/terredepomme/step1",
+      "nothingtoseeheremovealong:block/terredepomme/step2",
+      "nothingtoseeheremovealong:block/terredepomme/step3",
+      "nothingtoseeheremovealong:block/terredepomme/step4",
+      "nothingtoseeheremovealong:block/terredepomme/step5"
+    ]
+  },
+  "block.terredepomme.hit": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/terredepomme/step1",
+      "nothingtoseeheremovealong:block/terredepomme/step2",
+      "nothingtoseeheremovealong:block/terredepomme/step3",
+      "nothingtoseeheremovealong:block/terredepomme/step4",
+      "nothingtoseeheremovealong:block/terredepomme/step5"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "block.terredepomme.place": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/terredepomme/break1",
+      "nothingtoseeheremovealong:block/terredepomme/break2",
+      "nothingtoseeheremovealong:block/terredepomme/break3",
+      "nothingtoseeheremovealong:block/terredepomme/break4"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "block.terredepomme.step": {
+    "sounds": [
+      "nothingtoseeheremovealong:block/terredepomme/step1",
+      "nothingtoseeheremovealong:block/terredepomme/step2",
+      "nothingtoseeheremovealong:block/terredepomme/step3",
+      "nothingtoseeheremovealong:block/terredepomme/step4",
+      "nothingtoseeheremovealong:block/terredepomme/step5"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "entity.megaspud.death": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/megaspud/death"
+    ],
+    "subtitle": "subtitles.entity.megaspud.death"
+  },
+  "entity.megaspud.hurt": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/megaspud/hurt1",
+      "nothingtoseeheremovealong:entity/megaspud/hurt2",
+      "nothingtoseeheremovealong:entity/megaspud/hurt3",
+      "nothingtoseeheremovealong:entity/megaspud/hurt4"
+    ],
+    "subtitle": "subtitles.entity.megaspud.hurt"
+  },
+  "entity.megaspud.idle": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/megaspud/idle1",
+      "nothingtoseeheremovealong:entity/megaspud/idle2",
+      "nothingtoseeheremovealong:entity/megaspud/idle3",
+      "nothingtoseeheremovealong:entity/megaspud/idle4"
+    ],
+    "subtitle": "subtitles.entity.megaspud.idle"
+  },
+  "entity.megaspud.summon": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/megaspud/summon"
+    ],
+    "subtitle": "subtitles.entity.megaspud.summon"
+  },
+  "entity.megaspud.fireball": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/megaspud/fireball"
+    ],
+    "subtitle": "subtitles.entity.megaspud.fireball"
+  },
+  "entity.megaspud.jump": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/megaspud/big1",
+      "nothingtoseeheremovealong:entity/megaspud/big2",
+      "nothingtoseeheremovealong:entity/megaspud/big3",
+      "nothingtoseeheremovealong:entity/megaspud/big4"
+    ],
+    "subtitle": "subtitles.entity.megaspud.squish"
+  },
+  "entity.megaspud.jump_hi": {
+    "sounds": [
+      {
+        "name": "nothingtoseeheremovealong:entity/megaspud/big1",
+        "pitch": 2.0
+      },
+      {
+        "name": "nothingtoseeheremovealong:entity/megaspud/big2",
+        "pitch": 2.0
+      },
+      {
+        "name": "nothingtoseeheremovealong:entity/megaspud/big3",
+        "pitch": 2.0
+      },
+      {
+        "name": "nothingtoseeheremovealong:entity/megaspud/big4",
+        "pitch": 2.0
+      }
+    ],
+    "subtitle": "subtitles.entity.megaspud.squish"
+  },
+  "entity.megaspud.upset": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/megaspud/mega_spud"
+    ],
+    "subtitle": "subtitles.entity.megaspud.upset"
+  },
+  "entity.megaspud.challenge": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/megaspud/boss_spawn"
+    ],
+    "subtitle": "subtitles.entity.megaspud.challenge"
+  },
+
+
+  "entity.plaguewhale.ambient": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/plaguewhale/elder_idle1",
+      "nothingtoseeheremovealong:entity/plaguewhale/elder_idle2",
+      "nothingtoseeheremovealong:entity/plaguewhale/elder_idle3",
+      "nothingtoseeheremovealong:entity/plaguewhale/elder_idle4"
+    ],
+    "subtitle": "subtitles.entity.plaguewhale.ambient"
+  },
+  "entity.plaguewhale.ambient_land": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/toxifin/land_idle1",
+      "nothingtoseeheremovealong:entity/toxifin/land_idle2",
+      "nothingtoseeheremovealong:entity/toxifin/land_idle3",
+      "nothingtoseeheremovealong:entity/toxifin/land_idle4"
+    ],
+    "subtitle": "subtitles.entity.plaguewhale.ambient_land"
+  },
+  "entity.plaguewhale.death": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/plaguewhale/elder_death"
+    ],
+    "subtitle": "subtitles.entity.plaguewhale.death"
+  },
+  "entity.plaguewhale.death_land": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/toxifin/land_death"
+    ],
+    "subtitle": "subtitles.entity.plaguewhale.death"
+  },
+  "entity.plaguewhale.flop": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/toxifin/flop1",
+      "nothingtoseeheremovealong:entity/toxifin/flop2",
+      "nothingtoseeheremovealong:entity/toxifin/flop3",
+      "nothingtoseeheremovealong:entity/toxifin/flop4"
+    ],
+    "subtitle": "subtitles.entity.plaguewhale.flop"
+  },
+  "entity.plaguewhale.hurt": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/plaguewhale/elder_hit1",
+      "nothingtoseeheremovealong:entity/plaguewhale/elder_hit2",
+      "nothingtoseeheremovealong:entity/plaguewhale/elder_hit3",
+      "nothingtoseeheremovealong:entity/plaguewhale/elder_hit4"
+    ],
+    "subtitle": "subtitles.entity.plaguewhale.hurt"
+  },
+  "entity.plaguewhale.hurt_land": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/toxifin/land_hit1",
+      "nothingtoseeheremovealong:entity/toxifin/land_hit2",
+      "nothingtoseeheremovealong:entity/toxifin/land_hit3",
+      "nothingtoseeheremovealong:entity/toxifin/land_hit4"
+    ],
+    "subtitle": "subtitles.entity.plaguewhale.hurt"
+  },
+  "entity.player.sprout_respawn": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/player/sprout_respawn"
+    ],
+    "subtitle": "subtitles.entity.player.sprout_respawn"
+  },
+  "entity.player.sprout_respawn_one": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/player/sprout_respawn_1"
+    ],
+    "subtitle": "subtitles.entity.player.sprout_respawn_one"
+  },
+  "entity.player.sprout_respawn_two": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/player/sprout_respawn_2"
+    ],
+    "subtitle": "subtitles.entity.player.sprout_respawn_two"
+  },
+  "entity.toxifin.ambient": {
+    "sounds": [
+      {
+        "name": "nothingtoseeheremovealong:entity/toxifin/ambient1",
+        "volume": 0.1
+      },
+      {
+        "name": "nothingtoseeheremovealong:entity/toxifin/ambient2",
+        "volume": 0.1
+      },
+      {
+        "name": "nothingtoseeheremovealong:entity/toxifin/ambient3",
+        "volume": 0.1
+      },
+      {
+        "name": "nothingtoseeheremovealong:entity/toxifin/ambient4",
+        "volume": 0.1
+      }
+    ],
+    "subtitle": "subtitles.entity.toxifin.ambient"
+  },
+  "entity.toxifin.ambient_land": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/toxifin/land_idle1",
+      "nothingtoseeheremovealong:entity/toxifin/land_idle2",
+      "nothingtoseeheremovealong:entity/toxifin/land_idle3",
+      "nothingtoseeheremovealong:entity/toxifin/land_idle4"
+    ],
+    "subtitle": "subtitles.entity.toxifin.ambient_land"
+  },
+  "entity.toxifin.attack": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/toxifin/attack_loop"
+    ],
+    "subtitle": "subtitles.entity.toxifin.attack"
+  },
+  "entity.toxifin.death": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/toxifin/death"
+    ],
+    "subtitle": "subtitles.entity.toxifin.death"
+  },
+  "entity.toxifin.death_land": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/toxifin/land_death"
+    ],
+    "subtitle": "subtitles.entity.toxifin.death"
+  },
+  "entity.toxifin.flop": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/toxifin/flop1",
+      "nothingtoseeheremovealong:entity/toxifin/flop2",
+      "nothingtoseeheremovealong:entity/toxifin/flop3",
+      "nothingtoseeheremovealong:entity/toxifin/flop4"
+    ],
+    "subtitle": "subtitles.entity.toxifin.flop"
+  },
+  "entity.toxifin.hurt": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/toxifin/hit1",
+      "nothingtoseeheremovealong:entity/toxifin/hit2",
+      "nothingtoseeheremovealong:entity/toxifin/hit3",
+      "nothingtoseeheremovealong:entity/toxifin/hit4"
+    ],
+    "subtitle": "subtitles.entity.toxifin.hurt"
+  },
+  "entity.toxifin.hurt_land": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/toxifin/land_hit1",
+      "nothingtoseeheremovealong:entity/toxifin/land_hit2",
+      "nothingtoseeheremovealong:entity/toxifin/land_hit3",
+      "nothingtoseeheremovealong:entity/toxifin/land_hit4"
+    ],
+    "subtitle": "subtitles.entity.toxifin.hurt"
+  },
+  "entity.zombie_potato.ambient": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/zombie_potato/say1",
+      "nothingtoseeheremovealong:entity/zombie_potato/say2",
+      "nothingtoseeheremovealong:entity/zombie_potato/say3"
+    ],
+    "subtitle": "subtitles.entity.zombie_potato.ambient"
+  },
+  "entity.zombie_potato.attack_iron_door": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/zombie_potato/metal1",
+      "nothingtoseeheremovealong:entity/zombie_potato/metal2",
+      "nothingtoseeheremovealong:entity/zombie_potato/metal3"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "entity.zombie_potato.death": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/zombie_potato/death"
+    ],
+    "subtitle": "subtitles.entity.zombie_potato.death"
+  },
+  "entity.zombie_potato.hurt": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/zombie_potato/hurt1",
+      "nothingtoseeheremovealong:entity/zombie_potato/hurt2"
+    ],
+    "subtitle": "subtitles.entity.zombie_potato.hurt"
+  },
+  "entity.zombie_potato.infect": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/zombie_potato/infect"
+    ],
+    "subtitle": "subtitles.entity.zombie_potato.infect"
+  },
+  "entity.zombie_potato.step": {
+    "sounds": [
+      "nothingtoseeheremovealong:entity/zombie_potato/step1",
+      "nothingtoseeheremovealong:entity/zombie_potato/step2",
+      "nothingtoseeheremovealong:entity/zombie_potato/step3",
+      "nothingtoseeheremovealong:entity/zombie_potato/step4",
+      "nothingtoseeheremovealong:entity/zombie_potato/step5"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  },
+  "entity.potato.peel": {
+    "sounds": [
+      "nothingtoseeheremovealong:item/potato/peel_1",
+      "nothingtoseeheremovealong:item/potato/peel_2",
+      "nothingtoseeheremovealong:item/potato/peel_3",
+      "nothingtoseeheremovealong:item/potato/peel_4",
+      "nothingtoseeheremovealong:item/potato/peel_5",
+      "nothingtoseeheremovealong:item/potato/peel_6"
+    ],
+    "subtitle": "subtitles.item.potato.peel"
+  },
+  "entity.potato.chips": {
+    "sounds": [
+      "nothingtoseeheremovealong:item/potato/eat_chips_1",
+      "nothingtoseeheremovealong:item/potato/eat_chips_2",
+      "nothingtoseeheremovealong:item/potato/eat_chips_3",
+      "nothingtoseeheremovealong:item/potato/eat_chips_4"
+    ],
+    "subtitle": "subtitles.item.potato.chips"
+  },
+  "block.potato_battery.zap": {
+    "sounds": [
+      "ambient/nether/basalt_deltas/click1",
+      "ambient/nether/basalt_deltas/click2",
+      "ambient/nether/basalt_deltas/click3",
+      "ambient/nether/basalt_deltas/click4",
+      "ambient/nether/basalt_deltas/click5"
+    ]
+  },
+  "ooof": {
+    "sounds": [
+      "random/classic_hurt"
+    ]
+  },
+  "the_joke": {
+    "sounds": [
+      "nothingtoseeheremovealong:the_joke/sad1",
+      "nothingtoseeheremovealong:the_joke/sad2",
+      "nothingtoseeheremovealong:the_joke/sad3",
+      "nothingtoseeheremovealong:the_joke/sad4"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_stripped_logs": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:potato_stem"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:potato_hanging_sign"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_stripped_logs"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:potato_hanging_sign"
+    ]
+  }
+}

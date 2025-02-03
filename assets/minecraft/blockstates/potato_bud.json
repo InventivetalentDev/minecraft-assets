@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "thickness=base,vertical_direction=down": {
+      "model": "minecraft:block/potato_bud_down_base"
+    },
+    "thickness=base,vertical_direction=up": {
+      "model": "minecraft:block/potato_bud_up_base"
+    },
+    "thickness=frustum,vertical_direction=down": {
+      "model": "minecraft:block/potato_bud_down_frustum"
+    },
+    "thickness=frustum,vertical_direction=up": {
+      "model": "minecraft:block/potato_bud_up_frustum"
+    },
+    "thickness=middle,vertical_direction=down": {
+      "model": "minecraft:block/potato_bud_down_middle"
+    },
+    "thickness=middle,vertical_direction=up": {
+      "model": "minecraft:block/potato_bud_up_middle"
+    },
+    "thickness=tip,vertical_direction=down": {
+      "model": "minecraft:block/potato_bud_down_tip"
+    },
+    "thickness=tip,vertical_direction=up": {
+      "model": "minecraft:block/potato_bud_up_tip"
+    },
+    "thickness=tip_merge,vertical_direction=down": {
+      "model": "minecraft:block/potato_bud_down_tip_merge"
+    },
+    "thickness=tip_merge,vertical_direction=up": {
+      "model": "minecraft:block/potato_bud_up_tip_merge"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:potato/root",
+  "criteria": {
+    "well_done": {
+      "conditions": {
+        "recipe_id": "minecraft:overcooked_potatoes"
+      },
+      "trigger": "minecraft:recipe_crafted"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.well_done.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:charcoal"
+    },
+    "title": {
+      "translate": "advancements.potato.well_done.title"
+    }
+  },
+  "requirements": [
+    [
+      "well_done"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

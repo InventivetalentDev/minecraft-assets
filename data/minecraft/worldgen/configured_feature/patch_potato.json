@@ -1,0 +1,133 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "feature": {
+      "feature": {
+        "type": "minecraft:simple_block",
+        "config": {
+          "to_place": {
+            "type": "minecraft:weighted_state_provider",
+            "entries": [
+              {
+                "data": {
+                  "Name": "minecraft:potatoes",
+                  "Properties": {
+                    "age": "0",
+                    "tater_boost": "0"
+                  }
+                },
+                "weight": 1
+              },
+              {
+                "data": {
+                  "Name": "minecraft:potatoes",
+                  "Properties": {
+                    "age": "1",
+                    "tater_boost": "0"
+                  }
+                },
+                "weight": 2
+              },
+              {
+                "data": {
+                  "Name": "minecraft:potatoes",
+                  "Properties": {
+                    "age": "2",
+                    "tater_boost": "0"
+                  }
+                },
+                "weight": 3
+              },
+              {
+                "data": {
+                  "Name": "minecraft:potatoes",
+                  "Properties": {
+                    "age": "3",
+                    "tater_boost": "0"
+                  }
+                },
+                "weight": 4
+              },
+              {
+                "data": {
+                  "Name": "minecraft:potatoes",
+                  "Properties": {
+                    "age": "4",
+                    "tater_boost": "0"
+                  }
+                },
+                "weight": 5
+              },
+              {
+                "data": {
+                  "Name": "minecraft:potatoes",
+                  "Properties": {
+                    "age": "5",
+                    "tater_boost": "0"
+                  }
+                },
+                "weight": 6
+              },
+              {
+                "data": {
+                  "Name": "minecraft:potatoes",
+                  "Properties": {
+                    "age": "6",
+                    "tater_boost": "0"
+                  }
+                },
+                "weight": 7
+              },
+              {
+                "data": {
+                  "Name": "minecraft:potatoes",
+                  "Properties": {
+                    "age": "7",
+                    "tater_boost": "0"
+                  }
+                },
+                "weight": 8
+              },
+              {
+                "data": {
+                  "Name": "minecraft:potato_flower"
+                },
+                "weight": 5
+              }
+            ]
+          }
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "minecraft:air"
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": [
+                  "minecraft:peelgrass_block",
+                  "minecraft:corrupted_peelgrass_block",
+                  "minecraft:gravtater"
+                ],
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "tries": 128,
+    "xz_spread": 7,
+    "y_spread": 3
+  }
+}

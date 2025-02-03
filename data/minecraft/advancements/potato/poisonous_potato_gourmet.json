@@ -1,0 +1,65 @@
+{
+  "parent": "minecraft:potato/poisonous_potato_taster",
+  "criteria": {
+    "ate_poisonous_potato_chips": {
+      "conditions": {
+        "item": {
+          "items": "minecraft:poisonous_potato_chips"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "ate_poisonous_potato_fries": {
+      "conditions": {
+        "item": {
+          "items": "minecraft:poisonous_potato_fries"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "ate_poisonous_potato_slices": {
+      "conditions": {
+        "item": {
+          "items": "minecraft:poisonous_potato_slices"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "ate_poisonous_potato_sticks": {
+      "conditions": {
+        "item": {
+          "items": "minecraft:poisonous_potato_sticks"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.poisonous_potato_gourmet.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:poisonous_potato_chips"
+    },
+    "title": {
+      "translate": "advancements.potato.poisonous_potato_gourmet.title"
+    }
+  },
+  "requirements": [
+    [
+      "ate_poisonous_potato_sticks"
+    ],
+    [
+      "ate_poisonous_potato_slices"
+    ],
+    [
+      "ate_poisonous_potato_fries"
+    ],
+    [
+      "ate_poisonous_potato_chips"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

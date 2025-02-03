@@ -1,0 +1,13 @@
+{
+  "feature": "minecraft:patch_dead_bush",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 2,
+      "start_offset": 2
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

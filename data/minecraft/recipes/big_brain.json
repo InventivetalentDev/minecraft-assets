@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "S": {
+      "item": "minecraft:zombie_head"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PSP",
+    "PPP"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:big_brain"
+  }
+}

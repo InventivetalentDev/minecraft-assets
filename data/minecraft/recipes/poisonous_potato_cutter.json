@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:potone"
+    },
+    "I": {
+      "item": "minecraft:poisonous_potato"
+    }
+  },
+  "pattern": [
+    " I ",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:poisonous_potato_cutter"
+  }
+}

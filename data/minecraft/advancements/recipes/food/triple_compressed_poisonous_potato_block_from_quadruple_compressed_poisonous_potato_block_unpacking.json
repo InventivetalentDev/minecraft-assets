@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_compressed_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:quadruple_compressed_poisonous_potato_block"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:triple_compressed_poisonous_potato_block_from_quadruple_compressed_poisonous_potato_block_unpacking"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_compressed_block"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:triple_compressed_poisonous_potato_block_from_quadruple_compressed_poisonous_potato_block_unpacking"
+    ]
+  }
+}

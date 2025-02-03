@@ -1,0 +1,24 @@
+{
+  "values": [
+    "minecraft:peelgrass_block",
+    "minecraft:corrupted_peelgrass_block",
+    "minecraft:gravtater",
+    "minecraft:terredepomme",
+    "minecraft:potato_peels_block",
+    "minecraft:orange_potato_peels_block",
+    "minecraft:magenta_potato_peels_block",
+    "minecraft:light_blue_potato_peels_block",
+    "minecraft:yellow_potato_peels_block",
+    "minecraft:lime_potato_peels_block",
+    "minecraft:pink_potato_peels_block",
+    "minecraft:gray_potato_peels_block",
+    "minecraft:light_gray_potato_peels_block",
+    "minecraft:cyan_potato_peels_block",
+    "minecraft:purple_potato_peels_block",
+    "minecraft:blue_potato_peels_block",
+    "minecraft:brown_potato_peels_block",
+    "minecraft:green_potato_peels_block",
+    "minecraft:red_potato_peels_block",
+    "minecraft:black_potato_peels_block"
+  ]
+}

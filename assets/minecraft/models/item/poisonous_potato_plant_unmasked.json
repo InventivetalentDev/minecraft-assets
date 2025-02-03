@@ -1,0 +1,6 @@
+{
+    "parent": "item/poisonous_potato_plant",
+    "textures": {
+        "layer1": "item/imposter"
+    }
+}

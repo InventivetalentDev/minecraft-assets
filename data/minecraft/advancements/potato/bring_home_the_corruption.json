@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:potato/enter_the_potato",
+  "criteria": {
+    "bring_home_the_corruption": {
+      "trigger": "minecraft:bring_home_corruption"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.bring_home_the_corruption.description"
+    },
+    "hidden": true,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:corrupted_peelgrass_block"
+    },
+    "title": {
+      "translate": "advancements.potato.bring_home_the_corruption.title"
+    }
+  },
+  "requirements": [
+    [
+      "bring_home_the_corruption"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

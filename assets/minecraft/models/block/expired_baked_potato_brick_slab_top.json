@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "minecraft:block/expired_baked_potato_bricks",
+    "side": "minecraft:block/expired_baked_potato_bricks",
+    "top": "minecraft:block/expired_baked_potato_bricks"
+  }
+}

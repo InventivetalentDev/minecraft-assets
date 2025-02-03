@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_floatato": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:floatato"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:floatater"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_floatato"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:floatater"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:potato/root",
+  "criteria": {
+    "entered_potato": {
+      "conditions": {
+        "to": "minecraft:potato"
+      },
+      "trigger": "minecraft:changed_dimension"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.enter_the_potato.description"
+    },
+    "hidden": true,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:potato_of_knowledge"
+    },
+    "title": {
+      "translate": "advancements.potato.enter_the_potato.title"
+    }
+  },
+  "requirements": [
+    [
+      "entered_potato"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

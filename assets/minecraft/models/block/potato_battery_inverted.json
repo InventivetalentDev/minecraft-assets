@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_daylight_detector",
+  "textures": {
+    "side": "minecraft:block/potato_battery_side",
+    "top": "minecraft:block/potato_battery_inverted_top"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "inverted=false": {
+      "model": "minecraft:block/potato_battery"
+    },
+    "inverted=true": {
+      "model": "minecraft:block/potato_battery_inverted"
+    }
+  }
+}

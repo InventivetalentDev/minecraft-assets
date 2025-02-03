@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:potato/potato_peeler",
+  "criteria": {
+    "peel_armor": {
+      "trigger": "minecraft:peel_potato_armor"
+    },
+    "peel_block": {
+      "trigger": "minecraft:peel_block"
+    },
+    "peel_sheep": {
+      "trigger": "minecraft:peel_potato_sheep"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.peel_all_the_things.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "count": 1,
+      "id": "minecraft:potato_peeler"
+    },
+    "title": {
+      "translate": "advancements.potato.peel_all_the_things.title"
+    }
+  },
+  "requirements": [
+    [
+      "peel_block"
+    ],
+    [
+      "peel_sheep"
+    ],
+    [
+      "peel_armor"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "minecraft:block/charred_baked_potato_bricks",
+    "side": "minecraft:block/charred_baked_potato_bricks",
+    "top": "minecraft:block/charred_baked_potato_bricks"
+  }
+}

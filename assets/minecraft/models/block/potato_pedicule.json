@@ -1,0 +1,29 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "block/potato_pedicule",
+        "all": "block/potato_pedicule"
+    },
+    "elements": [
+        {
+            "from": [ 4.5, 0, 8 ],
+            "to": [ 11.5, 16, 8 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45},
+            "shade": false,
+            "faces": {
+                "north": { "uv": [ 7, 0, 0, 16 ], "texture": "#all" },
+                "south": { "uv": [ 0, 0, 7, 16 ], "texture": "#all" }
+            }
+        },
+        {
+            "from": [ 8, 0, 4.5 ],
+            "to": [ 8, 16, 11.5 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45},
+            "shade": false,
+            "faces": {
+                "west": { "uv": [ 14, 0, 7, 16 ], "texture": "#all" },
+                "east": { "uv": [ 7, 0, 14, 16 ], "texture": "#all" }
+            }
+        }
+    ]
+}

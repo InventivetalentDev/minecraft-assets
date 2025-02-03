@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/frying_table",
+  "textures": {
+    "frying_table": "minecraft:block/frying_table"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "feature": "minecraft:small_basalt_columns",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 4,
+      "start_offset": 0
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

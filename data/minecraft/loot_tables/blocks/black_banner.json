@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "components": [
+                "minecraft:custom_name",
+                "minecraft:banner_patterns"
+              ],
+              "function": "minecraft:copy_components",
+              "source": "block_entity"
+            }
+          ],
+          "name": "minecraft:black_banner"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:blocks/black_banner"
+}

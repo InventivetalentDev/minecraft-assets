@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "P": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "R": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "pattern": [
+    "P",
+    "R"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:potato_hammer"
+  }
+}

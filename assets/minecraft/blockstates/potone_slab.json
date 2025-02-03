@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/potone_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/potone"
+    },
+    "type=top": {
+      "model": "minecraft:block/potone_slab_top"
+    }
+  }
+}

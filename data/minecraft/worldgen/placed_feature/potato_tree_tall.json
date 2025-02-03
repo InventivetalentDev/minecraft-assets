@@ -1,0 +1,26 @@
+{
+  "feature": "minecraft:potato_tree_tall",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 6
+    },
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 1,
+      "start_offset": 0
+    },
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:would_survive",
+        "state": {
+          "Name": "minecraft:potato_sprouts"
+        }
+      }
+    }
+  ]
+}

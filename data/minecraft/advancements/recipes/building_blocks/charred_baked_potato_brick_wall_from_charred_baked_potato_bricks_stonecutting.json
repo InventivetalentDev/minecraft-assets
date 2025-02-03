@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_charred_baked_potato_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:charred_baked_potato_bricks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:charred_baked_potato_brick_wall_from_charred_baked_potato_bricks_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_charred_baked_potato_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:charred_baked_potato_brick_wall_from_charred_baked_potato_bricks_stonecutting"
+    ]
+  }
+}

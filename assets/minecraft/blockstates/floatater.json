@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "facing=down,triggered=false": {
+      "model": "minecraft:block/floatater",
+      "x": 90
+    },
+    "facing=down,triggered=true": {
+      "model": "minecraft:block/floatater_triggered",
+      "x": 90
+    },
+    "facing=east,triggered=false": {
+      "model": "minecraft:block/floatater",
+      "y": 90
+    },
+    "facing=east,triggered=true": {
+      "model": "minecraft:block/floatater_triggered",
+      "y": 90
+    },
+    "facing=north,triggered=false": {
+      "model": "minecraft:block/floatater"
+    },
+    "facing=north,triggered=true": {
+      "model": "minecraft:block/floatater_triggered"
+    },
+    "facing=south,triggered=false": {
+      "model": "minecraft:block/floatater",
+      "y": 180
+    },
+    "facing=south,triggered=true": {
+      "model": "minecraft:block/floatater_triggered",
+      "y": 180
+    },
+    "facing=up,triggered=false": {
+      "model": "minecraft:block/floatater",
+      "x": 270
+    },
+    "facing=up,triggered=true": {
+      "model": "minecraft:block/floatater_triggered",
+      "x": 270
+    },
+    "facing=west,triggered=false": {
+      "model": "minecraft:block/floatater",
+      "y": 270
+    },
+    "facing=west,triggered=true": {
+      "model": "minecraft:block/floatater_triggered",
+      "y": 270
+    }
+  }
+}

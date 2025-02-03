@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#minecraft:overworld_natural_logs",
+    "minecraft:stone",
+    "minecraft:potone",
+    "minecraft:packed_ice",
+    "minecraft:iron_ore",
+    "minecraft:coal_ore",
+    "minecraft:copper_ore",
+    "minecraft:emerald_ore",
+    "minecraft:poisonous_potato_ore"
+  ]
+}

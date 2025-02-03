@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:potato/rumbled",
+  "criteria": {
+    "compost_staff": {
+      "trigger": "minecraft:compost_staff"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.good_plant.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:potato_staff"
+    },
+    "title": {
+      "translate": "advancements.potato.good_plant.title"
+    }
+  },
+  "requirements": [
+    [
+      "compost_staff"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

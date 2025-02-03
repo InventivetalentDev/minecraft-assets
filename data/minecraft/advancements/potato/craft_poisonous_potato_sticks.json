@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:potato/root",
+  "criteria": {
+    "poisonous_potato_sticks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:poisonous_potato_sticks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.craft_poisonous_potato_sticks.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:poisonous_potato_sticks"
+    },
+    "title": {
+      "translate": "advancements.potato.craft_poisonous_potato_sticks.title"
+    }
+  },
+  "requirements": [
+    [
+      "poisonous_potato_sticks"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

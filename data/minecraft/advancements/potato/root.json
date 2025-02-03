@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "joined_world": {
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:poisonous_potato"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.potato.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "joined_world"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

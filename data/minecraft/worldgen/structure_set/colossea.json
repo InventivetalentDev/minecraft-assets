@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 123456789,
+    "separation": 5,
+    "spacing": 24
+  },
+  "structures": [
+    {
+      "structure": "minecraft:colosseum",
+      "weight": 1
+    }
+  ]
+}

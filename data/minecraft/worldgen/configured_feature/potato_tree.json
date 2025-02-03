@@ -1,0 +1,137 @@
+{
+  "type": "minecraft:tree",
+  "config": {
+    "decorators": [
+      {
+        "type": "minecraft:attached_to_leaves",
+        "block_provider": [
+          {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:potato_pedicule",
+              "Properties": {
+                "axis": "y",
+                "waterlogged": "false"
+              }
+            }
+          },
+          {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:potato_fruit"
+            }
+          }
+        ],
+        "directions": [
+          "down"
+        ],
+        "exclusion_radius_xz": 1,
+        "exclusion_radius_y": 0,
+        "probability": 0.005,
+        "required_empty_blocks": 3
+      },
+      {
+        "type": "minecraft:attached_to_leaves",
+        "block_provider": [
+          {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:potato_pedicule",
+              "Properties": {
+                "axis": "y",
+                "waterlogged": "false"
+              }
+            }
+          },
+          {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:potato_fruit"
+            }
+          }
+        ],
+        "directions": [
+          "down"
+        ],
+        "exclusion_radius_xz": 1,
+        "exclusion_radius_y": 0,
+        "probability": 0.05,
+        "required_empty_blocks": 3,
+        "use_logs": true
+      },
+      {
+        "type": "minecraft:beehive",
+        "fixed_height": true,
+        "probability": 0.01
+      }
+    ],
+    "dirt_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:dirt"
+      }
+    },
+    "foliage_placer": {
+      "type": "minecraft:acacia_foliage_placer",
+      "offset": 0,
+      "radius": {
+        "type": "minecraft:uniform",
+        "value": {
+          "max_inclusive": 3,
+          "min_inclusive": 2
+        }
+      }
+    },
+    "foliage_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:potato_leaves",
+        "Properties": {
+          "distance": "7",
+          "persistent": "false",
+          "waterlogged": "false"
+        }
+      }
+    },
+    "force_dirt": false,
+    "ignore_vines": true,
+    "minimum_size": {
+      "type": "minecraft:two_layers_feature_size",
+      "limit": 3,
+      "lower_size": 0,
+      "upper_size": 2
+    },
+    "trunk_placer": {
+      "type": "minecraft:upwards_branching_trunk_placer",
+      "base_height": 2,
+      "can_grow_through": "#minecraft:logs",
+      "extra_branch_length": {
+        "type": "minecraft:uniform",
+        "value": {
+          "max_inclusive": 1,
+          "min_inclusive": 0
+        }
+      },
+      "extra_branch_steps": {
+        "type": "minecraft:uniform",
+        "value": {
+          "max_inclusive": 6,
+          "min_inclusive": 1
+        }
+      },
+      "height_rand_a": 1,
+      "height_rand_b": 12,
+      "megabush": false,
+      "place_branch_per_log_probability": 0.5
+    },
+    "trunk_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:potato_stem",
+        "Properties": {
+          "axis": "y"
+        }
+      }
+    }
+  }
+}

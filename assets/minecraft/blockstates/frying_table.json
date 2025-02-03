@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,lit=false": {
+      "model": "minecraft:block/frying_table",
+      "y": 270
+    },
+    "facing=east,lit=true": {
+      "model": "minecraft:block/frying_table_lit",
+      "y": 270
+    },
+    "facing=north,lit=false": {
+      "model": "minecraft:block/frying_table",
+      "y": 180
+    },
+    "facing=north,lit=true": {
+      "model": "minecraft:block/frying_table_lit",
+      "y": 180
+    },
+    "facing=south,lit=false": {
+      "model": "minecraft:block/frying_table"
+    },
+    "facing=south,lit=true": {
+      "model": "minecraft:block/frying_table_lit"
+    },
+    "facing=west,lit=false": {
+      "model": "minecraft:block/frying_table",
+      "y": 90
+    },
+    "facing=west,lit=true": {
+      "model": "minecraft:block/frying_table_lit",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "feature": {
+      "feature": {
+        "type": "minecraft:block_column",
+        "config": {
+          "allowed_placement": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:air"
+          },
+          "direction": "up",
+          "layers": [
+            {
+              "height": {
+                "type": "minecraft:biased_to_bottom",
+                "value": {
+                  "max_inclusive": 3,
+                  "min_inclusive": 1
+                }
+              },
+              "provider": {
+                "type": "minecraft:simple_state_provider",
+                "state": {
+                  "Name": "minecraft:gravtater"
+                }
+              }
+            },
+            {
+              "height": 1,
+              "provider": {
+                "type": "minecraft:simple_state_provider",
+                "state": {
+                  "Name": "minecraft:vicious_potato",
+                  "Properties": {
+                    "enabled": "false"
+                  }
+                }
+              }
+            }
+          ],
+          "prioritize_tip": true
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": [
+                  "minecraft:lime_potato_peels_block",
+                  "minecraft:air"
+                ]
+              },
+              {
+                "type": "minecraft:not",
+                "predicate": {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": "minecraft:air",
+                  "offset": [
+                    0,
+                    -1,
+                    0
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "tries": 30,
+    "xz_spread": 7,
+    "y_spread": 3
+  }
+}

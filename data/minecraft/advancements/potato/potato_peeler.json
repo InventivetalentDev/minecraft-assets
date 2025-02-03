@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:potato/root",
+  "criteria": {
+    "potato_peeler": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:potato_peeler"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.potato_peeler.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:potato_peeler"
+    },
+    "title": {
+      "translate": "advancements.potato.potato_peeler.title"
+    }
+  },
+  "requirements": [
+    [
+      "potato_peeler"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

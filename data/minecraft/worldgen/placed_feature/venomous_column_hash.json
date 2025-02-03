@@ -1,0 +1,17 @@
+{
+  "feature": "minecraft:venomous_column",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 1,
+      "start_offset": 2
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 16
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

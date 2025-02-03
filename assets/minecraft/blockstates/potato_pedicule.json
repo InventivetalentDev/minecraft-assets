@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/potato_pedicule",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "minecraft:block/potato_pedicule"
+    },
+    "axis=z": {
+      "model": "minecraft:block/potato_pedicule",
+      "x": 90
+    }
+  }
+}

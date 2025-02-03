@@ -1,0 +1,123 @@
+{
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "downfall": 0.5,
+  "effects": {
+    "ambient_sound": "nothingtoseeheremovealong:ambient.wasteland.loop",
+    "fog_color": 8157780,
+    "foliage_color": 4056583,
+    "grass_color": 5105159,
+    "particle": {
+      "options": {
+        "type": "minecraft:dripping_honey"
+      },
+      "probability": 0.001
+    },
+    "sky_color": 4456378,
+    "water_color": 5105159,
+    "water_fog_color": 4056583
+  },
+  "features": [
+    [],
+    [
+      "minecraft:lake_lava_underground",
+      "minecraft:lake_lava_surface"
+    ],
+    [
+      "minecraft:amethyst_geode",
+      "minecraft:potato_geode"
+    ],
+    [
+      "minecraft:monster_room",
+      "minecraft:monster_room_deep"
+    ],
+    [
+      "minecraft:small_debris_columns"
+    ],
+    [],
+    [
+      "minecraft:ore_tatterstone",
+      "minecraft:ore_amber",
+      "minecraft:ore_gravtater",
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_coal_lower",
+      "minecraft:ore_iron_upper",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_iron_small",
+      "minecraft:ore_poisonous_potato",
+      "minecraft:ore_gold_above_zero",
+      "minecraft:ore_redstone",
+      "minecraft:ore_redstone_lower",
+      "minecraft:ore_diamond",
+      "minecraft:ore_diamond_medium",
+      "minecraft:ore_diamond_large",
+      "minecraft:ore_diamond_buried",
+      "minecraft:ore_lapis",
+      "minecraft:ore_lapis_buried",
+      "minecraft:ore_copper_small",
+      "minecraft:underwater_magma"
+    ],
+    [
+      "minecraft:brown_mushroom_nether",
+      "minecraft:red_mushroom_nether",
+      "minecraft:large_potatostone",
+      "minecraft:large_potato_columns"
+    ],
+    [
+      "minecraft:spring_water",
+      "minecraft:spring_lava",
+      "minecraft:poison_pool"
+    ],
+    [
+      "minecraft:patch_potato_sparse",
+      "minecraft:potato_leaf",
+      "minecraft:twisted_potato"
+    ],
+    [
+      "minecraft:potato_cloud"
+    ]
+  ],
+  "has_precipitation": true,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [
+      {
+        "type": "minecraft:slime",
+        "maxCount": 2,
+        "minCount": 1,
+        "weight": 5
+      },
+      {
+        "type": "minecraft:giant",
+        "maxCount": 4,
+        "minCount": 1,
+        "weight": 10
+      },
+      {
+        "type": "minecraft:wither_skeleton",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 5
+      },
+      {
+        "type": "minecraft:toxifin",
+        "maxCount": 4,
+        "minCount": 1,
+        "weight": 25
+      }
+    ],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 2.0
+}

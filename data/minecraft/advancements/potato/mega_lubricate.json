@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:potato/get_oily",
+  "criteria": {
+    "mega_lubricate_item": {
+      "conditions": {
+        "result_predicate": {
+          "type": "lubrication",
+          "item_predicate": {},
+          "min_lubrication": 10
+        }
+      },
+      "trigger": "minecraft:potato_refined"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.mega_lubricate.description"
+    },
+    "hidden": true,
+    "icon": {
+      "components": {
+        "minecraft:explicit_foil": true
+      },
+      "count": 1,
+      "id": "minecraft:potato_oil"
+    },
+    "title": {
+      "translate": "advancements.potato.mega_lubricate.title"
+    }
+  },
+  "requirements": [
+    [
+      "mega_lubricate_item"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

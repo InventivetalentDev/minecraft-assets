@@ -1,0 +1,86 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:colosseum/treasure/extensions/empty",
+        "processors": "minecraft:colosseum_veins",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:colosseum/treasure/extensions/empty",
+        "processors": "minecraft:colosseum_veins",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:colosseum/treasure/extensions/fire_room",
+        "processors": "minecraft:colosseum_veins",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:colosseum/treasure/extensions/large_bridge_0",
+        "processors": "minecraft:colosseum_veins",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:colosseum/treasure/extensions/large_bridge_1",
+        "processors": "minecraft:colosseum_veins",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:colosseum/treasure/extensions/large_bridge_2",
+        "processors": "minecraft:colosseum_veins",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:colosseum/treasure/extensions/large_bridge_3",
+        "processors": "minecraft:colosseum_veins",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:colosseum/treasure/extensions/roofed_bridge",
+        "processors": "minecraft:colosseum_veins",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:colosseum/treasure/extensions/empty",
+        "processors": "minecraft:colosseum_veins",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

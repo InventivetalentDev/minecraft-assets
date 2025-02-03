@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:potato/root",
+  "criteria": {
+    "poisonous_potato_chips": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:poisonous_potato_chips"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.craft_poisonous_potato_chips.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:poisonous_potato_chips"
+    },
+    "title": {
+      "translate": "advancements.potato.craft_poisonous_potato_chips.title"
+    }
+  },
+  "requirements": [
+    [
+      "poisonous_potato_chips"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

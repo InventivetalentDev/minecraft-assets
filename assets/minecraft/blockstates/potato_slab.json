@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/potato_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/potato_planks"
+    },
+    "type=top": {
+      "model": "minecraft:block/potato_slab_top"
+    }
+  }
+}

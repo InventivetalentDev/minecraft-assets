@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:corrupted_potato_peels_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:corrupted_potato_peels"
+  }
+}

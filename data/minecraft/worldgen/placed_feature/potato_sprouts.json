@@ -1,0 +1,13 @@
+{
+  "feature": "minecraft:potato_sprouts",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 8,
+      "start_offset": 0
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

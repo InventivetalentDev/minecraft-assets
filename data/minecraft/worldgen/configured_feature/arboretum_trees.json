@@ -1,0 +1,114 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "minecraft:oak_checked",
+    "features": [
+      {
+        "chance": 0.05,
+        "feature": "minecraft:oak_checked"
+      },
+      {
+        "chance": 0.05,
+        "feature": "minecraft:birch_checked"
+      },
+      {
+        "chance": 0.05,
+        "feature": "minecraft:fancy_oak_checked"
+      },
+      {
+        "chance": 0.05,
+        "feature": "minecraft:spruce_checked"
+      },
+      {
+        "chance": 0.05,
+        "feature": "minecraft:pine_checked"
+      },
+      {
+        "chance": 0.05,
+        "feature": "minecraft:acacia_checked"
+      },
+      {
+        "chance": 0.02,
+        "feature": "minecraft:cherry_checked"
+      },
+      {
+        "chance": 0.02,
+        "feature": "minecraft:potato_checked"
+      },
+      {
+        "chance": 0.02,
+        "feature": "minecraft:jungle_bush"
+      },
+      {
+        "chance": 0.05,
+        "feature": "minecraft:jungle_tree"
+      },
+      {
+        "chance": 0.02,
+        "feature": "minecraft:mangrove_checked"
+      },
+      {
+        "chance": 0.025,
+        "feature": {
+          "feature": "minecraft:huge_brown_mushroom",
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.025,
+        "feature": {
+          "feature": "minecraft:huge_red_mushroom",
+          "placement": []
+        }
+      },
+      {
+        "chance": 0.02,
+        "feature": "minecraft:cherry_bees_005"
+      },
+      {
+        "chance": 0.05,
+        "feature": "minecraft:super_birch_bees_0002"
+      },
+      {
+        "chance": 0.05,
+        "feature": "minecraft:birch_bees_0002"
+      },
+      {
+        "chance": 0.05,
+        "feature": "minecraft:fancy_oak_bees_0002"
+      },
+      {
+        "chance": 0.05,
+        "feature": "minecraft:oak_bees_002"
+      },
+      {
+        "chance": 0.05,
+        "feature": "minecraft:super_birch_bees"
+      },
+      {
+        "chance": 0.05,
+        "feature": "minecraft:spruce_on_snow"
+      },
+      {
+        "chance": 0.05,
+        "feature": "minecraft:oak_bees_0002"
+      },
+      {
+        "chance": 0.01,
+        "feature": "minecraft:tall_mangrove_checked"
+      },
+      {
+        "chance": 0.01,
+        "feature": "minecraft:dark_oak_checked"
+      },
+      {
+        "chance": 0.01,
+        "feature": "minecraft:mega_jungle_tree_checked"
+      },
+      {
+        "chance": 0.003,
+        "feature": "minecraft:mother_potato_checked"
+      }
+    ]
+  }
+}

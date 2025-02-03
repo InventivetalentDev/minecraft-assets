@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:shears"
+    }
+  },
+  "pattern": [
+    " X",
+    "S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:potato_peeler"
+  }
+}

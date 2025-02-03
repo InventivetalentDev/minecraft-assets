@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:potato/root",
+  "criteria": {
+    "poisonous_potato_fries": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:poisonous_potato_fries"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.craft_poisonous_potato_fries.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:poisonous_potato_fries"
+    },
+    "title": {
+      "translate": "advancements.potato.craft_poisonous_potato_fries.title"
+    }
+  },
+  "requirements": [
+    [
+      "poisonous_potato_fries"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/taterstone_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/taterstone"
+    },
+    "type=top": {
+      "model": "minecraft:block/taterstone_slab_top"
+    }
+  }
+}

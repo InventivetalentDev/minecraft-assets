@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "minecraft:block/poisonous_potato_zombie_head_hat",
+    "side": "minecraft:block/poisonous_potato_zombie_head_block_side",
+    "top": "minecraft:block/poisonous_potato_zombie_head_block_top"
+  }
+}

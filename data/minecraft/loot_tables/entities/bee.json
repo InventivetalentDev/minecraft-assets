@@ -1,0 +1,75 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:all_of",
+                  "terms": [
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "type_specific": {
+                          "type": "minecraft:potato",
+                          "is_potato": true
+                        }
+                      }
+                    },
+                    {
+                      "condition": "minecraft:killer_main_hand_tool",
+                      "value": {
+                        "items": "minecraft:potato_peeler"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "chance": 0.5,
+                  "condition": "minecraft:random_chance"
+                }
+              ],
+              "name": "minecraft:yellow_potato_peels"
+            },
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:all_of",
+                  "terms": [
+                    {
+                      "condition": "minecraft:entity_properties",
+                      "entity": "this",
+                      "predicate": {
+                        "type_specific": {
+                          "type": "minecraft:potato",
+                          "is_potato": true
+                        }
+                      }
+                    },
+                    {
+                      "condition": "minecraft:killer_main_hand_tool",
+                      "value": {
+                        "items": "minecraft:potato_peeler"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "name": "minecraft:black_potato_peels"
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:entities/bee"
+}

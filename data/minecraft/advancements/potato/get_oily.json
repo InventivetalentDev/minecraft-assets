@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:potato/root",
+  "criteria": {
+    "refine_potato_oil": {
+      "conditions": {
+        "result_predicate": {
+          "type": "standard",
+          "item_predicate": {
+            "items": "minecraft:potato_oil"
+          }
+        }
+      },
+      "trigger": "minecraft:potato_refined"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/potato.png",
+    "description": {
+      "translate": "advancements.potato.get_oily.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:potato_oil"
+    },
+    "title": {
+      "translate": "advancements.potato.get_oily.title"
+    }
+  },
+  "requirements": [
+    [
+      "refine_potato_oil"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

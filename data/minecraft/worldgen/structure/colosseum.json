@@ -1,0 +1,93 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#minecraft:has_structure/colosseum",
+  "density_checks": [
+    {
+      "dense": true,
+      "offset": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "dense": true,
+      "offset": [
+        -18,
+        46,
+        -18
+      ]
+    },
+    {
+      "dense": true,
+      "offset": [
+        -18,
+        46,
+        18
+      ]
+    },
+    {
+      "dense": true,
+      "offset": [
+        18,
+        46,
+        -18
+      ]
+    },
+    {
+      "dense": true,
+      "offset": [
+        18,
+        46,
+        18
+      ]
+    }
+  ],
+  "max_distance_from_center": 80,
+  "size": 6,
+  "spawn_overrides": {
+    "axolotls": {
+      "bounding_box": "full",
+      "spawns": []
+    },
+    "monster": {
+      "bounding_box": "full",
+      "spawns": [
+        {
+          "type": "minecraft:toxifin",
+          "maxCount": 4,
+          "minCount": 2,
+          "weight": 1
+        },
+        {
+          "type": "minecraft:spider",
+          "maxCount": 1,
+          "minCount": 1,
+          "weight": 1
+        },
+        {
+          "type": "minecraft:skeleton",
+          "maxCount": 1,
+          "minCount": 1,
+          "weight": 1
+        },
+        {
+          "type": "minecraft:slime",
+          "maxCount": 1,
+          "minCount": 1,
+          "weight": 1
+        }
+      ]
+    },
+    "underground_water_creature": {
+      "bounding_box": "full",
+      "spawns": []
+    }
+  },
+  "start_height": {
+    "absolute": 33
+  },
+  "start_pool": "minecraft:colosseum/starts",
+  "step": "underground_structures",
+  "use_expansion_hack": false
+}
