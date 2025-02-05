@@ -1,0 +1,9 @@
+{
+    "vertex": "minecraft:core/blit_screen",
+    "fragment": "minecraft:core/blit_screen",
+    "samplers": [
+        { "name": "InSampler" }
+    ],
+    "uniforms": [
+    ]
+}
