@@ -1,0 +1,74 @@
+{
+    "targets": {
+        "swap": {}
+    },
+    "passes": [
+        {
+            "vertex_shader": "minecraft:post/sobel",
+            "fragment_shader": "minecraft:post/entity_sobel",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "minecraft:entity_outline"
+                }
+            ],
+            "output": "swap"
+        },
+        {
+            "vertex_shader": "minecraft:post/blur",
+            "fragment_shader": "minecraft:post/entity_outline_box_blur",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "swap",
+                    "bilinear": true
+                }
+            ],
+            "output": "minecraft:entity_outline",
+            "uniforms": [
+                {
+                    "name": "BlurDir",
+                    "type": "vec2",
+                    "values": [ 1.0, 0.0 ]
+                }
+            ]
+        },
+        {
+            "vertex_shader": "minecraft:post/blur",
+            "fragment_shader": "minecraft:post/entity_outline_box_blur",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "minecraft:entity_outline",
+                    "bilinear": true
+                }
+            ],
+            "output": "swap",
+            "uniforms": [
+                {
+                    "name": "BlurDir",
+                    "type": "vec2",
+                    "values": [ 0.0, 1.0 ]
+                }
+            ]
+        },
+        {
+            "vertex_shader": "minecraft:post/blit",
+            "fragment_shader": "minecraft:post/blit",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "swap"
+                }
+            ],
+            "uniforms": [
+                {
+                    "name": "ColorModulate",
+                    "type": "vec4",
+                    "values": [ 1.0, 1.0, 1.0, 1.0 ]
+                }
+            ],
+            "output": "minecraft:entity_outline"
+        }
+    ]
+}
