@@ -1,0 +1,8 @@
+{
+  "asset_id": "minecraft:entity/cat/british_shorthair",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}
