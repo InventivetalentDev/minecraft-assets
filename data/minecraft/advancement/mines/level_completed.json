@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:mines/enter_a_mine",
+  "criteria": {
+    "complete_level": {
+      "trigger": "minecraft:level_completed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.level.description"
+    },
+    "hint": {
+      "translate": "advancements.adventure.level.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:mine"
+    },
+    "title": {
+      "translate": "advancements.adventure.level.title"
+    }
+  },
+  "requirements": [
+    [
+      "complete_level"
+    ]
+  ],
+  "rewards": {
+    "experience": 10
+  },
+  "sends_telemetry_event": true
+}

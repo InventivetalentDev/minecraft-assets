@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:feats/wither_skeleton_skull",
+  "criteria": {
+    "completed_event": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "special_mine": "minecraft:wither_boss"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.feats.wither.description"
+    },
+    "frame": "challenge",
+    "hint": {
+      "translate": "advancements.feats.wither.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:nether_star"
+    },
+    "title": {
+      "translate": "advancements.feats.wither.title"
+    }
+  },
+  "requirements": [
+    [
+      "completed_event"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

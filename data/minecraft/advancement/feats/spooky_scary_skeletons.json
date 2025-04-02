@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:feats/kill_skeleton",
+  "criteria": {
+    "completed_event": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "special_mine": "minecraft:spooky_scary_skeletons_boss"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.feats.spooky_scary_skeletons.description"
+    },
+    "frame": "challenge",
+    "hint": {
+      "translate": "advancements.feats.spooky_scary_skeletons.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:skeleton_skull"
+    },
+    "title": {
+      "translate": "advancements.feats.spooky_scary_skeletons.title"
+    }
+  },
+  "requirements": [
+    [
+      "completed_event"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

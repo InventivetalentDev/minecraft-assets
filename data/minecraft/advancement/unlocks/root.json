@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "complete_level": {
+      "trigger": "minecraft:level_completed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:gui/advancements/backgrounds/unlocks",
+    "description": {
+      "translate": "advancements.unlocks.root.description"
+    },
+    "hint": {
+      "translate": "advancements.unlocks.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:experience_bottle"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.unlocks.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "complete_level"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

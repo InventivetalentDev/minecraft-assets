@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:place_template",
+  "config": {
+    "template": [
+      "minecraft:mines/start_platform"
+    ]
+  }
+}

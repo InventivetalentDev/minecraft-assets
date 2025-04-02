@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:unlocks/kaizen",
+  "criteria": {
+    "player_unlock_bought": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:learning_20"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:player_unlock_bought"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.unlocks.sigma_grindset.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "hint": {
+      "translate": "advancements.unlocks.sigma_grindset.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:bookshelf"
+    },
+    "title": {
+      "translate": "advancements.unlocks.sigma_grindset.title"
+    }
+  },
+  "requirements": [
+    [
+      "player_unlock_bought"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

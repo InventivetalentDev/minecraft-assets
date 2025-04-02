@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:feats/end_world",
+  "criteria": {
+    "completed_event": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "special_mine": "minecraft:ender_dragon_boss"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.feats.ender_dragon.description"
+    },
+    "frame": "challenge",
+    "hint": {
+      "translate": "advancements.feats.ender_dragon.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:dragon_head"
+    },
+    "title": {
+      "translate": "advancements.feats.ender_dragon.title"
+    }
+  },
+  "requirements": [
+    [
+      "completed_event"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/template_mine_revisitor",
+  "textures": {
+    "bottom": "minecraft:block/mine_revisitor_bottom",
+    "inner_top": "minecraft:block/mine_revisitor_inner_top",
+    "particle": "minecraft:block/mine_revisitor_bottom",
+    "side": "minecraft:block/mine_revisitor_side",
+    "top": "minecraft:block/mine_revisitor_top"
+  }
+}

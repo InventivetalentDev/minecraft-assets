@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:feats/root",
+  "criteria": {
+    "shimmering_key": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:shimmering_key"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.feats.shimmering_key.description"
+    },
+    "frame": "goal",
+    "hint": {
+      "translate": "advancements.feats.shimmering_key.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:shimmering_key"
+    },
+    "title": {
+      "translate": "advancements.feats.shimmering_key.title"
+    }
+  },
+  "requirements": [
+    [
+      "shimmering_key"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

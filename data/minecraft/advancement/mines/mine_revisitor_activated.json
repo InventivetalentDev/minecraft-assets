@@ -1,0 +1,29 @@
+{
+  "parent": "minecraft:mines/level_completed",
+  "criteria": {
+    "mine_revisitor_activated": {
+      "trigger": "minecraft:mine_revisitor_activated"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.mine_revisitor_activated.description"
+    },
+    "hint": {
+      "translate": "advancements.adventure.mine_revisitor_activated.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:mine_revisitor"
+    },
+    "title": {
+      "translate": "advancements.adventure.mine_revisitor_activated.title"
+    }
+  },
+  "requirements": [
+    [
+      "mine_revisitor_activated"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

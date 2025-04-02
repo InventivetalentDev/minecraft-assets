@@ -1,0 +1,63 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "block/trophy_gold",
+		"particle": "block/trophy_gold"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 2, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2, 7]},
+			"faces": {
+				"north": {"uv": [7, 6, 11, 7], "texture": "#0"},
+				"east": {"uv": [7, 7, 11, 8], "texture": "#0"},
+				"south": {"uv": [0, 8, 4, 9], "texture": "#0"},
+				"west": {"uv": [4, 8, 8, 9], "texture": "#0"},
+				"up": {"uv": [4, 4, 0, 0], "texture": "#0"},
+				"down": {"uv": [4, 4, 0, 8], "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"from": [7, 2, 7],
+			"to": [9, 7, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 2, 7]},
+			"faces": {
+				"north": {"uv": [2, 9, 3, 11.5], "texture": "#0"},
+				"east": {"uv": [3, 9, 4, 11.5], "texture": "#0"},
+				"south": {"uv": [4, 9, 5, 11.5], "texture": "#0"},
+				"west": {"uv": [5, 9, 6, 11.5], "texture": "#0"},
+				"up": {"uv": [11, 4, 10, 3], "texture": "#0"},
+				"down": {"uv": [11, 4, 10, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 7, 6],
+			"to": [10, 9, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 6]},
+			"faces": {
+				"north": {"uv": [6, 9, 8, 10], "texture": "#0"},
+				"east": {"uv": [10, 0, 12, 1], "texture": "#0"},
+				"south": {"uv": [10, 1, 12, 2], "texture": "#0"},
+				"west": {"uv": [10, 2, 12, 3], "texture": "#0"},
+				"up": {"uv": [10, 10, 8, 8], "texture": "#0"},
+				"down": {"uv": [2, 9, 0, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 9, 5],
+			"to": [11, 13, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 9, 5]},
+			"faces": {
+				"north": {"uv": [4, 6, 7, 8], "texture": "#0"},
+				"east": {"uv": [7, 0, 10, 2], "texture": "#0"},
+				"south": {"uv": [7, 2, 10, 4], "texture": "#0"},
+				"west": {"uv": [7, 4, 10, 6], "texture": "#0"},
+				"up": {"uv": [7, 3, 4, 0], "texture": "#0"},
+				"down": {"uv": [7, 3, 4, 6], "texture": "#0"}
+			}
+		}
+	],
+	"display": {}
+}

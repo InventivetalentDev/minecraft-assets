@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:mines/enter_a_mine",
+  "criteria": {
+    "level_failed": {
+      "trigger": "minecraft:level_failed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.level_failed.description"
+    },
+    "hidden": true,
+    "hint": {
+      "translate": "advancements.adventure.level_failed.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:grave_advancement"
+    },
+    "title": {
+      "translate": "advancements.adventure.level_failed.title"
+    }
+  },
+  "requirements": [
+    [
+      "level_failed"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

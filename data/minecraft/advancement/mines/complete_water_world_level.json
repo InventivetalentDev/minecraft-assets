@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:mines/level_completed",
+  "criteria": {
+    "complete_level": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "effects": [
+                  "minecraft:water_world"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:level_completed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.water_world.description"
+    },
+    "hint": {
+      "translate": "advancements.adventure.water_world.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:water_bucket"
+    },
+    "title": {
+      "translate": "advancements.adventure.water_world.title"
+    }
+  },
+  "requirements": [
+    [
+      "complete_level"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

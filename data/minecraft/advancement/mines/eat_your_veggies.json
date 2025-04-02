@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:feats/root",
+  "criteria": {
+    "taters_eaten": {
+      "trigger": "minecraft:consume_poisonous_potatoes"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.feats.eat_your_veggies.description"
+    },
+    "frame": "goal",
+    "hint": {
+      "translate": "advancements.feats.eat_your_veggies.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:poisonous_potato"
+    },
+    "title": {
+      "translate": "advancements.feats.eat_your_veggies.title"
+    }
+  },
+  "requirements": [
+    [
+      "taters_eaten"
+    ]
+  ],
+  "rewards": {
+    "loot": [
+      "minecraft:mines/eat_your_veggies"
+    ]
+  },
+  "sends_telemetry_event": true
+}

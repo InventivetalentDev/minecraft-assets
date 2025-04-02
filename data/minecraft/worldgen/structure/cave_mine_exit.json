@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:jigsaw",
+  "max_distance_from_center": 80,
+  "project_start_to_surface": true,
+  "required_exit_type": "cave",
+  "size": 7,
+  "spawn_overrides": {},
+  "start_height": {
+    "type": "minecraft:uniform",
+    "max_inclusive": {
+      "above_bottom": 120
+    },
+    "min_inclusive": {
+      "above_bottom": 0
+    }
+  },
+  "start_pool": "minecraft:mine_exits/root",
+  "step": "surface_structures",
+  "use_expansion_hack": false
+}

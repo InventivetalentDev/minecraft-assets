@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,type=gold": {
+      "model": "minecraft:block/trophy_gold",
+      "y": 90
+    },
+    "facing=east,type=mega_spud": {
+      "model": "minecraft:block/trophy_mega_spud",
+      "y": 90
+    },
+    "facing=east,type=no_medal": {
+      "model": "minecraft:block/trophy_no_medal",
+      "y": 90
+    },
+    "facing=north,type=gold": {
+      "model": "minecraft:block/trophy_gold"
+    },
+    "facing=north,type=mega_spud": {
+      "model": "minecraft:block/trophy_mega_spud"
+    },
+    "facing=north,type=no_medal": {
+      "model": "minecraft:block/trophy_no_medal"
+    },
+    "facing=south,type=gold": {
+      "model": "minecraft:block/trophy_gold",
+      "y": 180
+    },
+    "facing=south,type=mega_spud": {
+      "model": "minecraft:block/trophy_mega_spud",
+      "y": 180
+    },
+    "facing=south,type=no_medal": {
+      "model": "minecraft:block/trophy_no_medal",
+      "y": 180
+    },
+    "facing=west,type=gold": {
+      "model": "minecraft:block/trophy_gold",
+      "y": 270
+    },
+    "facing=west,type=mega_spud": {
+      "model": "minecraft:block/trophy_mega_spud",
+      "y": 270
+    },
+    "facing=west,type=no_medal": {
+      "model": "minecraft:block/trophy_no_medal",
+      "y": 270
+    }
+  }
+}

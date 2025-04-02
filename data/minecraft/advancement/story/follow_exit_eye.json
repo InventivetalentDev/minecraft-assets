@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:story/smelt_iron",
+  "criteria": {
+    "has_eye": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:exit_eye"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.follow_exit_eye.description"
+    },
+    "hint": {
+      "translate": "advancements.story.follow_exit_eye.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:exit_eye"
+    },
+    "title": {
+      "translate": "advancements.story.follow_exit_eye.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_eye"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

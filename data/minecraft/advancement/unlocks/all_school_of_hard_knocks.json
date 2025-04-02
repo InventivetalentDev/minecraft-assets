@@ -1,0 +1,174 @@
+{
+  "parent": "minecraft:unlocks/kaizen",
+  "criteria": {
+    "minecraft:extra_firepower": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:extra_firepower"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:proper_walking_pace": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:proper_walking_pace"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:rewrite_in_rust": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:rewrite_in_rust"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:school_of_actual_hard_knocks": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:school_of_actual_hard_knocks"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:school_of_hard_knocks": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:school_of_hard_knocks"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:thorns_plus_plus": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:thorns_plus_plus"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.unlocks.all_school_of_hard_knocks.description"
+    },
+    "frame": "challenge",
+    "hint": {
+      "translate": "advancements.unlocks.all_school_of_hard_knocks.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:fletching_table"
+    },
+    "title": {
+      "translate": "advancements.unlocks.all_school_of_hard_knocks.title"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:school_of_hard_knocks"
+    ],
+    [
+      "minecraft:school_of_actual_hard_knocks"
+    ],
+    [
+      "minecraft:rewrite_in_rust"
+    ],
+    [
+      "minecraft:extra_firepower"
+    ],
+    [
+      "minecraft:proper_walking_pace"
+    ],
+    [
+      "minecraft:thorns_plus_plus"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

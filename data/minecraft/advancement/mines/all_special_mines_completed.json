@@ -1,0 +1,198 @@
+{
+  "parent": "minecraft:mines/special_mine_completed",
+  "criteria": {
+    "minecraft:angry_ghast_boss": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "special_mine": "minecraft:angry_ghast_boss"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:ender_dragon_boss": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "special_mine": "minecraft:ender_dragon_boss"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:enderman_boss": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "special_mine": "minecraft:enderman_boss"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:kuiper_belt": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "special_mine": "minecraft:kuiper_belt"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:raid": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "special_mine": "minecraft:raid"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:small_but_deadly_boss": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "special_mine": "minecraft:small_but_deadly_boss"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:spooky_scary_skeletons_boss": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "special_mine": "minecraft:spooky_scary_skeletons_boss"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:warden_boss": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "special_mine": "minecraft:warden_boss"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:wither_boss": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "special_mine": "minecraft:wither_boss"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.mines.all_special_mines_completed.description"
+    },
+    "frame": "challenge",
+    "hint": {
+      "translate": "advancements.mines.all_special_mines_completed.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:beacon"
+    },
+    "title": {
+      "translate": "advancements.mines.all_special_mines_completed.title"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:enderman_boss"
+    ],
+    [
+      "minecraft:kuiper_belt"
+    ],
+    [
+      "minecraft:small_but_deadly_boss"
+    ],
+    [
+      "minecraft:spooky_scary_skeletons_boss"
+    ],
+    [
+      "minecraft:angry_ghast_boss"
+    ],
+    [
+      "minecraft:raid"
+    ],
+    [
+      "minecraft:wither_boss"
+    ],
+    [
+      "minecraft:ender_dragon_boss"
+    ],
+    [
+      "minecraft:warden_boss"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  },
+  "sends_telemetry_event": true
+}

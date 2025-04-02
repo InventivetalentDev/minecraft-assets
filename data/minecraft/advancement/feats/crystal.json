@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:feats/root",
+  "criteria": {
+    "has_crystal": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:amethyst_crystals"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.feats.crystal.description"
+    },
+    "hint": {
+      "translate": "advancements.feats.crystal.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:large_amethyst_bud"
+    },
+    "title": {
+      "translate": "advancements.feats.crystal.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_crystal"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

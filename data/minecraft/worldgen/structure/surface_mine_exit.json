@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:jigsaw",
+  "max_distance_from_center": 80,
+  "project_start_to_heightmap": "OCEAN_FLOOR_WG",
+  "project_start_to_surface": false,
+  "required_exit_type": "surface",
+  "size": 7,
+  "spawn_overrides": {},
+  "start_height": {
+    "absolute": 0
+  },
+  "start_pool": "minecraft:mine_exits/root",
+  "step": "surface_structures",
+  "use_expansion_hack": false
+}

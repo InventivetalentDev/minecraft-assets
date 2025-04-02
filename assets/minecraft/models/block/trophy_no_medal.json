@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/block_generated",
+  "textures": {
+    "layer0": "minecraft:block/trophy_no_medal"
+  }
+}

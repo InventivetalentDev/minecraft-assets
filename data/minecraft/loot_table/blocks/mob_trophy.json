@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "block": "minecraft:mob_trophy",
+              "function": "minecraft:copy_state",
+              "properties": [
+                "grade"
+              ]
+            },
+            {
+              "function": "minecraft:copy_components",
+              "include": [
+                "minecraft:mob_trophy/type"
+              ],
+              "source": "block_entity"
+            }
+          ],
+          "name": "minecraft:mob_trophy"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:blocks/mob_trophy"
+}

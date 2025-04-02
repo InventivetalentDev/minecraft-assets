@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:feats/return_to_sender",
+  "criteria": {
+    "completed_event": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "special_mine": "minecraft:angry_ghast_boss"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.feats.angry_ghast.description"
+    },
+    "frame": "challenge",
+    "hint": {
+      "translate": "advancements.feats.angry_ghast.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:ghast_tear"
+    },
+    "title": {
+      "translate": "advancements.feats.angry_ghast.title"
+    }
+  },
+  "requirements": [
+    [
+      "completed_event"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

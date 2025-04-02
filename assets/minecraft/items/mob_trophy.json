@@ -1,0 +1,23 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:block/mob_trophy",
+        "tints": [
+          {
+            "type": "minecraft:grade"
+          }
+        ]
+      },
+      {
+        "type": "minecraft:special",
+        "base": "minecraft:block/mob_trophy",
+        "model": {
+          "type": "minecraft:mob_trophy"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": "#minecraft:stone_tool_materials",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "#R#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:dropper"
+  }
+}

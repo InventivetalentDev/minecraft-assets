@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:feats/root",
+  "criteria": {
+    "special_mine_completed": {
+      "trigger": "minecraft:special_mine_completed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.special_mine_completed.description"
+    },
+    "hint": {
+      "translate": "advancements.adventure.special_mine_completed.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:mine"
+    },
+    "title": {
+      "translate": "advancements.adventure.special_mine_completed.title"
+    }
+  },
+  "requirements": [
+    [
+      "special_mine_completed"
+    ]
+  ],
+  "rewards": {
+    "experience": 10
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "entered_mine": {
+      "trigger": "minecraft:changed_dimension"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:gui/advancements/backgrounds/feats",
+    "description": {
+      "translate": "advancements.feats.root.description"
+    },
+    "hint": {
+      "translate": "advancements.feats.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:netherite_sword"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.feats.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "entered_mine"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

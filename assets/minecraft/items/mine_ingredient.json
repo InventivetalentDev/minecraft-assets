@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:level_ingredient"
+      },
+      {
+        "type": "minecraft:model",
+        "model": "minecraft:item/mine_ingredient"
+      }
+    ]
+  }
+}

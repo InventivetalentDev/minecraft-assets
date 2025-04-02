@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:unlocks/root",
+  "criteria": {
+    "player_unlock_bought": {
+      "trigger": "minecraft:player_unlock_bought"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.unlocks.player_unlock_bought.description"
+    },
+    "hint": {
+      "translate": "advancements.unlocks.player_unlock_bought.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:book"
+    },
+    "title": {
+      "translate": "advancements.unlocks.player_unlock_bought.title"
+    }
+  },
+  "requirements": [
+    [
+      "player_unlock_bought"
+    ]
+  ],
+  "rewards": {
+    "experience": 10
+  },
+  "sends_telemetry_event": true
+}

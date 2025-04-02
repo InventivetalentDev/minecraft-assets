@@ -1,0 +1,75 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "minecraft:trophy",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "type": "gold"
+              }
+            }
+          ],
+          "functions": [
+            {
+              "components": {
+                "minecraft:trophy/type": "gold"
+              },
+              "function": "minecraft:set_components"
+            }
+          ],
+          "name": "minecraft:trophy"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "minecraft:trophy",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "type": "mega_spud"
+              }
+            }
+          ],
+          "functions": [
+            {
+              "components": {
+                "minecraft:trophy/type": "mega_spud"
+              },
+              "function": "minecraft:set_components"
+            }
+          ],
+          "name": "minecraft:trophy"
+        },
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "minecraft:trophy",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "type": "no_medal"
+              }
+            }
+          ],
+          "functions": [
+            {
+              "components": {
+                "minecraft:trophy/type": "no_medal"
+              },
+              "function": "minecraft:set_components"
+            }
+          ],
+          "name": "minecraft:trophy"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:blocks/trophy"
+}

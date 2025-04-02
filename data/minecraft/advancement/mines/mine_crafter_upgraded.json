@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:mines/level_completed",
+  "criteria": {
+    "mine_crafter_upgraded": {
+      "trigger": "minecraft:mine_crafter_upgraded"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.mine_crafter_upgraded.description"
+    },
+    "hint": {
+      "translate": "advancements.adventure.mine_crafter_upgraded.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:experience_bottle"
+    },
+    "title": {
+      "translate": "advancements.adventure.mine_crafter_upgraded.title"
+    }
+  },
+  "requirements": [
+    [
+      "mine_crafter_upgraded"
+    ]
+  ],
+  "rewards": {
+    "experience": 10
+  },
+  "sends_telemetry_event": true
+}

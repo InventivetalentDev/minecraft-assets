@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:mines/enter_a_mine",
+  "criteria": {
+    "mine_ingredient": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:mine_ingredient"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.mine.get_mine_ingredient.description"
+    },
+    "hint": {
+      "translate": "advancements.mine.get_mine_ingredient.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:mine_ingredient"
+    },
+    "title": {
+      "translate": "advancements.mine.get_mine_ingredient.title"
+    }
+  },
+  "requirements": [
+    [
+      "mine_ingredient"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

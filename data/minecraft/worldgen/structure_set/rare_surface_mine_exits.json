@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 5657987,
+    "separation": 50,
+    "spacing": 80
+  },
+  "structures": [
+    {
+      "structure": "minecraft:rare_surface_mine_exit",
+      "weight": 1
+    }
+  ]
+}

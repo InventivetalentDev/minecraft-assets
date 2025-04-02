@@ -1,0 +1,11 @@
+{
+  "dimensions": {
+    "minecraft:overworld": {
+      "type": "minecraft:overworld",
+      "effects": [],
+      "generator": {
+        "type": "minecraft:hub"
+      }
+    }
+  }
+}

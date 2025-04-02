@@ -1,0 +1,674 @@
+{
+  "parent": "minecraft:unlocks/kaizen",
+  "criteria": {
+    "minecraft:alchemy": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:alchemy"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:allez_cuisine": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:allez_cuisine"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:bundle_of_fortune": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:bundle_of_fortune"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:crafting": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:crafting"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:crafting_efficiency": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:crafting_efficiency"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:dragon_fire": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:dragon_fire"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:efficient_enchanting": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:efficient_enchanting"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:enchanting": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:enchanting"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:fire_wand": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:fire_wand"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:inventory_crafting": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:inventory_crafting"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:inventory_crafting_3x3": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:inventory_crafting_3x3"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:inventory_slots_1": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:inventory_slots_1"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:inventory_slots_2": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:inventory_slots_2"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:inventory_slots_3": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:inventory_slots_3"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:magic_master_kit": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:magic_master_kit"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:magic_starter_kit": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:magic_starter_kit"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:mass_production": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:mass_production"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:mise_en_place": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:mise_en_place"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:runemaster": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:runemaster"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:smelt_value_1": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:smelt_value_1"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:smelt_value_2": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:smelt_value_2"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:smelter_1": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:smelter_1"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:smelter_2": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:smelter_2"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:starter_crafting": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:starter_crafting"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:teleportation_wand": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:teleportation_wand"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    },
+    "minecraft:wind_wand": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:wind_wand"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.unlocks.all_crafting.description"
+    },
+    "frame": "challenge",
+    "hint": {
+      "translate": "advancements.unlocks.all_crafting.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:crafting_table"
+    },
+    "title": {
+      "translate": "advancements.unlocks.all_crafting.title"
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:crafting"
+    ],
+    [
+      "minecraft:smelter_1"
+    ],
+    [
+      "minecraft:smelter_2"
+    ],
+    [
+      "minecraft:smelt_value_1"
+    ],
+    [
+      "minecraft:smelt_value_2"
+    ],
+    [
+      "minecraft:inventory_slots_1"
+    ],
+    [
+      "minecraft:inventory_slots_2"
+    ],
+    [
+      "minecraft:inventory_slots_3"
+    ],
+    [
+      "minecraft:bundle_of_fortune"
+    ],
+    [
+      "minecraft:inventory_crafting"
+    ],
+    [
+      "minecraft:inventory_crafting_3x3"
+    ],
+    [
+      "minecraft:crafting_efficiency"
+    ],
+    [
+      "minecraft:starter_crafting"
+    ],
+    [
+      "minecraft:enchanting"
+    ],
+    [
+      "minecraft:magic_starter_kit"
+    ],
+    [
+      "minecraft:magic_master_kit"
+    ],
+    [
+      "minecraft:runemaster"
+    ],
+    [
+      "minecraft:fire_wand"
+    ],
+    [
+      "minecraft:wind_wand"
+    ],
+    [
+      "minecraft:teleportation_wand"
+    ],
+    [
+      "minecraft:efficient_enchanting"
+    ],
+    [
+      "minecraft:alchemy"
+    ],
+    [
+      "minecraft:mise_en_place"
+    ],
+    [
+      "minecraft:allez_cuisine"
+    ],
+    [
+      "minecraft:mass_production"
+    ],
+    [
+      "minecraft:dragon_fire"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

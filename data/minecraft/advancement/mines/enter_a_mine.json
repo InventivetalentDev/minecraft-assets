@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "entered_a_mine": {
+      "trigger": "minecraft:changed_dimension"
+    }
+  },
+  "display": {
+    "background": "minecraft:gui/advancements/backgrounds/mines",
+    "description": {
+      "translate": "advancements.adventure.enter_a_mine.description"
+    },
+    "hint": {
+      "translate": "advancements.adventure.enter_a_mine.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:mine_crafter"
+    },
+    "title": {
+      "translate": "advancements.adventure.enter_a_mine.title"
+    }
+  },
+  "requirements": [
+    [
+      "entered_a_mine"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

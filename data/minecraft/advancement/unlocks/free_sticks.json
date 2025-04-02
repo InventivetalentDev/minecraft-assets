@@ -1,0 +1,51 @@
+{
+  "parent": "minecraft:unlocks/kaizen",
+  "criteria": {
+    "complete_level": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "minecraft:player",
+                "unlocks": {
+                  "locked": [],
+                  "unlocked": [
+                    "minecraft:fire_wand",
+                    "minecraft:wind_wand",
+                    "minecraft:teleportation_wand"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:level_completed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.unlocks.free_sticks.description"
+    },
+    "frame": "challenge",
+    "hint": {
+      "translate": "advancements.unlocks.free_sticks.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:fire_wand"
+    },
+    "title": {
+      "translate": "advancements.unlocks.free_sticks.title"
+    }
+  },
+  "requirements": [
+    [
+      "complete_level"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

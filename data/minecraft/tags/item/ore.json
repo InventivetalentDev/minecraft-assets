@@ -1,0 +1,12 @@
+{
+  "values": [
+    "#minecraft:gold_ores",
+    "#minecraft:iron_ores",
+    "#minecraft:diamond_ores",
+    "#minecraft:redstone_ores",
+    "#minecraft:lapis_ores",
+    "#minecraft:coal_ores",
+    "#minecraft:emerald_ores",
+    "#minecraft:copper_ores"
+  ]
+}

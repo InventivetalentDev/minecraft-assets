@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/template_mine_crafter",
+  "textures": {
+    "bottom": "minecraft:block/mine_crafter_bottom",
+    "inner_top": "minecraft:block/mine_crafter_inner_top",
+    "particle": "minecraft:block/mine_crafter_bottom",
+    "side": "minecraft:block/mine_crafter_side",
+    "top": "minecraft:block/mine_crafter_top"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "dimensions": {
+    "minecraft:overworld": {
+      "type": "minecraft:overworld",
+      "effects": [],
+      "generator": {
+        "type": "minecraft:flat",
+        "settings": {
+          "biome": "minecraft:hub",
+          "features": true,
+          "lakes": false,
+          "layers": [
+            {
+              "block": "minecraft:air",
+              "height": 1
+            }
+          ],
+          "structure_overrides": []
+        }
+      }
+    }
+  }
+}

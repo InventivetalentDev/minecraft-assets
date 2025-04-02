@@ -1,0 +1,47 @@
+{
+  "crowd_start" : {
+    "sounds" : [
+      "nothingtoseehere:villager_crowd/crowd_start"
+    ]
+  },
+  "crowd_cheer" : {
+    "sounds" : [
+      "nothingtoseehere:villager_crowd/crowd_cheer"
+    ]
+  },
+  "crowd_waiting" : {
+    "sounds" : [
+      "nothingtoseehere:villager_crowd/crowd_waiting"
+    ]
+  },
+  "and_action" : {
+    "sounds" : [
+      "nothingtoseehere:and_action/and_action"
+    ]
+  },
+  "ui.player_unlock_success": {
+    "sounds": [
+      {
+        "name": "block/respawn_anchor/charge1",
+        "pitch": 1.5
+      },
+      {
+        "name": "block/respawn_anchor/charge2",
+        "pitch": 1.5
+      },
+      {
+        "name": "block/respawn_anchor/charge3",
+        "pitch": 1.5
+      }
+    ]
+  },
+  "ui.player_unlock_fail": {
+    "sounds": [
+      "item/shield/block1",
+      "item/shield/block2",
+      "item/shield/block3",
+      "item/shield/block4",
+      "item/shield/block5"
+    ]
+  }
+}

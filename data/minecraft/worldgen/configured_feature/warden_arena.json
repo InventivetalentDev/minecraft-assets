@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:place_template",
+  "config": {
+    "forced_rotation": "none",
+    "template": [
+      "minecraft:mines/warden_arena"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:unlocks/kaizen",
+  "criteria": {
+    "player_unlock_unlocked": {
+      "trigger": "minecraft:player_unlock_unlocked"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.unlocks.player_unlock_unlocked.description"
+    },
+    "hint": {
+      "translate": "advancements.unlocks.player_unlock_unlocked.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:poisonous_potato"
+    },
+    "title": {
+      "translate": "advancements.unlocks.player_unlock_unlocked.title"
+    }
+  },
+  "requirements": [
+    [
+      "player_unlock_unlocked"
+    ]
+  ],
+  "rewards": {
+    "experience": 10
+  },
+  "sends_telemetry_event": true
+}

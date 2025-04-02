@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:feats/root",
+  "criteria": {
+    "has_skull": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:wither_skeleton_skull"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.feats.wither_skeleton_skull.description"
+    },
+    "hint": {
+      "translate": "advancements.feats.wither_skeleton_skull.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:wither_skeleton_skull"
+    },
+    "title": {
+      "translate": "advancements.feats.wither_skeleton_skull.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_skull"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,46 @@
+{
+  "parent": "minecraft:unlocks/kaizen",
+  "criteria": {
+    "complete_level": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "effects": [
+                  "minecraft:soul_link"
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:special_mine_completed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.unlocks.in_it_together.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "hint": {
+      "translate": "advancements.unlocks.in_it_together.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:lead"
+    },
+    "title": {
+      "translate": "advancements.unlocks.in_it_together.title"
+    }
+  },
+  "requirements": [
+    [
+      "complete_level"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
