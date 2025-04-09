@@ -1,0 +1,77 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "bottom": "block/sculk_shrieker_bottom",
+        "side": "block/sculk_shrieker_side",
+        "top": "block/sculk_shrieker_top",
+        "inner_top": "block/sculk_shrieker_inner_top",
+        "particle": "block/sculk_shrieker_bottom"
+    },
+    "elements": [
+        {
+            "name": "bottom_slab",
+            "from": [0, 0, 0],
+            "to": [16, 8, 16],
+            "faces": {
+                "north": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "north"},
+                "east": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "east"},
+                "south": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "south"},
+                "west": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "west"},
+                "up": {"uv": [0, 0, 16, 16], "texture": "#inner_top"},
+                "down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+            }
+        },
+        {
+            "name": "top_slab",
+            "from": [1, 8, 1],
+            "to": [15, 15, 15],
+            "faces": {
+                "north": {"uv": [1, 1, 15, 8], "texture": "#side"},
+                "east": {"uv": [1, 1, 15, 8], "texture": "#side"},
+                "south": {"uv": [1, 1, 15, 8], "texture": "#side"},
+                "west": {"uv": [1, 1, 15, 8], "texture": "#side"},
+                "up": {"uv": [1, 1, 15, 15], "texture": "#top"}
+            }
+        },
+        {
+            "name": "up",
+            "from": [1, 14.98, 1],
+            "to": [15, 14.98, 15],
+            "faces": {
+                "down": {"uv": [1, 1, 15, 15], "texture": "#top"}
+            }
+        },
+        {
+            "name": "south",
+            "from": [1, 8, 14.98],
+            "to": [15, 15, 14.98],
+            "faces": {
+                "north": {"uv": [1, 1, 15, 8], "texture": "#side"}
+            }
+        },
+        {
+            "name": "north",
+            "from": [1, 8, 1.02],
+            "to": [15, 15, 1.02],
+            "faces": {
+                "south": {"uv": [1, 1, 15, 8], "texture": "#side"}
+            }
+        },
+        {
+            "name": "east",
+            "from": [14.98, 8, 1],
+            "to": [14.98, 15, 15],
+            "faces": {
+                "west": {"uv": [1, 1, 15, 8], "texture": "#side"}
+            }
+        },
+        {
+            "name": "west",
+            "from": [1.02, 8, 1],
+            "to": [1.02, 15, 15],
+            "faces": {
+                "east": {"uv": [1, 1, 15, 8], "texture": "#side"}
+            }
+        }
+    ]
+}

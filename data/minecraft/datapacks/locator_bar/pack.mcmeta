@@ -1,0 +1,13 @@
+{
+  "features": {
+    "enabled": [
+      "minecraft:locator_bar"
+    ]
+  },
+  "pack": {
+    "description": {
+      "translate": "dataPack.locator_bar.description"
+    },
+    "pack_format": 72
+  }
+}

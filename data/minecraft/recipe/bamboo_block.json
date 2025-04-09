@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "minecraft:bamboo",
+    "minecraft:bamboo",
+    "minecraft:bamboo",
+    "minecraft:bamboo",
+    "minecraft:bamboo",
+    "minecraft:bamboo",
+    "minecraft:bamboo",
+    "minecraft:bamboo",
+    "minecraft:bamboo"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:bamboo_block"
+  }
+}
