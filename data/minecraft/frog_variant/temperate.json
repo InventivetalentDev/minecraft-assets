@@ -1,0 +1,8 @@
+{
+  "asset_id": "minecraft:entity/frog/temperate_frog",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}
