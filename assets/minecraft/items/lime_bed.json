@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "minecraft:item/lime_bed",
+    "model": {
+      "type": "minecraft:bed",
+      "texture": "minecraft:lime"
+    }
+  }
+}
