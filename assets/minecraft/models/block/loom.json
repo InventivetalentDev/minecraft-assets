@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "block/loom_front",
+        "down": "block/loom_bottom",
+        "up": "block/loom_top",
+        "north": "block/loom_side",
+        "east": "block/loom_side",
+        "south": "block/loom_front",
+        "west": "block/loom_side"
+    }
+}
