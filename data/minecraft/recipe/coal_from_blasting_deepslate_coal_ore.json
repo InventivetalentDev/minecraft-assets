@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "coal",
+  "ingredient": "minecraft:deepslate_coal_ore",
+  "result": {
+    "id": "minecraft:coal"
+  }
+}
