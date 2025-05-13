@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:dialog_list",
+  "button_width": 310,
+  "columns": 1,
+  "dialogs": "#minecraft:pause_screen_additions",
+  "external_title": {
+    "translate": "menu.custom_options"
+  },
+  "title": {
+    "translate": "menu.custom_options.title"
+  }
+}
