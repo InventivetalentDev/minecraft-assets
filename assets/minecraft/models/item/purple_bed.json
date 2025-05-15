@@ -1,0 +1,6 @@
+{
+    "parent": "item/template_bed",
+    "textures": {
+        "particle": "block/purple_wool"
+    }
+}
