@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "minecraft:mud",
+    "minecraft:mangrove_roots"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:muddy_mangrove_roots"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "minecraft:block/light_gray_stained_glass_pane_top",
+    "pane": "minecraft:block/light_gray_stained_glass"
+  }
+}
