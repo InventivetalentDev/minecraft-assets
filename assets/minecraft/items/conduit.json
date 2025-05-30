@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "minecraft:item/conduit",
+    "model": {
+      "type": "minecraft:conduit"
+    }
+  }
+}
