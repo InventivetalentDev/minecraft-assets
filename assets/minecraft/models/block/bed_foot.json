@@ -1,0 +1,26 @@
+{
+    "textures": {
+        "particle": "blocks/bed_feet_top",
+        "top": "blocks/bed_feet_top",
+        "bottom": "blocks/planks_oak",
+        "end": "blocks/bed_feet_end",
+        "side": "blocks/bed_feet_side"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 9, 16 ],
+            "faces": {
+                "up":    { "uv": [  0, 16, 16,  0 ], "texture": "#top", "rotation": 90 },
+                "north": { "uv": [  0,  7, 16, 16 ], "texture": "#end" },
+                "west":  { "uv": [  0,  7, 16, 16 ], "texture": "#side" },
+                "east":  { "uv": [ 16,  7,  0, 16 ], "texture": "#side" }
+            }
+        },
+        {   "from": [ 0, 3, 0 ],
+            "to": [ 16, 3, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom" }
+            }
+        }
+    ]
+}

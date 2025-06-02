@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_directional",
+    "textures": {
+        "particle": "blocks/chain_command_block_back",
+        "down": "blocks/chain_command_block_conditional",
+        "up": "blocks/chain_command_block_conditional",
+        "north": "blocks/chain_command_block_front",
+        "east": "blocks/chain_command_block_conditional",
+        "south": "blocks/chain_command_block_back",
+        "west": "blocks/chain_command_block_conditional"
+    }
+}

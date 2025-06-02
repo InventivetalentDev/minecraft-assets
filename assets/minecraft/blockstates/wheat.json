@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "wheat_stage0" },
+        "age=1": { "model": "wheat_stage1" },
+        "age=2": { "model": "wheat_stage2" },
+        "age=3": { "model": "wheat_stage3" },
+        "age=4": { "model": "wheat_stage4" },
+        "age=5": { "model": "wheat_stage5" },
+        "age=6": { "model": "wheat_stage6" },
+        "age=7": { "model": "wheat_stage7" }
+    }
+}
