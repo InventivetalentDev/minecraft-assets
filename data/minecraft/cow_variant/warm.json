@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:entity/cow/warm_cow",
+  "model": "warm",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#minecraft:spawns_warm_variant_farm_animals"
+      },
+      "priority": 1
+    }
+  ]
+}
