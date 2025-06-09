@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/footprint"
+    },
+    "display": {
+        "fixed": {
+            "scale":[ 0.5, 0.5, 0.5 ]
+        }
+    }
+}

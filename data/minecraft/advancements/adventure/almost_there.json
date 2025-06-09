@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:adventure/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:flint_and_steel",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "advancements.adventure.almost_there.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.almost_there.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "count": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "player": {
+          "player": {
+            "stats": [
+              {
+                "type": "minecraft:custom",
+                "stat": "minecraft:change_dimension",
+                "value": 1000000000
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "count"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "x": 180,
+      "model": "minecraft:block/end_rod"
+    },
+    "facing=east": {
+      "x": 90,
+      "model": "minecraft:block/end_rod",
+      "y": 90
+    },
+    "facing=north": {
+      "x": 90,
+      "model": "minecraft:block/end_rod"
+    },
+    "facing=south": {
+      "x": 90,
+      "model": "minecraft:block/end_rod",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "minecraft:block/end_rod"
+    },
+    "facing=west": {
+      "x": 90,
+      "model": "minecraft:block/end_rod",
+      "y": 270
+    }
+  }
+}

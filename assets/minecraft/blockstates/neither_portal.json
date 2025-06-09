@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/neither_portal_ns"
+    },
+    "axis=z": {
+      "model": "minecraft:block/neither_portal_ew"
+    }
+  }
+}

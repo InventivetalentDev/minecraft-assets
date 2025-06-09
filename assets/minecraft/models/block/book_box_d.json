@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_command_block",
+  "textures": {
+    "front": "minecraft:block/book_box_d",
+    "back": "minecraft:block/oak_planks",
+    "side": "minecraft:block/oak_planks"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "y": 90,
+      "x": 90,
+      "model": "minecraft:block/stripped_dark_oak_log_horizontal"
+    },
+    "axis=y": {
+      "model": "minecraft:block/stripped_dark_oak_log"
+    },
+    "axis=z": {
+      "x": 90,
+      "model": "minecraft:block/stripped_dark_oak_log_horizontal"
+    }
+  }
+}

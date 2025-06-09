@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:add_book_contents",
+              "provider": "orders"
+            }
+          ],
+          "name": "minecraft:written_book"
+        }
+      ]
+    }
+  ]
+}

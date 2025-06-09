@@ -1,0 +1,90 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/stone_brick_wall_post"
+      }
+    },
+    {
+      "when": {
+        "north": "low"
+      },
+      "apply": {
+        "uvlock": true,
+        "model": "minecraft:block/stone_brick_wall_side"
+      }
+    },
+    {
+      "when": {
+        "east": "low"
+      },
+      "apply": {
+        "uvlock": true,
+        "y": 90,
+        "model": "minecraft:block/stone_brick_wall_side"
+      }
+    },
+    {
+      "when": {
+        "south": "low"
+      },
+      "apply": {
+        "uvlock": true,
+        "y": 180,
+        "model": "minecraft:block/stone_brick_wall_side"
+      }
+    },
+    {
+      "when": {
+        "west": "low"
+      },
+      "apply": {
+        "uvlock": true,
+        "y": 270,
+        "model": "minecraft:block/stone_brick_wall_side"
+      }
+    },
+    {
+      "when": {
+        "north": "tall"
+      },
+      "apply": {
+        "uvlock": true,
+        "model": "minecraft:block/stone_brick_wall_side_tall"
+      }
+    },
+    {
+      "when": {
+        "east": "tall"
+      },
+      "apply": {
+        "uvlock": true,
+        "y": 90,
+        "model": "minecraft:block/stone_brick_wall_side_tall"
+      }
+    },
+    {
+      "when": {
+        "south": "tall"
+      },
+      "apply": {
+        "uvlock": true,
+        "y": 180,
+        "model": "minecraft:block/stone_brick_wall_side_tall"
+      }
+    },
+    {
+      "when": {
+        "west": "tall"
+      },
+      "apply": {
+        "uvlock": true,
+        "y": 270,
+        "model": "minecraft:block/stone_brick_wall_side_tall"
+      }
+    }
+  ]
+}

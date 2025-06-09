@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_command_block",
+  "textures": {
+    "front": "minecraft:block/ant_front",
+    "back": "minecraft:block/ant_back",
+    "side": "minecraft:block/ant_side"
+  }
+}
