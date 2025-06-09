@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:end_rod"
+    ]
+  },
+  "criteria": {
+    "has_chorus_fruit_popped": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:popped_chorus_fruit"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:end_rod"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_chorus_fruit_popped",
+      "has_the_recipe"
+    ]
+  ]
+}

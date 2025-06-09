@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:chiseled_polished_blackstone"
+    ]
+  },
+  "criteria": {
+    "has_polished_blackstone_slab": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:polished_blackstone_slab"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:chiseled_polished_blackstone"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_polished_blackstone_slab",
+      "has_the_recipe"
+    ]
+  ]
+}

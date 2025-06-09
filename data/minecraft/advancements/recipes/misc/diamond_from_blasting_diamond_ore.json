@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:diamond_from_blasting_diamond_ore"
+    ]
+  },
+  "criteria": {
+    "has_diamond_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:diamond_ore"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:diamond_from_blasting_diamond_ore"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_diamond_ore",
+      "has_the_recipe"
+    ]
+  ]
+}

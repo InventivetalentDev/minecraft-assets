@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=east,tilt=full": {
+      "y": 90,
+      "model": "minecraft:block/big_dripleaf_full_tilt"
+    },
+    "facing=east,tilt=none": {
+      "y": 90,
+      "model": "minecraft:block/big_dripleaf"
+    },
+    "facing=east,tilt=partial": {
+      "y": 90,
+      "model": "minecraft:block/big_dripleaf_partial_tilt"
+    },
+    "facing=east,tilt=unstable": {
+      "y": 90,
+      "model": "minecraft:block/big_dripleaf"
+    },
+    "facing=north,tilt=full": {
+      "model": "minecraft:block/big_dripleaf_full_tilt"
+    },
+    "facing=north,tilt=none": {
+      "model": "minecraft:block/big_dripleaf"
+    },
+    "facing=north,tilt=partial": {
+      "model": "minecraft:block/big_dripleaf_partial_tilt"
+    },
+    "facing=north,tilt=unstable": {
+      "model": "minecraft:block/big_dripleaf"
+    },
+    "facing=south,tilt=full": {
+      "y": 180,
+      "model": "minecraft:block/big_dripleaf_full_tilt"
+    },
+    "facing=south,tilt=none": {
+      "y": 180,
+      "model": "minecraft:block/big_dripleaf"
+    },
+    "facing=south,tilt=partial": {
+      "y": 180,
+      "model": "minecraft:block/big_dripleaf_partial_tilt"
+    },
+    "facing=south,tilt=unstable": {
+      "y": 180,
+      "model": "minecraft:block/big_dripleaf"
+    },
+    "facing=west,tilt=full": {
+      "y": 270,
+      "model": "minecraft:block/big_dripleaf_full_tilt"
+    },
+    "facing=west,tilt=none": {
+      "y": 270,
+      "model": "minecraft:block/big_dripleaf"
+    },
+    "facing=west,tilt=partial": {
+      "y": 270,
+      "model": "minecraft:block/big_dripleaf_partial_tilt"
+    },
+    "facing=west,tilt=unstable": {
+      "y": 270,
+      "model": "minecraft:block/big_dripleaf"
+    }
+  }
+}

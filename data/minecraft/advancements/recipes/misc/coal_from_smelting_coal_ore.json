@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:coal_from_smelting_coal_ore"
+    ]
+  },
+  "criteria": {
+    "has_coal_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:coal_ore"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:coal_from_smelting_coal_ore"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_coal_ore",
+      "has_the_recipe"
+    ]
+  ]
+}

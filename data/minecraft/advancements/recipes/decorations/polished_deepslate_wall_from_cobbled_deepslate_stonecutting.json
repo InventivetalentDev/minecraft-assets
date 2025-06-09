@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:polished_deepslate_wall_from_cobbled_deepslate_stonecutting"
+    ]
+  },
+  "criteria": {
+    "has_cobbled_deepslate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cobbled_deepslate"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:polished_deepslate_wall_from_cobbled_deepslate_stonecutting"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_cobbled_deepslate",
+      "has_the_recipe"
+    ]
+  ]
+}

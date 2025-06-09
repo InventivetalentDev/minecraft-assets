@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:lapis_lazuli_from_blasting_lapis_ore"
+    ]
+  },
+  "criteria": {
+    "has_lapis_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:lapis_ore"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:lapis_lazuli_from_blasting_lapis_ore"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_lapis_ore",
+      "has_the_recipe"
+    ]
+  ]
+}

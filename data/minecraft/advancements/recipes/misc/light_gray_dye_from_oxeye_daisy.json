@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:light_gray_dye_from_oxeye_daisy"
+    ]
+  },
+  "criteria": {
+    "has_oxeye_daisy": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:oxeye_daisy"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:light_gray_dye_from_oxeye_daisy"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_oxeye_daisy",
+      "has_the_recipe"
+    ]
+  ]
+}

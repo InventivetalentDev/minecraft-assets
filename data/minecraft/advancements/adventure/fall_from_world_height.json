@@ -1,0 +1,57 @@
+{
+  "parent": "minecraft:adventure/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:water_bucket"
+    },
+    "title": {
+      "translate": "advancements.adventure.fall_from_world_height.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.fall_from_world_height.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fall_from_world_height": {
+      "trigger": "minecraft:fall_from_height",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "predicate": {
+              "location": {
+                "position": {
+                  "y": {
+                    "max": -59.0
+                  }
+                }
+              }
+            },
+            "entity": "this"
+          }
+        ],
+        "start_position": {
+          "position": {
+            "y": {
+              "min": 319.0
+            }
+          }
+        },
+        "distance": {
+          "y": {
+            "min": 379.0
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "fall_from_world_height"
+    ]
+  ]
+}

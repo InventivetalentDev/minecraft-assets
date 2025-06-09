@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:iron_ingot_from_smelting_deepslate_iron_ore"
+    ]
+  },
+  "criteria": {
+    "has_deepslate_iron_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:deepslate_iron_ore"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:iron_ingot_from_smelting_deepslate_iron_ore"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_deepslate_iron_ore",
+      "has_the_recipe"
+    ]
+  ]
+}

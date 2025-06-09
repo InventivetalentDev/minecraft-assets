@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:creeper_banner_pattern"
+    ]
+  },
+  "criteria": {
+    "has_creeper_head": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:creeper_head"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:creeper_banner_pattern"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_creeper_head",
+      "has_the_recipe"
+    ]
+  ]
+}

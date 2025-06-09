@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cut_copper"
+    }
+  },
+  "result": {
+    "item": "minecraft:cut_copper_stairs",
+    "count": 4
+  }
+}
