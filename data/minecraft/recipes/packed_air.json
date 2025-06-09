@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:air_block"
+    },
+    {
+      "item": "minecraft:air_block"
+    },
+    {
+      "item": "minecraft:air_block"
+    },
+    {
+      "item": "minecraft:air_block"
+    },
+    {
+      "item": "minecraft:air_block"
+    },
+    {
+      "item": "minecraft:air_block"
+    },
+    {
+      "item": "minecraft:air_block"
+    },
+    {
+      "item": "minecraft:air_block"
+    },
+    {
+      "item": "minecraft:air_block"
+    }
+  ],
+  "result": {
+    "item": "minecraft:packed_air"
+  }
+}

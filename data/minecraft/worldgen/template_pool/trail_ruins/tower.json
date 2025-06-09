@@ -1,0 +1,32 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/tower/tower_1",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/tower/tower_2",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/tower/tower_3",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

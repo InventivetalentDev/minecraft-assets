@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crater",
+  "config": {
+    "depth": {
+      "type": "minecraft:uniform",
+      "value": {
+        "max_inclusive": 16,
+        "min_inclusive": 8
+      }
+    },
+    "radius": {
+      "type": "minecraft:uniform",
+      "value": {
+        "max_inclusive": 48,
+        "min_inclusive": 32
+      }
+    }
+  }
+}

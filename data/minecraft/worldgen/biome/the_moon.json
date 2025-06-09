@@ -1,0 +1,63 @@
+{
+  "carvers": {},
+  "creature_spawn_probability": 0.07,
+  "downfall": 0.5,
+  "effects": {
+    "fog_color": 10518688,
+    "foliage_color": 16777215,
+    "grass_color": 6908265,
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2.0,
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:white_ash"
+      },
+      "probability": 0.001
+    },
+    "sky_color": 0,
+    "water_color": 0,
+    "water_fog_color": 16777215
+  },
+  "features": [
+    [
+      "minecraft:crater_mega",
+      "minecraft:crater_large",
+      "minecraft:crater_small"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:lunar_base"
+    ]
+  ],
+  "has_precipitation": false,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [
+      {
+        "type": "minecraft:moon_cow",
+        "maxCount": 5,
+        "minCount": 1,
+        "weight": 8
+      }
+    ],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": -0.5
+}

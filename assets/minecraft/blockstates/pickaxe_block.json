@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "minecraft:block/pickaxe_block",
+      "x": 90
+    },
+    "facing=east": {
+      "model": "minecraft:block/pickaxe_block",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "minecraft:block/pickaxe_block"
+    },
+    "facing=south": {
+      "model": "minecraft:block/pickaxe_block",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "minecraft:block/pickaxe_block",
+      "x": 270
+    },
+    "facing=west": {
+      "model": "minecraft:block/pickaxe_block",
+      "y": 270
+    }
+  }
+}

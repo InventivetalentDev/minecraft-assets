@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "B": {
+      "item": "minecraft:bow"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "#H#",
+    "#R#",
+    "#B#"
+  ],
+  "result": {
+    "item": "minecraft:place_block"
+  },
+  "show_notification": true
+}

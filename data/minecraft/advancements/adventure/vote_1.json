@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "vote_1": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "player",
+                "stats": [
+                  {
+                    "type": "minecraft:custom",
+                    "stat": "minecraft:votes",
+                    "value": {
+                      "min": 1
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:voted"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.adventure.vote_1.description"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:firework_rocket"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.adventure.vote_1.title"
+    }
+  },
+  "requirements": [
+    [
+      "vote_1"
+    ]
+  ]
+}

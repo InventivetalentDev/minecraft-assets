@@ -1,0 +1,769 @@
+{
+  "variants": {
+    "slices=1": {
+      "model": "minecraft:block/cheese_1"
+    },
+    "slices=10": {
+      "model": "minecraft:block/cheese_1010"
+    },
+    "slices=100": {
+      "model": "minecraft:block/cheese_1100100"
+    },
+    "slices=101": {
+      "model": "minecraft:block/cheese_1100101"
+    },
+    "slices=102": {
+      "model": "minecraft:block/cheese_1100110"
+    },
+    "slices=103": {
+      "model": "minecraft:block/cheese_1100111"
+    },
+    "slices=104": {
+      "model": "minecraft:block/cheese_1101000"
+    },
+    "slices=105": {
+      "model": "minecraft:block/cheese_1101001"
+    },
+    "slices=106": {
+      "model": "minecraft:block/cheese_1101010"
+    },
+    "slices=107": {
+      "model": "minecraft:block/cheese_1101011"
+    },
+    "slices=108": {
+      "model": "minecraft:block/cheese_1101100"
+    },
+    "slices=109": {
+      "model": "minecraft:block/cheese_1101101"
+    },
+    "slices=11": {
+      "model": "minecraft:block/cheese_1011"
+    },
+    "slices=110": {
+      "model": "minecraft:block/cheese_1101110"
+    },
+    "slices=111": {
+      "model": "minecraft:block/cheese_1101111"
+    },
+    "slices=112": {
+      "model": "minecraft:block/cheese_1110000"
+    },
+    "slices=113": {
+      "model": "minecraft:block/cheese_1110001"
+    },
+    "slices=114": {
+      "model": "minecraft:block/cheese_1110010"
+    },
+    "slices=115": {
+      "model": "minecraft:block/cheese_1110011"
+    },
+    "slices=116": {
+      "model": "minecraft:block/cheese_1110100"
+    },
+    "slices=117": {
+      "model": "minecraft:block/cheese_1110101"
+    },
+    "slices=118": {
+      "model": "minecraft:block/cheese_1110110"
+    },
+    "slices=119": {
+      "model": "minecraft:block/cheese_1110111"
+    },
+    "slices=12": {
+      "model": "minecraft:block/cheese_1100"
+    },
+    "slices=120": {
+      "model": "minecraft:block/cheese_1111000"
+    },
+    "slices=121": {
+      "model": "minecraft:block/cheese_1111001"
+    },
+    "slices=122": {
+      "model": "minecraft:block/cheese_1111010"
+    },
+    "slices=123": {
+      "model": "minecraft:block/cheese_1111011"
+    },
+    "slices=124": {
+      "model": "minecraft:block/cheese_1111100"
+    },
+    "slices=125": {
+      "model": "minecraft:block/cheese_1111101"
+    },
+    "slices=126": {
+      "model": "minecraft:block/cheese_1111110"
+    },
+    "slices=127": {
+      "model": "minecraft:block/cheese_1111111"
+    },
+    "slices=128": {
+      "model": "minecraft:block/cheese_10000000"
+    },
+    "slices=129": {
+      "model": "minecraft:block/cheese_10000001"
+    },
+    "slices=13": {
+      "model": "minecraft:block/cheese_1101"
+    },
+    "slices=130": {
+      "model": "minecraft:block/cheese_10000010"
+    },
+    "slices=131": {
+      "model": "minecraft:block/cheese_10000011"
+    },
+    "slices=132": {
+      "model": "minecraft:block/cheese_10000100"
+    },
+    "slices=133": {
+      "model": "minecraft:block/cheese_10000101"
+    },
+    "slices=134": {
+      "model": "minecraft:block/cheese_10000110"
+    },
+    "slices=135": {
+      "model": "minecraft:block/cheese_10000111"
+    },
+    "slices=136": {
+      "model": "minecraft:block/cheese_10001000"
+    },
+    "slices=137": {
+      "model": "minecraft:block/cheese_10001001"
+    },
+    "slices=138": {
+      "model": "minecraft:block/cheese_10001010"
+    },
+    "slices=139": {
+      "model": "minecraft:block/cheese_10001011"
+    },
+    "slices=14": {
+      "model": "minecraft:block/cheese_1110"
+    },
+    "slices=140": {
+      "model": "minecraft:block/cheese_10001100"
+    },
+    "slices=141": {
+      "model": "minecraft:block/cheese_10001101"
+    },
+    "slices=142": {
+      "model": "minecraft:block/cheese_10001110"
+    },
+    "slices=143": {
+      "model": "minecraft:block/cheese_10001111"
+    },
+    "slices=144": {
+      "model": "minecraft:block/cheese_10010000"
+    },
+    "slices=145": {
+      "model": "minecraft:block/cheese_10010001"
+    },
+    "slices=146": {
+      "model": "minecraft:block/cheese_10010010"
+    },
+    "slices=147": {
+      "model": "minecraft:block/cheese_10010011"
+    },
+    "slices=148": {
+      "model": "minecraft:block/cheese_10010100"
+    },
+    "slices=149": {
+      "model": "minecraft:block/cheese_10010101"
+    },
+    "slices=15": {
+      "model": "minecraft:block/cheese_1111"
+    },
+    "slices=150": {
+      "model": "minecraft:block/cheese_10010110"
+    },
+    "slices=151": {
+      "model": "minecraft:block/cheese_10010111"
+    },
+    "slices=152": {
+      "model": "minecraft:block/cheese_10011000"
+    },
+    "slices=153": {
+      "model": "minecraft:block/cheese_10011001"
+    },
+    "slices=154": {
+      "model": "minecraft:block/cheese_10011010"
+    },
+    "slices=155": {
+      "model": "minecraft:block/cheese_10011011"
+    },
+    "slices=156": {
+      "model": "minecraft:block/cheese_10011100"
+    },
+    "slices=157": {
+      "model": "minecraft:block/cheese_10011101"
+    },
+    "slices=158": {
+      "model": "minecraft:block/cheese_10011110"
+    },
+    "slices=159": {
+      "model": "minecraft:block/cheese_10011111"
+    },
+    "slices=16": {
+      "model": "minecraft:block/cheese_10000"
+    },
+    "slices=160": {
+      "model": "minecraft:block/cheese_10100000"
+    },
+    "slices=161": {
+      "model": "minecraft:block/cheese_10100001"
+    },
+    "slices=162": {
+      "model": "minecraft:block/cheese_10100010"
+    },
+    "slices=163": {
+      "model": "minecraft:block/cheese_10100011"
+    },
+    "slices=164": {
+      "model": "minecraft:block/cheese_10100100"
+    },
+    "slices=165": {
+      "model": "minecraft:block/cheese_10100101"
+    },
+    "slices=166": {
+      "model": "minecraft:block/cheese_10100110"
+    },
+    "slices=167": {
+      "model": "minecraft:block/cheese_10100111"
+    },
+    "slices=168": {
+      "model": "minecraft:block/cheese_10101000"
+    },
+    "slices=169": {
+      "model": "minecraft:block/cheese_10101001"
+    },
+    "slices=17": {
+      "model": "minecraft:block/cheese_10001"
+    },
+    "slices=170": {
+      "model": "minecraft:block/cheese_10101010"
+    },
+    "slices=171": {
+      "model": "minecraft:block/cheese_10101011"
+    },
+    "slices=172": {
+      "model": "minecraft:block/cheese_10101100"
+    },
+    "slices=173": {
+      "model": "minecraft:block/cheese_10101101"
+    },
+    "slices=174": {
+      "model": "minecraft:block/cheese_10101110"
+    },
+    "slices=175": {
+      "model": "minecraft:block/cheese_10101111"
+    },
+    "slices=176": {
+      "model": "minecraft:block/cheese_10110000"
+    },
+    "slices=177": {
+      "model": "minecraft:block/cheese_10110001"
+    },
+    "slices=178": {
+      "model": "minecraft:block/cheese_10110010"
+    },
+    "slices=179": {
+      "model": "minecraft:block/cheese_10110011"
+    },
+    "slices=18": {
+      "model": "minecraft:block/cheese_10010"
+    },
+    "slices=180": {
+      "model": "minecraft:block/cheese_10110100"
+    },
+    "slices=181": {
+      "model": "minecraft:block/cheese_10110101"
+    },
+    "slices=182": {
+      "model": "minecraft:block/cheese_10110110"
+    },
+    "slices=183": {
+      "model": "minecraft:block/cheese_10110111"
+    },
+    "slices=184": {
+      "model": "minecraft:block/cheese_10111000"
+    },
+    "slices=185": {
+      "model": "minecraft:block/cheese_10111001"
+    },
+    "slices=186": {
+      "model": "minecraft:block/cheese_10111010"
+    },
+    "slices=187": {
+      "model": "minecraft:block/cheese_10111011"
+    },
+    "slices=188": {
+      "model": "minecraft:block/cheese_10111100"
+    },
+    "slices=189": {
+      "model": "minecraft:block/cheese_10111101"
+    },
+    "slices=19": {
+      "model": "minecraft:block/cheese_10011"
+    },
+    "slices=190": {
+      "model": "minecraft:block/cheese_10111110"
+    },
+    "slices=191": {
+      "model": "minecraft:block/cheese_10111111"
+    },
+    "slices=192": {
+      "model": "minecraft:block/cheese_11000000"
+    },
+    "slices=193": {
+      "model": "minecraft:block/cheese_11000001"
+    },
+    "slices=194": {
+      "model": "minecraft:block/cheese_11000010"
+    },
+    "slices=195": {
+      "model": "minecraft:block/cheese_11000011"
+    },
+    "slices=196": {
+      "model": "minecraft:block/cheese_11000100"
+    },
+    "slices=197": {
+      "model": "minecraft:block/cheese_11000101"
+    },
+    "slices=198": {
+      "model": "minecraft:block/cheese_11000110"
+    },
+    "slices=199": {
+      "model": "minecraft:block/cheese_11000111"
+    },
+    "slices=2": {
+      "model": "minecraft:block/cheese_10"
+    },
+    "slices=20": {
+      "model": "minecraft:block/cheese_10100"
+    },
+    "slices=200": {
+      "model": "minecraft:block/cheese_11001000"
+    },
+    "slices=201": {
+      "model": "minecraft:block/cheese_11001001"
+    },
+    "slices=202": {
+      "model": "minecraft:block/cheese_11001010"
+    },
+    "slices=203": {
+      "model": "minecraft:block/cheese_11001011"
+    },
+    "slices=204": {
+      "model": "minecraft:block/cheese_11001100"
+    },
+    "slices=205": {
+      "model": "minecraft:block/cheese_11001101"
+    },
+    "slices=206": {
+      "model": "minecraft:block/cheese_11001110"
+    },
+    "slices=207": {
+      "model": "minecraft:block/cheese_11001111"
+    },
+    "slices=208": {
+      "model": "minecraft:block/cheese_11010000"
+    },
+    "slices=209": {
+      "model": "minecraft:block/cheese_11010001"
+    },
+    "slices=21": {
+      "model": "minecraft:block/cheese_10101"
+    },
+    "slices=210": {
+      "model": "minecraft:block/cheese_11010010"
+    },
+    "slices=211": {
+      "model": "minecraft:block/cheese_11010011"
+    },
+    "slices=212": {
+      "model": "minecraft:block/cheese_11010100"
+    },
+    "slices=213": {
+      "model": "minecraft:block/cheese_11010101"
+    },
+    "slices=214": {
+      "model": "minecraft:block/cheese_11010110"
+    },
+    "slices=215": {
+      "model": "minecraft:block/cheese_11010111"
+    },
+    "slices=216": {
+      "model": "minecraft:block/cheese_11011000"
+    },
+    "slices=217": {
+      "model": "minecraft:block/cheese_11011001"
+    },
+    "slices=218": {
+      "model": "minecraft:block/cheese_11011010"
+    },
+    "slices=219": {
+      "model": "minecraft:block/cheese_11011011"
+    },
+    "slices=22": {
+      "model": "minecraft:block/cheese_10110"
+    },
+    "slices=220": {
+      "model": "minecraft:block/cheese_11011100"
+    },
+    "slices=221": {
+      "model": "minecraft:block/cheese_11011101"
+    },
+    "slices=222": {
+      "model": "minecraft:block/cheese_11011110"
+    },
+    "slices=223": {
+      "model": "minecraft:block/cheese_11011111"
+    },
+    "slices=224": {
+      "model": "minecraft:block/cheese_11100000"
+    },
+    "slices=225": {
+      "model": "minecraft:block/cheese_11100001"
+    },
+    "slices=226": {
+      "model": "minecraft:block/cheese_11100010"
+    },
+    "slices=227": {
+      "model": "minecraft:block/cheese_11100011"
+    },
+    "slices=228": {
+      "model": "minecraft:block/cheese_11100100"
+    },
+    "slices=229": {
+      "model": "minecraft:block/cheese_11100101"
+    },
+    "slices=23": {
+      "model": "minecraft:block/cheese_10111"
+    },
+    "slices=230": {
+      "model": "minecraft:block/cheese_11100110"
+    },
+    "slices=231": {
+      "model": "minecraft:block/cheese_11100111"
+    },
+    "slices=232": {
+      "model": "minecraft:block/cheese_11101000"
+    },
+    "slices=233": {
+      "model": "minecraft:block/cheese_11101001"
+    },
+    "slices=234": {
+      "model": "minecraft:block/cheese_11101010"
+    },
+    "slices=235": {
+      "model": "minecraft:block/cheese_11101011"
+    },
+    "slices=236": {
+      "model": "minecraft:block/cheese_11101100"
+    },
+    "slices=237": {
+      "model": "minecraft:block/cheese_11101101"
+    },
+    "slices=238": {
+      "model": "minecraft:block/cheese_11101110"
+    },
+    "slices=239": {
+      "model": "minecraft:block/cheese_11101111"
+    },
+    "slices=24": {
+      "model": "minecraft:block/cheese_11000"
+    },
+    "slices=240": {
+      "model": "minecraft:block/cheese_11110000"
+    },
+    "slices=241": {
+      "model": "minecraft:block/cheese_11110001"
+    },
+    "slices=242": {
+      "model": "minecraft:block/cheese_11110010"
+    },
+    "slices=243": {
+      "model": "minecraft:block/cheese_11110011"
+    },
+    "slices=244": {
+      "model": "minecraft:block/cheese_11110100"
+    },
+    "slices=245": {
+      "model": "minecraft:block/cheese_11110101"
+    },
+    "slices=246": {
+      "model": "minecraft:block/cheese_11110110"
+    },
+    "slices=247": {
+      "model": "minecraft:block/cheese_11110111"
+    },
+    "slices=248": {
+      "model": "minecraft:block/cheese_11111000"
+    },
+    "slices=249": {
+      "model": "minecraft:block/cheese_11111001"
+    },
+    "slices=25": {
+      "model": "minecraft:block/cheese_11001"
+    },
+    "slices=250": {
+      "model": "minecraft:block/cheese_11111010"
+    },
+    "slices=251": {
+      "model": "minecraft:block/cheese_11111011"
+    },
+    "slices=252": {
+      "model": "minecraft:block/cheese_11111100"
+    },
+    "slices=253": {
+      "model": "minecraft:block/cheese_11111101"
+    },
+    "slices=254": {
+      "model": "minecraft:block/cheese_11111110"
+    },
+    "slices=255": {
+      "model": "minecraft:block/cheese_11111111"
+    },
+    "slices=26": {
+      "model": "minecraft:block/cheese_11010"
+    },
+    "slices=27": {
+      "model": "minecraft:block/cheese_11011"
+    },
+    "slices=28": {
+      "model": "minecraft:block/cheese_11100"
+    },
+    "slices=29": {
+      "model": "minecraft:block/cheese_11101"
+    },
+    "slices=3": {
+      "model": "minecraft:block/cheese_11"
+    },
+    "slices=30": {
+      "model": "minecraft:block/cheese_11110"
+    },
+    "slices=31": {
+      "model": "minecraft:block/cheese_11111"
+    },
+    "slices=32": {
+      "model": "minecraft:block/cheese_100000"
+    },
+    "slices=33": {
+      "model": "minecraft:block/cheese_100001"
+    },
+    "slices=34": {
+      "model": "minecraft:block/cheese_100010"
+    },
+    "slices=35": {
+      "model": "minecraft:block/cheese_100011"
+    },
+    "slices=36": {
+      "model": "minecraft:block/cheese_100100"
+    },
+    "slices=37": {
+      "model": "minecraft:block/cheese_100101"
+    },
+    "slices=38": {
+      "model": "minecraft:block/cheese_100110"
+    },
+    "slices=39": {
+      "model": "minecraft:block/cheese_100111"
+    },
+    "slices=4": {
+      "model": "minecraft:block/cheese_100"
+    },
+    "slices=40": {
+      "model": "minecraft:block/cheese_101000"
+    },
+    "slices=41": {
+      "model": "minecraft:block/cheese_101001"
+    },
+    "slices=42": {
+      "model": "minecraft:block/cheese_101010"
+    },
+    "slices=43": {
+      "model": "minecraft:block/cheese_101011"
+    },
+    "slices=44": {
+      "model": "minecraft:block/cheese_101100"
+    },
+    "slices=45": {
+      "model": "minecraft:block/cheese_101101"
+    },
+    "slices=46": {
+      "model": "minecraft:block/cheese_101110"
+    },
+    "slices=47": {
+      "model": "minecraft:block/cheese_101111"
+    },
+    "slices=48": {
+      "model": "minecraft:block/cheese_110000"
+    },
+    "slices=49": {
+      "model": "minecraft:block/cheese_110001"
+    },
+    "slices=5": {
+      "model": "minecraft:block/cheese_101"
+    },
+    "slices=50": {
+      "model": "minecraft:block/cheese_110010"
+    },
+    "slices=51": {
+      "model": "minecraft:block/cheese_110011"
+    },
+    "slices=52": {
+      "model": "minecraft:block/cheese_110100"
+    },
+    "slices=53": {
+      "model": "minecraft:block/cheese_110101"
+    },
+    "slices=54": {
+      "model": "minecraft:block/cheese_110110"
+    },
+    "slices=55": {
+      "model": "minecraft:block/cheese_110111"
+    },
+    "slices=56": {
+      "model": "minecraft:block/cheese_111000"
+    },
+    "slices=57": {
+      "model": "minecraft:block/cheese_111001"
+    },
+    "slices=58": {
+      "model": "minecraft:block/cheese_111010"
+    },
+    "slices=59": {
+      "model": "minecraft:block/cheese_111011"
+    },
+    "slices=6": {
+      "model": "minecraft:block/cheese_110"
+    },
+    "slices=60": {
+      "model": "minecraft:block/cheese_111100"
+    },
+    "slices=61": {
+      "model": "minecraft:block/cheese_111101"
+    },
+    "slices=62": {
+      "model": "minecraft:block/cheese_111110"
+    },
+    "slices=63": {
+      "model": "minecraft:block/cheese_111111"
+    },
+    "slices=64": {
+      "model": "minecraft:block/cheese_1000000"
+    },
+    "slices=65": {
+      "model": "minecraft:block/cheese_1000001"
+    },
+    "slices=66": {
+      "model": "minecraft:block/cheese_1000010"
+    },
+    "slices=67": {
+      "model": "minecraft:block/cheese_1000011"
+    },
+    "slices=68": {
+      "model": "minecraft:block/cheese_1000100"
+    },
+    "slices=69": {
+      "model": "minecraft:block/cheese_1000101"
+    },
+    "slices=7": {
+      "model": "minecraft:block/cheese_111"
+    },
+    "slices=70": {
+      "model": "minecraft:block/cheese_1000110"
+    },
+    "slices=71": {
+      "model": "minecraft:block/cheese_1000111"
+    },
+    "slices=72": {
+      "model": "minecraft:block/cheese_1001000"
+    },
+    "slices=73": {
+      "model": "minecraft:block/cheese_1001001"
+    },
+    "slices=74": {
+      "model": "minecraft:block/cheese_1001010"
+    },
+    "slices=75": {
+      "model": "minecraft:block/cheese_1001011"
+    },
+    "slices=76": {
+      "model": "minecraft:block/cheese_1001100"
+    },
+    "slices=77": {
+      "model": "minecraft:block/cheese_1001101"
+    },
+    "slices=78": {
+      "model": "minecraft:block/cheese_1001110"
+    },
+    "slices=79": {
+      "model": "minecraft:block/cheese_1001111"
+    },
+    "slices=8": {
+      "model": "minecraft:block/cheese_1000"
+    },
+    "slices=80": {
+      "model": "minecraft:block/cheese_1010000"
+    },
+    "slices=81": {
+      "model": "minecraft:block/cheese_1010001"
+    },
+    "slices=82": {
+      "model": "minecraft:block/cheese_1010010"
+    },
+    "slices=83": {
+      "model": "minecraft:block/cheese_1010011"
+    },
+    "slices=84": {
+      "model": "minecraft:block/cheese_1010100"
+    },
+    "slices=85": {
+      "model": "minecraft:block/cheese_1010101"
+    },
+    "slices=86": {
+      "model": "minecraft:block/cheese_1010110"
+    },
+    "slices=87": {
+      "model": "minecraft:block/cheese_1010111"
+    },
+    "slices=88": {
+      "model": "minecraft:block/cheese_1011000"
+    },
+    "slices=89": {
+      "model": "minecraft:block/cheese_1011001"
+    },
+    "slices=9": {
+      "model": "minecraft:block/cheese_1001"
+    },
+    "slices=90": {
+      "model": "minecraft:block/cheese_1011010"
+    },
+    "slices=91": {
+      "model": "minecraft:block/cheese_1011011"
+    },
+    "slices=92": {
+      "model": "minecraft:block/cheese_1011100"
+    },
+    "slices=93": {
+      "model": "minecraft:block/cheese_1011101"
+    },
+    "slices=94": {
+      "model": "minecraft:block/cheese_1011110"
+    },
+    "slices=95": {
+      "model": "minecraft:block/cheese_1011111"
+    },
+    "slices=96": {
+      "model": "minecraft:block/cheese_1100000"
+    },
+    "slices=97": {
+      "model": "minecraft:block/cheese_1100001"
+    },
+    "slices=98": {
+      "model": "minecraft:block/cheese_1100010"
+    },
+    "slices=99": {
+      "model": "minecraft:block/cheese_1100011"
+    }
+  }
+}

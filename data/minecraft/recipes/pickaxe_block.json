@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "P": {
+      "tag": "minecraft:pickaxes"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "#P#",
+    "# #",
+    "#R#"
+  ],
+  "result": {
+    "item": "minecraft:pickaxe_block"
+  },
+  "show_notification": true
+}

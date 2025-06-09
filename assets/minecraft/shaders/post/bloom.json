@@ -1,0 +1,122 @@
+{
+    "targets": [
+        "bloom_1",
+        "bloom_2",
+        "highlights_1",
+        "highlights_2"
+    ],
+    "passes": [
+        {
+            "name": "brightness_threshold",
+            "intarget": "minecraft:main",
+            "outtarget": "bloom_1",
+            "uniforms": [
+                {
+                    "name": "ThresholdBrightness",
+                    "values": [ 0.75 ]
+                }
+            ]
+        },
+        {
+            "name": "brightness_threshold",
+            "intarget": "minecraft:main",
+            "outtarget": "highlights_1",
+            "uniforms": [
+                {
+                    "name": "ThresholdBrightness",
+                    "values": [ 0.9 ]
+                }
+            ]
+        },
+        {
+            "name": "blur",
+            "intarget": "bloom_1",
+            "outtarget": "bloom_2",
+            "uniforms": [
+                {
+                    "name": "BlurDir",
+                    "values": [ 1.0, 0.0 ]
+                },
+                {
+                    "name": "Radius",
+                    "values": [ 50.0 ]
+                }
+            ]
+        },
+        {
+            "name": "blur",
+            "intarget": "bloom_2",
+            "outtarget": "bloom_1",
+            "uniforms": [
+                {
+                    "name": "BlurDir",
+                    "values": [ 0.0, 1.0 ]
+                },
+                {
+                    "name": "Radius",
+                    "values": [ 50.0 ]
+                }
+            ]
+        },
+        {
+            "name": "blur",
+            "intarget": "highlights_1",
+            "outtarget": "highlights_2",
+            "uniforms": [
+                {
+                    "name": "BlurDir",
+                    "values": [ 1.0, 0.0 ]
+                },
+                {
+                    "name": "Radius",
+                    "values": [ 20.0 ]
+                }
+            ]
+        },
+        {
+            "name": "blur",
+            "intarget": "highlights_2",
+            "outtarget": "highlights_1",
+            "uniforms": [
+                {
+                    "name": "BlurDir",
+                    "values": [ 0.0, 1.0 ]
+                },
+                {
+                    "name": "Radius",
+                    "values": [ 20.0 ]
+                }
+            ]
+        },
+        {
+            "name": "merge_bloom",
+            "intarget": "minecraft:main",
+            "outtarget": "bloom_2",
+            "auxtargets": [
+                {
+                    "name": "BloomSampler",
+                    "id": "bloom_1"
+                },
+                {
+                    "name": "HighlightsSampler",
+                    "id": "highlights_1"
+                }
+            ],
+            "uniforms": [
+                {
+                    "name": "BloomFactor",
+                    "values": [ 0.5 ]
+                },
+                {
+                    "name": "HighlightsFactor",
+                    "values": [ 1.5 ]
+                }
+            ]
+        },
+        {
+            "name": "blit",
+            "intarget": "bloom_2",
+            "outtarget": "minecraft:main"
+        }
+    ]
+}

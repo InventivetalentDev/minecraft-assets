@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "falling=false": {
+      "model": "minecraft:block/copper_spleaves"
+    },
+    "falling=true": {
+      "model": "minecraft:block/copper_spleaves_broken"
+    }
+  }
+}

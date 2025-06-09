@@ -1,0 +1,95 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/group_entrance_three_1",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/group_entrance_two_1",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/group_entrance_two_2",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 3
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/large_room_1",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/large_room_2",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/large_room_3",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/one_room_1",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/one_room_2",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/one_room_3",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/one_room_4",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

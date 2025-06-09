@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "block": "minecraft:cheese",
+          "condition": "minecraft:block_state_property",
+          "properties": {
+            "slices": "255"
+          }
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cheese"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

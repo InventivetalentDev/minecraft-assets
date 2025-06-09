@@ -1,0 +1,68 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/group_room_one_1",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/group_room_one_2",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/group_room_two_1",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/group_room_two_2",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/group_room_two_3",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/group_room_two_4",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "minecraft:trail_ruins/buildings/group_room_two_5",
+        "processors": "minecraft:trail_ruins_suspicious_sand",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

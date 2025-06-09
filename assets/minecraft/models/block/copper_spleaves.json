@@ -1,0 +1,6 @@
+{
+  "parent": "block/spleaves",
+    "textures": {
+        "all": "block/copper_spleaves"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/filled_copper_sink"
+    }
+  }
+}

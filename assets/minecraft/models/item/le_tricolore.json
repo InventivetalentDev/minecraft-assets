@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/le_tricolore"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [ 0, 180, 0 ],
+      "translation": [ 0, 3, 1 ],
+      "scale": [ 0.55, 0.55, 0.55 ]
+    }
+  }
+}

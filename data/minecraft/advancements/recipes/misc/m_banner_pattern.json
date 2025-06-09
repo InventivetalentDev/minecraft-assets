@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:m_banner_pattern"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "is_sus": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:suspicious_sand"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "is_sus",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:m_banner_pattern"
+    ]
+  }
+}

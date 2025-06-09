@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "can_x_flip": false,
+  "category": "redstone",
+  "key": {
+    "x": {
+      "item": "minecraft:bit"
+    }
+  },
+  "pattern": [
+    "x ",
+    " x",
+    "x "
+  ],
+  "result": {
+    "item": "minecraft:right_curly"
+  },
+  "show_notification": true
+}

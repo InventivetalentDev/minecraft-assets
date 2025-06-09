@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/template_copper_sink_full",
+  "textures": {
+    "bottom": "minecraft:block/copper_sink_bottom",
+    "content": "minecraft:block/water_still",
+    "inside": "minecraft:block/copper_sink_inner",
+    "particle": "minecraft:block/copper_sink_side",
+    "side": "minecraft:block/copper_sink_side",
+    "top": "minecraft:block/copper_sink_top"
+  }
+}
