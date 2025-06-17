@@ -1,0 +1,8 @@
+{
+  "asset_id": "minecraft:entity/cow/temperate_cow",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}
