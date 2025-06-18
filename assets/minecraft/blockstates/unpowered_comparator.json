@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=south,mode=compare,powered=false": { "model": "comparator_unlit" },
+        "facing=west,mode=compare,powered=false": { "model": "comparator_unlit", "y": 90 },
+        "facing=north,mode=compare,powered=false": { "model": "comparator_unlit", "y": 180 },
+        "facing=east,mode=compare,powered=false": { "model": "comparator_unlit", "y": 270 },
+        "facing=south,mode=subtract,powered=false": { "model": "comparator_unlit_subtract" },
+        "facing=west,mode=subtract,powered=false": { "model": "comparator_unlit_subtract", "y": 90 },
+        "facing=north,mode=subtract,powered=false": { "model": "comparator_unlit_subtract", "y": 180 },
+        "facing=east,mode=subtract,powered=false": { "model": "comparator_unlit_subtract", "y": 270 },
+        "facing=south,mode=compare,powered=true": { "model": "comparator_lit" },
+        "facing=west,mode=compare,powered=true": { "model": "comparator_lit", "y": 90 },
+        "facing=north,mode=compare,powered=true": { "model": "comparator_lit", "y": 180 },
+        "facing=east,mode=compare,powered=true": { "model": "comparator_lit", "y": 270 },
+        "facing=south,mode=subtract,powered=true": { "model": "comparator_lit_subtract" },
+        "facing=west,mode=subtract,powered=true": { "model": "comparator_lit_subtract", "y": 90 },
+        "facing=north,mode=subtract,powered=true": { "model": "comparator_lit_subtract", "y": 180 },
+        "facing=east,mode=subtract,powered=true": { "model": "comparator_lit_subtract", "y": 270 }
+    }
+}

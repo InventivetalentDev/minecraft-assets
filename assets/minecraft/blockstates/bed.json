@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,part=foot": { "model": "bed_foot", "y": 180 },
+        "facing=east,part=foot":  { "model": "bed_foot", "y": 270 },
+        "facing=south,part=foot": { "model": "bed_foot" },
+        "facing=west,part=foot":  { "model": "bed_foot", "y": 90 },
+        "facing=north,part=head": { "model": "bed_head", "y": 180 },
+        "facing=east,part=head":  { "model": "bed_head", "y": 270 },
+        "facing=south,part=head": { "model": "bed_head" },
+        "facing=west,part=head":  { "model": "bed_head", "y": 90 }
+    }
+}
