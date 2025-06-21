@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "spruce_log" },
+        "axis=z":   { "model": "spruce_log", "x": 90 },
+        "axis=x":   { "model": "spruce_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "spruce_bark" }
+    }
+}

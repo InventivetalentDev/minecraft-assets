@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=lower": { "model": "double_rose_bottom" },
+        "half=upper":    { "model": "double_rose_top" }
+    }
+}
