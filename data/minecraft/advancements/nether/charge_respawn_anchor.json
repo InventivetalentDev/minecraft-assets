@@ -1,0 +1,54 @@
+{
+  "parent": "minecraft:nether/obtain_crying_obsidian",
+  "criteria": {
+    "charge_respawn_anchor": {
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": [
+                  "minecraft:respawn_anchor"
+                ],
+                "state": {
+                  "charges": "4"
+                }
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": [
+                "minecraft:glowstone"
+              ]
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:item_used_on_block"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.nether.charge_respawn_anchor.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:respawn_anchor"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.nether.charge_respawn_anchor.title"
+    }
+  },
+  "requirements": [
+    [
+      "charge_respawn_anchor"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

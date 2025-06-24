@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "avoid_vibration": {
+      "conditions": {},
+      "trigger": "minecraft:avoid_vibration"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.adventure.avoid_vibration.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.adventure.avoid_vibration.title"
+    }
+  },
+  "requirements": [
+    [
+      "avoid_vibration"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

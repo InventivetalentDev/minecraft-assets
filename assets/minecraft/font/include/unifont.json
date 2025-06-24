@@ -1,0 +1,61 @@
+{
+    "providers": [
+        {
+            "type": "unihex",
+            "hex_file": "minecraft:font/unifont.zip",
+            "size_overrides": [
+                {
+                    "__ranges": [
+                        "CJK Symbols and Punctuation",
+                        "Hiragana",
+                        "Katakana"
+                    ],
+                    "from": "\u3001",
+                    "to": "\u30FF",
+                    "left": 0,
+                    "right": 15
+                },
+                {
+                    "__ranges": [
+                        "Enclosed CJK Letters and Months",
+                        "CJK Compatibility",
+                        "CJK Unified Ideographs Extension A",
+                        "Yijing Hexagram Symbols",
+                        "CJK Unified Ideographs"
+                    ],
+                    "from": "\u3200",
+                    "to": "\u9FFF",
+                    "left": 0,
+                    "right": 15
+                },
+                {
+                    "__ranges": [
+                        "Hangul Syllables"
+                    ],
+                    "from": "\uAC00",
+                    "to": "\uD7AF",
+                    "left": 0,
+                    "right": 14
+                },
+                {
+                    "__ranges": [
+                        "CJK Compatibility Ideographs"
+                    ],
+                    "from": "\uF900",
+                    "to": "\uFAFF",
+                    "left": 0,
+                    "right": 15
+                },
+                {
+                    "__ranges": [
+                        "Halfwidth and Fullwidth Forms"
+                    ],
+                    "from": "\uFF01",
+                    "to": "\uFF5E",
+                    "left": 0,
+                    "right": 15
+                }
+            ]
+        }
+    ]
+}
