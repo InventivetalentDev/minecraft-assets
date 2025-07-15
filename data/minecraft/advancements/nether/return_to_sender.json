@@ -1,0 +1,34 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:fire_charge"
+        },
+        "title": {
+            "translate": "advancements.nether.return_to_sender.title"
+        },
+        "description": {
+            "translate": "advancements.nether.return_to_sender.description"
+        },
+        "frame": "challenge"
+    },
+    "parent": "minecraft:nether/root",
+    "rewards": {
+        "experience": 50
+    },
+    "criteria": {
+        "killed_ghast": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:ghast"
+                },
+                "killing_blow": {
+                    "is_projectile": true,
+                    "direct_entity": {
+                        "type": "minecraft:fireball"
+                    }
+                }
+            }
+        }
+    }
+}

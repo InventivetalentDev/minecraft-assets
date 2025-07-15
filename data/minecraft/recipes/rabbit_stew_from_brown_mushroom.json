@@ -1,0 +1,29 @@
+{
+  "type": "crafting_shaped",
+  "group": "rabbit_stew",
+  "pattern": [
+    " R ",
+    "CPM",
+    " B "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:baked_potato"
+    },
+    "R": {
+      "item": "minecraft:cooked_rabbit"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "C": {
+      "item": "minecraft:carrot"
+    },
+    "M": {
+      "item": "minecraft:brown_mushroom"
+    }
+  },
+  "result": {
+    "item": "minecraft:rabbit_stew"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:magenta_dye_from_lapis_ink_bonemeal"
+    ]
+  },
+  "criteria": {
+    "has_lapis": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:lapis_lazuli"
+          }
+        ]
+      }
+    },
+    "has_bonemeal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:bone_meal"
+          }
+        ]
+      }
+    },
+    "has_black_dye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:ink_sac"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:magenta_dye_from_lapis_ink_bonemeal"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_lapis",
+      "has_bonemeal",
+      "has_black_dye",
+      "has_the_recipe"
+    ]
+  ]
+}

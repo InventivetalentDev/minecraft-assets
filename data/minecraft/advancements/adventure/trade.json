@@ -1,0 +1,19 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:emerald"
+        },
+        "title": {
+            "translate": "advancements.adventure.trade.title"
+        },
+        "description": {
+            "translate": "advancements.adventure.trade.description"
+        }
+    },
+    "parent": "adventure/root",
+    "criteria": {
+        "traded": {
+            "trigger": "minecraft:villager_trade"
+        }
+    }
+}

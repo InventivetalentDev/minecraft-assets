@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:wooden_pickaxe"
+        },
+        "title": {
+            "translate": "advancements.story.mine_stone.title"
+        },
+        "description": {
+            "translate": "advancements.story.mine_stone.description"
+        }
+    },
+    "parent": "minecraft:story/root",
+    "criteria": {
+        "get_stone": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:cobblestone"
+                    }
+                ]
+            }
+        }
+    }
+}

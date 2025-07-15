@@ -1,0 +1,100 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:golden_carrot"
+        },
+        "title": {
+            "translate": "advancements.husbandry.breed_all_animals.title"
+        },
+        "description": {
+            "translate": "advancements.husbandry.breed_all_animals.description"
+        },
+        "frame": "challenge"
+    },
+    "parent": "husbandry/breed_an_animal",
+    "rewards": {
+        "experience": 100
+    },
+    "criteria": {
+        "bred_horse": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "horse"
+                }
+            }
+        },
+        "bred_sheep": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "sheep"
+                }
+            }
+        },
+        "bred_cow": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "cow"
+                }
+            }
+        },
+        "bred_mooshroom": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "mooshroom"
+                }
+            }
+        },
+        "bred_pig": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "pig"
+                }
+            }
+        },
+        "bred_chicken": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "chicken"
+                }
+            }
+        },
+        "bred_wolf": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "wolf"
+                }
+            }
+        },
+        "bred_ocelot": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "ocelot"
+                }
+            }
+        },
+        "bred_rabbit": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "rabbit"
+                }
+            }
+        },
+        "bred_llama": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "llama"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "shape=north_south": { "model": "rail" },
+        "shape=east_west": { "model": "rail", "y": 90 },
+        "shape=ascending_east": { "model": "rail_raised_ne", "y": 90 },
+        "shape=ascending_west": { "model": "rail_raised_sw", "y": 90 },
+        "shape=ascending_north": { "model": "rail_raised_ne" },
+        "shape=ascending_south": { "model": "rail_raised_sw" },
+        "shape=south_east": { "model": "rail_corner" },
+        "shape=south_west": { "model": "rail_corner", "y": 90 },
+        "shape=north_west": { "model": "rail_corner", "y": 180 },
+        "shape=north_east": { "model": "rail_corner", "y": 270 }
+    }
+}

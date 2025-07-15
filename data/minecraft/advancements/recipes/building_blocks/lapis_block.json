@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "minecraft:lapis_block"
+    ]
+  },
+  "criteria": {
+    "has_at_least_9_lapis": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:lapis_lazuli",
+            "count": {
+              "min": 9.0
+            }
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minecraft:lapis_block"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_at_least_9_lapis",
+      "has_the_recipe"
+    ]
+  ]
+}

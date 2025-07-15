@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:map"
+        },
+        "title": {
+            "translate": "advancements.nether.fast_travel.title"
+        },
+        "description": {
+            "translate": "advancements.nether.fast_travel.description"
+        },
+        "frame": "challenge"
+    },
+    "parent": "minecraft:nether/root",
+    "rewards": {
+        "experience": 100
+    },
+    "criteria": {
+        "travelled": {
+            "trigger": "minecraft:nether_travel",
+            "conditions": {
+                "distance": {
+                    "horizontal": {
+                        "min": 7000
+                    }
+                }
+            }
+        }
+    }
+}
