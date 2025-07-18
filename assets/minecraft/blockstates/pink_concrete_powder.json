@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "pink_concrete_powder" },
+            { "model": "pink_concrete_powder", "y": 90 },
+            { "model": "pink_concrete_powder", "y": 180 },
+            { "model": "pink_concrete_powder", "y": 270 }
+        ]
+    }
+}

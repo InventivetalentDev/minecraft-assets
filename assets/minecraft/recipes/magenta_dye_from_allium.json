@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shapeless",
+  "group": "magenta_dye",
+  "ingredients": [
+    {
+      "item": "minecraft:red_flower",
+      "data": 2
+    }
+  ],
+  "result": {
+    "item": "minecraft:dye",
+    "data": 13
+  }
+}

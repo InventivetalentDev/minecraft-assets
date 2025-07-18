@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:snow"
+    }
+  },
+  "result": {
+    "item": "minecraft:snow_layer",
+    "count": 6
+  }
+}

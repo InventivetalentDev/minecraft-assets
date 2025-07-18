@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:flint_and_steel"
+        },
+        "title": {
+            "translate": "advancements.story.enter_the_nether.title"
+        },
+        "description": {
+            "translate": "advancements.story.enter_the_nether.description"
+        }
+    },
+    "parent": "minecraft:story/form_obsidian",
+    "criteria": {
+        "entered_nether": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "the_nether"
+            }
+        }
+    }
+}

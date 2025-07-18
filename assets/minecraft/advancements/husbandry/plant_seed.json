@@ -1,0 +1,55 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:wheat"
+        },
+        "title": {
+            "translate": "advancements.husbandry.plant_seed.title"
+        },
+        "description": {
+            "translate": "advancements.husbandry.plant_seed.description"
+        }
+    },
+    "parent": "husbandry/root",
+    "criteria": {
+        "wheat": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:wheat"
+            }
+        },
+        "pumpkin_stem": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:pumpkin_stem"
+            }
+        },
+        "melon_stem": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:melon_stem"
+            }
+        },
+        "beetroots": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:beetroots"
+            }
+        },
+        "nether_wart": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:nether_wart"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "wheat",
+            "pumpkin_stem",
+            "melon_stem",
+            "beetroots",
+            "nether_wart"
+        ]
+    ]
+}

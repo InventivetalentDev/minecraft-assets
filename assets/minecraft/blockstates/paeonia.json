@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=lower": { "model": "double_paeonia_bottom" },
+        "half=upper":    { "model": "double_paeonia_top" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "silver_glazed_terracotta" },
+        "facing=west": { "model": "silver_glazed_terracotta", "y": 90 },
+        "facing=north": { "model": "silver_glazed_terracotta", "y": 180 },
+        "facing=east": { "model": "silver_glazed_terracotta", "y": 270 }
+    }
+}

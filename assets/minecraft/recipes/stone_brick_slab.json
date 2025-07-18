@@ -1,0 +1,31 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": [
+      {
+        "item": "minecraft:stonebrick",
+        "data": 0
+      },
+      {
+        "item": "minecraft:stonebrick",
+        "data": 1
+      },
+      {
+        "item": "minecraft:stonebrick",
+        "data": 2
+      },
+      {
+        "item": "minecraft:stonebrick",
+        "data": 3
+      }
+    ]
+  },
+  "result": {
+    "item": "minecraft:stone_slab",
+    "data": 5,
+    "count": 6
+  }
+}

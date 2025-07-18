@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "M"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:melon"
+    }
+  },
+  "result": {
+    "item": "minecraft:melon_seeds"
+  }
+}

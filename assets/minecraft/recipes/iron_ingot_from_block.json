@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "iron_ingot",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_ingot",
+    "count": 9
+  }
+}

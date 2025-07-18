@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:pumpkin"
+        },
+        "title": {
+            "translate": "advancements.adventure.summon_iron_golem.title"
+        },
+        "description": {
+            "translate": "advancements.adventure.summon_iron_golem.description"
+        },
+        "frame": "goal"
+    },
+    "parent": "adventure/trade",
+    "criteria": {
+        "summoned_golem": {
+            "trigger": "minecraft:summoned_entity",
+            "conditions": {
+                "entity": {
+                    "type": "minecraft:villager_golem"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:nether_brick"
+        },
+        "title": {
+            "translate": "advancements.nether.find_fortress.title"
+        },
+        "description": {
+            "translate": "advancements.nether.find_fortress.description"
+        }
+    },
+    "parent": "minecraft:nether/root",
+    "criteria": {
+        "fortress": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "Fortress"
+            }
+        }
+    }
+}

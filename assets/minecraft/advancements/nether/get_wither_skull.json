@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:skull",
+            "data": 1
+        },
+        "title": {
+            "translate": "advancements.nether.get_wither_skull.title"
+        },
+        "description": {
+            "translate": "advancements.nether.get_wither_skull.description"
+        }
+    },
+    "parent": "minecraft:nether/find_fortress",
+    "criteria": {
+        "wither_skull": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:skull",
+                        "data": 1
+                    }
+                ]
+            }
+        }
+    }
+}

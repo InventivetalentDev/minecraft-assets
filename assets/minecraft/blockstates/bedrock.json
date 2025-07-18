@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "bedrock" },
+            { "model": "bedrock_mirrored" },
+            { "model": "bedrock", "y": 180 },
+            { "model": "bedrock_mirrored", "y": 180 }
+        ]
+    }
+}

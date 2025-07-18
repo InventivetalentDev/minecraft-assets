@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "group": "magenta_dye",
+  "ingredients": [
+    {
+      "item": "minecraft:double_plant",
+      "data": 1
+    }
+  ],
+  "result": {
+    "item": "minecraft:dye",
+    "data": 13,
+    "count": 2
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "planks",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:log",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "minecraft:planks",
+    "data": 0,
+    "count": 4
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "GGG",
+    "QQQ",
+    "WWW"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "W": [
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 0
+      },
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 1
+      },
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 2
+      },
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 3
+      },
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 4
+      },
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 5
+      }
+    ]
+  },
+  "result": {
+    "item": "minecraft:daylight_detector"
+  }
+}
