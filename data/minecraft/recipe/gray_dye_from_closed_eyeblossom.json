@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "gray_dye",
+  "ingredients": [
+    "minecraft:closed_eyeblossom"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:gray_dye"
+  }
+}
