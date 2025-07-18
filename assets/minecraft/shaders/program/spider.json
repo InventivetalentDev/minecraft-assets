@@ -1,0 +1,25 @@
+{
+    "blend": {
+        "func": "add",
+        "srcrgb": "one",
+        "dstrgb": "zero"
+    },
+    "vertex": "rotscale",
+    "fragment": "spiderclip",
+    "attributes": [ "Position" ],
+    "samplers": [
+        { "name": "DiffuseSampler" },
+        { "name": "BlurSampler" }
+    ],
+    "uniforms": [
+        { "name": "ProjMat",    "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+        { "name": "InSize",     "type": "float",     "count": 2,  "values": [ 1.0, 1.0 ] },
+        { "name": "InScale",    "type": "float",     "count": 2,  "values": [ 1.0, 1.0 ] },
+        { "name": "InOffset",   "type": "float",     "count": 2,  "values": [ 0.0, 0.0 ] },
+        { "name": "InRotation", "type": "float",     "count": 1,  "values": [ 0.0 ] },
+        { "name": "Time",       "type": "float",     "count": 1,  "values": [ 0.0 ] },
+        { "name": "Scissor",    "type": "float",     "count": 4,  "values": [ 0.0, 0.0, 1.0, 1.0 ] },
+        { "name": "Vignette",   "type": "float",     "count": 4,  "values": [ 0.0, 0.0, 1.0, 1.0 ] },
+        { "name": "OutSize",    "type": "float",     "count": 2,  "values": [ 1.0, 1.0 ] }
+    ]
+}

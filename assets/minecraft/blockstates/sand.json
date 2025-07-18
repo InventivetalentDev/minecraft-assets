@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "sand" },
+            { "model": "sand", "y": 90 },
+            { "model": "sand", "y": 180 },
+            { "model": "sand", "y": 270 }
+        ]
+    }
+}
