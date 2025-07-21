@@ -1,0 +1,6 @@
+{
+    "parent": "block/torch",
+    "textures": {
+        "torch": "blocks/redstone_torch_on"
+    }
+}

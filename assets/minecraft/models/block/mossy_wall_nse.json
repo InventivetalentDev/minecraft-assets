@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_nse",
+    "textures": {
+        "wall": "blocks/cobblestone_mossy"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_se",
+    "textures": {
+        "edge": "blocks/glass_pane_top_cyan",
+        "pane": "blocks/glass_cyan"
+    }
+}

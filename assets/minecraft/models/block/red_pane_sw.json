@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_sw",
+    "textures": {
+        "edge": "blocks/glass_pane_top_red",
+        "pane": "blocks/glass_red"
+    }
+}

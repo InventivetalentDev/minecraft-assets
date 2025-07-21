@@ -1,0 +1,6 @@
+{
+    "parent": "block/stem_growth6",
+    "textures": {
+        "stem": "blocks/pumpkin_stem_disconnected"
+    }
+}
