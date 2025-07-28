@@ -1,0 +1,28 @@
+{
+    "variants": {
+        "facing=down,short=false,type=normal": { "model": "piston_head_normal", "x": 90 },
+        "facing=up,short=false,type=normal": { "model": "piston_head_normal", "x": 270 },
+        "facing=north,short=false,type=normal": { "model": "piston_head_normal" },
+        "facing=south,short=false,type=normal": { "model": "piston_head_normal", "y": 180 },
+        "facing=west,short=false,type=normal": { "model": "piston_head_normal", "y": 270 },
+        "facing=east,short=false,type=normal": { "model": "piston_head_normal", "y": 90 },
+        "facing=down,short=false,type=sticky": { "model": "piston_head_sticky", "x": 90 },
+        "facing=up,short=false,type=sticky": { "model": "piston_head_sticky", "x": 270 },
+        "facing=north,short=false,type=sticky": { "model": "piston_head_sticky" },
+        "facing=south,short=false,type=sticky": { "model": "piston_head_sticky", "y": 180 },
+        "facing=west,short=false,type=sticky": { "model": "piston_head_sticky", "y": 270 },
+        "facing=east,short=false,type=sticky": { "model": "piston_head_sticky", "y": 90 },
+        "facing=down,short=true,type=normal": { "model": "piston_head_short_normal", "x": 90 },
+        "facing=up,short=true,type=normal": { "model": "piston_head_short_normal", "x": 270 },
+        "facing=north,short=true,type=normal": { "model": "piston_head_short_normal" },
+        "facing=south,short=true,type=normal": { "model": "piston_head_short_normal", "y": 180 },
+        "facing=west,short=true,type=normal": { "model": "piston_head_short_normal", "y": 270 },
+        "facing=east,short=true,type=normal": { "model": "piston_head_short_normal", "y": 90 },
+        "facing=down,short=true,type=sticky": { "model": "piston_head_short_sticky", "x": 90 },
+        "facing=up,short=true,type=sticky": { "model": "piston_head_short_sticky", "x": 270 },
+        "facing=north,short=true,type=sticky": { "model": "piston_head_short_sticky" },
+        "facing=south,short=true,type=sticky": { "model": "piston_head_short_sticky", "y": 180 },
+        "facing=west,short=true,type=sticky": { "model": "piston_head_short_sticky", "y": 270 },
+        "facing=east,short=true,type=sticky": { "model": "piston_head_short_sticky", "y": 90 }
+    }
+}

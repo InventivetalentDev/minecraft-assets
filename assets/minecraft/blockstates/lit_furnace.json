@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "lit_furnace" },
+        "facing=south": { "model": "lit_furnace", "y": 180 },
+        "facing=west":  { "model": "lit_furnace", "y": 270 },
+        "facing=east":  { "model": "lit_furnace", "y": 90 }
+    }
+}

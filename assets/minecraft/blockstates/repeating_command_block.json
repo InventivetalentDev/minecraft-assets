@@ -1,0 +1,10 @@
+{
+    "variants": {
+      "facing=down":  { "model": "repeating_command_block", "x": 90 },
+      "facing=up":    { "model": "repeating_command_block", "x": 270 },
+      "facing=north": { "model": "repeating_command_block" },
+      "facing=south": { "model": "repeating_command_block", "y": 180 },
+      "facing=west":  { "model": "repeating_command_block", "y": 270 },
+      "facing=east":  { "model": "repeating_command_block", "y": 90 }
+    }
+}

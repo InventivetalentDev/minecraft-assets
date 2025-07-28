@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "has_bottle_0=false,has_bottle_1=false,has_bottle_2=false": { "model": "brewing_stand_empty" },
+        "has_bottle_0=true,has_bottle_1=false,has_bottle_2=false": { "model": "brewing_stand_bottles_1" },
+        "has_bottle_0=false,has_bottle_1=true,has_bottle_2=false": { "model": "brewing_stand_bottles_2" },
+        "has_bottle_0=false,has_bottle_1=false,has_bottle_2=true": { "model": "brewing_stand_bottles_3" },
+        "has_bottle_0=true,has_bottle_1=true,has_bottle_2=false": { "model": "brewing_stand_bottles_12" },
+        "has_bottle_0=true,has_bottle_1=false,has_bottle_2=true": { "model": "brewing_stand_bottles_13" },
+        "has_bottle_0=false,has_bottle_1=true,has_bottle_2=true": { "model": "brewing_stand_bottles_23" },
+        "has_bottle_0=true,has_bottle_1=true,has_bottle_2=true": { "model": "brewing_stand_bottles_123" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=down":  { "model": "chain_command_block", "x": 90 },
+        "facing=up":    { "model": "chain_command_block", "x": 270 },
+        "facing=north": { "model": "chain_command_block" },
+        "facing=south": { "model": "chain_command_block", "y": 180 },
+        "facing=west":  { "model": "chain_command_block", "y": 270 },
+        "facing=east":  { "model": "chain_command_block", "y": 90 }
+    }
+}
