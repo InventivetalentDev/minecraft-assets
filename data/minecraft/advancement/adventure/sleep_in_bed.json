@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "slept_in_bed": {
+      "trigger": "minecraft:slept_in_bed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.sleep_in_bed.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:red_bed"
+    },
+    "title": {
+      "translate": "advancements.adventure.sleep_in_bed.title"
+    }
+  },
+  "requirements": [
+    [
+      "slept_in_bed"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

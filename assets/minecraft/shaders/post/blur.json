@@ -1,0 +1,111 @@
+{
+    "targets": {
+        "swap": {}
+    },
+    "passes": [
+        {
+            "name": "box_blur",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "minecraft:main",
+                    "bilinear": true
+                }
+            ],
+            "output": "swap",
+            "uniforms": [
+                {
+                    "name": "BlurDir",
+                    "values": [ 1.0, 0.0 ]
+                }
+            ]
+        },
+        {
+            "name": "box_blur",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "swap",
+                    "bilinear": true
+                }
+            ],
+            "output": "minecraft:main",
+            "uniforms": [
+                {
+                    "name": "BlurDir",
+                    "values": [ 0.0, 1.0 ]
+                }
+            ]
+        }, {
+            "name": "box_blur",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "minecraft:main",
+                    "bilinear": true
+                }
+            ],
+            "output": "swap",
+            "uniforms": [
+                {
+                    "name": "BlurDir",
+                    "values": [ 1.0, 0.0 ],
+                    "RadiusMultiplier" : 0.5
+                }
+            ]
+        },
+        {
+            "name": "box_blur",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "swap",
+                    "bilinear": true
+                }
+            ],
+            "output": "minecraft:main",
+            "uniforms": [
+                {
+                    "name": "BlurDir",
+                    "values": [ 0.0, 1.0 ],
+                    "RadiusMultiplier" : 0.5
+                }
+            ]
+        }, {
+            "name": "box_blur",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "minecraft:main",
+                    "bilinear": true
+                }
+            ],
+            "output": "swap",
+            "uniforms": [
+                {
+                    "name": "BlurDir",
+                    "values": [ 1.0, 0.0 ],
+                    "RadiusMultiplier" : 0.25
+                }
+            ]
+        },
+        {
+            "name": "box_blur",
+            "inputs": [
+                {
+                    "sampler_name": "In",
+                    "target": "swap",
+                    "bilinear": true
+                }
+            ],
+            "output": "minecraft:main",
+            "uniforms": [
+                {
+                    "name": "BlurDir",
+                    "values": [ 0.0, 1.0 ],
+                    "RadiusMultiplier" : 0.25
+                }
+            ]
+        }
+    ]
+}
