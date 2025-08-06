@@ -1,0 +1,289 @@
+{
+  "parent": "minecraft:adventure/kill_a_mob",
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_sword"
+    },
+    "title": {
+      "translate": "advancements.adventure.kill_all_mobs.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.kill_all_mobs.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "minecraft:cave_spider": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:cave_spider"
+        }
+      }
+    },
+    "minecraft:spider": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:spider"
+        }
+      }
+    },
+    "minecraft:zombie_pigman": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:zombie_pigman"
+        }
+      }
+    },
+    "minecraft:enderman": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:enderman"
+        }
+      }
+    },
+    "minecraft:polar_bear": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:polar_bear"
+        }
+      }
+    },
+    "minecraft:blaze": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:blaze"
+        }
+      }
+    },
+    "minecraft:creeper": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:creeper"
+        }
+      }
+    },
+    "minecraft:evoker": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:evoker"
+        }
+      }
+    },
+    "minecraft:ghast": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:ghast"
+        }
+      }
+    },
+    "minecraft:guardian": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:guardian"
+        }
+      }
+    },
+    "minecraft:husk": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:husk"
+        }
+      }
+    },
+    "minecraft:magma_cube": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:magma_cube"
+        }
+      }
+    },
+    "minecraft:shulker": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:shulker"
+        }
+      }
+    },
+    "minecraft:silverfish": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:silverfish"
+        }
+      }
+    },
+    "minecraft:skeleton": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:skeleton"
+        }
+      }
+    },
+    "minecraft:slime": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:slime"
+        }
+      }
+    },
+    "minecraft:stray": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:stray"
+        }
+      }
+    },
+    "minecraft:vindicator": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:vindicator"
+        }
+      }
+    },
+    "minecraft:witch": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:witch"
+        }
+      }
+    },
+    "minecraft:wither_skeleton": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:wither_skeleton"
+        }
+      }
+    },
+    "minecraft:zombie": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:zombie"
+        }
+      }
+    },
+    "minecraft:zombie_villager": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:zombie_villager"
+        }
+      }
+    },
+    "minecraft:phantom": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:phantom"
+        }
+      }
+    },
+    "minecraft:drowned": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:drowned"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:cave_spider"
+    ],
+    [
+      "minecraft:spider"
+    ],
+    [
+      "minecraft:zombie_pigman"
+    ],
+    [
+      "minecraft:enderman"
+    ],
+    [
+      "minecraft:polar_bear"
+    ],
+    [
+      "minecraft:blaze"
+    ],
+    [
+      "minecraft:creeper"
+    ],
+    [
+      "minecraft:evoker"
+    ],
+    [
+      "minecraft:ghast"
+    ],
+    [
+      "minecraft:guardian"
+    ],
+    [
+      "minecraft:husk"
+    ],
+    [
+      "minecraft:magma_cube"
+    ],
+    [
+      "minecraft:shulker"
+    ],
+    [
+      "minecraft:silverfish"
+    ],
+    [
+      "minecraft:skeleton"
+    ],
+    [
+      "minecraft:slime"
+    ],
+    [
+      "minecraft:stray"
+    ],
+    [
+      "minecraft:vindicator"
+    ],
+    [
+      "minecraft:witch"
+    ],
+    [
+      "minecraft:wither_skeleton"
+    ],
+    [
+      "minecraft:zombie"
+    ],
+    [
+      "minecraft:zombie_villager"
+    ],
+    [
+      "minecraft:phantom"
+    ],
+    [
+      "minecraft:drowned"
+    ]
+  ]
+}

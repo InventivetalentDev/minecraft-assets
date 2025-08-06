@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "OOO",
+    "OOO",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bowl"
+    },
+    "O": {
+      "item": "minecraft:beetroot"
+    }
+  },
+  "result": {
+    "item": "minecraft:beetroot_soup"
+  }
+}

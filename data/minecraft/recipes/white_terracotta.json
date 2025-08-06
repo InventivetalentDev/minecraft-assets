@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "group": "stained_terracotta",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:terracotta"
+    },
+    "X": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "item": "minecraft:white_terracotta",
+    "count": 8
+  }
+}
