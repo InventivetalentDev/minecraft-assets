@@ -1,0 +1,17 @@
+{
+  "features": {
+    "enabled": [
+      "minecraft:minecart_improvements"
+    ]
+  },
+  "pack": {
+    "description": {
+      "translate": "dataPack.minecart_improvements.description"
+    },
+    "max_format": 83,
+    "min_format": [
+      83,
+      1
+    ]
+  }
+}
