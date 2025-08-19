@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_shelf_right",
+  "textures": {
+    "all": "minecraft:block/bamboo_shelf"
+  }
+}
