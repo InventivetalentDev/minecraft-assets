@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "minecraft:item/template_copper_golem_statue",
+    "model": {
+      "type": "minecraft:copper_golem_statue",
+      "texture": "minecraft:textures/entity/copper_golem/weathered_copper_golem.png"
+    }
+  }
+}
