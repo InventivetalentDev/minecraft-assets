@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=down":  { "model": "dispenser_vertical", "x": 180 },
+        "facing=up":    { "model": "dispenser_vertical" },
+        "facing=north": { "model": "dispenser" },
+        "facing=south": { "model": "dispenser", "y": 180 },
+        "facing=west":  { "model": "dispenser", "y": 270 },
+        "facing=east":  { "model": "dispenser", "y": 90 }
+    }
+}

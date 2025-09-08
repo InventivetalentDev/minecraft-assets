@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:stairs",
+    "#minecraft:waterlogged",
+    "#minecraft:slabs",
+    "minecraft:chest"
+  ]
+}

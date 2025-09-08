@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:dark_oak_log",
+    "minecraft:dark_oak_bark",
+    "minecraft:stripped_dark_oak_log"
+  ]
+}

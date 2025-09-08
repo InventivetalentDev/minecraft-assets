@@ -1,0 +1,146 @@
+{
+  "parent": "minecraft:husbandry/breed_an_animal",
+  "display": {
+    "icon": {
+      "item": "minecraft:golden_carrot"
+    },
+    "title": {
+      "translate": "advancements.husbandry.breed_all_animals.title"
+    },
+    "description": {
+      "translate": "advancements.husbandry.breed_all_animals.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "criteria": {
+    "bred_horse": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:horse"
+        }
+      }
+    },
+    "bred_sheep": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:sheep"
+        }
+      }
+    },
+    "bred_cow": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:cow"
+        }
+      }
+    },
+    "bred_mooshroom": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:mooshroom"
+        }
+      }
+    },
+    "bred_pig": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:pig"
+        }
+      }
+    },
+    "bred_chicken": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:chicken"
+        }
+      }
+    },
+    "bred_wolf": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:wolf"
+        }
+      }
+    },
+    "bred_ocelot": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:ocelot"
+        }
+      }
+    },
+    "bred_rabbit": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:rabbit"
+        }
+      }
+    },
+    "bred_llama": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:llama"
+        }
+      }
+    },
+    "bred_turtle": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "minecraft:turtle"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "bred_horse"
+    ],
+    [
+      "bred_sheep"
+    ],
+    [
+      "bred_cow"
+    ],
+    [
+      "bred_mooshroom"
+    ],
+    [
+      "bred_pig"
+    ],
+    [
+      "bred_chicken"
+    ],
+    [
+      "bred_wolf"
+    ],
+    [
+      "bred_ocelot"
+    ],
+    [
+      "bred_rabbit"
+    ],
+    [
+      "bred_llama"
+    ],
+    [
+      "bred_turtle"
+    ]
+  ]
+}

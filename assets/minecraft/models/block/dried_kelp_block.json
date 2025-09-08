@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blocks/dried_kelp_side",
+        "down": "blocks/dried_kelp_bottom",
+        "up": "blocks/dried_kelp_top",
+        "north": "blocks/dried_kelp_side",
+        "east": "blocks/dried_kelp_side_mirror",
+        "south": "blocks/dried_kelp_side_mirror",
+        "west": "blocks/dried_kelp_side"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "blocks/spruce_planks",
+        "top": "blocks/spruce_planks",
+        "side": "blocks/spruce_planks"
+    }
+}

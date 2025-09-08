@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "stripped_acacia_log" },
+        "axis=z":   { "model": "stripped_acacia_log", "x": 90 },
+        "axis=x":   { "model": "stripped_acacia_log", "x": 90, "y": 90 }
+    }
+}

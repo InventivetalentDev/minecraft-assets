@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shapeless",
+  "group": "magenta_dye",
+  "ingredients": [
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "minecraft:rose_red"
+    },
+    {
+      "item": "minecraft:rose_red"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "result": {
+    "item": "minecraft:magenta_dye",
+    "count": 4
+  }
+}

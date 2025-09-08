@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:jungle_log",
+    "minecraft:jungle_bark",
+    "minecraft:stripped_jungle_log"
+  ]
+}
