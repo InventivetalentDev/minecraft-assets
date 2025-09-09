@@ -1,0 +1,9 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "minecraft:kelp_top"
+  },
+  "result": "minecraft:dried_kelp",
+  "experience": 0.1,
+  "cookingtime": 200
+}

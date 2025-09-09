@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "quartz_pillar" },
+        "axis=z":   { "model": "quartz_pillar", "x": 90 },
+        "axis=x":   { "model": "quartz_pillar", "x": 90, "y": 90 }
+    }
+}

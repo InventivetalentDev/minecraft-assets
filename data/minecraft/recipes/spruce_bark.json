@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:spruce_log"
+    }
+  },
+  "result": {
+    "item": "minecraft:spruce_bark",
+    "count": 3
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=west": { "model": "attached_melon_stem" },
+        "facing=east": { "model": "attached_melon_stem", "y": 180 },
+        "facing=north": { "model": "attached_melon_stem", "y": 90 },
+        "facing=south": { "model": "attached_melon_stem", "y": 270 }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "stone_brick_slab" },
+        "type=top": { "model": "stone_brick_slab_top" },
+        "type=double": { "model": "stone_bricks" }
+    }
+}
