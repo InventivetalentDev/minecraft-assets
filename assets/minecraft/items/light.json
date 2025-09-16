@@ -1,0 +1,125 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "block_state_property": "level",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_00"
+        },
+        "when": "0"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_01"
+        },
+        "when": "1"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_02"
+        },
+        "when": "2"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_03"
+        },
+        "when": "3"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_04"
+        },
+        "when": "4"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_05"
+        },
+        "when": "5"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_06"
+        },
+        "when": "6"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_07"
+        },
+        "when": "7"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_08"
+        },
+        "when": "8"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_09"
+        },
+        "when": "9"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_10"
+        },
+        "when": "10"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_11"
+        },
+        "when": "11"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_12"
+        },
+        "when": "12"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_13"
+        },
+        "when": "13"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_14"
+        },
+        "when": "14"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/light_15"
+        },
+        "when": "15"
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/light"
+    },
+    "property": "minecraft:block_state"
+  }
+}
