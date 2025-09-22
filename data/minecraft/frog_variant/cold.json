@@ -1,0 +1,12 @@
+{
+  "asset_id": "minecraft:entity/frog/cold_frog",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#minecraft:spawns_cold_variant_frogs"
+      },
+      "priority": 1
+    }
+  ]
+}
