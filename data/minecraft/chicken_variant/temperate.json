@@ -1,0 +1,8 @@
+{
+  "asset_id": "minecraft:entity/chicken/temperate_chicken",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

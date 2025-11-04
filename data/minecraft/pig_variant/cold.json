@@ -1,0 +1,13 @@
+{
+  "asset_id": "minecraft:entity/pig/cold_pig",
+  "model": "cold",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#minecraft:spawns_cold_variant_farm_animals"
+      },
+      "priority": 1
+    }
+  ]
+}
