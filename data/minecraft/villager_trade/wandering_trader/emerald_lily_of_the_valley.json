@@ -1,0 +1,11 @@
+{
+  "gives": {
+    "count": 1,
+    "id": "minecraft:lily_of_the_valley"
+  },
+  "max_uses": 7.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "id": "minecraft:emerald"
+  }
+}

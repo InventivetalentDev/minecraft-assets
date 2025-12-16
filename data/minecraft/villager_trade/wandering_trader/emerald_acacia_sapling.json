@@ -1,0 +1,12 @@
+{
+  "gives": {
+    "count": 1,
+    "id": "minecraft:acacia_sapling"
+  },
+  "max_uses": 8.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 5.0,
+    "id": "minecraft:emerald"
+  }
+}
