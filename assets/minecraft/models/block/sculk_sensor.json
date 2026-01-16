@@ -1,0 +1,60 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "bottom": "block/sculk_sensor_bottom",
+        "side": "block/sculk_sensor_side",
+        "tendrils": "block/sculk_sensor_tendril_inactive",
+        "top": "block/sculk_sensor_top",
+        "particle": "block/sculk_sensor_bottom"
+    },
+    "elements": [
+        {
+            "from": [0, 0, 0],
+            "to": [16, 8, 16],
+            "faces": {
+                "north": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "north"},
+                "east": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "east"},
+                "south": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "south"},
+                "west": {"uv": [0, 8, 16, 16], "texture": "#side", "cullface": "west"},
+                "up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+                "down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+            }
+        },
+        {
+            "from": [-1, 8, 3],
+            "to": [7, 16, 3],
+            "rotation": {"angle": 45, "axis": "y", "origin": [3, 12, 3]},
+            "faces": {
+                "north": {"uv": [4, 8, 12, 16], "texture": "#tendrils" },
+                "south": {"uv": [12, 8, 4, 16], "texture": "#tendrils" }
+            }
+        },
+        {
+            "from": [9, 8, 3],
+            "to": [17, 16, 3],
+            "rotation": {"angle": -45, "axis": "y", "origin": [13, 12, 3]},
+            "faces": {
+                "north": {"uv": [12, 8, 4, 16], "texture": "#tendrils" },
+                "south": {"uv": [4, 8, 12, 16], "texture": "#tendrils" }
+            }
+        },
+        {
+            "from": [9, 8, 13],
+            "to": [17, 16, 13],
+            "rotation": {"angle": 45, "axis": "y", "origin": [13, 12, 13]},
+            "faces": {
+                "north": {"uv": [12, 8, 4, 16], "texture": "#tendrils" },
+                "south": {"uv": [4, 8, 12, 16], "texture": "#tendrils" }
+            }
+        },
+        {
+            "from": [-1, 8, 13],
+            "to": [7, 16, 13],
+            "rotation": {"angle": -45, "axis": "y", "origin": [3, 12, 13]},
+            "faces": {
+                "north": {"uv": [4, 8, 12, 16], "texture": "#tendrils" },
+                "south": {"uv": [12, 8, 4, 16], "texture": "#tendrils" }
+            }
+        }
+    ]
+}

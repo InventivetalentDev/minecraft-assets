@@ -1,0 +1,17 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shield/shield_base"
+    },
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/shield/shield_base_nopattern"
+    },
+    {
+      "type": "minecraft:directory",
+      "prefix": "entity/shield/",
+      "source": "entity/shield"
+    }
+  ]
+}
