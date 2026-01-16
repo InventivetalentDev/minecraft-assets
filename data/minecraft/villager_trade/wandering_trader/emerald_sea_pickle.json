@@ -1,0 +1,12 @@
+{
+  "gives": {
+    "count": 1,
+    "id": "minecraft:sea_pickle"
+  },
+  "max_uses": 5.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 2.0,
+    "id": "minecraft:emerald"
+  }
+}
