@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "pink_dye",
+  "ingredients": [
+    "minecraft:cactus_flower"
+  ],
+  "result": {
+    "id": "minecraft:pink_dye"
+  }
+}
