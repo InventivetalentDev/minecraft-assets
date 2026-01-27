@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": "#minecraft:coals",
+    "L": "#minecraft:logs",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    " S ",
+    "SCS",
+    "LLL"
+  ],
+  "result": {
+    "id": "minecraft:campfire"
+  }
+}

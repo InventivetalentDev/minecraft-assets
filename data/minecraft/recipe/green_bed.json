@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bed",
+  "key": {
+    "#": "minecraft:green_wool",
+    "X": "#minecraft:planks"
+  },
+  "pattern": [
+    "###",
+    "XXX"
+  ],
+  "result": {
+    "id": "minecraft:green_bed"
+  }
+}
