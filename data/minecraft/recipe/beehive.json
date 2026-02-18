@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": "minecraft:honeycomb",
+    "P": "#minecraft:planks"
+  },
+  "pattern": [
+    "PPP",
+    "HHH",
+    "PPP"
+  ],
+  "result": {
+    "id": "minecraft:beehive"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "feature": "minecraft:pale_forest_flowers",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 8
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
