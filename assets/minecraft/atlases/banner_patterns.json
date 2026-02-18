@@ -1,0 +1,13 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "minecraft:entity/banner/banner_base"
+    },
+    {
+      "type": "minecraft:directory",
+      "prefix": "entity/banner/",
+      "source": "entity/banner"
+    }
+  ]
+}

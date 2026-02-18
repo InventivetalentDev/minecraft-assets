@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "yellow_dye",
+  "ingredients": [
+    "minecraft:golden_dandelion"
+  ],
+  "result": {
+    "id": "minecraft:yellow_dye"
+  }
+}

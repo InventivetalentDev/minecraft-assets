@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "dyed_candle",
+  "ingredients": [
+    "minecraft:candle",
+    "minecraft:blue_dye"
+  ],
+  "result": {
+    "id": "minecraft:blue_candle"
+  }
+}
