@@ -1,0 +1,54 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "block_state_property": "copper_golem_pose",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:item/template_copper_golem_statue",
+          "model": {
+            "type": "minecraft:copper_golem_statue",
+            "pose": "sitting",
+            "texture": "minecraft:textures/entity/copper_golem/copper_golem_oxidized.png"
+          }
+        },
+        "when": "sitting"
+      },
+      {
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:item/template_copper_golem_statue",
+          "model": {
+            "type": "minecraft:copper_golem_statue",
+            "pose": "running",
+            "texture": "minecraft:textures/entity/copper_golem/copper_golem_oxidized.png"
+          }
+        },
+        "when": "running"
+      },
+      {
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:item/template_copper_golem_statue",
+          "model": {
+            "type": "minecraft:copper_golem_statue",
+            "pose": "star",
+            "texture": "minecraft:textures/entity/copper_golem/copper_golem_oxidized.png"
+          }
+        },
+        "when": "star"
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:special",
+      "base": "minecraft:item/template_copper_golem_statue",
+      "model": {
+        "type": "minecraft:copper_golem_statue",
+        "pose": "standing",
+        "texture": "minecraft:textures/entity/copper_golem/copper_golem_oxidized.png"
+      }
+    },
+    "property": "minecraft:block_state"
+  }
+}
