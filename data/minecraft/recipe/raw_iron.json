@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:raw_iron_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:raw_iron"
+  }
+}
