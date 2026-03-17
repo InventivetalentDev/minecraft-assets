@@ -1,0 +1,34 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "minecraft:item/template_banner",
+    "model": {
+      "type": "minecraft:banner",
+      "color": "white"
+    },
+    "transformation": {
+      "left_rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "right_rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        0.6666667,
+        -0.6666667,
+        -0.6666667
+      ],
+      "translation": [
+        0.5,
+        0.0,
+        0.5
+      ]
+    }
+  }
+}
