@@ -1,0 +1,73 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:special",
+        "base": "minecraft:item/light_gray_bed",
+        "model": {
+          "type": "minecraft:bed",
+          "part": "head",
+          "texture": "minecraft:light_gray"
+        },
+        "transformation": {
+          "left_rotation": [
+            0.0,
+            -0.70710677,
+            0.70710677,
+            0.0
+          ],
+          "right_rotation": [
+            -0.0,
+            -0.0,
+            -0.0,
+            1.0
+          ],
+          "scale": [
+            0.99999994,
+            0.9999999,
+            0.9999999
+          ],
+          "translation": [
+            0.99999994,
+            0.5625,
+            0.99999994
+          ]
+        }
+      },
+      {
+        "type": "minecraft:special",
+        "base": "minecraft:item/light_gray_bed",
+        "model": {
+          "type": "minecraft:bed",
+          "part": "foot",
+          "texture": "minecraft:light_gray"
+        },
+        "transformation": {
+          "left_rotation": [
+            0.0,
+            -0.70710677,
+            0.70710677,
+            0.0
+          ],
+          "right_rotation": [
+            -0.0,
+            -0.0,
+            -0.0,
+            1.0
+          ],
+          "scale": [
+            0.99999994,
+            0.9999999,
+            0.9999999
+          ],
+          "translation": [
+            0.99999994,
+            0.5625,
+            -5.9604645E-8
+          ]
+        }
+      }
+    ]
+  }
+}
