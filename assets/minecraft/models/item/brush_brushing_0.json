@@ -1,0 +1,23 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/brush"
+    },
+    "display": {
+        "firstperson_lefthand": {
+          "rotation": [ 55, -85, 0 ],
+          "translation": [ 8.0, 0.5, -5.5 ],
+          "scale": [ 1.0, 1.0, 1.0 ]
+        },
+        "thirdperson_righthand": {
+          "rotation": [ 0, 0, 0 ],
+          "translation": [ 4, 2, 0 ],
+          "scale": [ 0.9, 0.9, 0.9 ]
+        },
+        "thirdperson_lefthand": {
+          "rotation": [ 0, 0, 0],
+          "translation": [ -4, 2, 0 ],
+          "scale": [ 0.9, 0.9, 0.9 ]
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "#minecraft:planks",
+    "@": "minecraft:paper"
+  },
+  "pattern": [
+    "@@",
+    "##",
+    "##"
+  ],
+  "result": {
+    "id": "minecraft:cartography_table"
+  }
+}
