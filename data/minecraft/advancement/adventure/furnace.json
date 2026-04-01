@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:adventure/wooden_pickaxe",
+  "criteria": {
+    "furnace": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:furnace"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.furnace.description"
+    },
+    "icon": {
+      "id": "minecraft:furnace"
+    },
+    "title": {
+      "translate": "advancements.adventure.furnace.title"
+    }
+  },
+  "requirements": [
+    [
+      "furnace"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

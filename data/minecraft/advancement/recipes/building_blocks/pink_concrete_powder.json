@@ -1,0 +1,63 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_gravel": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:gravel"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    },
+    "has_sand": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:sand"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:pink_concrete_powder"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_sand",
+      "has_gravel"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:pink_concrete_powder"
+    ]
+  }
+}

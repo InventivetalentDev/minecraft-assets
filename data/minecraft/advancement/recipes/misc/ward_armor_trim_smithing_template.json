@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:ward_armor_trim_smithing_template"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_ward_armor_trim_smithing_template": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:ward_armor_trim_smithing_template"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ward_armor_trim_smithing_template"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:ward_armor_trim_smithing_template"
+    ]
+  }
+}

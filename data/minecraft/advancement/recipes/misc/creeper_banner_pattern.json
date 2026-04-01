@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_creeper_head": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:creeper_head"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:creeper_banner_pattern"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_creeper_head"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:creeper_banner_pattern"
+    ]
+  }
+}

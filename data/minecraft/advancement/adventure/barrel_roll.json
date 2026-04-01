@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:adventure/craft_chest",
+  "criteria": {
+    "barrel_roll": {
+      "trigger": "minecraft:barrel_roll"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.barrel_roll.description"
+    },
+    "icon": {
+      "id": "minecraft:barrel"
+    },
+    "title": {
+      "translate": "advancements.adventure.barrel_roll.title"
+    }
+  },
+  "requirements": [
+    [
+      "barrel_roll"
+    ]
+  ],
+  "rewards": {
+    "experience": 10
+  },
+  "sends_telemetry_event": true
+}

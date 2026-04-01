@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:adventure/find_fortress",
+  "criteria": {
+    "blaze_rod": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:blaze_rod"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.nether.obtain_blaze_rod.description"
+    },
+    "icon": {
+      "id": "minecraft:blaze_rod"
+    },
+    "title": {
+      "translate": "advancements.nether.obtain_blaze_rod.title"
+    }
+  },
+  "requirements": [
+    [
+      "blaze_rod"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

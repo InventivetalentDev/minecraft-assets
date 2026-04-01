@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:adventure/door",
+  "criteria": {
+    "build_house": {
+      "trigger": "minecraft:built_house"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.build_house.description"
+    },
+    "icon": {
+      "id": "minecraft:pale_oak_door"
+    },
+    "title": {
+      "translate": "advancements.adventure.build_house.title"
+    }
+  },
+  "requirements": [
+    [
+      "build_house"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:adventure/furnace",
+  "criteria": {
+    "iron_ingot": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:iron_ingot"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.iron_ingot.description"
+    },
+    "icon": {
+      "id": "minecraft:iron_ingot"
+    },
+    "title": {
+      "translate": "advancements.adventure.iron_ingot.title"
+    }
+  },
+  "requirements": [
+    [
+      "iron_ingot"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

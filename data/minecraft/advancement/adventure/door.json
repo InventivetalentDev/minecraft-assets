@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:adventure/craft_table",
+  "criteria": {
+    "door": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "#minecraft:doors"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.door.description"
+    },
+    "icon": {
+      "id": "minecraft:oak_door"
+    },
+    "title": {
+      "translate": "advancements.adventure.door.title"
+    }
+  },
+  "requirements": [
+    [
+      "door"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

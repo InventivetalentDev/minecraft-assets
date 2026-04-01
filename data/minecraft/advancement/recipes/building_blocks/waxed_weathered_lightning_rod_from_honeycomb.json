@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:waxed_weathered_lightning_rod_from_honeycomb"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_weathered_lightning_rod": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:weathered_lightning_rod"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_weathered_lightning_rod"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:waxed_weathered_lightning_rod_from_honeycomb"
+    ]
+  }
+}

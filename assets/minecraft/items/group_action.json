@@ -1,0 +1,31 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/group_action",
+          "tints": [
+            {
+              "type": "minecraft:jeb"
+            }
+          ]
+        },
+        "when": -16777216
+      }
+    ],
+    "component": "minecraft:dyed_color",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/group_action",
+      "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": -1
+        }
+      ]
+    },
+    "property": "minecraft:component"
+  }
+}

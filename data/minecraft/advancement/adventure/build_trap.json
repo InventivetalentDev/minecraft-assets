@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:adventure/iron_ingot",
+  "criteria": {
+    "build_trap": {
+      "trigger": "minecraft:built_trap"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.build_trap.description"
+    },
+    "icon": {
+      "id": "minecraft:iron_bars"
+    },
+    "title": {
+      "translate": "advancements.adventure.build_trap.title"
+    }
+  },
+  "requirements": [
+    [
+      "build_trap"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:adventure/mine_a_block",
+  "criteria": {
+    "craft_table": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:crafting_table"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.crafting_table.description"
+    },
+    "icon": {
+      "id": "minecraft:crafting_table"
+    },
+    "title": {
+      "translate": "advancements.adventure.crafting_table.title"
+    }
+  },
+  "requirements": [
+    [
+      "craft_table"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

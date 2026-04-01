@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "mine_a_block": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.mine_a_block.description"
+    },
+    "icon": {
+      "id": "minecraft:punch_action"
+    },
+    "title": {
+      "translate": "advancements.adventure.mine_a_block.title"
+    }
+  },
+  "requirements": [
+    [
+      "mine_a_block"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

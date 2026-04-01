@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:adventure/eye_frame_combination",
+  "criteria": {
+    "craft_end_portal": {
+      "trigger": "minecraft:end_portal_crafted"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.end_portal.description"
+    },
+    "icon": {
+      "id": "minecraft:ender_dragon_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.adventure.end_portal.title"
+    }
+  },
+  "requirements": [
+    [
+      "craft_end_portal"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

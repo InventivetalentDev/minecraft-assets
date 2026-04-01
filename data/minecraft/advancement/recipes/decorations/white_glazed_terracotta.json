@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:white_glazed_terracotta"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_white_terracotta": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:white_terracotta"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_white_terracotta"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:white_glazed_terracotta"
+    ]
+  }
+}

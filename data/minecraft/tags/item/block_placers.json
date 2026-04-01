@@ -1,0 +1,19 @@
+{
+  "values": [
+    "minecraft:redstone",
+    "minecraft:string",
+    "minecraft:wheat_seeds",
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:beetroot_seeds",
+    "minecraft:melon_seeds",
+    "minecraft:pumpkin_seeds",
+    "minecraft:nether_wart",
+    "minecraft:torchflower_seeds",
+    "minecraft:pitcher_pod",
+    "minecraft:sweet_berries",
+    "minecraft:glow_berries",
+    "minecraft:resin_clump",
+    "minecraft:powder_snow_bucket"
+  ]
+}

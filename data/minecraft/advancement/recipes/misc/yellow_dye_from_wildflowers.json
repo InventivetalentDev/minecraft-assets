@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:yellow_dye_from_wildflowers"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_wildflowers": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:wildflowers"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_wildflowers"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:yellow_dye_from_wildflowers"
+    ]
+  }
+}

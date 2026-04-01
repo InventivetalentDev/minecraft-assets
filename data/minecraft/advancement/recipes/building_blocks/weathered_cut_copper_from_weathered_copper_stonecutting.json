@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:weathered_cut_copper_from_weathered_copper_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_weathered_copper": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:weathered_copper"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_weathered_copper"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:weathered_cut_copper_from_weathered_copper_stonecutting"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:adventure/barrel_roll",
+  "criteria": {
+    "barrel_roll": {
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "dimension": "minecraft:the_nether"
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:barrel_roll"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.nether.barrel_roll.description"
+    },
+    "icon": {
+      "id": "minecraft:barrel"
+    },
+    "title": {
+      "translate": "advancements.nether.barrel_roll.title"
+    }
+  },
+  "requirements": [
+    [
+      "barrel_roll"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  },
+  "sends_telemetry_event": true
+}

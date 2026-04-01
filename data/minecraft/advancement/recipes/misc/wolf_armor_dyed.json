@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:wolf_armor_dyed"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_wolf_armor": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:wolf_armor"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_wolf_armor"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:wolf_armor_dyed"
+    ]
+  }
+}

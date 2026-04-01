@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/attack_signalling_arrow"
+  }
+}
+

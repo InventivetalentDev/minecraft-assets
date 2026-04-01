@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:adventure/follow_ender_eye",
+  "criteria": {
+    "eye_frame_combination": {
+      "trigger": "minecraft:eye_frame_combination"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.eye_frame_combination.description"
+    },
+    "icon": {
+      "id": "minecraft:end_portal_frame"
+    },
+    "title": {
+      "translate": "advancements.adventure.eye_frame_combination.title"
+    }
+  },
+  "requirements": [
+    [
+      "eye_frame_combination"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

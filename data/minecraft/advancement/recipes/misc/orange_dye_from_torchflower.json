@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:orange_dye_from_torchflower"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_torchflower": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:torchflower"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_torchflower"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:orange_dye_from_torchflower"
+    ]
+  }
+}

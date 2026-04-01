@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:adventure/craft_table",
+  "criteria": {
+    "wooden_pickaxe": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:wooden_pickaxe"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.wooden_pickaxe.description"
+    },
+    "icon": {
+      "id": "minecraft:wooden_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.adventure.wooden_pickaxe.title"
+    }
+  },
+  "requirements": [
+    [
+      "wooden_pickaxe"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

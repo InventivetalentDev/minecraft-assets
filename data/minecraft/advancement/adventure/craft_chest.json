@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:adventure/craft_table",
+  "criteria": {
+    "craft_chest": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:chest"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.craft_chest.description"
+    },
+    "icon": {
+      "id": "minecraft:chest"
+    },
+    "title": {
+      "translate": "advancements.adventure.craft_chest.title"
+    }
+  },
+  "requirements": [
+    [
+      "craft_chest"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

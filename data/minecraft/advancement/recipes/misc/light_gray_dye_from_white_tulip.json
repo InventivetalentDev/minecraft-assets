@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:light_gray_dye_from_white_tulip"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_white_tulip": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:living_block",
+              "type_specific": {
+                "type": "minecraft:living_block",
+                "item": {
+                  "items": "minecraft:white_tulip"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:summoned_entity"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_white_tulip"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:light_gray_dye_from_white_tulip"
+    ]
+  }
+}

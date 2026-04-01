@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:adventure/obsidian",
+  "criteria": {
+    "craft_nether_portal": {
+      "trigger": "minecraft:nether_portal_crafted"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.nether_portal.description"
+    },
+    "icon": {
+      "id": "minecraft:flint_and_steel"
+    },
+    "title": {
+      "translate": "advancements.adventure.nether_portal.title"
+    }
+  },
+  "requirements": [
+    [
+      "craft_nether_portal"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
