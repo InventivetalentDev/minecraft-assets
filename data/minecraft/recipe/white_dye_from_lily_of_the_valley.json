@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "white_dye",
+  "ingredients": [
+    "minecraft:lily_of_the_valley"
+  ],
+  "result": {
+    "id": "minecraft:white_dye"
+  }
+}
