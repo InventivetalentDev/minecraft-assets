@@ -1,0 +1,29 @@
+{
+  "attribute_modifiers": [
+    {
+      "amount": 0.699999988079071,
+      "attribute": "minecraft:knockback_resistance",
+      "id": "minecraft:slow_flat_add_knockback_resistance",
+      "operation": "add_value"
+    },
+    {
+      "amount": 0.20000000298023224,
+      "attribute": "minecraft:bounciness",
+      "id": "minecraft:slow_flat_add_bounciness",
+      "operation": "add_value"
+    },
+    {
+      "amount": -0.699999988079071,
+      "attribute": "minecraft:friction_modifier",
+      "id": "minecraft:slow_flat_mul_friction_modifier",
+      "operation": "add_multiplied_total"
+    },
+    {
+      "amount": -0.8999999985098839,
+      "attribute": "minecraft:air_drag_modifier",
+      "id": "minecraft:slow_flat_mul_air_drag_modifier",
+      "operation": "add_multiplied_total"
+    }
+  ],
+  "items": "#minecraft:sulfur_cube_archetype/slow_flat"
+}
