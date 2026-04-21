@@ -1,0 +1,67 @@
+{
+  "type": "minecraft:template",
+  "config": {
+    "templates": [
+      {
+        "data": {
+          "id": "minecraft:spring/sulfur_spring_small_1"
+        },
+        "weight": 5000
+      },
+      {
+        "data": {
+          "id": "minecraft:spring/sulfur_spring_small_2"
+        },
+        "weight": 5000
+      },
+      {
+        "data": {
+          "id": "minecraft:spring/sulfur_spring_small_3"
+        },
+        "weight": 5000
+      },
+      {
+        "data": {
+          "id": "minecraft:spring/sulfur_spring_small_4"
+        },
+        "weight": 5000
+      },
+      {
+        "data": {
+          "id": "minecraft:spring/sulfur_spring_medium_1"
+        },
+        "weight": 3000
+      },
+      {
+        "data": {
+          "id": "minecraft:spring/sulfur_spring_medium_2"
+        },
+        "weight": 3000
+      },
+      {
+        "data": {
+          "id": "minecraft:spring/sulfur_spring_medium_3"
+        },
+        "weight": 3000
+      },
+      {
+        "data": {
+          "id": "minecraft:spring/sulfur_spring_large_1"
+        },
+        "weight": 1000
+      },
+      {
+        "data": {
+          "id": "minecraft:spring/sulfur_spring_large_2"
+        },
+        "weight": 1000
+      },
+      {
+        "data": {
+          "id": "minecraft:spring/sulfur_spring_extra_large_1"
+        },
+        "weight": 500
+      }
+    ]
+  }
+}

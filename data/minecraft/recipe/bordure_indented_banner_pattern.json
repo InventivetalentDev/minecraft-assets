@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:vine"
+  ],
+  "result": {
+    "id": "minecraft:bordure_indented_banner_pattern"
+  }
+}
