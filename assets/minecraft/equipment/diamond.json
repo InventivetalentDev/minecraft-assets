@@ -1,0 +1,29 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "minecraft:diamond"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "minecraft:diamond"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "minecraft:diamond"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:diamond"
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "minecraft:diamond"
+      }
+    ]
+  }
+}
