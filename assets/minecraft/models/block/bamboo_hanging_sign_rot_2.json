@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/hanging_sign_rot_2",
+  "textures": {
+    "all": "minecraft:block/bamboo_hanging_sign",
+    "particle": "minecraft:block/bamboo_planks"
+  }
+}

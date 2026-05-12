@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/bed_foot",
+  "textures": {
+    "east": "minecraft:block/pink_bed_foot_east",
+    "south": "minecraft:block/pink_bed_foot_south",
+    "up": "minecraft:block/pink_bed_foot_up",
+    "west": "minecraft:block/pink_bed_foot_west"
+  }
+}

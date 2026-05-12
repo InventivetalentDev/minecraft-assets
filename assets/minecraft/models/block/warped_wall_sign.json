@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/wall_sign",
+  "textures": {
+    "all": "minecraft:block/warped_sign",
+    "particle": "minecraft:block/warped_planks"
+  }
+}
