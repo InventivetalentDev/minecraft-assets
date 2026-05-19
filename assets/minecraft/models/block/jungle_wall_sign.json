@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/wall_sign",
+  "textures": {
+    "all": "minecraft:block/jungle_sign",
+    "particle": "minecraft:block/jungle_planks"
+  }
+}

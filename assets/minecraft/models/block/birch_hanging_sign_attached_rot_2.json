@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/attached_hanging_sign_rot_2",
+  "textures": {
+    "all": "minecraft:block/birch_hanging_sign",
+    "particle": "minecraft:block/stripped_birch_log"
+  }
+}

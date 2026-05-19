@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/bed_head",
+  "textures": {
+    "east": "minecraft:block/black_bed_head_east",
+    "up": "minecraft:block/black_bed_head_up",
+    "west": "minecraft:block/black_bed_head_west"
+  }
+}

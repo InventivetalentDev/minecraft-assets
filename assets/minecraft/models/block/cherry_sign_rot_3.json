@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/sign_rot_3",
+  "textures": {
+    "all": "minecraft:block/cherry_sign",
+    "particle": "minecraft:block/cherry_planks"
+  }
+}

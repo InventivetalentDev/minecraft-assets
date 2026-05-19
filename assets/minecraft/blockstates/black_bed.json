@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,part=foot": {
+      "model": "minecraft:block/black_bed_foot",
+      "y": 90
+    },
+    "facing=east,part=head": {
+      "model": "minecraft:block/black_bed_head",
+      "y": 90
+    },
+    "facing=north,part=foot": {
+      "model": "minecraft:block/black_bed_foot"
+    },
+    "facing=north,part=head": {
+      "model": "minecraft:block/black_bed_head"
+    },
+    "facing=south,part=foot": {
+      "model": "minecraft:block/black_bed_foot",
+      "y": 180
+    },
+    "facing=south,part=head": {
+      "model": "minecraft:block/black_bed_head",
+      "y": 180
+    },
+    "facing=west,part=foot": {
+      "model": "minecraft:block/black_bed_foot",
+      "y": 270
+    },
+    "facing=west,part=head": {
+      "model": "minecraft:block/black_bed_head",
+      "y": 270
+    }
+  }
+}

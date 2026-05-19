@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/attached_hanging_sign_rot_2",
+  "textures": {
+    "all": "minecraft:block/warped_hanging_sign",
+    "particle": "minecraft:block/stripped_warped_stem"
+  }
+}

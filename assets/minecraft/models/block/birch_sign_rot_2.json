@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/sign_rot_2",
+  "textures": {
+    "all": "minecraft:block/birch_sign",
+    "particle": "minecraft:block/birch_planks"
+  }
+}
