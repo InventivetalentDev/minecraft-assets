@@ -200,6 +200,11 @@
             "region": "France",
             "bidirectional": false
         },
+        "fr_ch": {
+            "name": "Français",
+            "region": "Suisse",
+            "bidirectional": false
+        },
         "fy_nl": {
             "name": "Frysk",
             "region": "Fryslân",
@@ -228,6 +233,11 @@
         "gl_es": {
             "name": "Galego",
             "region": "Galicia / Galiza",
+            "bidirectional": false
+        },
+        "go_fr": {
+            "name": "Galo",
+            "region": "Bertègn",
             "bidirectional": false
         },
         "gd_gb": {
@@ -343,6 +353,11 @@
         "nn_no": {
             "name": "Norsk nynorsk",
             "region": "Noreg",
+            "bidirectional": false
+        },
+        "uz_uz": {
+            "name": "O'zbekcha",
+            "region": "O'zbekiston",
             "bidirectional": false
         },
         "oc_fr": {
@@ -463,6 +478,11 @@
         "vec_it": {
             "name": "Vèneto",
             "region": "Veneto",
+            "bidirectional": false
+        },
+        "vro": {
+            "name": "Võro",
+            "region": "Eesti",
             "bidirectional": false
         },
         "yo_ng": {
@@ -588,6 +608,11 @@
         "uk_ua": {
             "name": "Українська",
             "region": "Україна",
+            "bidirectional": false
+        },
+        "cv_cu": {
+            "name": "Чӑвашла",
+            "region": "Чӑваш Ен, Раҫҫей",
             "bidirectional": false
         },
         "kk_kz": {
