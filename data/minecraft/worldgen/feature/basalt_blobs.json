@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:netherrack_replace_blobs",
+  "radius": {
+    "type": "minecraft:uniform",
+    "max_inclusive": 7,
+    "min_inclusive": 3
+  },
+  "state": {
+    "Name": "minecraft:basalt",
+    "Properties": {
+      "axis": "y"
+    }
+  },
+  "target": {
+    "Name": "minecraft:netherrack"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:sequence",
+  "sequence": [
+    "minecraft:overworld/powder_snow_surface",
+    {
+      "type": "minecraft:condition",
+      "if_true": "minecraft:above_water",
+      "then_run": {
+        "type": "minecraft:block",
+        "result_state": {
+          "Name": "minecraft:snow_block"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:basalt_columns",
+  "height": {
+    "type": "minecraft:uniform",
+    "max_inclusive": 4,
+    "min_inclusive": 1
+  },
+  "reach": 1
+}

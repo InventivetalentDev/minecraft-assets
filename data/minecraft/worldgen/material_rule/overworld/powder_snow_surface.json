@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:condition",
+  "if_true": {
+    "type": "minecraft:noise_threshold",
+    "max_threshold": 0.6,
+    "min_threshold": 0.35,
+    "noise": "minecraft:powder_snow"
+  },
+  "then_run": {
+    "type": "minecraft:condition",
+    "if_true": "minecraft:above_water",
+    "then_run": {
+      "type": "minecraft:block",
+      "result_state": {
+        "Name": "minecraft:powder_snow"
+      }
+    }
+  }
+}
