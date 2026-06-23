@@ -4131,7 +4131,7 @@
     "gui.friends.copy_to_clipboard": "Másolás a vágólapra",
     "gui.friends.decline": "Elutasítás",
     "gui.friends.empty_nickname": "A barátkérelem elküldése előtt adj meg érvényes felhasználónevet",
-    "gui.friends.empty_state": "Itt lesznek a hozzáadott barátok.\n\nVigyázz az online biztonságodra, %s barátoddal.",
+    "gui.friends.empty_state": "Itt lesznek a hozzáadott barátok.\n\nVigyázz az online biztonságodra %s segítségével.",
     "gui.friends.empty_state.link": "Microsoft-fiók",
     "gui.friends.enter_nickname": "Írd be a becenevedet",
     "gui.friends.error.connection_issue": "A barátlista jelenleg nem működik. \n\nEllenőrizd az internet-hozzáférést, és próbáld újra.",

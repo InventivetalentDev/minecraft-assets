@@ -6251,7 +6251,7 @@
     "options.sharePresence.all": "完全公開",
     "options.sharePresence.all.tooltip": "好友可以看見你正在遊玩的內容。",
     "options.sharePresence.limited": "部分公開",
-    "options.sharePresence.limited.tooltip": "好友可以看見你何時上線，但無法看見你正在遊玩的內容。",
+    "options.sharePresence.limited.tooltip": "好友可以看見你何時在線上，但無法看見你正在遊玩的內容。",
     "options.sharePresence.none": "隱藏",
     "options.sharePresence.none.tooltip": "好友將始終看見你顯示為「離線」。",
     "options.showNowPlayingToast": "顯示音樂通知",

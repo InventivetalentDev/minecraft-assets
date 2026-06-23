@@ -7927,7 +7927,7 @@
     "telemetry.property.p2p_connection_ice_path.title": "Interactive Connectivity Establishment (ICE) – polku",
     "telemetry.property.p2p_connection_local_candidate_type.title": "Local Candidate Type",
     "telemetry.property.p2p_connection_remote_candidate_type.title": "Remote Candidate Type",
-    "telemetry.property.p2p_connection_signaling_time_ms.title": "Signaling Connection Time (Milliseconds)",
+    "telemetry.property.p2p_connection_signaling_time_ms.title": "Signaloidaan yhdistysaikaa (Millisekuntteina)",
     "telemetry.property.p2p_connection_successful.title": "Yhdistäminen onnistui",
     "telemetry.property.p2p_connection_total_time_ms.title": "Kokonaisyhteysaika (millisekunteina)",
     "telemetry.property.platform.title": "Alusta",

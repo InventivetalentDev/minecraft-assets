@@ -4140,7 +4140,7 @@
     "gui.friends.error.generic": "Ocorreu um erro.\n\nTenta novamente mais tarde.",
     "gui.friends.error.rateLimited.message": "Estás a mexer na Lista de Amigos demasiado rápido. Aguarda e tenta novamente.",
     "gui.friends.error.temporary_unavailable": "A Lista de Amigos está atualmente indisponível.\n\nTente novamente mais tarde.",
-    "gui.friends.error.unauthorized": "Token fornecido inválido. Reinicia o teu jogo e o Launcher e tenta novamente",
+    "gui.friends.error.unauthorized": "Token fornecido inválido. Reinicia o jogo e o Launcher e tenta novamente",
     "gui.friends.error.unavailable.message": "A Lista de Amigos está atualmente indisponível. Verifica a ligação à internet ou tenta novamente mais tarde.",
     "gui.friends.error.upgrade_needed": "Atualiza o jogo para acederes à Lista de Amigos.",
     "gui.friends.error.user_may_lack_active_profile": "Não foi encontrado nenhum jogador com esse nome",
