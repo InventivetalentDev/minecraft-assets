@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:sequence",
+  "sequence": [
+    "minecraft:overworld/powder_snow_under_surface",
+    {
+      "type": "minecraft:block",
+      "result_state": {
+        "Name": "minecraft:dirt"
+      }
+    }
+  ]
+}

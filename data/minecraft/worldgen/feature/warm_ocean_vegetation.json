@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "features": [
+    {
+      "feature": {
+        "type": "minecraft:coral_tree"
+      },
+      "placement": []
+    },
+    {
+      "feature": {
+        "type": "minecraft:coral_claw"
+      },
+      "placement": []
+    },
+    {
+      "feature": {
+        "type": "minecraft:coral_mushroom"
+      },
+      "placement": []
+    }
+  ]
+}
