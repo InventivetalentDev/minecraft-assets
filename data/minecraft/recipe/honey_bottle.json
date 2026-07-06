@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:honey_block",
+    "minecraft:glass_bottle",
+    "minecraft:glass_bottle",
+    "minecraft:glass_bottle",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:honey_bottle"
+  }
+}
