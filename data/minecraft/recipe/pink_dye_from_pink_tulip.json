@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "pink_dye",
+  "ingredients": [
+    "minecraft:pink_tulip"
+  ],
+  "result": {
+    "id": "minecraft:pink_dye"
+  }
+}
