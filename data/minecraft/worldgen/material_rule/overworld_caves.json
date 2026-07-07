@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:sequence",
+  "sequence": [
+    "minecraft:bedrock_roof",
+    "minecraft:bedrock_floor",
+    "minecraft:overworld/surface",
+    "minecraft:overworld/underground"
+  ]
+}

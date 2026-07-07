@@ -1,0 +1,1 @@
+{"can_shear":{"condition":"minecraft:match_tool","predicate":{"items":"minecraft:shears"}},"can_silk_touch":{"condition":"minecraft:match_tool","predicate":{"predicates":{"minecraft:enchantments":[{"enchantments":"minecraft:silk_touch","levels":{"min":1}}]}}}}
