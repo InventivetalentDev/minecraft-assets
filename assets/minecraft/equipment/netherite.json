@@ -1,0 +1,32 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "minecraft:netherite"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "minecraft:netherite"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "minecraft:netherite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:netherite"
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "minecraft:netherite"
+      }
+    ]
+  },
+  "trim_palette_replacements": {
+    "minecraft:trim/netherite": "minecraft:trim/netherite_darker"
+  }
+}

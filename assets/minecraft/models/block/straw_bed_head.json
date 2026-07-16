@@ -1,0 +1,616 @@
+{
+  "gui_light": "front",
+  "textures": {
+    "all": "block/straw_bed",
+    "particle": "block/straw_bed_particle"
+  },
+  "elements": [
+    {
+      "name": "base",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        4,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            5.25,
+            6,
+            6.25
+          ],
+          "texture": "#all",
+          "cullface": "north"
+        },
+        "east": {
+          "uv": [
+            0,
+            5.25,
+            2,
+            6.25
+          ],
+          "texture": "#all",
+          "cullface": "east"
+        },
+        "south": {
+          "uv": [
+            8,
+            5.25,
+            12,
+            6.25
+          ],
+          "texture": "#all"
+        },
+        "west": {
+          "uv": [
+            6,
+            5.25,
+            8,
+            6.25
+          ],
+          "texture": "#all",
+          "cullface": "west"
+        },
+        "up": {
+          "uv": [
+            6,
+            5.25,
+            2,
+            3.25
+          ],
+          "texture": "#all"
+        },
+        "down": {
+          "uv": [
+            10,
+            3.25,
+            6,
+            5.25
+          ],
+          "texture": "#all",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "name": "pillow_frills_01",
+      "from": [
+        -2,
+        0.065,
+        8
+      ],
+      "to": [
+        0,
+        0.065,
+        16
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            1.5,
+            8.25,
+            1,
+            6.25
+          ],
+          "texture": "#all",
+          "cullface": "west"
+        },
+        "down": {
+          "uv": [
+            2,
+            6.25,
+            1.5,
+            8.25
+          ],
+          "texture": "#all",
+          "cullface": "west"
+        }
+      }
+    },
+    {
+      "name": "pillow_frills_02",
+      "from": [
+        -2,
+        4.96,
+        8
+      ],
+      "to": [
+        0,
+        4.96,
+        16
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            10.5,
+            2,
+            10,
+            0
+          ],
+          "texture": "#all",
+          "cullface": "west"
+        },
+        "down": {
+          "uv": [
+            11,
+            0,
+            10.5,
+            2
+          ],
+          "texture": "#all",
+          "cullface": "west"
+        }
+      }
+    },
+    {
+      "name": "pillow_frills_03",
+      "from": [
+        -2,
+        0.065,
+        8.025
+      ],
+      "to": [
+        0,
+        4.95,
+        8.025
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            8.25,
+            1.5,
+            9.48125
+          ],
+          "texture": "#all",
+          "cullface": "west"
+        },
+        "south": {
+          "uv": [
+            2,
+            8.25,
+            1.5,
+            9.48125
+          ],
+          "texture": "#all",
+          "cullface": "west"
+        }
+      }
+    },
+    {
+      "name": "pillow_frills_04",
+      "from": [
+        -2,
+        0.065,
+        15.985
+      ],
+      "to": [
+        0,
+        4.95,
+        15.985
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            3.25,
+            10.5,
+            4.481249999999999
+          ],
+          "texture": "#all",
+          "cullface": "west"
+        },
+        "south": {
+          "uv": [
+            10.5,
+            3.25,
+            11,
+            4.481249999999999
+          ],
+          "texture": "#all",
+          "cullface": "west"
+        }
+      }
+    },
+    {
+      "name": "pillow_frills_05",
+      "from": [
+        16,
+        0.05,
+        8
+      ],
+      "to": [
+        18,
+        0.05,
+        16
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0.5,
+            8.25,
+            0,
+            6.25
+          ],
+          "texture": "#all",
+          "cullface": "east"
+        },
+        "down": {
+          "uv": [
+            0.5,
+            6.25,
+            1,
+            8.25
+          ],
+          "texture": "#all",
+          "cullface": "east"
+        }
+      }
+    },
+    {
+      "name": "pillow_frills_06",
+      "from": [
+        16,
+        4.975,
+        8
+      ],
+      "to": [
+        18,
+        4.975,
+        16
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0.5,
+            2,
+            0,
+            0
+          ],
+          "texture": "#all",
+          "cullface": "east"
+        },
+        "down": {
+          "uv": [
+            0.5,
+            0,
+            1,
+            2
+          ],
+          "texture": "#all",
+          "cullface": "east"
+        }
+      }
+    },
+    {
+      "name": "pillow_frills_07",
+      "from": [
+        16,
+        0.05000000000000001,
+        8
+      ],
+      "to": [
+        18,
+        4.975,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            8.25,
+            0.5,
+            9.48125
+          ],
+          "texture": "#all",
+          "cullface": "east"
+        },
+        "south": {
+          "uv": [
+            1,
+            8.25,
+            0.5,
+            9.48125
+          ],
+          "texture": "#all",
+          "cullface": "east"
+        }
+      }
+    },
+    {
+      "name": "pillow_frills_08",
+      "from": [
+        16,
+        0.05000000000000001,
+        15.975
+      ],
+      "to": [
+        18,
+        4.975,
+        15.975
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            3.25,
+            0.5,
+            4.48125
+          ],
+          "texture": "#all",
+          "cullface": "east"
+        },
+        "south": {
+          "uv": [
+            1,
+            3.25,
+            0.5,
+            4.48125
+          ],
+          "texture": "#all",
+          "cullface": "east"
+        }
+      }
+    },
+    {
+      "name": "pillow",
+      "from": [
+        0,
+        0,
+        8
+      ],
+      "to": [
+        16,
+        5,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            2,
+            6,
+            3.25
+          ],
+          "texture": "#all"
+        },
+        "east": {
+          "uv": [
+            0,
+            2,
+            2,
+            3.25
+          ],
+          "texture": "#all",
+          "cullface": "east"
+        },
+        "south": {
+          "uv": [
+            8,
+            2,
+            12,
+            3.25
+          ],
+          "texture": "#all",
+          "cullface": "south"
+        },
+        "west": {
+          "uv": [
+            6,
+            2,
+            8,
+            3.25
+          ],
+          "texture": "#all",
+          "cullface": "west"
+        },
+        "up": {
+          "uv": [
+            6,
+            2,
+            2,
+            0
+          ],
+          "texture": "#all"
+        },
+        "down": {
+          "uv": [
+            10,
+            0,
+            6,
+            2
+          ],
+          "texture": "#all",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "name": "frills_02",
+      "from": [
+        16,
+        0.05,
+        0
+      ],
+      "to": [
+        19,
+        0.05,
+        8
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            12.75,
+            6.25,
+            12,
+            4.25
+          ],
+          "texture": "#all",
+          "cullface": "east"
+        },
+        "down": {
+          "uv": [
+            13.5,
+            4.25,
+            12.75,
+            6.25
+          ],
+          "texture": "#all",
+          "cullface": "east"
+        }
+      }
+    },
+    {
+      "name": "frills_03",
+      "from": [
+        -3,
+        0.065,
+        0
+      ],
+      "to": [
+        0,
+        0.065,
+        8
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            14.25,
+            6.25,
+            13.5,
+            4.25
+          ],
+          "texture": "#all",
+          "cullface": "west"
+        },
+        "down": {
+          "uv": [
+            15,
+            4.25,
+            14.25,
+            6.25
+          ],
+          "texture": "#all",
+          "cullface": "west"
+        }
+      }
+    }
+  ],
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        30,
+        340,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        30,
+        340,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        -2
+      ],
+      "scale": [
+        0.23,
+        0.23,
+        0.23
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        10,
+        -8
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        340,
+        0
+      ],
+      "translation": [
+        2,
+        3,
+        0
+      ],
+      "scale": [
+        0.5325,
+        0.5325,
+        0.5325
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        2
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        270,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        4,
+        -2
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "on_shelf": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        14.5,
+        2.5
+      ],
+      "scale": [
+        0.9375,
+        0.9375,
+        0.9375
+      ]
+    }
+  }
+}

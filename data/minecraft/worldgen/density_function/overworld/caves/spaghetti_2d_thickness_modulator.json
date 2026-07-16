@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:cache_once",
+  "input": {
+    "type": "minecraft:add",
+    "left": -0.95,
+    "right": {
+      "type": "minecraft:mul",
+      "left": -0.35000000000000003,
+      "right": {
+        "type": "minecraft:noise",
+        "noise": "minecraft:spaghetti_2d_thickness",
+        "xz_scale": 2.0,
+        "y_scale": 1.0
+      }
+    }
+  }
+}

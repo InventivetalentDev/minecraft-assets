@@ -1,0 +1,73 @@
+{
+  "default_block": {
+    "Name": "minecraft:stone"
+  },
+  "default_fluid": {
+    "Name": "minecraft:water",
+    "Properties": {
+      "level": "0"
+    }
+  },
+  "disable_mob_generation": false,
+  "legacy_random_source": true,
+  "material_rule": "minecraft:overworld_caves",
+  "noise": {
+    "height": 192,
+    "min_y": -64,
+    "size_horizontal": 1,
+    "size_vertical": 2
+  },
+  "noise_router": {
+    "continents": 0.0,
+    "depth": {
+      "type": "minecraft:add",
+      "left": {
+        "type": "minecraft:squeeze",
+        "input": {
+          "type": "minecraft:interpolated",
+          "input": {
+            "type": "minecraft:mul",
+            "left": 0.64,
+            "right": {
+              "type": "minecraft:blend_density",
+              "input": {
+                "type": "minecraft:lerp",
+                "alpha": {
+                  "type": "minecraft:y_clamped_gradient",
+                  "from_value": 0.0,
+                  "from_y": -72,
+                  "to_value": 1.0,
+                  "to_y": -40
+                },
+                "first": 2.5,
+                "second": {
+                  "type": "minecraft:lerp",
+                  "alpha": {
+                    "type": "minecraft:y_clamped_gradient",
+                    "from_value": 1.0,
+                    "from_y": 104,
+                    "to_value": 0.0,
+                    "to_y": 128
+                  },
+                  "first": 0.9375,
+                  "second": "minecraft:nether/base_3d_noise"
+                }
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "type": "minecraft:beardifier"
+      }
+    },
+    "erosion": 0.0,
+    "final_density": 0.0,
+    "preliminary_surface_level": 0.0,
+    "ridges": 0.0,
+    "temperature": 0.0,
+    "vegetation": 0.0
+  },
+  "sea_level": 32,
+  "spawn_target": []
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:number_dispatcher",
+  "cases": [
+    {
+      "condition": {
+        "type": "minecraft:match_block",
+        "blocks": "minecraft:composter",
+        "state": {
+          "level": "0"
+        }
+      },
+      "number_provider": 1.0
+    }
+  ],
+  "default": {
+    "type": "minecraft:weighted_list",
+    "distribution": [
+      {
+        "data": 1.0,
+        "weight": 65
+      },
+      {
+        "data": 0.0,
+        "weight": 35
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/firework_star",
+    "layer1": "minecraft:item/firework_star_overlay"
+  }
+}

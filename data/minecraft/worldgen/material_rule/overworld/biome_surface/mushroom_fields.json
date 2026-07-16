@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:block",
+  "result_state": {
+    "Name": "minecraft:mycelium",
+    "Properties": {
+      "snowy": "false"
+    }
+  }
+}
