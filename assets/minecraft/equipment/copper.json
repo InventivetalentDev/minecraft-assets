@@ -1,0 +1,32 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "minecraft:copper"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "minecraft:copper"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "minecraft:copper"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:copper"
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "minecraft:copper"
+      }
+    ]
+  },
+  "trim_palette_replacements": {
+    "minecraft:trim/copper": "minecraft:trim/copper_darker"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "type": "minecraft:add",
+  "left": {
+    "type": "minecraft:min",
+    "left": {
+      "type": "minecraft:squeeze",
+      "input": {
+        "type": "minecraft:interpolated",
+        "input": {
+          "type": "minecraft:mul",
+          "left": 0.64,
+          "right": {
+            "type": "minecraft:blend_density",
+            "input": {
+              "type": "minecraft:lerp",
+              "alpha": {
+                "type": "minecraft:y_clamped_gradient",
+                "from_value": 0.0,
+                "from_y": -64,
+                "to_value": 1.0,
+                "to_y": -40
+              },
+              "first": 0.1171875,
+              "second": {
+                "type": "minecraft:lerp",
+                "alpha": {
+                  "type": "minecraft:y_clamped_gradient",
+                  "from_value": 1.0,
+                  "from_y": 240,
+                  "to_value": 0.0,
+                  "to_y": 256
+                },
+                "first": -0.078125,
+                "second": {
+                  "type": "minecraft:range_choice",
+                  "input": "minecraft:overworld_large_biomes/sloped_cheese",
+                  "max_exclusive": 1.5625,
+                  "min_inclusive": -1000000.0,
+                  "when_in_range": {
+                    "type": "minecraft:min",
+                    "left": "minecraft:overworld_large_biomes/sloped_cheese",
+                    "right": {
+                      "type": "minecraft:mul",
+                      "left": 5.0,
+                      "right": "minecraft:overworld/caves/entrances"
+                    }
+                  },
+                  "when_out_of_range": {
+                    "type": "minecraft:max",
+                    "left": {
+                      "type": "minecraft:min",
+                      "left": {
+                        "type": "minecraft:min",
+                        "left": {
+                          "type": "minecraft:add",
+                          "left": {
+                            "type": "minecraft:mul",
+                            "left": 4.0,
+                            "right": {
+                              "type": "minecraft:square",
+                              "input": {
+                                "type": "minecraft:noise",
+                                "noise": "minecraft:cave_layer",
+                                "xz_scale": 1.0,
+                                "y_scale": 8.0
+                              }
+                            }
+                          },
+                          "right": {
+                            "type": "minecraft:add",
+                            "left": {
+                              "type": "minecraft:clamp",
+                              "input": {
+                                "type": "minecraft:add",
+                                "left": 0.27,
+                                "right": {
+                                  "type": "minecraft:noise",
+                                  "noise": "minecraft:cave_cheese",
+                                  "xz_scale": 1.0,
+                                  "y_scale": 0.6666666666666666
+                                }
+                              },
+                              "max": 1.0,
+                              "min": -1.0
+                            },
+                            "right": {
+                              "type": "minecraft:clamp",
+                              "input": {
+                                "type": "minecraft:add",
+                                "left": 1.5,
+                                "right": {
+                                  "type": "minecraft:mul",
+                                  "left": -0.64,
+                                  "right": "minecraft:overworld_large_biomes/sloped_cheese"
+                                }
+                              },
+                              "max": 0.5,
+                              "min": 0.0
+                            }
+                          }
+                        },
+                        "right": "minecraft:overworld/caves/entrances"
+                      },
+                      "right": {
+                        "type": "minecraft:add",
+                        "left": "minecraft:overworld/caves/spaghetti_2d",
+                        "right": "minecraft:overworld/caves/spaghetti_roughness_function"
+                      }
+                    },
+                    "right": {
+                      "type": "minecraft:range_choice",
+                      "input": "minecraft:overworld/caves/pillars",
+                      "max_exclusive": 0.03,
+                      "min_inclusive": -1000000.0,
+                      "when_in_range": -1000000.0,
+                      "when_out_of_range": "minecraft:overworld/caves/pillars"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "right": "minecraft:overworld/caves/noodle"
+  },
+  "right": {
+    "type": "minecraft:beardifier"
+  }
+}

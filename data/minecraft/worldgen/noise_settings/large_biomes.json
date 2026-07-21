@@ -1,0 +1,153 @@
+{
+  "aquifers": {
+    "barrier": {
+      "type": "minecraft:noise",
+      "noise": "minecraft:aquifer_barrier",
+      "xz_scale": 1.0,
+      "y_scale": 0.5
+    },
+    "exclusion": {
+      "type": "minecraft:min",
+      "left": {
+        "type": "minecraft:sub",
+        "left": -0.22499999403953552,
+        "right": "minecraft:overworld_large_biomes/erosion"
+      },
+      "right": {
+        "type": "minecraft:max",
+        "left": {
+          "type": "minecraft:sub",
+          "left": "minecraft:overworld_large_biomes/depth",
+          "right": 0.8999999761581421
+        },
+        "right": 0.0
+      }
+    },
+    "fluid_level_floodedness": {
+      "type": "minecraft:noise",
+      "noise": "minecraft:aquifer_fluid_level_floodedness",
+      "xz_scale": 1.0,
+      "y_scale": 0.67
+    },
+    "fluid_level_spread": {
+      "type": "minecraft:noise",
+      "noise": "minecraft:aquifer_fluid_level_spread",
+      "xz_scale": 1.0,
+      "y_scale": 0.7142857142857143
+    },
+    "lava": {
+      "type": "minecraft:noise",
+      "noise": "minecraft:aquifer_lava",
+      "xz_scale": 1.0,
+      "y_scale": 1.0
+    },
+    "surface_level": "minecraft:overworld_large_biomes/preliminary_surface_level"
+  },
+  "default_block": {
+    "Name": "minecraft:stone"
+  },
+  "default_fluid": {
+    "Name": "minecraft:water",
+    "Properties": {
+      "level": "0"
+    }
+  },
+  "disable_mob_generation": false,
+  "legacy_random_source": false,
+  "material_rule": "minecraft:overworld",
+  "noise": {
+    "height": 384,
+    "min_y": -64,
+    "size_horizontal": 1,
+    "size_vertical": 2
+  },
+  "noise_router": {
+    "continents": "minecraft:overworld_large_biomes/continents",
+    "depth": "minecraft:overworld_large_biomes/depth",
+    "erosion": "minecraft:overworld_large_biomes/erosion",
+    "final_density": "minecraft:overworld_large_biomes/final_density",
+    "preliminary_surface_level": "minecraft:overworld_large_biomes/preliminary_surface_level",
+    "ridges": "minecraft:overworld/ridges",
+    "temperature": "minecraft:overworld_large_biomes/temperature",
+    "vegetation": "minecraft:overworld_large_biomes/vegetation"
+  },
+  "ore_veins": [
+    {
+      "density": "minecraft:overworld/ore_vein/copper_density",
+      "filler_block": {
+        "Name": "minecraft:granite"
+      },
+      "filler_gap": "minecraft:overworld/ore_vein/gap",
+      "ore_block": {
+        "Name": "minecraft:copper_ore"
+      },
+      "raw_ore_block": {
+        "Name": "minecraft:raw_copper_block"
+      },
+      "raw_ore_chance": 0.02,
+      "richness": "minecraft:overworld/ore_vein/richness"
+    },
+    {
+      "density": "minecraft:overworld/ore_vein/iron_density",
+      "filler_block": {
+        "Name": "minecraft:tuff"
+      },
+      "filler_gap": "minecraft:overworld/ore_vein/gap",
+      "ore_block": {
+        "Name": "minecraft:deepslate_iron_ore"
+      },
+      "raw_ore_block": {
+        "Name": "minecraft:raw_iron_block"
+      },
+      "raw_ore_chance": 0.02,
+      "richness": "minecraft:overworld/ore_vein/richness"
+    }
+  ],
+  "sea_level": 63,
+  "spawn_target": [
+    {
+      "minecraft:overworld/ridges": [
+        -1.0,
+        -0.16
+      ],
+      "minecraft:overworld_large_biomes/continents": [
+        -0.11,
+        1.0
+      ],
+      "minecraft:overworld_large_biomes/erosion": [
+        -1.0,
+        1.0
+      ],
+      "minecraft:overworld_large_biomes/temperature": [
+        -1.0,
+        1.0
+      ],
+      "minecraft:overworld_large_biomes/vegetation": [
+        -1.0,
+        1.0
+      ]
+    },
+    {
+      "minecraft:overworld/ridges": [
+        0.16,
+        1.0
+      ],
+      "minecraft:overworld_large_biomes/continents": [
+        -0.11,
+        1.0
+      ],
+      "minecraft:overworld_large_biomes/erosion": [
+        -1.0,
+        1.0
+      ],
+      "minecraft:overworld_large_biomes/temperature": [
+        -1.0,
+        1.0
+      ],
+      "minecraft:overworld_large_biomes/vegetation": [
+        -1.0,
+        1.0
+      ]
+    }
+  ]
+}

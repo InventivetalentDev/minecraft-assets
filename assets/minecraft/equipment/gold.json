@@ -1,0 +1,32 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "minecraft:gold"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "minecraft:gold"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "minecraft:gold"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:gold"
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "minecraft:gold"
+      }
+    ]
+  },
+  "trim_palette_replacements": {
+    "minecraft:trim/gold": "minecraft:trim/gold_darker"
+  }
+}
