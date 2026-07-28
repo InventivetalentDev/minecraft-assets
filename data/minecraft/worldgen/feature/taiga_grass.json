@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:simple_block",
+  "to_place": {
+    "type": "minecraft:weighted_state_provider",
+    "entries": [
+      {
+        "data": {
+          "Name": "minecraft:short_grass"
+        },
+        "weight": 1
+      },
+      {
+        "data": {
+          "Name": "minecraft:fern"
+        },
+        "weight": 4
+      }
+    ]
+  }
+}
