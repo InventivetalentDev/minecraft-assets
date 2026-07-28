@@ -4583,6 +4583,7 @@
     "item.minecraft.fire_charge": "Karg tan",
     "item.minecraft.firework_rocket": "Fuc'hell tan-arvest",
     "item.minecraft.firework_rocket.flight": "Padelezh an nijadenn:",
+    "item.minecraft.firework_rocket.flight_duration": "Padelezh an nijadenn: %s",
     "item.minecraft.firework_rocket.multiple_stars": "%s × %s",
     "item.minecraft.firework_rocket.single_star": "%s",
     "item.minecraft.firework_star": "Steredenn tan-arvest",

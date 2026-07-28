@@ -4583,6 +4583,7 @@
     "item.minecraft.fire_charge": "Ọkụ ọkụ",
     "item.minecraft.firework_rocket": "Igwe ọkụ ọkụ",
     "item.minecraft.firework_rocket.flight": "Oge lightgbọelu:",
+    "item.minecraft.firework_rocket.flight_duration": "Flight Duration: %s",
     "item.minecraft.firework_rocket.multiple_stars": "%s x %s",
     "item.minecraft.firework_rocket.single_star": "%s",
     "item.minecraft.firework_star": "Igwe ọkụ ọkụ",

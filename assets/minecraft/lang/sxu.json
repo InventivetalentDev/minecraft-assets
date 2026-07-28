@@ -4582,6 +4582,7 @@
     "item.minecraft.fire_charge": "Feuorrguchl",
     "item.minecraft.firework_rocket": "Feuorrwergsragede",
     "item.minecraft.firework_rocket.flight": "Flugdauorr:",
+    "item.minecraft.firework_rocket.flight_duration": "Flugdauer: %s",
     "item.minecraft.firework_rocket.multiple_stars": "%s× %s",
     "item.minecraft.firework_rocket.single_star": "%s",
     "item.minecraft.firework_star": "Feuorrwergsschdern",

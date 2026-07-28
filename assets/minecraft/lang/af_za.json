@@ -4583,6 +4583,7 @@
     "item.minecraft.fire_charge": "Vuurbal Wapenprent",
     "item.minecraft.firework_rocket": "Vuurpyl",
     "item.minecraft.firework_rocket.flight": "Vlug Duur:",
+    "item.minecraft.firework_rocket.flight_duration": "Flight Duration: %s",
     "item.minecraft.firework_rocket.multiple_stars": "%s x %s",
     "item.minecraft.firework_rocket.single_star": "%s",
     "item.minecraft.firework_star": "Vuurwerk Ster",

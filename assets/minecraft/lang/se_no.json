@@ -4583,6 +4583,7 @@
     "item.minecraft.fire_charge": "Buolligeađgi",
     "item.minecraft.firework_rocket": "Rakeahtta",
     "item.minecraft.firework_rocket.flight": "Girdináigi:",
+    "item.minecraft.firework_rocket.flight_duration": "Flight Duration: %s",
     "item.minecraft.firework_rocket.multiple_stars": "%s x %s",
     "item.minecraft.firework_rocket.single_star": "%s",
     "item.minecraft.firework_star": "Rahkeahttanásti",

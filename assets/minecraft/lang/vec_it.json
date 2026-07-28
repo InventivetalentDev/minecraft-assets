@@ -4583,6 +4583,7 @@
     "item.minecraft.fire_charge": "Carga de fogo",
     "item.minecraft.firework_rocket": "Rocheta pirotècnega",
     "item.minecraft.firework_rocket.flight": "Durada de volo:",
+    "item.minecraft.firework_rocket.flight_duration": "Flight Duration: %s",
     "item.minecraft.firework_rocket.multiple_stars": "%s x %s",
     "item.minecraft.firework_rocket.single_star": "%s",
     "item.minecraft.firework_star": "Steła pirotècnega",

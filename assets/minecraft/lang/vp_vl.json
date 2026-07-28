@@ -4583,6 +4583,7 @@
     "item.minecraft.fire_charge": "Honoozeus",
     "item.minecraft.firework_rocket": "Honomjachstrela",
     "item.minecraft.firework_rocket.flight": "Tidatai fu ljeta:",
+    "item.minecraft.firework_rocket.flight_duration": "Flight Duration: %s",
     "item.minecraft.firework_rocket.multiple_stars": "%s x %s",
     "item.minecraft.firework_rocket.single_star": "%s",
     "item.minecraft.firework_star": "Bamzvezda",

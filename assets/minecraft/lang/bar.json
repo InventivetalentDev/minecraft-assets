@@ -4583,6 +4583,7 @@
     "item.minecraft.fire_charge": "Feierboi",
     "item.minecraft.firework_rocket": "Feierwerksraketn",
     "item.minecraft.firework_rocket.flight": "Dauer vom Fliang:",
+    "item.minecraft.firework_rocket.flight_duration": "Flugdauer: %s",
     "item.minecraft.firework_rocket.multiple_stars": "%s x %s",
     "item.minecraft.firework_rocket.single_star": "%s",
     "item.minecraft.firework_star": "Feierwerksstern",

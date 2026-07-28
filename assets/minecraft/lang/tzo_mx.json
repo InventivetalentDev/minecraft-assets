@@ -4583,6 +4583,7 @@
     "item.minecraft.fire_charge": "Nojel k'ok'",
     "item.minecraft.firework_rocket": "Sibak yolonk'ok'",
     "item.minecraft.firework_rocket.flight": "Sjalijel vilel: %s",
+    "item.minecraft.firework_rocket.flight_duration": "Flight Duration: %s",
     "item.minecraft.firework_rocket.multiple_stars": "%s x %s",
     "item.minecraft.firework_rocket.single_star": "%s",
     "item.minecraft.firework_star": "Sibak yolok'ok'",

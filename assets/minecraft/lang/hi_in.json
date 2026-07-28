@@ -4583,6 +4583,7 @@
     "item.minecraft.fire_charge": "आग प्रभार",
     "item.minecraft.firework_rocket": "आतिशबाजी रॉकेट",
     "item.minecraft.firework_rocket.flight": "उड़ान की अवधि:",
+    "item.minecraft.firework_rocket.flight_duration": "Flight Duration: %s",
     "item.minecraft.firework_rocket.multiple_stars": "%s x %s",
     "item.minecraft.firework_rocket.single_star": "%s",
     "item.minecraft.firework_star": "आतिशबाजी सितारा",

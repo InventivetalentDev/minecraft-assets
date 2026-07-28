@@ -4583,6 +4583,7 @@
     "item.minecraft.fire_charge": "Вогненны шар",
     "item.minecraft.firework_rocket": "Феерверк",
     "item.minecraft.firework_rocket.flight": "Працягласць палёту:",
+    "item.minecraft.firework_rocket.flight_duration": "Працягласць палёту: %s",
     "item.minecraft.firework_rocket.multiple_stars": "%s x %s",
     "item.minecraft.firework_rocket.single_star": "%s",
     "item.minecraft.firework_star": "Набой феерверку",
