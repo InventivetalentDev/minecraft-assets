@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:sequence",
+  "sequence": [
+    "minecraft:overworld/surface",
+    "minecraft:overworld/underground"
+  ]
+}

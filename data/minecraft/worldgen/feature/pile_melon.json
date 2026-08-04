@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:block_pile",
+  "state_provider": {
+    "type": "minecraft:simple_state_provider",
+    "state": "minecraft:melon"
+  }
+}
