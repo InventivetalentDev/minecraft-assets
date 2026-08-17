@@ -1,0 +1,1 @@
+{"directories":[],"files":["animation_sprite.glsl","chunksection.glsl","dynamictransforms.glsl","fog.glsl","globals.glsl","light.glsl","matrix.glsl","oit.glsl","oit_add_transmittance.glsl","oit_common.glsl","oit_depth_bounds.glsl","oit_depth_sample.glsl","oit_sample.glsl","projection.glsl","sample_lightmap.glsl","terrainglobals.glsl","texture_sampling.glsl"]}

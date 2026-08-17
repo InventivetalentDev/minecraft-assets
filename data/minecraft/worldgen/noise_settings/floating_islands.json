@@ -1,0 +1,68 @@
+{
+  "default_block": "minecraft:stone",
+  "default_fluid": "minecraft:water",
+  "disable_mob_generation": false,
+  "legacy_random_source": true,
+  "material_rule": "minecraft:overworld_floating_islands",
+  "noise": {
+    "height": 256,
+    "min_y": 0,
+    "size_horizontal": 2,
+    "size_vertical": 1
+  },
+  "noise_router": {
+    "continents": 0.0,
+    "depth": 0.0,
+    "erosion": 0.0,
+    "final_density": {
+      "type": "minecraft:add",
+      "left": {
+        "type": "minecraft:squeeze",
+        "input": {
+          "type": "minecraft:interpolated",
+          "input": {
+            "type": "minecraft:mul",
+            "left": {
+              "type": "minecraft:blend_density",
+              "input": {
+                "type": "minecraft:lerp",
+                "alpha": {
+                  "type": "minecraft:gradient",
+                  "axis": "y",
+                  "from_coordinate": 4,
+                  "from_value": 0.0,
+                  "to_coordinate": 32,
+                  "to_value": 1.0
+                },
+                "first": -0.234375,
+                "second": {
+                  "type": "minecraft:lerp",
+                  "alpha": {
+                    "type": "minecraft:gradient",
+                    "axis": "y",
+                    "from_coordinate": 184,
+                    "from_value": 1.0,
+                    "to_coordinate": 440,
+                    "to_value": 0.0
+                  },
+                  "first": -23.4375,
+                  "second": "minecraft:end/base_3d_noise"
+                }
+              }
+            },
+            "right": 0.64
+          }
+        }
+      },
+      "right": {
+        "type": "minecraft:beardifier"
+      }
+    },
+    "preliminary_surface_level": 0.0,
+    "ridges": 0.0,
+    "temperature": 0.0,
+    "vegetation": 0.0
+  },
+  "sea_level": -64,
+  "spawn_target": []
+}

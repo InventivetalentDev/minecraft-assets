@@ -1,0 +1,295 @@
+{
+  "gui_light": "front",
+  "textures": {
+    "all": "minecraft:block/straw_bed",
+    "particle": "minecraft:block/straw_bed_particle"
+  },
+  "elements": [
+    {
+      "name": "base",
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        4,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            10.25,
+            8,
+            11.25
+          ],
+          "texture": "#all",
+          "cullface": "north"
+        },
+        "east": {
+          "uv": [
+            0,
+            10.25,
+            4,
+            11.25
+          ],
+          "texture": "#all",
+          "cullface": "east"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.25,
+            12,
+            11.25
+          ],
+          "texture": "#all",
+          "cullface": "west"
+        },
+        "up": {
+          "uv": [
+            8,
+            10.25,
+            4,
+            6.25
+          ],
+          "texture": "#all"
+        },
+        "down": {
+          "uv": [
+            12,
+            6.25,
+            8,
+            10.25
+          ],
+          "texture": "#all",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "name": "frills_03",
+      "from": [
+        0,
+        0.125,
+        -3
+      ],
+      "to": [
+        16,
+        0.125,
+        0
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            11.25,
+            4,
+            12
+          ],
+          "rotation": 180,
+          "texture": "#all",
+          "cullface": "north"
+        },
+        "down": {
+          "uv": [
+            0,
+            12.75,
+            4,
+            12
+          ],
+          "rotation": 180,
+          "texture": "#all",
+          "cullface": "north"
+        }
+      }
+    },
+    {
+      "name": "frills_04",
+      "from": [
+        16,
+        0.105,
+        0
+      ],
+      "to": [
+        19,
+        0.105,
+        16
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            11.999999999999998,
+            6.25,
+            12.749999999999998,
+            10.25
+          ],
+          "rotation": 180,
+          "texture": "#all",
+          "cullface": "east"
+        },
+        "down": {
+          "uv": [
+            12.749999999999998,
+            10.25,
+            13.499999999999998,
+            6.25
+          ],
+          "rotation": 180,
+          "texture": "#all",
+          "cullface": "east"
+        }
+      }
+    },
+    {
+      "name": "frills_05",
+      "from": [
+        -3,
+        0.115,
+        0
+      ],
+      "to": [
+        0,
+        0.115,
+        16
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            13.499999999999998,
+            10.25,
+            14.249999999999998,
+            6.25
+          ],
+          "rotation": 180,
+          "texture": "#all",
+          "cullface": "west"
+        },
+        "down": {
+          "uv": [
+            14.249999999999998,
+            6.25,
+            14.999999999999998,
+            10.25
+          ],
+          "rotation": 180,
+          "texture": "#all",
+          "cullface": "west"
+        }
+      }
+    }
+  ],
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        30,
+        340,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        30,
+        340,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        -2
+      ],
+      "scale": [
+        0.23,
+        0.23,
+        0.23
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        10,
+        -8
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        340,
+        0
+      ],
+      "translation": [
+        2,
+        3,
+        0
+      ],
+      "scale": [
+        0.5325,
+        0.5325,
+        0.5325
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        2
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        270,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        4,
+        -2
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "on_shelf": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        14.5,
+        2.5
+      ],
+      "scale": [
+        0.9375,
+        0.9375,
+        0.9375
+      ]
+    }
+  }
+}

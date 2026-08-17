@@ -1,0 +1,52 @@
+{
+  "type": "minecraft:block_column",
+  "allowed_placement": {
+    "type": "minecraft:all_of",
+    "predicates": [
+      {
+        "type": "minecraft:matching_blocks",
+        "blocks": "minecraft:water"
+      },
+      {
+        "type": "minecraft:matching_blocks",
+        "blocks": "minecraft:water",
+        "offset": [
+          0,
+          1,
+          0
+        ]
+      }
+    ]
+  },
+  "direction": "up",
+  "layers": [
+    {
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": 9,
+        "min_inclusive": 0
+      },
+      "provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": "minecraft:kelp_plant"
+      }
+    },
+    {
+      "height": 1,
+      "provider": {
+        "type": "minecraft:randomized_int_state_provider",
+        "property": "age",
+        "source": {
+          "type": "minecraft:simple_state_provider",
+          "state": "minecraft:kelp"
+        },
+        "values": {
+          "type": "minecraft:uniform",
+          "max_inclusive": 23,
+          "min_inclusive": 20
+        }
+      }
+    }
+  ],
+  "prioritize_tip": true
+}
