@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:conditional",
+  "condition": "minecraft:block/fast_cooking",
+  "on_false": {
+    "type": "minecraft:product",
+    "operands": [
+      50.0,
+      "minecraft:cooking/normal_burn_time_multiplier"
+    ]
+  },
+  "on_true": {
+    "type": "minecraft:product",
+    "operands": [
+      50.0,
+      "minecraft:cooking/fast_burn_time_multiplier"
+    ]
+  }
+}
