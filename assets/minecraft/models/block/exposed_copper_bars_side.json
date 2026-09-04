@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_bars_side",
+  "textures": {
+    "bars": "minecraft:block/exposed_copper_bars",
+    "edge": "minecraft:block/exposed_copper_bars"
+  }
+}
