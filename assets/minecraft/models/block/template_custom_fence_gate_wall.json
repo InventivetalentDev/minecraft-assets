@@ -1,0 +1,102 @@
+{
+    "ambientocclusion": true,
+    "textures": {
+        "particle": "#particle"
+    },
+    "elements": [
+        {
+            "name": "Left-hand post",
+            "from": [0, 2, 7],
+            "to": [2, 13, 9],
+            "faces": {
+                "north": {"uv": [14, 2, 16, 13], "texture": "#texture"},
+                "east": {"uv": [14, 2, 16, 13], "texture": "#texture"},
+                "south": {"uv": [14, 2, 16, 13], "texture": "#texture"},
+                "west": {"uv": [14, 2, 16, 13], "texture": "#texture", "cullface": "west"},
+                "up": {"uv": [14, 0, 16, 2], "texture": "#texture"},
+                "down": {"uv": [16, 13, 14, 15], "texture": "#texture"}
+            }
+        },
+        {
+            "name": "Right-hand post",
+            "from": [14, 2, 7],
+            "to": [16, 13, 9],
+            "faces": {
+                "north": {"uv": [0, 2, 2, 13], "texture": "#texture"},
+                "east": {"uv": [0, 2, 2, 13], "texture": "#texture", "cullface": "east"},
+                "south": {"uv": [0, 2, 2, 13], "texture": "#texture"},
+                "west": {"uv": [0, 2, 2, 13], "texture": "#texture"},
+                "up": {"uv": [0, 0, 2, 2], "texture": "#texture"},
+                "down": {"uv": [2, 13, 0, 15], "texture": "#texture"}
+            }
+        },
+        {
+            "name": "Inner vertical post of left-hand gate door",
+            "from": [6, 3, 7],
+            "to": [8, 12, 9],
+            "faces": {
+                "north": {"uv": [8, 3, 10, 12], "texture": "#texture"},
+                "south": {"uv": [6, 3, 8, 12], "texture": "#texture"},
+                "west": {"uv": [8, 3, 10, 12], "texture": "#texture"},
+                "up": {"uv": [8, 1, 10, 3], "texture": "#texture"},
+                "down": {"uv": [8, 14, 10, 12], "texture": "#texture"}
+            }
+        },
+        {
+            "name": "Inner vertical post of right-hand gate door",
+            "from": [8, 3, 7],
+            "to": [10, 12, 9],
+            "faces": {
+                "north": {"uv": [6, 3, 8, 12], "texture": "#texture"},
+                "east": {"uv": [6, 3, 8, 12], "texture": "#texture"},
+                "south": {"uv": [8, 3, 10, 12], "texture": "#texture"},
+                "up": {"uv": [6, 1, 8, 3], "texture": "#texture"},
+                "down": {"uv": [6, 14, 8, 12], "texture": "#texture"}
+            }
+        },
+        {
+            "name": "Lower horizontal bar of left-hand gate door",
+            "from": [2, 3, 7],
+            "to": [6, 6, 9],
+            "faces": {
+                "north": {"uv": [10, 3, 14, 6], "texture": "#texture"},
+                "south": {"uv": [10, 9, 14, 12], "texture": "#texture"},
+                "up": {"uv": [10, 1, 14, 3], "texture": "#texture"},
+                "down": {"uv": [10, 14, 14, 12], "texture": "#texture"}
+            }
+        },
+        {
+            "name": "Upper horizontal bar of left-hand gate door",
+            "from": [2, 9, 7],
+            "to": [6, 12, 9],
+            "faces": {
+                "north": {"uv": [10, 3, 14, 6], "texture": "#texture"},
+                "south": {"uv": [10, 9, 14, 12], "texture": "#texture"},
+                "up": {"uv": [10, 1, 14, 3], "texture": "#texture"},
+                "down": {"uv": [10, 14, 14, 12], "texture": "#texture"}
+            }
+        },
+        {
+            "name": "Lower horizontal bar of right-hand gate door",
+            "from": [10, 3, 7],
+            "to": [14, 6, 9],
+            "faces": {
+                "north": {"uv": [2, 3, 6, 6], "texture": "#texture"},
+                "south": {"uv": [2, 9, 6, 12], "texture": "#texture"},
+                "up": {"uv": [2, 1, 6, 3], "texture": "#texture"},
+                "down": {"uv": [2, 14, 6, 12], "texture": "#texture"}
+            }
+        },
+        {
+            "name": "Upper horizontal bar of right-hand gate door",
+            "from": [10, 9, 7],
+            "to": [14, 12, 9],
+            "faces": {
+                "north": {"uv": [2, 3, 6, 6], "texture": "#texture"},
+                "south": {"uv": [2, 9, 6, 12], "texture": "#texture"},
+                "up": {"uv": [2, 1, 6, 3], "texture": "#texture"},
+                "down": {"uv": [2, 14, 6, 12], "texture": "#texture"}
+            }
+        }
+    ]
+}
