@@ -5965,7 +5965,7 @@
     "mco.selectServer.expires.days": "Срок действия — %s дней",
     "mco.selectServer.expires.soon": "Срок действия скоро истекает",
     "mco.selectServer.freeTrial": "Пробный период",
-    "mco.selectServer.joinCode": "Код присоединения",
+    "mco.selectServer.joinCode": "Код подключения",
     "mco.selectServer.joinCode.hint": "Введите код подключения",
     "mco.selectServer.joinCode.invalid": "Введённый код недействителен.",
     "mco.selectServer.joinCode.select": "Подключиться",

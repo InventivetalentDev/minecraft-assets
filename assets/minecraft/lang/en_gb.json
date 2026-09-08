@@ -6554,7 +6554,7 @@
     "options.languageAccuracyWarning": "(Language translations may not be 100%% accurate)",
     "options.languageWarning": "Language translations may not be 100%% accurate.",
     "options.macFullscreenMenuVisibility": "Menu/Dock Visibility",
-    "options.macFullscreenMenuVisibility.tooltip": "Whether the macOS Menu bar and Dock can be revealed by moving the mouse to the edge of the screen while in non-exclusive fullscreen.",
+    "options.macFullscreenMenuVisibility.tooltip": "Whether the macOS Menu bar and Dock can be revealed by moving the mouse to the edge of the screen whilst in non-exclusive fullscreen.",
     "options.mainHand": "Main Hand",
     "options.mainHand.left": "Left",
     "options.mainHand.right": "Right",

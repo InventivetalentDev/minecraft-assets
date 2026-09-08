@@ -6554,7 +6554,7 @@
     "options.languageAccuracyWarning": "(Куҫарусенче йӑнӑшсем пулма пултараҫҫӗ)",
     "options.languageWarning": "Куҫарусенче йӑнӑшсем пулма пултараҫҫӗ",
     "options.macFullscreenMenuVisibility": "Меню/Док курӑнаслӑхӗ",
-    "options.macFullscreenMenuVisibility.tooltip": "Whether the macOS Menu bar and Dock can be revealed by moving the mouse to the edge of the screen while in non-exclusive fullscreen.",
+    "options.macFullscreenMenuVisibility.tooltip": "Шӑши эксклюзивлӑ тулли экран сӳнтернӗ чухне экран чикки патне куҫарсан macOS меню панелӗпе докне кӑтартма пултарнине палӑртать.",
     "options.mainHand": "Тӗп алӑ",
     "options.mainHand.left": "Сулахай",
     "options.mainHand.right": "Сылтӑм",

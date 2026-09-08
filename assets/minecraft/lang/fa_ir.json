@@ -6554,7 +6554,7 @@
     "options.languageAccuracyWarning": "(ترجمه های زبان ممکن است ۱۰۰٪ درست نباشد)",
     "options.languageWarning": "ترجمه هایزبان ممکن است ۱۰۰٪ درست نباشد",
     "options.macFullscreenMenuVisibility": "وضوح منو/داک",
-    "options.macFullscreenMenuVisibility.tooltip": "Whether the macOS Menu bar and Dock can be revealed by moving the mouse to the edge of the screen while in non-exclusive fullscreen.",
+    "options.macFullscreenMenuVisibility.tooltip": "اینکه آیا با بردن موس به لبه صفحه در حالت تمام‌ صفحه غیر انحصاری میتوان نوار منو و داک MacOS را نمایان کرد یا خیر.",
     "options.mainHand": "دست اصلی",
     "options.mainHand.left": "چپ",
     "options.mainHand.right": "راست",

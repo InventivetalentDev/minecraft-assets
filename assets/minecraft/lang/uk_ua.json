@@ -3315,7 +3315,7 @@
     "connect.negotiating": "З’єднання…",
     "connect.p2p.establishing": "Установлення з’єднання…",
     "connect.p2p.failed.generic": "Не вдалось під’єднатись до гравця",
-    "connect.p2p.failed.signaling": "Не вдалось з’єднатись.\nСпробуйте знову пізніше.",
+    "connect.p2p.failed.signaling": "Неможливо з'єднатися зараз.\nСпробуйте пізніше.",
     "connect.p2p.failed.timeout": "Вичерпано час запиту на з’єднання",
     "connect.p2p.failed.unreachable": "Гравець недосяжний",
     "connect.reconfiging": "Переконфігурація…",
