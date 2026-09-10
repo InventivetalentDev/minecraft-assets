@@ -6554,7 +6554,7 @@
     "options.languageAccuracyWarning": "(Det kan hende omsetjingane ikkje er 100%% rette)",
     "options.languageWarning": "Det hender at omsetjingane ikkje er 100%% rette",
     "options.macFullscreenMenuVisibility": "Synlighet av menylinje/Dock",
-    "options.macFullscreenMenuVisibility.tooltip": "Om menylinjen og Dock på macOS kan dukke opp ved å flytte musen til kanten av skjermen mens ekslusiv fullskjerm er avslått.",
+    "options.macFullscreenMenuVisibility.tooltip": "Om menylinjen og Dock på macOS kan dukke opp mens ekslusiv fullskjerm er avslått ved å flytte musen til kanten av skjermen.",
     "options.mainHand": "Hovudhand",
     "options.mainHand.left": "Venstre",
     "options.mainHand.right": "Høgre",

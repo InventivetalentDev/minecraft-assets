@@ -5771,7 +5771,7 @@
     "mco.configure.world.invite_codes.expiration.never": "Soha",
     "mco.configure.world.invite_codes.loading": "Meghívókódok betöltése",
     "mco.configure.world.invite_codes.subtitle": "Legfeljebb %s meghívókódot adhatsz hozzá, és megoszthatod őket, hogy mások csatlakozhassanak a Realmedhez",
-    "mco.configure.world.invite_codes.title": "Meghívókódok (%s/%s)",
+    "mco.configure.world.invite_codes.title": "Meghívókód",
     "mco.configure.world.invited": "Meghívva",
     "mco.configure.world.invited.number": "Meghívva (%s)",
     "mco.configure.world.invites.normal.tooltip": "Normál felhasználó",
