@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "llama_body": [
+      {
+        "texture": "minecraft:white"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/cinnabar_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/cinnabar"
+    },
+    "type=top": {
+      "model": "minecraft:block/cinnabar_slab_top"
+    }
+  }
+}

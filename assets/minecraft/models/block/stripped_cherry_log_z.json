@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_uv_locked_z",
+  "textures": {
+    "end": "minecraft:block/stripped_cherry_log_top",
+    "side": "minecraft:block/stripped_cherry_log"
+  }
+}

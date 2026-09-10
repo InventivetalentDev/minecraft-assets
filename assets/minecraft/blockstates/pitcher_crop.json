@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "age=0,half=lower": {
+      "model": "minecraft:block/pitcher_crop_bottom_stage_0"
+    },
+    "age=0,half=upper": {
+      "model": "minecraft:block/pitcher_crop_top_stage_0"
+    },
+    "age=1,half=lower": {
+      "model": "minecraft:block/pitcher_crop_bottom_stage_1"
+    },
+    "age=1,half=upper": {
+      "model": "minecraft:block/pitcher_crop_top_stage_1"
+    },
+    "age=2,half=lower": {
+      "model": "minecraft:block/pitcher_crop_bottom_stage_2"
+    },
+    "age=2,half=upper": {
+      "model": "minecraft:block/pitcher_crop_top_stage_2"
+    },
+    "age=3,half=lower": {
+      "model": "minecraft:block/pitcher_crop_bottom_stage_3"
+    },
+    "age=3,half=upper": {
+      "model": "minecraft:block/pitcher_crop_top_stage_3"
+    },
+    "age=4,half=lower": {
+      "model": "minecraft:block/pitcher_crop_bottom_stage_4"
+    },
+    "age=4,half=upper": {
+      "model": "minecraft:block/pitcher_crop_top_stage_4"
+    }
+  }
+}

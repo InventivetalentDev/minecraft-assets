@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/deepslate_tile_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/deepslate_tiles"
+    },
+    "type=top": {
+      "model": "minecraft:block/deepslate_tile_slab_top"
+    }
+  }
+}

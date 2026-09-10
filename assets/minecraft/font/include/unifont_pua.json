@@ -1,0 +1,8 @@
+{
+    "providers": [
+        {
+            "type": "unihex",
+            "hex_file": "minecraft:font/unifont_pua.zip"
+        }
+    ]
+}
