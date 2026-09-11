@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "tip=false": {
+      "model": "minecraft:block/pale_hanging_moss"
+    },
+    "tip=true": {
+      "model": "minecraft:block/pale_hanging_moss_tip"
+    }
+  }
+}

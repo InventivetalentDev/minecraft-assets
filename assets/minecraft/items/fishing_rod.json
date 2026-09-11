@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/fishing_rod"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/fishing_rod_cast"
+    },
+    "property": "minecraft:fishing_rod/cast"
+  }
+}

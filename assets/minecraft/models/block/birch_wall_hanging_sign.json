@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_wall_hanging_sign",
+  "textures": {
+    "all": "minecraft:block/birch_hanging_sign",
+    "particle": "minecraft:block/stripped_birch_log"
+  }
+}

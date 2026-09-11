@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "minecraft:block/reinforced_deepslate_bottom",
+    "side": "minecraft:block/reinforced_deepslate_side",
+    "top": "minecraft:block/reinforced_deepslate_top"
+  }
+}
