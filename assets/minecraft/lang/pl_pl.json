@@ -6439,7 +6439,7 @@
     "options.darkMojangStudiosBackgroundColor.tooltip": "Zmienia tło ekranu ładowania Mojang Studios na czarne.",
     "options.darknessEffectScale": "Miganie mroku",
     "options.darknessEffectScale.tooltip": "Wpływa na stopień migania efektu mroku otrzymanego od nadzorcy lub sculkowego wrzeszczydła.",
-    "options.debugGuiScale.tooltip": "Zastępuje domyślną skalę GUI nakładki debugowania wartością niezależną od globalnych ustawień gry",
+    "options.debugGuiScale.tooltip": "Nadpisuje skalę interfejsu ekranu debugowania inną wartością niż dla reszty gry",
     "options.debugGuiScale.unchanged": "Bez zmian",
     "options.difficulty": "Poz. trudności",
     "options.difficulty.easy": "Łatwy",

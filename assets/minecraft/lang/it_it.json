@@ -3577,7 +3577,7 @@
     "debug.options.profile.performance": "Profilo prestazioni",
     "debug.options.search": "Cerca...",
     "debug.options.title": "Opzioni diagnostiche",
-    "debug.options.warning": "Queste opzioni sono disponibili a scopo di collaudo. Potrebbero rallentare il tuo computer, far arrestare il gioco o rubarti la merenda appena ti distrai.",
+    "debug.options.warning": "Opzioni a scopo di collaudo: potrebbero rallentare il dispositivo, far arrestare il gioco o rubarti la merenda appena ti distrai!",
     "debug.pause.help": "F3 + Esc = Sospendi senza aprire il menù di pausa (solo se è possibile sospendere)",
     "debug.pause_focus.help": "F3 + P = Metti in pausa quando la finestra perde lo stato attivo",
     "debug.pause_focus.off": "Pausa alla perdita dello stato attivo disattivata",

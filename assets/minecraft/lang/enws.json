@@ -6690,7 +6690,7 @@
     "options.worldOptions.allow_commands.disabled.demo.tooltip": "Cannot allow commands in a demo world.",
     "options.worldOptions.allow_commands.disabled.tooltip": "Cannot allow commands in a hardcore world.",
     "options.worldOptions.allow_commands.tooltip": "Allows the use of commands in this world.",
-    "options.worldOptions.button": "World Options...",
+    "options.worldOptions.button": "World Choices...",
     "options.worldOptions.difficulty.disabled.hardcore.tooltip": "Cannot change the difficulty in a hardcore world.",
     "options.worldOptions.difficulty.disabled.locked.tooltip": "Difficulty is locked.",
     "options.worldOptions.difficulty.disabled.operator.tooltip": "Changing the difficulty requires operator permissions.",

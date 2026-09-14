@@ -6439,7 +6439,7 @@
     "options.darkMojangStudiosBackgroundColor.tooltip": "Zmiynio farba hintergrōndu ykranu ladowanio Mojang Studios na czorno.",
     "options.darknessEffectScale": "Miechtanie cimy",
     "options.darknessEffectScale.tooltip": "Kōntroluje siyła miechtanio efektu cimy przijmnytego ôd wachmajstra abo ôd sculkowego krzykocza.",
-    "options.debugGuiScale.tooltip": "Zastępuje domyślną skalę GUI nakładki debugowania wartością niezależną od globalnych ustawień gry",
+    "options.debugGuiScale.tooltip": "Nadpisuje skalę interfejsu ekranu debugowania inną wartością niż dla reszty gry",
     "options.debugGuiScale.unchanged": "Bez zmian",
     "options.difficulty": "Ciynżkość",
     "options.difficulty.easy": "Snadno",
