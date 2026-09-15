@@ -1,0 +1,6 @@
+{
+    "parent": "block/template_lightning_rod",
+    "textures": {
+        "texture": "block/lightning_rod_on"
+    }
+}

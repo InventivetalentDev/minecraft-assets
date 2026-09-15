@@ -1,0 +1,15 @@
+{
+  "KOR" : [
+    {
+      "delay": 1440,
+      "period": 60,
+      "title": "compliance.playtime.greaterThan24Hours",
+      "message": "compliance.playtime.message"
+    },
+    {
+      "period": 60,
+      "title": "compliance.playtime.hours",
+      "message": "compliance.playtime.message"
+    }
+  ]
+}
