@@ -351,7 +351,7 @@
     "argument.entity.selector.self": "Entidad actual",
     "argument.entity.selector.unknown": "Tipo de selector desconocido: %s",
     "argument.entity.toomany": "Solo se permite una entidad, sin embargo el selector utilizado permite más de una",
-    "argument.enum.invalid": "Valor inválido: «%s»",
+    "argument.enum.invalid": "Valor «%s» inválido",
     "argument.float.big": "El valor float no puede ser mayor que %s (encontrado: %s)",
     "argument.float.low": "El valor float no puede ser menor que %s (encontrado: %s)",
     "argument.gamemode.invalid": "Modo de juego desconocido: %s",

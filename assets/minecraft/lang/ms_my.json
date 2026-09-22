@@ -6622,7 +6622,7 @@
     "options.prioritizeChunkUpdates.none": "Berbenang",
     "options.prioritizeChunkUpdates.none.tooltip": "Cebisan berhampiran dikumpul dalam bebenang selari. Ini boleh mengakibatkan lubang visual apabila blok dimusnahkan.",
     "options.quitShortcuts": "Pintasan Keluar",
-    "options.quitShortcuts.tooltip": "Sama ada pintasan papan kekunci boleh menutup permainan. Apabila dimatikan, Alt + F4 pada Windows dan Linux, serta Cmd + Q pada macOS tidak akan menutup permainan.",
+    "options.quitShortcuts.tooltip": "Sama ada pintasan papan kekunci boleh menutup permainan. Apabila tetapan ini dimatikan, Alt + F4 pada Windows dan Linux, serta Cmd + Q pada macOS tidak akan menutup permainan.",
     "options.rawMouseInput": "Input Mentah",
     "options.realmsNotifications": "Berita & Jemputan Realms",
     "options.realmsNotifications.button": "Berita & Jemputan",

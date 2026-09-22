@@ -6530,7 +6530,7 @@
     "options.hideSplashTexts.tooltip": "Gøymer den gule hovudmenyteksta.",
     "options.improvedTransparency": "Forbedret gjennomsiktighet",
     "options.improvedTransparency.oit.tooltip": "En eksperimentell tilnærming som bruker en ordensuavhengig gjennomsiktighetsalgoritme for å unngå grafiske problemer som vanligvis oppstår når flere gjennomskinnelige lag sees gjennom hverandre.\nDette vil påvirke ytelsen.",
-    "options.improvedTransparency.tooltip": "En eksperimentell tilnærming som bruker skjermsskildrere for å tegne vær, skyer og fnugg bak gjennomskinnelige blokker og vann.\nDette påvirker GPU-ytelsen.",
+    "options.improvedTransparency.tooltip": "En eksperimentell metode som bruker skjermsskildrere for å tegne vær, skyer og partikler bak gjennomskinnelige blokker og vann.\nDette påvirker GPU-ytelsen.",
     "options.inGameNotification": "Varsling i spelet",
     "options.inGameNotification.tooltip": "Syn venevarslar i spelet",
     "options.inactivityFpsLimit": "Set ned FPS når",
