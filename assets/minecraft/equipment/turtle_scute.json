@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:turtle_scute"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "minecraft:turtle_scute"
+      }
+    ]
+  }
+}

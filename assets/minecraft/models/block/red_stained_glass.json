@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/red_stained_glass"
+    }
+  }
+}
