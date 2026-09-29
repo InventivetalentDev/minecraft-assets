@@ -1,0 +1,1 @@
+{"fast_speed_multiplier":2.0,"normal_speed_multiplier":1.0,"speed_default":{"type":"minecraft:conditional","condition":"minecraft:block/fast_cooking","on_false":"minecraft:cooking/normal_speed_multiplier","on_true":"minecraft:cooking/fast_speed_multiplier"}}

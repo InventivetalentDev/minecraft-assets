@@ -1,0 +1,10 @@
+{
+  "near_distance": 64,
+  "sprites": [
+    "minecraft:bowtie",
+    "minecraft:default_0",
+    "minecraft:default_1",
+    "minecraft:default_2",
+    "minecraft:default_3"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_sign_rot_0",
+  "textures": {
+    "all": "minecraft:block/spruce_sign",
+    "particle": "minecraft:block/spruce_planks"
+  }
+}
