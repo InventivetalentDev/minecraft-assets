@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.deepslate_tiles.break",
+  "fall_sound": "minecraft:block.deepslate_tiles.fall",
+  "hit_sound": "minecraft:block.deepslate_tiles.hit",
+  "place_sound": "minecraft:block.deepslate_tiles.place",
+  "step_sound": "minecraft:block.deepslate_tiles.step"
+}

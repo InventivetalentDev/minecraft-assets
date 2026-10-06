@@ -1,0 +1,125 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "#top"
+  },
+  "elements": [
+    {
+      "name": "top",
+      "from": [0, 15.9, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "up": {
+          "texture": "#top",
+          "cullface": "up"
+        },
+        "down": {
+          "uv": [0, 16, 16, 0],
+          "texture": "#top"
+        }
+      }
+    },
+    {
+      "name": "north",
+      "from": [0, 0, 0],
+      "to": [16, 16, 0.1],
+      "faces": {
+        "north": {
+          "texture": "#side",
+          "cullface": "north"
+        },
+        "south": {
+          "uv": [16, 0, 0, 16],
+          "texture": "#side"
+        }
+      }
+    },
+    {
+      "name": "south",
+      "from": [0, 0, 15.9],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": {
+          "uv": [16, 0, 0, 16],
+          "texture": "#side"
+        },
+        "south": {
+          "texture": "#side",
+          "cullface": "south"
+        }
+      }
+    },
+    {
+      "name": "west",
+      "from": [0, 0, 0],
+      "to": [0.1, 16, 16],
+      "faces": {
+        "east": {
+          "uv": [16, 0, 0, 16],
+          "texture": "#side"
+        },
+        "west": {
+          "texture": "#side",
+          "cullface": "west"
+        }
+      }
+    },
+    {
+      "name": "east",
+      "from": [15.9, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "east": {
+          "texture": "#side",
+          "cullface": "east"
+        },
+        "west": {
+          "uv": [16, 0, 0, 16],
+          "texture": "#side"
+        }
+      }
+    },
+    {
+      "name": "cross_1",
+      "from": [-2.182, 0, 8],
+      "to": [18.182, 16, 8],
+      "shade": false,
+      "rotation": {
+        "origin": [8, 8, 8],
+        "axis": "y",
+        "angle": 45
+      },
+      "faces": {
+        "north": {
+          "uv": [0, 0, 16, 16],
+          "texture": "#cross"
+        },
+        "south": {
+          "uv": [0, 0, 16, 16],
+          "texture": "#cross"
+        }
+      }
+    },
+    {
+      "name": "cross_2",
+      "from": [8, 0, -2.182],
+      "to": [8, 16, 18.182],
+      "shade": false,
+      "rotation": {
+        "origin": [8, 8, 8],
+        "axis": "y",
+        "angle": 45
+      },
+      "faces": {
+        "east": {
+          "uv": [0, 0, 16, 16],
+          "texture": "#cross"
+        },
+        "west": {
+          "uv": [0, 0, 16, 16],
+          "texture": "#cross"
+        }
+      }
+    }
+  ]
+}

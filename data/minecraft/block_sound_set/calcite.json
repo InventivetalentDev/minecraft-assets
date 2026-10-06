@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.calcite.break",
+  "fall_sound": "minecraft:block.calcite.fall",
+  "hit_sound": "minecraft:block.calcite.hit",
+  "place_sound": "minecraft:block.calcite.place",
+  "step_sound": "minecraft:block.calcite.step"
+}

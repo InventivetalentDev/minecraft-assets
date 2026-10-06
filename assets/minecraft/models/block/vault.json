@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_vault",
+  "textures": {
+    "bottom": "minecraft:block/vault_bottom",
+    "front": "minecraft:block/vault_front_off",
+    "side": "minecraft:block/vault_side_off",
+    "top": "minecraft:block/vault_top"
+  }
+}

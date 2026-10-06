@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.glass.break",
+  "fall_sound": "minecraft:block.glass.fall",
+  "hit_sound": "minecraft:block.glass.hit",
+  "place_sound": "minecraft:block.glass.place",
+  "step_sound": "minecraft:block.glass.step"
+}

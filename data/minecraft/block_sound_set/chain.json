@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.chain.break",
+  "fall_sound": "minecraft:block.chain.fall",
+  "hit_sound": "minecraft:block.chain.hit",
+  "place_sound": "minecraft:block.chain.place",
+  "step_sound": "minecraft:block.chain.step"
+}

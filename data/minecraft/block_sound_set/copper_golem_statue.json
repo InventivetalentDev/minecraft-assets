@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.copper_golem_statue.break",
+  "fall_sound": "minecraft:block.copper_golem_statue.fall",
+  "hit_sound": "minecraft:block.copper_golem_statue.hit",
+  "place_sound": "minecraft:block.copper_golem_statue.place",
+  "step_sound": "minecraft:block.copper_golem_statue.step"
+}

@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.spore_blossom.break",
+  "fall_sound": "minecraft:block.spore_blossom.fall",
+  "hit_sound": "minecraft:block.spore_blossom.hit",
+  "place_sound": "minecraft:block.spore_blossom.place",
+  "step_sound": "minecraft:block.spore_blossom.step"
+}

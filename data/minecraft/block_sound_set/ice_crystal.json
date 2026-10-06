@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.ice_crystal.break",
+  "fall_sound": "minecraft:block.ice_crystal.fall",
+  "hit_sound": "minecraft:block.ice_crystal.hit",
+  "place_sound": "minecraft:block.ice_crystal.place",
+  "step_sound": "minecraft:block.ice_crystal.step"
+}

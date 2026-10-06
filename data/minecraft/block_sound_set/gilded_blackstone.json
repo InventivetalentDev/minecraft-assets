@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.gilded_blackstone.break",
+  "fall_sound": "minecraft:block.gilded_blackstone.fall",
+  "hit_sound": "minecraft:block.gilded_blackstone.hit",
+  "place_sound": "minecraft:block.gilded_blackstone.place",
+  "step_sound": "minecraft:block.gilded_blackstone.step"
+}

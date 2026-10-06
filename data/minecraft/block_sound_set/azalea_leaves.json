@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.azalea_leaves.break",
+  "fall_sound": "minecraft:block.azalea_leaves.fall",
+  "hit_sound": "minecraft:block.azalea_leaves.hit",
+  "place_sound": "minecraft:block.azalea_leaves.place",
+  "step_sound": "minecraft:block.azalea_leaves.step"
+}

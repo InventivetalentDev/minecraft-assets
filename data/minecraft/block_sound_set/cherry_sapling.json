@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.cherry_sapling.break",
+  "fall_sound": "minecraft:block.cherry_sapling.fall",
+  "hit_sound": "minecraft:block.cherry_sapling.hit",
+  "place_sound": "minecraft:block.cherry_sapling.place",
+  "step_sound": "minecraft:block.cherry_sapling.step"
+}

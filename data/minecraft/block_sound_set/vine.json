@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.vine.break",
+  "fall_sound": "minecraft:block.vine.fall",
+  "hit_sound": "minecraft:block.vine.hit",
+  "place_sound": "minecraft:block.vine.place",
+  "step_sound": "minecraft:block.vine.step"
+}

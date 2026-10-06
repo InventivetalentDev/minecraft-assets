@@ -1,0 +1,75 @@
+{
+  "type": "minecraft:sequence",
+  "sequence": [
+    {
+      "type": "minecraft:condition",
+      "if_true": {
+        "type": "minecraft:noise_threshold",
+        "is_3d": true,
+        "max_threshold": -0.5,
+        "min_threshold": -0.6000000238418579,
+        "noise": "minecraft:ice_cave_gradient"
+      },
+      "then_run": {
+        "type": "minecraft:block",
+        "result_state": "minecraft:calcite"
+      }
+    },
+    {
+      "type": "minecraft:condition",
+      "if_true": {
+        "type": "minecraft:noise_threshold",
+        "is_3d": true,
+        "max_threshold": 0.20000000298023224,
+        "min_threshold": -0.5,
+        "noise": "minecraft:ice_cave_gradient"
+      },
+      "then_run": {
+        "type": "minecraft:block",
+        "result_state": "minecraft:packed_ice"
+      }
+    },
+    {
+      "type": "minecraft:condition",
+      "if_true": {
+        "type": "minecraft:noise_threshold",
+        "is_3d": true,
+        "max_threshold": 0.30000001192092896,
+        "min_threshold": 0.20000000298023224,
+        "noise": "minecraft:ice_cave_gradient"
+      },
+      "then_run": {
+        "type": "minecraft:block",
+        "result_state": "minecraft:calcite"
+      }
+    },
+    {
+      "type": "minecraft:condition",
+      "if_true": {
+        "type": "minecraft:noise_threshold",
+        "is_3d": true,
+        "max_threshold": 0.5,
+        "min_threshold": 0.30000001192092896,
+        "noise": "minecraft:ice_cave_gradient"
+      },
+      "then_run": {
+        "type": "minecraft:block",
+        "result_state": "minecraft:packed_ice"
+      }
+    },
+    {
+      "type": "minecraft:condition",
+      "if_true": {
+        "type": "minecraft:noise_threshold",
+        "is_3d": true,
+        "max_threshold": 0.699999988079071,
+        "min_threshold": 0.5,
+        "noise": "minecraft:ice_cave_gradient"
+      },
+      "then_run": {
+        "type": "minecraft:block",
+        "result_state": "minecraft:calcite"
+      }
+    }
+  ]
+}

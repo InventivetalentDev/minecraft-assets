@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.medium_amethyst_bud.break",
+  "fall_sound": "minecraft:block.amethyst_cluster.fall",
+  "hit_sound": "minecraft:block.amethyst_cluster.hit",
+  "place_sound": "minecraft:block.medium_amethyst_bud.place",
+  "step_sound": "minecraft:block.amethyst_cluster.step"
+}

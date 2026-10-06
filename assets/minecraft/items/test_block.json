@@ -1,0 +1,34 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "block_state_property": "mode",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:block/test_block_log"
+        },
+        "when": "log"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:block/test_block_fail"
+        },
+        "when": "fail"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:block/test_block_accept"
+        },
+        "when": "accept"
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:block/test_block_start"
+    },
+    "property": "minecraft:block_state"
+  }
+}

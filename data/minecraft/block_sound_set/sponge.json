@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.sponge.break",
+  "fall_sound": "minecraft:block.sponge.fall",
+  "hit_sound": "minecraft:block.sponge.hit",
+  "place_sound": "minecraft:block.sponge.place",
+  "step_sound": "minecraft:block.sponge.step"
+}

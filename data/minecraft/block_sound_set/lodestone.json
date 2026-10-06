@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.lodestone.break",
+  "fall_sound": "minecraft:block.lodestone.fall",
+  "hit_sound": "minecraft:block.lodestone.hit",
+  "place_sound": "minecraft:block.lodestone.place",
+  "step_sound": "minecraft:block.lodestone.step"
+}

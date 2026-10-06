@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.creaking_heart.break",
+  "fall_sound": "minecraft:block.creaking_heart.fall",
+  "hit_sound": "minecraft:block.creaking_heart.hit",
+  "place_sound": "minecraft:block.creaking_heart.place",
+  "step_sound": "minecraft:block.creaking_heart.step"
+}

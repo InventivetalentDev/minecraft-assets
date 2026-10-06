@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.cobweb.break",
+  "fall_sound": "minecraft:block.cobweb.fall",
+  "hit_sound": "minecraft:block.cobweb.hit",
+  "place_sound": "minecraft:block.cobweb.place",
+  "step_sound": "minecraft:block.cobweb.step"
+}
