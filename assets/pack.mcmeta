@@ -17,7 +17,7 @@
         },
         "enp": {
             "name": "Anglish",
-            "region": "Foroned Kingdom",
+            "region": "Oned Riches",
             "bidirectional": false
         },
         "ast_es": {
@@ -38,6 +38,21 @@
         "ms_my": {
             "name": "Bahasa Melayu",
             "region": "Malaysia",
+            "bidirectional": false
+        },
+        "tzo_mx": {
+            "name": "Bats'i k'op",
+            "region": "Jobel",
+            "bidirectional": false
+        },
+        "qid": {
+            "name": "Bhs. Indonesia edjaän lama",
+            "region": "Indonesia tempo doeloe",
+            "bidirectional": false
+        },
+        "be_latn": {
+            "name": "Biełaruskaja",
+            "region": "Biełaruś",
             "bidirectional": false
         },
         "bar": {
@@ -73,6 +88,11 @@
         "cy_gb": {
             "name": "Cymraeg",
             "region": "Cymru",
+            "bidirectional": false
+        },
+        "qcb_es": {
+            "name": "Cántabru/Montañés",
+            "region": "Cantabria",
             "bidirectional": false
         },
         "da_dk": {
@@ -180,6 +200,11 @@
             "region": "France",
             "bidirectional": false
         },
+        "fr_ch": {
+            "name": "Français",
+            "region": "Suisse",
+            "bidirectional": false
+        },
         "fy_nl": {
             "name": "Frysk",
             "region": "Fryslân",
@@ -210,6 +235,11 @@
             "region": "Galicia / Galiza",
             "bidirectional": false
         },
+        "go_fr": {
+            "name": "Galo",
+            "region": "Bertègn",
+            "bidirectional": false
+        },
         "gd_gb": {
             "name": "Gàidhlig",
             "region": "Alba",
@@ -218,6 +248,11 @@
         "hr_hr": {
             "name": "Hrvatski",
             "region": "Hrvatska",
+            "bidirectional": false
+        },
+        "hn_no": {
+            "name": "Høgnorsk",
+            "region": "Norig",
             "bidirectional": false
         },
         "io_en": {
@@ -305,14 +340,24 @@
             "region": "Nederland",
             "bidirectional": false
         },
-        "nn_no": {
-            "name": "Norsk",
-            "region": "Noreg",
+        "pls": {
+            "name": "Ngiiwà",
+            "region": "Ndanìꞌngà",
             "bidirectional": false
         },
         "no_no": {
             "name": "Norsk bokmål",
             "region": "Norge",
+            "bidirectional": false
+        },
+        "nn_no": {
+            "name": "Norsk nynorsk",
+            "region": "Noreg",
+            "bidirectional": false
+        },
+        "uz_uz": {
+            "name": "O'zbekcha",
+            "region": "O'zbekiston",
             "bidirectional": false
         },
         "oc_fr": {
@@ -435,6 +480,11 @@
             "region": "Veneto",
             "bidirectional": false
         },
+        "vro": {
+            "name": "Võro",
+            "region": "Eesti",
+            "bidirectional": false
+        },
         "yo_ng": {
             "name": "Yorùbá",
             "region": "Nàìjíríà",
@@ -452,7 +502,7 @@
         },
         "tok": {
             "name": "toki pona",
-            "region": "ma pona",
+            "region": "kulupu pona",
             "bidirectional": false
         },
         "is_is": {
@@ -471,7 +521,7 @@
             "bidirectional": false
         },
         "szl": {
-            "name": "Ślōnskŏ",
+            "name": "Ślōnski",
             "region": "Gōrny Ślōnsk",
             "bidirectional": false
         },
@@ -492,7 +542,7 @@
         },
         "ba_ru": {
             "name": "Башҡортса",
-            "region": "Рәсәй",
+            "region": "Башҡортостан, Рәсәй",
             "bidirectional": false
         },
         "be_by": {
@@ -505,9 +555,19 @@
             "region": "България",
             "bidirectional": false
         },
+        "hal_ua": {
+            "name": "Галицка",
+            "region": "Галичина, Вкраїна",
+            "bidirectional": false
+        },
+        "ky_kg": {
+            "name": "Кыргызча",
+            "region": "Кыргызстан",
+            "bidirectional": false
+        },
         "mk_mk": {
             "name": "Македонски",
-            "region": "Македонија",
+            "region": "Северна Македонија",
             "bidirectional": false
         },
         "mn_mn": {
@@ -542,12 +602,17 @@
         },
         "tt_ru": {
             "name": "Татарча",
-            "region": "Рәсәй",
+            "region": "Татарстан, Рәсәй",
             "bidirectional": false
         },
         "uk_ua": {
             "name": "Українська",
             "region": "Україна",
+            "bidirectional": false
+        },
+        "cv_cu": {
+            "name": "Чӑвашла",
+            "region": "Чӑваш Ен, Раҫҫей",
             "bidirectional": false
         },
         "kk_kz": {
@@ -562,7 +627,7 @@
         },
         "yi_de": {
             "name": "ייִדיש",
-            "region": "אשכנזישע יידן",
+            "region": "אשכנזיש יידן",
             "bidirectional": true
         },
         "he_il": {
@@ -643,6 +708,11 @@
         "ko_kr": {
             "name": "한국어",
             "region": "대한민국",
+            "bidirectional": false
+        },
+        "got_de": {
+            "name": "𐌲𐌿𐍄𐍂𐌰𐌶𐌳𐌰",
+            "region": "𐌲𐌿𐍄𐌸𐌹𐌿𐌳𐌰",
             "bidirectional": false
         }
     }
