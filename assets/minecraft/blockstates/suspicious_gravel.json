@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "dusted=0": {
+      "model": "minecraft:block/suspicious_gravel_0"
+    },
+    "dusted=1": {
+      "model": "minecraft:block/suspicious_gravel_1"
+    },
+    "dusted=2": {
+      "model": "minecraft:block/suspicious_gravel_2"
+    },
+    "dusted=3": {
+      "model": "minecraft:block/suspicious_gravel_3"
+    }
+  }
+}

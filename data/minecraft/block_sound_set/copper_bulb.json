@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.copper_bulb.break",
+  "fall_sound": "minecraft:block.copper_bulb.fall",
+  "hit_sound": "minecraft:block.copper_bulb.hit",
+  "place_sound": "minecraft:block.copper_bulb.place",
+  "step_sound": "minecraft:block.copper_bulb.step"
+}

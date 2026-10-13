@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "gui_light": "front",
+    "display": {
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ -0.5, 0, 0 ]
+        }
+    }
+}

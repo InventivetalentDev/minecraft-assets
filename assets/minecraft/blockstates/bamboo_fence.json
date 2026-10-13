@@ -1,0 +1,41 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/bamboo_fence_post"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/bamboo_fence_side_north"
+      },
+      "when": {
+        "north": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/bamboo_fence_side_east"
+      },
+      "when": {
+        "east": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/bamboo_fence_side_south"
+      },
+      "when": {
+        "south": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/bamboo_fence_side_west"
+      },
+      "when": {
+        "west": "true"
+      }
+    }
+  ]
+}

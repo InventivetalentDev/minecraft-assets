@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "minecraft:block/ice_crystal",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "minecraft:block/ice_crystal",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "minecraft:block/ice_crystal",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "minecraft:block/ice_crystal",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "minecraft:block/ice_crystal"
+    },
+    "facing=west": {
+      "model": "minecraft:block/ice_crystal",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

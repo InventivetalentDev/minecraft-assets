@@ -1,0 +1,6 @@
+{
+  "break_sound": "minecraft:block.shelf_mushroom.break",
+  "fall_sound": "minecraft:block.shelf_mushroom.fall",
+  "place_sound": "minecraft:block.shelf_mushroom.place",
+  "step_sound": "minecraft:block.shelf_mushroom.step"
+}

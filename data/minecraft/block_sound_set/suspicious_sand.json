@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.suspicious_sand.break",
+  "fall_sound": "minecraft:block.suspicious_sand.fall",
+  "hit_sound": "minecraft:block.suspicious_sand.hit",
+  "place_sound": "minecraft:block.suspicious_sand.place",
+  "step_sound": "minecraft:block.suspicious_sand.step"
+}

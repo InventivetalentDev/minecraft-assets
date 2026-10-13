@@ -1,0 +1,40 @@
+{
+  "feature": "minecraft:ice_crevasse",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 8
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+          "below_top": 64
+        },
+        "min_inclusive": {
+          "above_bottom": 24
+        }
+      }
+    },
+    {
+      "type": "minecraft:environment_scan",
+      "allowed_search_condition": {
+        "type": "minecraft:matching_block_tag",
+        "tag": "minecraft:air"
+      },
+      "direction_of_search": "down",
+      "max_steps": 32,
+      "target_condition": {
+        "type": "minecraft:matching_block_tag",
+        "tag": "minecraft:ice_crevasse_replaceables"
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

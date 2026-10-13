@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=east,in_wall=false,open=false": {
+      "model": "minecraft:block/bamboo_fence_gate",
+      "y": 270
+    },
+    "facing=east,in_wall=false,open=true": {
+      "model": "minecraft:block/bamboo_fence_gate_open",
+      "y": 270
+    },
+    "facing=east,in_wall=true,open=false": {
+      "model": "minecraft:block/bamboo_fence_gate_wall",
+      "y": 270
+    },
+    "facing=east,in_wall=true,open=true": {
+      "model": "minecraft:block/bamboo_fence_gate_wall_open",
+      "y": 270
+    },
+    "facing=north,in_wall=false,open=false": {
+      "model": "minecraft:block/bamboo_fence_gate",
+      "y": 180
+    },
+    "facing=north,in_wall=false,open=true": {
+      "model": "minecraft:block/bamboo_fence_gate_open",
+      "y": 180
+    },
+    "facing=north,in_wall=true,open=false": {
+      "model": "minecraft:block/bamboo_fence_gate_wall",
+      "y": 180
+    },
+    "facing=north,in_wall=true,open=true": {
+      "model": "minecraft:block/bamboo_fence_gate_wall_open",
+      "y": 180
+    },
+    "facing=south,in_wall=false,open=false": {
+      "model": "minecraft:block/bamboo_fence_gate"
+    },
+    "facing=south,in_wall=false,open=true": {
+      "model": "minecraft:block/bamboo_fence_gate_open"
+    },
+    "facing=south,in_wall=true,open=false": {
+      "model": "minecraft:block/bamboo_fence_gate_wall"
+    },
+    "facing=south,in_wall=true,open=true": {
+      "model": "minecraft:block/bamboo_fence_gate_wall_open"
+    },
+    "facing=west,in_wall=false,open=false": {
+      "model": "minecraft:block/bamboo_fence_gate",
+      "y": 90
+    },
+    "facing=west,in_wall=false,open=true": {
+      "model": "minecraft:block/bamboo_fence_gate_open",
+      "y": 90
+    },
+    "facing=west,in_wall=true,open=false": {
+      "model": "minecraft:block/bamboo_fence_gate_wall",
+      "y": 90
+    },
+    "facing=west,in_wall=true,open=true": {
+      "model": "minecraft:block/bamboo_fence_gate_wall_open",
+      "y": 90
+    }
+  }
+}

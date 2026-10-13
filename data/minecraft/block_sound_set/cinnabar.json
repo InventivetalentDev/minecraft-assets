@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.cinnabar.break",
+  "fall_sound": "minecraft:block.cinnabar.fall",
+  "hit_sound": "minecraft:block.cinnabar.hit",
+  "place_sound": "minecraft:block.cinnabar.place",
+  "step_sound": "minecraft:block.cinnabar.step"
+}

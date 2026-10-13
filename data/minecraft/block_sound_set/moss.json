@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.moss.break",
+  "fall_sound": "minecraft:block.moss.fall",
+  "hit_sound": "minecraft:block.moss.hit",
+  "place_sound": "minecraft:block.moss.place",
+  "step_sound": "minecraft:block.moss.step"
+}
