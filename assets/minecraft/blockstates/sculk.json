@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/sculk"
+      },
+      {
+        "model": "minecraft:block/sculk_mirrored"
+      },
+      {
+        "model": "minecraft:block/sculk",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sculk_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

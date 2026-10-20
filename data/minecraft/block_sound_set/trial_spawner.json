@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.trial_spawner.break",
+  "fall_sound": "minecraft:block.trial_spawner.fall",
+  "hit_sound": "minecraft:block.trial_spawner.hit",
+  "place_sound": "minecraft:block.trial_spawner.place",
+  "step_sound": "minecraft:block.trial_spawner.step"
+}

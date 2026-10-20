@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.bamboo.break",
+  "fall_sound": "minecraft:block.bamboo.fall",
+  "hit_sound": "minecraft:block.bamboo.hit",
+  "place_sound": "minecraft:block.bamboo.place",
+  "step_sound": "minecraft:block.bamboo.step"
+}

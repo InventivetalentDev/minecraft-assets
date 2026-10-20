@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.mangrove_roots.break",
+  "fall_sound": "minecraft:block.mangrove_roots.fall",
+  "hit_sound": "minecraft:block.mangrove_roots.hit",
+  "place_sound": "minecraft:block.mangrove_roots.place",
+  "step_sound": "minecraft:block.mangrove_roots.step"
+}

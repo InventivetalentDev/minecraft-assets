@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.hanging_sign.break",
+  "fall_sound": "minecraft:block.hanging_sign.fall",
+  "hit_sound": "minecraft:block.hanging_sign.hit",
+  "place_sound": "minecraft:block.hanging_sign.place",
+  "step_sound": "minecraft:block.hanging_sign.step"
+}

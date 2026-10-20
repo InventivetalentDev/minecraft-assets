@@ -1,0 +1,6 @@
+{
+  "break_sound": "minecraft:block.resin.break",
+  "fall_sound": "minecraft:block.resin.fall",
+  "place_sound": "minecraft:block.resin.place",
+  "step_sound": "minecraft:block.resin.step"
+}

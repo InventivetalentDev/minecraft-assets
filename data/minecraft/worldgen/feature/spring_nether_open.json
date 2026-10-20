@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:spring_feature",
+  "requires_block_below": false,
+  "state": {
+    "id": "minecraft:lava",
+    "properties": {
+      "level": "8",
+      "source": "true"
+    }
+  },
+  "valid_blocks": "minecraft:netherrack"
+}
