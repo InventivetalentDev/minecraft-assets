@@ -355,11 +355,6 @@
             "region": "Noreg",
             "bidirectional": false
         },
-        "uz_uz": {
-            "name": "O'zbekcha",
-            "region": "O'zbekiston",
-            "bidirectional": false
-        },
         "oc_fr": {
             "name": "Occitan",
             "region": "Occitània",
@@ -513,6 +508,11 @@
         "ovd": {
             "name": "Övdalska",
             "region": "Swerre",
+            "bidirectional": false
+        },
+        "uz_uz": {
+            "name": "Özbekça",
+            "region": "Özbekiston",
             "bidirectional": false
         },
         "cs_cz": {
