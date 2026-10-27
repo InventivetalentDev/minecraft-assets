@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.basalt.break",
+  "fall_sound": "minecraft:block.basalt.fall",
+  "hit_sound": "minecraft:block.basalt.hit",
+  "place_sound": "minecraft:block.basalt.place",
+  "step_sound": "minecraft:block.basalt.step"
+}

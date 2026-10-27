@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.hanging_roots.break",
+  "fall_sound": "minecraft:block.hanging_roots.fall",
+  "hit_sound": "minecraft:block.hanging_roots.hit",
+  "place_sound": "minecraft:block.hanging_roots.place",
+  "step_sound": "minecraft:block.hanging_roots.step"
+}

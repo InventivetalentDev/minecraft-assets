@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_shelf_right",
+  "textures": {
+    "all": "minecraft:block/oak_shelf",
+    "particle": "minecraft:block/stripped_oak_log"
+  }
+}

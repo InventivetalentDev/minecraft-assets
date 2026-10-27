@@ -1,0 +1,7 @@
+{
+  "mco.notification.transferSubscription.message": "Java Realms subscriptions are moving to the Microsoft Store. Do not let your subscription expire!\nTransfer now and get 30 days of Realms for free.\nGo to Profile on minecraft.net to transfer your subscription.",
+  "mco.notification.transferSubscription.buttonText": "Transfer Now",
+  "mco.snapshotRealmsPopup.message": "Realms are now available in Snapshots starting with Snapshot 23w41a. Every Realms subscription comes with a free Snapshot Realm that is separate from your normal Java Realm!",
+  "mco.snapshotRealmsPopup.title": "Realms now available in Snapshots",
+  "mco.snapshotRealmsPopup.urlText": "Learn More"
+}

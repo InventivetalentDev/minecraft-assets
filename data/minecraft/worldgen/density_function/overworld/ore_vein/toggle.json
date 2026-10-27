@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:cache",
+  "input": {
+    "type": "minecraft:upscale",
+    "input": {
+      "type": "minecraft:range_choice",
+      "input": "minecraft:y",
+      "max_exclusive": 57.0,
+      "min_inclusive": -64.0,
+      "when_in_range": {
+        "type": "minecraft:noise",
+        "noise": "minecraft:ore_veininess",
+        "xz_scale": 1.5,
+        "y_scale": 1.5
+      },
+      "when_out_of_range": 0.0
+    },
+    "x": {
+      "cell_size": 4,
+      "mode": "interpolate_linear"
+    },
+    "y": {
+      "cell_size": 8,
+      "mode": "interpolate_linear"
+    },
+    "z": {
+      "cell_size": 4,
+      "mode": "interpolate_linear"
+    }
+  }
+}

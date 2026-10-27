@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.small_dripleaf.break",
+  "fall_sound": "minecraft:block.small_dripleaf.fall",
+  "hit_sound": "minecraft:block.small_dripleaf.hit",
+  "place_sound": "minecraft:block.small_dripleaf.place",
+  "step_sound": "minecraft:block.small_dripleaf.step"
+}

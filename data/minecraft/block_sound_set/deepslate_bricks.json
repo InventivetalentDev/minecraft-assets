@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.deepslate_bricks.break",
+  "fall_sound": "minecraft:block.deepslate_bricks.fall",
+  "hit_sound": "minecraft:block.deepslate_bricks.hit",
+  "place_sound": "minecraft:block.deepslate_bricks.place",
+  "step_sound": "minecraft:block.deepslate_bricks.step"
+}

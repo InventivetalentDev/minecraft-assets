@@ -1,0 +1,18 @@
+{
+    "id": "26.4-snapshot-6",
+    "name": "26.4 Snapshot 6",
+    "world_version": 5126,
+    "series_id": "main",
+    "protocol_version": 1073742168,
+    "pack_version": {
+        "resource_major": 101,
+        "resource_minor": 0,
+        "data_major": 125,
+        "data_minor": 1
+    },
+    "build_time": "2026-10-27T13:38:21+00:00",
+    "java_component": "java-runtime-epsilon",
+    "java_version": 25,
+    "stable": false,
+    "use_editor": false
+}

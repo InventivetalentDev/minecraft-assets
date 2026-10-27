@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.sulfur.break",
+  "fall_sound": "minecraft:block.sulfur.fall",
+  "hit_sound": "minecraft:block.sulfur.hit",
+  "place_sound": "minecraft:block.sulfur.place",
+  "step_sound": "minecraft:block.sulfur.step"
+}

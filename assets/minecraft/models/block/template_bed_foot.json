@@ -1,0 +1,46 @@
+{
+  "parent": "block/template_bed",
+  "textures": {
+    "particle": "minecraft:block/oak_planks",
+    "south": "#south",
+    "east": "#east",
+    "west": "#west",
+    "up": "#up",
+    "down": "minecraft:block/bed_down"
+  },
+  "elements": [
+    {
+      "from": [ 0, 3, 0 ],
+      "to": [ 16, 9, 16 ],
+      "faces": {
+        "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#down" },
+        "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#up" },
+        "south": { "uv": [ 0, 7, 16, 13 ], "texture": "#south", "cullface": "south" },
+        "west":  { "uv": [ 0, 7, 16, 13 ], "texture": "#west", "cullface": "west" },
+        "east":  { "uv": [ 0, 7, 16, 13 ], "texture": "#east", "cullface": "east" }
+      }
+    },
+    {
+      "from": [ 0, 0, 13 ],
+      "to": [ 3, 3, 16 ],
+      "faces": {
+        "down":  { "uv": [ 7, 13, 10, 16 ], "texture": "#west", "cullface": "down" },
+        "north": { "uv": [ 10, 13, 13, 16 ], "texture": "#west" },
+        "south": { "uv": [ 0, 13, 3, 16 ], "texture": "#south", "cullface": "south" },
+        "west":  { "uv": [ 13, 13, 16, 16 ], "texture": "#west", "cullface": "west" },
+        "east":  { "uv": [ 3, 13, 6, 16 ], "texture": "#south" }
+      }
+    },
+    {
+      "from": [ 13, 0, 13 ],
+      "to": [ 16, 3, 16 ],
+      "faces": {
+        "down":  { "uv": [ 6, 13, 9, 16 ], "texture": "#east", "cullface": "down" },
+        "north": { "uv": [ 3, 13, 6, 16 ], "texture": "#east" },
+        "south": { "uv": [ 13, 13, 16, 16 ], "texture": "#south", "cullface": "south"  },
+        "west":  { "uv": [ 10, 13, 13, 16 ], "texture": "#south" },
+        "east":  { "uv": [ 0, 13, 3, 16 ], "texture": "#east", "cullface": "east" }
+      }
+    }
+  ]
+}
