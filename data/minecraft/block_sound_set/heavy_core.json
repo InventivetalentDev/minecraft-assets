@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.heavy_core.break",
+  "fall_sound": "minecraft:block.heavy_core.fall",
+  "hit_sound": "minecraft:block.heavy_core.hit",
+  "place_sound": "minecraft:block.heavy_core.place",
+  "step_sound": "minecraft:block.heavy_core.step"
+}

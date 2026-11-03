@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/weathered_cut_copper_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/weathered_cut_copper"
+    },
+    "type=top": {
+      "model": "minecraft:block/weathered_cut_copper_slab_top"
+    }
+  }
+}

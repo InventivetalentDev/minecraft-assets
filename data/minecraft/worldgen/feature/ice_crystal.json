@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:simple_block",
+  "to_place": {
+    "id": "minecraft:ice_crystal",
+    "properties": {
+      "facing": "up",
+      "waterlogged": "false"
+    }
+  }
+}

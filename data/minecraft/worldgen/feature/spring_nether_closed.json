@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:spring_feature",
+  "hole_count": 0,
+  "requires_block_below": false,
+  "rock_count": 5,
+  "state": {
+    "id": "minecraft:lava",
+    "properties": {
+      "level": "8",
+      "source": "true"
+    }
+  },
+  "valid_blocks": "minecraft:netherrack"
+}

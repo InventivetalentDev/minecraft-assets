@@ -1,0 +1,35 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/brush_brushing_0"
+        },
+        "threshold": 0.25
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/brush_brushing_1"
+        },
+        "threshold": 0.5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/brush_brushing_2"
+        },
+        "threshold": 0.75
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/brush"
+    },
+    "period": 10.0,
+    "property": "minecraft:use_cycle",
+    "scale": 0.1
+  }
+}

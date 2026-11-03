@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.sculk_vein.break",
+  "fall_sound": "minecraft:block.sculk_vein.fall",
+  "hit_sound": "minecraft:block.sculk_vein.hit",
+  "place_sound": "minecraft:block.sculk_vein.place",
+  "step_sound": "minecraft:block.sculk_vein.step"
+}

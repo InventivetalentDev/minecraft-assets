@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/poplar_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/poplar_planks"
+    },
+    "type=top": {
+      "model": "minecraft:block/poplar_slab_top"
+    }
+  }
+}

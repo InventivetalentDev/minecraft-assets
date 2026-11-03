@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.decorated_pot.shatter",
+  "fall_sound": "minecraft:block.decorated_pot.fall",
+  "hit_sound": "minecraft:block.decorated_pot.hit",
+  "place_sound": "minecraft:block.decorated_pot.place",
+  "step_sound": "minecraft:block.decorated_pot.step"
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:packed_ice",
+  "result": {
+    "id": "minecraft:packed_ice_brick_stairs"
+  }
+}

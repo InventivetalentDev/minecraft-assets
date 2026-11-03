@@ -1,0 +1,79 @@
+{
+  "variants": {
+    "attached=false,thickness=base,vertical_direction=down": {
+      "model": "minecraft:block/icicle_base"
+    },
+    "attached=false,thickness=base,vertical_direction=up": {
+      "model": "minecraft:block/icicle_base",
+      "z": 180
+    },
+    "attached=false,thickness=frustum,vertical_direction=down": {
+      "model": "minecraft:block/icicle_frustum"
+    },
+    "attached=false,thickness=frustum,vertical_direction=up": {
+      "model": "minecraft:block/icicle_frustum",
+      "z": 180
+    },
+    "attached=false,thickness=middle,vertical_direction=down": {
+      "model": "minecraft:block/icicle_middle"
+    },
+    "attached=false,thickness=middle,vertical_direction=up": {
+      "model": "minecraft:block/icicle_middle",
+      "z": 180
+    },
+    "attached=false,thickness=tip,vertical_direction=down": {
+      "model": "minecraft:block/icicle_tip"
+    },
+    "attached=false,thickness=tip,vertical_direction=up": {
+      "model": "minecraft:block/icicle_tip",
+      "z": 180
+    },
+    "attached=false,thickness=tip_merge,vertical_direction=down": {
+      "model": "minecraft:block/icicle_tip_merge"
+    },
+    "attached=false,thickness=tip_merge,vertical_direction=up": {
+      "model": "minecraft:block/icicle_tip_merge",
+      "z": 180
+    },
+    "attached=true,thickness=base,vertical_direction=down": {
+      "model": "minecraft:block/icicle_base_base",
+      "uvlock": true
+    },
+    "attached=true,thickness=base,vertical_direction=up": {
+      "model": "minecraft:block/icicle_base_base",
+      "x": 180
+    },
+    "attached=true,thickness=frustum,vertical_direction=down": {
+      "model": "minecraft:block/icicle_base_frustum",
+      "uvlock": true
+    },
+    "attached=true,thickness=frustum,vertical_direction=up": {
+      "model": "minecraft:block/icicle_base_frustum",
+      "x": 180
+    },
+    "attached=true,thickness=middle,vertical_direction=down": {
+      "model": "minecraft:block/icicle_base_middle",
+      "uvlock": true
+    },
+    "attached=true,thickness=middle,vertical_direction=up": {
+      "model": "minecraft:block/icicle_base_middle",
+      "x": 180
+    },
+    "attached=true,thickness=tip,vertical_direction=down": {
+      "model": "minecraft:block/icicle_base_tip",
+      "uvlock": true
+    },
+    "attached=true,thickness=tip,vertical_direction=up": {
+      "model": "minecraft:block/icicle_base_tip",
+      "x": 180
+    },
+    "attached=true,thickness=tip_merge,vertical_direction=down": {
+      "model": "minecraft:block/icicle_base_tip_merge",
+      "uvlock": true
+    },
+    "attached=true,thickness=tip_merge,vertical_direction=up": {
+      "model": "minecraft:block/icicle_base_tip_merge",
+      "x": 180
+    }
+  }
+}

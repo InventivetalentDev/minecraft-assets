@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.copper_grate.break",
+  "fall_sound": "minecraft:block.copper_grate.fall",
+  "hit_sound": "minecraft:block.copper_grate.hit",
+  "place_sound": "minecraft:block.copper_grate.place",
+  "step_sound": "minecraft:block.copper_grate.step"
+}
