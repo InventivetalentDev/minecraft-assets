@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_shelf_unconnected",
+  "textures": {
+    "all": "minecraft:block/pale_oak_shelf",
+    "particle": "minecraft:block/stripped_pale_oak_log"
+  }
+}

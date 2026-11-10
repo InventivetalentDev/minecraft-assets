@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.tuff.break",
+  "fall_sound": "minecraft:block.tuff.fall",
+  "hit_sound": "minecraft:block.tuff.hit",
+  "place_sound": "minecraft:block.tuff.place",
+  "step_sound": "minecraft:block.tuff.step"
+}

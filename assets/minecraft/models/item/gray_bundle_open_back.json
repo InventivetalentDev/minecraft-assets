@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_bundle_open_back",
+  "textures": {
+    "layer0": "minecraft:item/gray_bundle_open_back"
+  }
+}

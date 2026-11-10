@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.nether_gold_ore.break",
+  "fall_sound": "minecraft:block.nether_gold_ore.fall",
+  "hit_sound": "minecraft:block.nether_gold_ore.hit",
+  "place_sound": "minecraft:block.nether_gold_ore.place",
+  "step_sound": "minecraft:block.nether_gold_ore.step"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:spring_feature",
+  "state": {
+    "id": "minecraft:water",
+    "properties": {
+      "level": "8",
+      "source": "true"
+    }
+  },
+  "valid_blocks": [
+    "minecraft:stone",
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "minecraft:deepslate",
+    "minecraft:tuff",
+    "minecraft:calcite",
+    "minecraft:dirt",
+    "minecraft:snow_block",
+    "minecraft:powder_snow",
+    "minecraft:packed_ice"
+  ]
+}

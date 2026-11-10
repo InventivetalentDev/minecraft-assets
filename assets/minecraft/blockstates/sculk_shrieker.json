@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "can_summon=false": {
+      "model": "minecraft:block/sculk_shrieker"
+    },
+    "can_summon=true": {
+      "model": "minecraft:block/sculk_shrieker_can_summon"
+    }
+  }
+}

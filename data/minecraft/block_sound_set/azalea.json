@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.azalea.break",
+  "fall_sound": "minecraft:block.azalea.fall",
+  "hit_sound": "minecraft:block.azalea.hit",
+  "place_sound": "minecraft:block.azalea.place",
+  "step_sound": "minecraft:block.azalea.step"
+}

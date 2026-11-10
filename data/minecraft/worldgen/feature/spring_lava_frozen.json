@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:spring_feature",
+  "state": {
+    "id": "minecraft:lava",
+    "properties": {
+      "level": "8",
+      "source": "true"
+    }
+  },
+  "valid_blocks": [
+    "minecraft:snow_block",
+    "minecraft:powder_snow",
+    "minecraft:packed_ice"
+  ]
+}

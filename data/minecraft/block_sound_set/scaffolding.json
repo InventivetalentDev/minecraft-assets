@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.scaffolding.break",
+  "fall_sound": "minecraft:block.scaffolding.fall",
+  "hit_sound": "minecraft:block.scaffolding.hit",
+  "place_sound": "minecraft:block.scaffolding.place",
+  "step_sound": "minecraft:block.scaffolding.step"
+}

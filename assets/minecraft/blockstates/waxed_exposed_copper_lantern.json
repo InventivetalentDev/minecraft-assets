@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "minecraft:block/exposed_copper_lantern"
+    },
+    "hanging=true": {
+      "model": "minecraft:block/exposed_copper_lantern_hanging"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/template_glass_pane_noside",
+  "textures": {
+    "pane": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/green_stained_glass"
+    }
+  }
+}

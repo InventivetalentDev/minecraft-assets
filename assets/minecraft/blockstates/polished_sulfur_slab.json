@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/polished_sulfur_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/polished_sulfur"
+    },
+    "type=top": {
+      "model": "minecraft:block/polished_sulfur_slab_top"
+    }
+  }
+}

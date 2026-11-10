@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.sculk.break",
+  "fall_sound": "minecraft:block.sculk.fall",
+  "hit_sound": "minecraft:block.sculk.hit",
+  "place_sound": "minecraft:block.sculk.place",
+  "step_sound": "minecraft:block.sculk.step"
+}

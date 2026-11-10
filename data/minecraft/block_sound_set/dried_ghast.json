@@ -1,0 +1,5 @@
+{
+  "break_sound": "minecraft:block.dried_ghast.break",
+  "fall_sound": "minecraft:block.dried_ghast.fall",
+  "step_sound": "minecraft:block.dried_ghast.step"
+}
