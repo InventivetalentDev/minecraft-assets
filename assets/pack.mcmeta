@@ -40,6 +40,11 @@
             "region": "Malaysia",
             "bidirectional": false
         },
+        "jv_id": {
+            "name": "Basa Jawa",
+            "region": "Jawa, Indhonésiyah",
+            "bidirectional": false
+        },
         "tzo_mx": {
             "name": "Bats'i k'op",
             "region": "Jobel",
@@ -83,6 +88,11 @@
         "val_es": {
             "name": "Català (Valencià)",
             "region": "País Valencià",
+            "bidirectional": false
+        },
+        "cbk_zam": {
+            "name": "Chavacano de Zamboanga",
+            "region": "Filipinas",
             "bidirectional": false
         },
         "cy_gb": {
@@ -285,11 +295,6 @@
             "region": "Kingdom of Cats",
             "bidirectional": false
         },
-        "la_la": {
-            "name": "Latina",
-            "region": "Latium",
-            "bidirectional": false
-        },
         "lv_lv": {
             "name": "Latviešu",
             "region": "Latvija",
@@ -303,6 +308,11 @@
         "li_li": {
             "name": "Limburgs",
             "region": "Limburg",
+            "bidirectional": false
+        },
+        "la_la": {
+            "name": "Lingua Latina",
+            "region": "Latium",
             "bidirectional": false
         },
         "lmo": {
