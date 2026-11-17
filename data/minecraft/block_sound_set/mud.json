@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.mud.break",
+  "fall_sound": "minecraft:block.mud.fall",
+  "hit_sound": "minecraft:block.mud.hit",
+  "place_sound": "minecraft:block.mud.place",
+  "step_sound": "minecraft:block.mud.step"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/template_glass_pane_post",
+  "textures": {
+    "edge": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/pink_stained_glass_pane_top"
+    },
+    "pane": {
+      "force_translucent": true,
+      "sprite": "minecraft:block/pink_stained_glass"
+    }
+  }
+}

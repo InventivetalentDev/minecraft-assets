@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.pink_petals.break",
+  "fall_sound": "minecraft:block.pink_petals.fall",
+  "hit_sound": "minecraft:block.pink_petals.hit",
+  "place_sound": "minecraft:block.pink_petals.place",
+  "step_sound": "minecraft:block.pink_petals.step"
+}

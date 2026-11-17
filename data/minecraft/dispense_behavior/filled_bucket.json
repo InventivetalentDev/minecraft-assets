@@ -1,0 +1,8 @@
+[
+  {
+    "type": "minecraft:empty_bucket"
+  },
+  {
+    "type": "minecraft:drop_item"
+  }
+]

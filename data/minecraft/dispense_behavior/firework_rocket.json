@@ -1,0 +1,18 @@
+[
+  {
+    "type": "minecraft:shoot_projectile",
+    "offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "power": 0.5,
+    "scale": 0.5000099999997474,
+    "sound": {
+      "pitch": 1.2,
+      "sound": "minecraft:entity.firework_rocket.shoot",
+      "volume": 1.0
+    },
+    "uncertainty": 1.0
+  }
+]

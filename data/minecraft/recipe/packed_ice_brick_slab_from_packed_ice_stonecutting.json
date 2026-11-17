@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:packed_ice",
+  "result": {
+    "count": 2,
+    "id": "minecraft:packed_ice_brick_slab"
+  }
+}

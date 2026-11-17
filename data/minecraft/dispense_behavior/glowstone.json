@@ -1,0 +1,8 @@
+[
+  {
+    "type": "minecraft:charge_respawn_anchor"
+  },
+  {
+    "type": "minecraft:drop_item"
+  }
+]

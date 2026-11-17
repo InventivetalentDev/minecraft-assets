@@ -1,0 +1,8 @@
+[
+  {
+    "type": "minecraft:spawn_golem_from_carved_pumpkin"
+  },
+  {
+    "type": "minecraft:equip"
+  }
+]

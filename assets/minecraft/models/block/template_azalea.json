@@ -1,0 +1,60 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "particle": "block/azalea_plant",
+        "plant": "block/azalea_plant"
+    },
+    "elements": [
+        {   "from": [ 0, 16, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0, 16, 16, 0 ], "texture": "#top" },
+                "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#top", "cullface": "up" }
+            }
+        },
+        {   "from": [ 0, 5, 0 ],
+            "to": [ 16, 16, 0.01 ],
+            "faces": {
+                "north": { "uv": [ 0, 0, 16, 11 ], "texture": "#side", "cullface": "north"},
+                "south": { "uv": [ 16, 0, 0, 11 ], "texture": "#side"}
+            }
+        },
+        {   "from": [ 0, 5, 15.99 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "north": { "uv": [ 16, 0, 0, 11 ], "texture": "#side"},
+                "south": { "uv": [ 0, 0, 16, 11 ], "texture": "#side", "cullface": "south"}
+            }
+        },
+        {   "from": [ 0, 5, 0 ],
+            "to": [ 0.01, 16, 16 ],
+            "faces": {
+                "west":  { "uv": [ 0, 0, 16, 11 ], "texture": "#side", "cullface": "west"},
+                "east":  { "uv": [ 16, 0, 0, 11 ], "texture": "#side"}
+            }
+        },
+        {   "from": [ 15.99, 5, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "west":  { "uv": [ 16, 0, 0, 11 ], "texture": "#side"},
+                "east":  { "uv": [ 0, 0, 16, 11 ], "texture": "#side", "cullface": "east"}
+            }
+        },
+        {   "from": [ 0.1, 0, 8 ],
+            "to": [ 15.9, 15.9, 8 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+            "faces": {
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#plant" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#plant" }
+            }
+        },
+        {   "from": [ 8, 0, 0.1 ],
+            "to": [ 8, 15.9, 15.9 ],
+            "rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+            "faces": {
+                "west": { "uv": [ 0, 0, 16, 16 ], "texture": "#plant" },
+                "east": { "uv": [ 0, 0, 16, 16 ], "texture": "#plant" }
+            }
+        }
+    ]
+}

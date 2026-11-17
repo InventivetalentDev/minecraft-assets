@@ -1,0 +1,9 @@
+{
+  "break_sound": {
+    "sound_id": "minecraft:block.fire.extinguish"
+  },
+  "fall_sound": "minecraft:block.wool.fall",
+  "hit_sound": "minecraft:block.wool.hit",
+  "place_sound": "minecraft:block.wool.place",
+  "step_sound": "minecraft:block.wool.step"
+}

@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.vault.break",
+  "fall_sound": "minecraft:block.vault.fall",
+  "hit_sound": "minecraft:block.vault.hit",
+  "place_sound": "minecraft:block.vault.place",
+  "step_sound": "minecraft:block.vault.step"
+}

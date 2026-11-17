@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "axis=x,creaking_heart_state=awake": {
+      "model": "minecraft:block/creaking_heart_awake_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,creaking_heart_state=dormant": {
+      "model": "minecraft:block/creaking_heart_dormant_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,creaking_heart_state=uprooted": {
+      "model": "minecraft:block/creaking_heart_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,creaking_heart_state=awake": {
+      "model": "minecraft:block/creaking_heart_awake"
+    },
+    "axis=y,creaking_heart_state=dormant": {
+      "model": "minecraft:block/creaking_heart_dormant"
+    },
+    "axis=y,creaking_heart_state=uprooted": {
+      "model": "minecraft:block/creaking_heart"
+    },
+    "axis=z,creaking_heart_state=awake": {
+      "model": "minecraft:block/creaking_heart_awake_horizontal",
+      "x": 90
+    },
+    "axis=z,creaking_heart_state=dormant": {
+      "model": "minecraft:block/creaking_heart_dormant_horizontal",
+      "x": 90
+    },
+    "axis=z,creaking_heart_state=uprooted": {
+      "model": "minecraft:block/creaking_heart_horizontal",
+      "x": 90
+    }
+  }
+}

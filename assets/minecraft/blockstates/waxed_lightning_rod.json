@@ -1,0 +1,56 @@
+{
+  "variants": {
+    "facing=down,powered=false": {
+      "model": "minecraft:block/lightning_rod",
+      "x": 180
+    },
+    "facing=down,powered=true": {
+      "model": "minecraft:block/lightning_rod_on",
+      "x": 180
+    },
+    "facing=east,powered=false": {
+      "model": "minecraft:block/lightning_rod",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,powered=true": {
+      "model": "minecraft:block/lightning_rod_on",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north,powered=false": {
+      "model": "minecraft:block/lightning_rod",
+      "x": 90
+    },
+    "facing=north,powered=true": {
+      "model": "minecraft:block/lightning_rod_on",
+      "x": 90
+    },
+    "facing=south,powered=false": {
+      "model": "minecraft:block/lightning_rod",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,powered=true": {
+      "model": "minecraft:block/lightning_rod_on",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up,powered=false": {
+      "model": "minecraft:block/lightning_rod"
+    },
+    "facing=up,powered=true": {
+      "model": "minecraft:block/lightning_rod_on"
+    },
+    "facing=west,powered=false": {
+      "model": "minecraft:block/lightning_rod",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,powered=true": {
+      "model": "minecraft:block/lightning_rod_on",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

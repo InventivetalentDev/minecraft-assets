@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "minecraft:block/amethyst_cluster",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "minecraft:block/amethyst_cluster",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "minecraft:block/amethyst_cluster",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "minecraft:block/amethyst_cluster",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "minecraft:block/amethyst_cluster"
+    },
+    "facing=west": {
+      "model": "minecraft:block/amethyst_cluster",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

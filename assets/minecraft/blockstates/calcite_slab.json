@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/calcite_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/calcite"
+    },
+    "type=top": {
+      "model": "minecraft:block/calcite_slab_top"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.candle.break",
+  "fall_sound": "minecraft:block.candle.fall",
+  "hit_sound": "minecraft:block.candle.hit",
+  "place_sound": "minecraft:block.candle.place",
+  "step_sound": "minecraft:block.candle.step"
+}

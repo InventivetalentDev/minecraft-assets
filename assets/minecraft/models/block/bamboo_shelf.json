@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_shelf_body",
+  "textures": {
+    "all": "minecraft:block/bamboo_shelf",
+    "particle": "minecraft:block/stripped_bamboo_block"
+  }
+}

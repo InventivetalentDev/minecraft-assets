@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.cave_vines.break",
+  "fall_sound": "minecraft:block.cave_vines.fall",
+  "hit_sound": "minecraft:block.cave_vines.hit",
+  "place_sound": "minecraft:block.cave_vines.place",
+  "step_sound": "minecraft:block.cave_vines.step"
+}

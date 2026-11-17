@@ -1,0 +1,1 @@
+{"enderman_loot_drop":{"type":"minecraft:single","enchantment":"minecraft:silk_touch","level":1},"mob_spawn_equipment":{"type":"minecraft:by_cost_with_difficulty","enchantments":"#minecraft:on_mob_spawn_equipment","max_cost_span":17,"min_cost":5},"pillager_spawn_crossbow":{"type":"minecraft:single","enchantment":"minecraft:piercing","level":1}}

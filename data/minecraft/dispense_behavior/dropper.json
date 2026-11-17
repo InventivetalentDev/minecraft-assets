@@ -1,0 +1,8 @@
+[
+  {
+    "type": "minecraft:insert_into_container"
+  },
+  {
+    "type": "minecraft:drop_item"
+  }
+]

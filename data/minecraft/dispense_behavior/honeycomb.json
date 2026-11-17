@@ -1,0 +1,9 @@
+[
+  {
+    "type": "minecraft:transform_block",
+    "transformer": "minecraft:honeycomb"
+  },
+  {
+    "type": "minecraft:drop_item"
+  }
+]

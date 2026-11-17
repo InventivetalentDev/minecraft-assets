@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.powder_snow.break",
+  "fall_sound": "minecraft:block.powder_snow.fall",
+  "hit_sound": "minecraft:block.powder_snow.hit",
+  "place_sound": "minecraft:block.powder_snow.place",
+  "step_sound": "minecraft:block.powder_snow.step"
+}

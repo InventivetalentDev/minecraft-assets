@@ -1,0 +1,8 @@
+[
+  {
+    "type": "minecraft:fill_bottle"
+  },
+  {
+    "type": "minecraft:drop_item"
+  }
+]

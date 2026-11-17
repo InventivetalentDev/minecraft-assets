@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.leaf_litter.break",
+  "fall_sound": "minecraft:block.leaf_litter.fall",
+  "hit_sound": "minecraft:block.leaf_litter.hit",
+  "place_sound": "minecraft:block.leaf_litter.place",
+  "step_sound": "minecraft:block.leaf_litter.step"
+}
