@@ -1,8 +1,8 @@
 {
   "id": "26.4-snapshot-10",
   "type": "snapshot",
-  "url": "https://piston-meta.mojang.com/v1/packages/e354ebe86afe36bfcc699d571def29655066d3df/26.4-snapshot-10.json",
-  "time": "2026-11-17T16:09:29+00:00",
+  "url": "https://piston-meta.mojang.com/v1/packages/cdbd48e283ee0b45167cc8e86d1265a4d6b7a292/26.4-snapshot-10.json",
+  "time": "2026-11-18T10:59:19+00:00",
   "releaseTime": "2026-11-17T16:02:02+00:00",
-  "downloadTimestamp": 1794936308689
+  "downloadTimestamp": 1795022741280
 }
