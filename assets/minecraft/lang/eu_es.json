@@ -6726,7 +6726,7 @@
     "options.hideMatchedNames.tooltip": "Hirugarreneko zerbitzariak txat mezuak formatu ez-estandarrean bidal ditzakete.\nAukera hau gaituz gero, jokalari ezkutuak txat bidaltzailearen izenekin bateratuko dira.",
     "options.hideSplashTexts": "Ezkutatu ongietorri-testua",
     "options.hideSplashTexts.tooltip": "Hasierako menuko textu horia ezkutatzen du.",
-    "options.improvedFog": "Improved Fog",
+    "options.improvedFog": "Laino hobetua",
     "options.improvedFog.tooltip": "Blends the sky background with render distance-based fog to make the boundary between the terrain and the sky less visible. When disabled, the fog is a solid color.\nIf Improved Transparency is also enabled, the clouds will be blended with the fog as well.",
     "options.improvedTransparency": "Transparentzia hobetua",
     "options.improvedTransparency.oit.tooltip": "Gardentasun arbitrarioko algoritmo bat erabiltzen duen ikuspegi esperimental bat, elementu zeharrargien hainbat geruzaren bidez begiratzean izaten diren arazo grafikoak saihesteko.\nHorrek eragina izango du errendimenduan.",

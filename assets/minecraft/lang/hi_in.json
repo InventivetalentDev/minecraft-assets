@@ -6522,7 +6522,7 @@
     "narrator.position.screen": "%s स्क्रीन तत्व कुल %s में से",
     "narrator.position.slot": "%s out of %s",
     "narrator.position.tab": "%s में से %s टैब को चुना गया",
-    "narrator.position.tab.index": "%s out of %s",
+    "narrator.position.tab.index": "%s में से %s",
     "narrator.position.tab.named": "Selected %1$s tab %2$s",
     "narrator.ready_to_play": "खेलने के लिए तैयार",
     "narrator.screen.title": "मुख्य पृष्ठ",

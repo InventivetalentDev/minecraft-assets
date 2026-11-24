@@ -8547,7 +8547,7 @@
     "team.collision.never": "Nunca",
     "team.collision.pushOtherTeams": "Empujar otros equipos",
     "team.collision.pushOwnTeam": "Empujar al propio equipo",
-    "team.notFound": "Equipo desconocido: %s",
+    "team.notFound": "Equipo desconocido: «%s»",
     "team.visibility.always": "Siempri",
     "team.visibility.hideForOtherTeams": "Ocultar para otros equipos",
     "team.visibility.hideForOwnTeam": "Ocultar para su equipo",

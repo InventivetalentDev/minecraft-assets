@@ -403,7 +403,7 @@
     "argument.scoreHolder.empty": "No se encontraron marcadores de puntaje relevantes",
     "argument.scoreboardDisplaySlot.invalid": "Espacio de muestra desconocido: %s",
     "argument.style.invalid": "Estilo no válido: %s",
-    "argument.swing_animation.invalid": "Tipo de animación de movimiento desconocido «%s»",
+    "argument.swing_animation.invalid": "Tipo de animación de movimiento desconocido: «%s»",
     "argument.time.invalid_tick_count": "La cuenta de ciclos debe ser no negativa",
     "argument.time.invalid_unit": "Unidad no válida",
     "argument.time.tick_count_too_high": "El número de tics no debe ser superior a %s: encontrado %s",

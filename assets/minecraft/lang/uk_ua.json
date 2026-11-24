@@ -8646,7 +8646,7 @@
     "test.error.expected_item": "Очікувався предмет типу: %s",
     "test.error.expected_items_count": "Очікувалося %s предметів типу %s; знайдено %s",
     "test.error.fail": "Умови провалу виконані",
-    "test.error.invalid_block_type": "Неочікуваний тип блока виявлено: %s",
+    "test.error.invalid_block_type": "Виявлено неочікуваний тип блока: %s",
     "test.error.missing_block_entity": "Немає блока-сутности",
     "test.error.not_a_block_item": "Зазначений блок не є блоком-предметом",
     "test.error.position": "%s на %s, %s, %s (відносні: %s, %s, %s) на такті %s",

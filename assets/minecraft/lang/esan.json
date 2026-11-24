@@ -403,7 +403,7 @@
     "argument.scoreHolder.empty": "No ç'an encontrao marcaórê de puntuaçión relebantê",
     "argument.scoreboardDisplaySlot.invalid": "Êppaçio de muêttra \"%s\" dêcconoçío",
     "argument.style.invalid": "Êttilo no bálido: %s",
-    "argument.swing_animation.invalid": "Tipo de animación de movimiento desconocido «%s»",
+    "argument.swing_animation.invalid": "Tipo de animación de movimiento desconocido: «%s»",
     "argument.time.invalid_tick_count": "La cuenta de çiclô debe çêh no negatiba",
     "argument.time.invalid_unit": "Unidá no bálida",
     "argument.time.tick_count_too_high": "El número de tics no debe ser superior a %s: encontrado %s",
