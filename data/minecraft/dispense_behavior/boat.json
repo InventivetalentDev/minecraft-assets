@@ -1,0 +1,8 @@
+[
+  {
+    "type": "minecraft:place_boat"
+  },
+  {
+    "type": "minecraft:drop_item"
+  }
+]

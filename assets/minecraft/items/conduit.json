@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "minecraft:item/conduit",
+    "model": {
+      "type": "minecraft:conduit"
+    },
+    "transformation": {
+      "left_rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "right_rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  }
+}

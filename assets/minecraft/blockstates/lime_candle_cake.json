@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "minecraft:block/lime_candle_cake"
+    },
+    "lit=true": {
+      "model": "minecraft:block/lime_candle_cake_lit"
+    }
+  }
+}

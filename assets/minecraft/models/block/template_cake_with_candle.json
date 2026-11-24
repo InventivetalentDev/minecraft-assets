@@ -1,0 +1,51 @@
+{
+    "textures": {
+        "particle": "block/cake_side",
+        "bottom": "block/cake_bottom",
+        "top": "block/cake_top",
+        "side": "block/cake_side"
+    },
+    "elements": [
+        {   "from": [ 1, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#side" },
+                "east":  { "texture": "#side" }
+            }
+        },
+        {
+            "from": [7, 8, 7],
+            "to": [9, 14, 9],
+            "faces": {
+                "north": {"uv": [0, 8, 2, 14], "texture": "#candle"},
+                "east": {"uv": [0, 8, 2, 14], "texture": "#candle"},
+                "south": {"uv": [0, 8, 2, 14], "texture": "#candle"},
+                "west": {"uv": [0, 8, 2, 14], "texture": "#candle"},
+                "up": {"uv": [0, 6, 2, 8], "texture": "#candle"},
+                "down": {"uv": [0, 14, 2, 16], "texture": "#candle", "cullface": "down"}
+            }
+        },
+        {
+            "from": [7.5, 14, 8],
+            "to": [8.5, 15, 8],
+            "rotation": {"angle": -45, "axis": "y", "origin": [8, 14, 8]},
+            "faces": {
+                "north": {"uv": [0, 5, 1, 6], "texture": "#candle"},
+                "south": {"uv": [0, 5, 1, 6], "texture": "#candle"}
+            }
+        },
+        {
+            "from": [7.5, 14, 8],
+            "to": [8.5, 15, 8],
+            "rotation": {"angle": 45, "axis": "y", "origin": [8, 14, 8]},
+            "faces": {
+                "north": {"uv": [0, 5, 1, 6], "texture": "#candle"},
+                "south": {"uv": [0, 5, 1, 6], "texture": "#candle"}
+            }
+        }
+    ]
+}

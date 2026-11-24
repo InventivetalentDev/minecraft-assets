@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.soul_sand.break",
+  "fall_sound": "minecraft:block.soul_sand.fall",
+  "hit_sound": "minecraft:block.soul_sand.hit",
+  "place_sound": "minecraft:block.soul_sand.place",
+  "step_sound": "minecraft:block.soul_sand.step"
+}

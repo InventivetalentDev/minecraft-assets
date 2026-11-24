@@ -1,0 +1,22 @@
+[
+  {
+    "type": "minecraft:shoot_projectile",
+    "offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "power": 1.0,
+    "scale": 1.0,
+    "sound": {
+      "pitch": {
+        "type": "minecraft:uniform",
+        "max_exclusive": 0.5,
+        "min_inclusive": 0.33333334
+      },
+      "sound": "minecraft:entity.wind_charge.throw",
+      "volume": 0.5
+    },
+    "uncertainty": 6.6666665
+  }
+]

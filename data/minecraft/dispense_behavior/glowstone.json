@@ -1,0 +1,11 @@
+[
+  {
+    "type": "minecraft:charge_respawn_anchor"
+  },
+  {
+    "type": "minecraft:equip_sulfur_cube"
+  },
+  {
+    "type": "minecraft:drop_item"
+  }
+]

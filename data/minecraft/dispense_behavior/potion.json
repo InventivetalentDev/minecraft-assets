@@ -1,0 +1,8 @@
+[
+  {
+    "type": "minecraft:convert_to_mud"
+  },
+  {
+    "type": "minecraft:drop_item"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.chiseled_bookshelf.break",
+  "fall_sound": "minecraft:block.chiseled_bookshelf.fall",
+  "hit_sound": "minecraft:block.chiseled_bookshelf.hit",
+  "place_sound": "minecraft:block.chiseled_bookshelf.place",
+  "step_sound": "minecraft:block.chiseled_bookshelf.step"
+}

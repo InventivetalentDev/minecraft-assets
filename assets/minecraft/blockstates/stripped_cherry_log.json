@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/stripped_cherry_log_x"
+    },
+    "axis=y": {
+      "model": "minecraft:block/stripped_cherry_log_y"
+    },
+    "axis=z": {
+      "model": "minecraft:block/stripped_cherry_log_z"
+    }
+  }
+}

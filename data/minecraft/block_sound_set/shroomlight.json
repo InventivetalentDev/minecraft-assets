@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.shroomlight.break",
+  "fall_sound": "minecraft:block.shroomlight.fall",
+  "hit_sound": "minecraft:block.shroomlight.hit",
+  "place_sound": "minecraft:block.shroomlight.place",
+  "step_sound": "minecraft:block.shroomlight.step"
+}

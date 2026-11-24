@@ -1,0 +1,35 @@
+#version 330
+#extension GL_ARB_separate_shader_objects : require
+
+uniform sampler2D InSampler;
+
+layout(location = 0) in vec2 texCoord;
+
+layout(std140) uniform SamplerInfo {
+    vec2 OutSize;
+    vec2 InSize;
+};
+
+layout(std140) uniform BitsConfig {
+    float Resolution;
+    float MosaicSize;
+};
+
+layout(location = 0) out vec4 fragColor;
+
+const float Saturation = 1.5;
+
+void main() {
+    vec2 mosaicInSize = InSize / MosaicSize;
+    vec2 mosaicTexCoord = floor(texCoord * mosaicInSize) / mosaicInSize;
+
+    vec4 baseTexel = texture(InSampler, mosaicTexCoord);
+
+    vec3 quantizedTexel = floor(baseTexel.rgb * Resolution) / Resolution;
+    float luma = dot(quantizedTexel, vec3(0.3, 0.59, 0.11));
+    vec3 chroma = (quantizedTexel - luma) * Saturation;
+    baseTexel.rgb = luma + chroma;
+    baseTexel.a = 1.0;
+
+    fragColor = baseTexel;
+}

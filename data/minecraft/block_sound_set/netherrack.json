@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.netherrack.break",
+  "fall_sound": "minecraft:block.netherrack.fall",
+  "hit_sound": "minecraft:block.netherrack.hit",
+  "place_sound": "minecraft:block.netherrack.place",
+  "step_sound": "minecraft:block.netherrack.step"
+}

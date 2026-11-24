@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/sniffer_egg",
+  "textures": {
+    "bottom": "minecraft:block/sniffer_egg_not_cracked_bottom",
+    "east": "minecraft:block/sniffer_egg_not_cracked_east",
+    "north": "minecraft:block/sniffer_egg_not_cracked_north",
+    "south": "minecraft:block/sniffer_egg_not_cracked_south",
+    "top": "minecraft:block/sniffer_egg_not_cracked_top",
+    "west": "minecraft:block/sniffer_egg_not_cracked_west"
+  }
+}

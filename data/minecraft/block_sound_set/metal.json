@@ -1,0 +1,8 @@
+{
+  "break_sound": "minecraft:block.metal.break",
+  "fall_sound": "minecraft:block.metal.fall",
+  "hit_sound": "minecraft:block.metal.hit",
+  "pitch": 1.5,
+  "place_sound": "minecraft:block.metal.place",
+  "step_sound": "minecraft:block.metal.step"
+}

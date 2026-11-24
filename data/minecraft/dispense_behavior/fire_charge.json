@@ -1,0 +1,23 @@
+[
+  {
+    "type": "minecraft:shoot_projectile",
+    "offset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "power": 1.0,
+    "scale": 1.0,
+    "sound": {
+      "pitch": {
+        "type": "minecraft:trapezoid",
+        "max": 1.2,
+        "min": 0.8,
+        "plateau": 0.0
+      },
+      "sound": "minecraft:entity.blaze.shoot",
+      "volume": 2.0
+    },
+    "uncertainty": 6.6666665
+  }
+]

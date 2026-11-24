@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_sign_rot_3",
+  "textures": {
+    "all": "minecraft:block/pale_oak_sign",
+    "particle": "minecraft:block/pale_oak_planks"
+  }
+}

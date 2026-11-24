@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.nether_sprouts.break",
+  "fall_sound": "minecraft:block.nether_sprouts.fall",
+  "hit_sound": "minecraft:block.nether_sprouts.hit",
+  "place_sound": "minecraft:block.nether_sprouts.place",
+  "step_sound": "minecraft:block.nether_sprouts.step"
+}

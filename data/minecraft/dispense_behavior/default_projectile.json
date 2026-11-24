@@ -1,0 +1,13 @@
+[
+  {
+    "type": "minecraft:shoot_projectile",
+    "offset": [
+      0.0,
+      0.1,
+      0.0
+    ],
+    "power": 1.1,
+    "scale": 0.699999988079071,
+    "uncertainty": 6.0
+  }
+]

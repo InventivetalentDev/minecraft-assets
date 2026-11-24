@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "minecraft:block/polished_calcite",
+    "side": "minecraft:block/polished_calcite",
+    "top": "minecraft:block/polished_calcite"
+  }
+}

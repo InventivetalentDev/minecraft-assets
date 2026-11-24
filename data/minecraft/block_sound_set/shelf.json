@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.shelf.break",
+  "fall_sound": "minecraft:block.shelf.fall",
+  "hit_sound": "minecraft:block.shelf.hit",
+  "place_sound": "minecraft:block.shelf.place",
+  "step_sound": "minecraft:block.shelf.step"
+}
