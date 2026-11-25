@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Shippin' messages 'n bottles be nah allowed",
     "chat_screen.restricted": "Banter is restricted. Jab this message 'n a bottle fer details.",
     "chat_screen.restricted.narration": "Banter is restricted. Go t' th' Restrictions screen in Sea scribble.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Panel o' banter",
     "chat_screen.usage": "Put yer message in the bottle 'n press Enter t' send",
     "chunk.toast.checkLog": "Check yer log fer more details",

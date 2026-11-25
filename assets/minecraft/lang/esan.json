@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "No çe permite embiâh mençahê en er xâh",
     "chat_screen.restricted": "Er xâh êttá rêttrinhío. Âh clîh en êtte mençahe pa mâh informaçión.",
     "chat_screen.restricted.narration": "Er xâh êttá rêttrinhío. Be a la pantaya Rêttrîççionê en Ôççionê der mundo.",
+    "chat_screen.restricted_friends_only": "Solo puedes ver el chat de tus amigos. Haz clic en este mensaje para obtener más información.",
+    "chat_screen.restricted_friends_only.narration": "Solo puedes ver los mensajes de tus amigos. Ve a la pantalla «Restricciones» en las opciones del mundo para obtener más información.",
     "chat_screen.title": "Pantaya der xâh",
     "chat_screen.usage": "Êccribe un mençahe y purça Intro pa embiâl-lo",
     "chunk.toast.checkLog": "Mâh informaçión n'er rehîttro der huego",

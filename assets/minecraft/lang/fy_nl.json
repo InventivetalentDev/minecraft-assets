@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Chatberjochten ferstjoere is net tastien",
     "chat_screen.restricted": "Chat is beheind. Klik op dit berjocht foar mear ynformaasje.",
     "chat_screen.restricted.narration": "Chat is beheind. Gean nei het beheiningenmenu yn de wrâldynstellingen.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Petearskerm",
     "chat_screen.usage": "Fier berjocht yn en druk op Enter om te ferstjoeren",
     "chunk.toast.checkLog": "Sjoch de log foar mear ynformaasje",

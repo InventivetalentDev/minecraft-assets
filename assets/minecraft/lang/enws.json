@@ -2655,6 +2655,8 @@
     "chat_screen.messages_not_allowed": "The chat suffereth no messages to be sent",
     "chat_screen.restricted": "The chat is restrain’d. Hie thee to this message for its particulars.",
     "chat_screen.restricted.narration": "Chat lies bound. Make thy way to the Restrictions screen in World Options.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Dialogue screen",
     "chat_screen.usage": "Prepare thy line and press Enter to speak",
     "chunk.toast.checkLog": "Consult thou the scroll of logs, for therein lies all further secrets and whispers",

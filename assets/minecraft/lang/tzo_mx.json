@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Mu ch-ak'at ta stakel mantal lo'iletik",
     "chat_screen.restricted": "Mu ch-ak'at li lo'ile. Paso klik li ta mantal li'e sventa mas alelal.",
     "chat_screen.restricted.narration": "Mu ch-ak'at li lo'ile. Batan ta pantaya Mu Ak'eletik ta St'ujeltak Balumil.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Spantaya lo'il",
     "chat_screen.usage": "Ts'ibao jun mantal xchi'uk net'o Enter sventa xatak",
     "chunk.toast.checkLog": "Oy mas alelal ta sts'ibael tajimol",

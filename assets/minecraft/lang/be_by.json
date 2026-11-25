@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Адпраўленне паведамленняў забаронена",
     "chat_screen.restricted": "Чат абмежаваны. Націсніце гэта паведамленне, каб даведацца больш.",
     "chat_screen.restricted.narration": "Чат абмежаваны. Перайдзіце на экран «Абмежаванні» ў наладах свету.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Акно чату",
     "chat_screen.usage": "Увядзіце паведамленне і націсніце клавішу «Enter», каб яго адправіць",
     "chunk.toast.checkLog": "Праверце журнал, каб даведацца больш",

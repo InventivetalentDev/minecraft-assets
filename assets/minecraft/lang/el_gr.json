@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Η αποστολή μηνυμάτων συνομιλίας δεν επιτρέπεται",
     "chat_screen.restricted": "Η συνομιλία είναι περιορισμένη. Κάνε κλικ σε αυτό το μήνυμα για λεπτομέρειες.",
     "chat_screen.restricted.narration": "Η συνομιλία είναι περιορισμένη. Πήγαινε στην οθόνη Περιορισμών στις Επιλογές Κόσμου.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Οθόνη Συνομιλίας",
     "chat_screen.usage": "Εισαγωγή μηνύματος και πάτημα Enter για αποστολή",
     "chunk.toast.checkLog": "Δες το αρχείο καταγραφής για περισσότερες λεπτομέρειες",

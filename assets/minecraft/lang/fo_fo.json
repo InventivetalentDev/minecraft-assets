@@ -2648,6 +2648,8 @@
     "chat_screen.messages_not_allowed": "Ikki loyvt at senda kjattboð",
     "chat_screen.restricted": "Kjatt er avmarkað. Trýst á hendan boðskapin fyri neyvari lýsing.",
     "chat_screen.restricted.narration": "Kjatt er avmarkað. Far til avmarkingarskíggjan í heimsvalmøguleikum.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Kjattskermur",
     "chat_screen.usage": "Skriva boð og trýst Enter fyri at senda",
     "chunk.toast.checkLog": "Sí gerðalista fyri neyvari lýsing",

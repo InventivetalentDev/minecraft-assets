@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Sending chat messages is not allowed",
     "chat_screen.restricted": "Chat is restricted. Click this message for details.",
     "chat_screen.restricted.narration": "Chat is restricted. Go to the Restrictions screen in World Options.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Nkata ihuenyo",
     "chat_screen.usage": "Tinye ozi mbata wee pịa banye ka izipu",
     "chunk.toast.checkLog": "See log for more details",

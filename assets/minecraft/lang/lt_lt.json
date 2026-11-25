@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Siųsti pokalbio žinutes yra draudžiama",
     "chat_screen.restricted": "Pokalbiai yra ribojami. Paspauskite šį pranešimą, jei norite gauti daugiau informacijos.",
     "chat_screen.restricted.narration": "Pokalbiai yra ribojami. Eikite į ribojimų langą pasaulio nustatymuose.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Pokalbių langas",
     "chat_screen.usage": "Parašykite žinutę ir spauskite Enter norėdami išsiųsti",
     "chunk.toast.checkLog": "Peržiūrėkite sąrašą dėl daugiau informacijos",

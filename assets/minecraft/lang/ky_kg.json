@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Чаттан билдирүү жөнөткөн болбойт",
     "chat_screen.restricted": "Чат чектелген. Көбүрөөк билүү үчүн бул билдирүүнү басыңыз.",
     "chat_screen.restricted.narration": "Чат чектелген. Дүйнө орнотууларындагы «Чектөөлөр» экранына өтүңүз.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Чат экраны",
     "chat_screen.usage": "Кат жазып жөнөтүү үчүн Enter басыңыз",
     "chunk.toast.checkLog": "Журналдан толугураак окуңуз",

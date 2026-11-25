@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Ni chaniateir anfon negeseuon sgwrs",
     "chat_screen.restricted": "Mae'r sgwrs yn gyfyngedig. Cliciwch ar y neges hon am fanylion.",
     "chat_screen.restricted.narration": "Mae'r sgwrs yn cyfyngedig. Ewch i'r sgrîn Cyfyngiadau yn Opsiynau Byd.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Sgrîn sgwrsio",
     "chat_screen.usage": "Rhowch neges a gwasgwch Enter i ddanfon",
     "chunk.toast.checkLog": "Gweler y log am fwy o manylion",

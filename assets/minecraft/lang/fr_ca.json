@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "L'envoi de messages dans le chat n'est pas permis",
     "chat_screen.restricted": "Le chat est restreint. Cliquez sur ce message pour plus de détails.",
     "chat_screen.restricted.narration": "Le chat est restreint. Allez à l'écran des restrictions dans les options du monde.",
+    "chat_screen.restricted_friends_only": "Vous ne pouvez voir que le chat de vos amis. Cliquez sur ce message pour plus de détails.",
+    "chat_screen.restricted_friends_only.narration": "Vous pouvez seulement voir les messages de vos amis. Allez à l'écran Restrictions dans les options du monde pour plus d'informations.",
     "chat_screen.title": "Zone du chat",
     "chat_screen.usage": "Saisissez un message puis appuyez sur Entrée pour l'envoyer",
     "chunk.toast.checkLog": "Voir le log pour plus de détails",

@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Adpraŭlennie paviedamlenniaŭ zabaroniena",
     "chat_screen.restricted": "Čat abmiežavany. Nacisnicie heta paviedamlennie, kab daviedacca bolš.",
     "chat_screen.restricted.narration": "Čat abmiežavany. Pierajdzicie na ekran «Abmiežavanni» ŭ naładach svietu.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Akno čatu",
     "chat_screen.usage": "Uviadzicie paviedamlennie i nacisnicie kłavišu «Enter», kab jaho adpravić",
     "chunk.toast.checkLog": "Praviercie žurnał, kab daviedacca bolš",

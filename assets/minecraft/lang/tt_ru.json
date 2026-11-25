@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Чат хәбәрләрен җибәрергә ярамый",
     "chat_screen.restricted": "Чат чикләнгән. Күбрәк өчен бу хәбәрне басыгыз.",
     "chat_screen.restricted.narration": "Чат чикләнгән. Дөнья көйләүләрендә чикләр экранына барыгыз.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Чат экраны",
     "chat_screen.usage": "Хәбәрегезне языгыз һәм җибәрү өчен Enter басыгыз",
     "chunk.toast.checkLog": "Күбрәк мәгълүмат өчен журналны карагыз",

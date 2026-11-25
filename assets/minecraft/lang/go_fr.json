@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Empôzë d'envayer des messaijes den la caozerie",
     "chat_screen.restricted": "La caozerie ét bornée. Tiqéz ste messaije pour pus de ghiments.",
     "chat_screen.restricted.narration": "La caozerie ét bornée. Aléz a la paije de bornaije den les opcions du monde.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Bouéte de caozerie",
     "chat_screen.usage": "Ecrivéz un messaije pis tapéz Entrée pour qe de l'envayer",
     "chunk.toast.checkLog": "Lére le journa pour pus de ghiments",

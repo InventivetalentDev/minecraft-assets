@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Nuntia mittere non licet",
     "chat_screen.restricted": "Locutorium cogitur. Ice hoc nuntium ut videas plus rationum.",
     "chat_screen.restricted.narration": "Locutorium cogitur. I ad simulacrum exceptionum in Optiones mundi.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Simulacrum locutorii",
     "chat_screen.usage": "Scribe nuntium et preme Mitte ut mittas",
     "chunk.toast.checkLog": "Refer tabulas ut videas plus rationum",

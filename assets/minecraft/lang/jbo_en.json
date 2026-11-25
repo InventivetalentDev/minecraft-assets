@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": ".i na curmi lo nu benji lo tavla notci",
     "chat_screen.restricted": "Chat is restricted. Click this message for details.",
     "chat_screen.restricted.narration": "Chat is restricted. Go to the Restrictions screen in World Options.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Chat Screen",
     "chat_screen.usage": "Input message and press Enter to send",
     "chunk.toast.checkLog": ".i ko tcidu lo vreji tezu'e lo nu facki loi tcila",

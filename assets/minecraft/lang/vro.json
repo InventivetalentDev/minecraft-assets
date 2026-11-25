@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Tsäti pruukminõ olõ-õiq lubat",
     "chat_screen.restricted": "Tsätmist om piiret. Vaodaq sõnomi pääle, et kaiaq täpsembähe.",
     "chat_screen.restricted.narration": "Tsätt om piirõt. Mineq maailma säädüngiilõ piirangidõ manoq.",
+    "chat_screen.restricted_friends_only": "Sa näed vaid sõprade vestlust. Lisainfo saamiseks klõpsa sellele sõnumile.",
+    "chat_screen.restricted_friends_only.narration": "Sa näed vaid sõprade saadetud sõnumeid. Lisainfo saamiseks mine maailmavalikutes olevasse piirangute vaatesse.",
     "chat_screen.title": "Tsätiakõń",
     "chat_screen.usage": "Lüüq sõnnom sisse ja saatmisõs vaotaq Enter",
     "chunk.toast.checkLog": "Kaeq täpsembät teedüst logist",

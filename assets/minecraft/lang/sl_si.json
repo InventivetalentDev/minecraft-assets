@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Pošiljanje sporočil ni dovoljeno",
     "chat_screen.restricted": "Klepet je omejen. Pritisnite sporočilo za podrobnosti.",
     "chat_screen.restricted.narration": "Klepet je omejen. Odpri zaslon omejitev v nastavitvah sveta.",
+    "chat_screen.restricted_friends_only": "Ogledate si lahko samo klepet prijateljev. Kliknite to sporočilo za več podrobnosti.",
+    "chat_screen.restricted_friends_only.narration": "Ogledate si lahko samo sporočila prijateljev. Za več informacij odprite zaslon omejitve v možnostih sveta.",
     "chat_screen.title": "Okno za klepet",
     "chat_screen.usage": "Vstavite sporočilo in pritisnite tipko vnašalko da pošljete",
     "chunk.toast.checkLog": "Za več podrobnosti glejte dnevnik",

@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "𐍅𐌰𐌿𐍂𐌳𐌰 𐌹𐌽𐍃𐌰𐌽𐌳𐌾𐌰𐌽 𐌽𐌹 𐌱𐌹𐌽𐌰𐌷",
     "chat_screen.restricted": "𐌲𐌰𐍅𐌰𐌿𐍂𐌳𐌹 𐌲𐌰𐌼𐌰𐍂𐌺𐍉𐌸 𐌹𐍃𐍄. 𐍀𐍂𐌰𐌲𐌲 𐌰𐌽𐌰 𐌸𐌰𐌼𐌼𐌰 𐍅𐌰𐌿𐍂𐌳𐌰 𐌼𐌰𐌹𐌶𐌹𐌽 𐌺𐌿𐌽𐌸𐌾𐌰.",
     "chat_screen.restricted.narration": "𐌲𐌰𐍅𐌰𐌿𐍂𐌳𐌹 𐌲𐌰𐌼𐌰𐍂𐌺𐍉𐌸 𐌹𐍃𐍄. 𐌲𐌰𐌲𐌲 𐌳𐌿 𐍃𐌺𐌰𐌹𐍂𐌼𐌰 𐌲𐌰𐌰𐌲𐌲𐍅𐌴𐌹𐌽𐍉 𐌹𐌽 𐌲𐌰𐍅𐌰𐌻𐌴𐌹𐌽𐌹𐌼 𐍆𐌰𐌹𐍂𐍈𐌰𐌿𐍃.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "𐍃𐌺𐌰𐌹𐍂𐌼𐍃 𐌲𐌰𐍅𐌰𐌿𐍂𐌳𐌾𐌴",
     "chat_screen.usage": "𐌼𐌴𐌻𐌴𐌹 𐍅𐌰𐌿𐍂𐌳 𐌾𐌰𐌷 𐍀𐍂𐌰𐌲𐌲 «Enter» 𐌳𐌿 𐌹𐌽𐍃𐌰𐌽𐌳𐌾𐌰𐌽",
     "chunk.toast.checkLog": "𐍃𐌰𐌹𐍈 𐌻𐌰𐌿𐌲 𐌼𐌰𐌹𐌶𐌹𐌽 𐌺𐌿𐌽𐌸𐌾𐌰",

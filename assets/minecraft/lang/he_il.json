@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "לא מאושר לשלוח הודעות צ'אט",
     "chat_screen.restricted": "הצ'אט מוגבל. לחץ על הודעה זאת עבור פירוט.",
     "chat_screen.restricted.narration": "הצ'אט מוגבל. עבור למסך הגבלות באפשרויות עולם.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "מסך צ'אט",
     "chat_screen.usage": "הכנס הודעה ולחץ על מקש הEnter כדי לשלוח",
     "chunk.toast.checkLog": "ראה את תיעוד האירועים (log) עבור פרטים נוספים",

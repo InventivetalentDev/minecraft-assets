@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "No està permés enviar missatges de xat",
     "chat_screen.restricted": "El xat està restringit. Fes clic en este missatge per a veure'n els detalls.",
     "chat_screen.restricted.narration": "El xat està restringit. Ves a la pantalla de restriccions a les opcions del món.",
+    "chat_screen.restricted_friends_only": "Només pots vore el xat dels teus amics. Clica en este missatge per a més detalls.",
+    "chat_screen.restricted_friends_only.narration": "Només pots vore el xat dels teus amics. Ves a la pantalla de restriccions a les opcions del món per a més informació.",
     "chat_screen.title": "Pantalla del xat",
     "chat_screen.usage": "Escriu un missatge i prem \"Enter\" per a enviar",
     "chunk.toast.checkLog": "Mira el registre per a obtindre més detalls",

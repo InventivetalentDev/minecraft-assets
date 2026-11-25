@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Txat mezuak bidaltzea ez da onartzen",
     "chat_screen.restricted": "Txata mugatuta dago. Sakatu mezu hau xehetasunak ikusteko.",
     "chat_screen.restricted.narration": "Txata mugatuta dago. Mundu aukeretan, joan murrizketak pantailara.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Txat-pantaila",
     "chat_screen.usage": "Mezua idatzi eta «Sartu» sakatu mezu hau bidaltzeko",
     "chunk.toast.checkLog": "Xehetasun gehiago lortzeko, ikusi erregistroa",

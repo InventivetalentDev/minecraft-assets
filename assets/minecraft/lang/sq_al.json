@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Dërgimi i mesazheve në bisedë nuk lejohet",
     "chat_screen.restricted": "Biseda është e kufizuar. Kliko këtë mesazh për detaje.",
     "chat_screen.restricted.narration": "Biseda është e kufizuar. Shko te ekrani i kufizimeve në opsionet e botës.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Ekrani i bisedës",
     "chat_screen.usage": "Shkruani një mesazh dhe shtypni Enter për ta dërguar",
     "chunk.toast.checkLog": "Shihni regjistrin për më shumë detaje",

@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Non está permitido enviar mensaxes no Chat",
     "chat_screen.restricted": "O Chat está restrinxido. Fai clic nesta mensaxe para ver os detalles.",
     "chat_screen.restricted.narration": "O chat está restrinxido. Vai á pantalla de Restricións en Opcións do Mundo.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Xanela do chat",
     "chat_screen.usage": "Escribe a mensaxe e preme Entrar para enviar",
     "chunk.toast.checkLog": "Consulta o rexistro para saberes máis",

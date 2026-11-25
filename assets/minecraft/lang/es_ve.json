@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Enviar mensajes en el chat no está habilitado",
     "chat_screen.restricted": "El chat está restringido. Clic al mensaje para ver más detalles.",
     "chat_screen.restricted.narration": "El chat está restringido. Vé al apartado de Restricciones de la configuración del mundo.",
+    "chat_screen.restricted_friends_only": "Solo puedes ver el chat de tus amigos. Haz clic en este mensaje para obtener más información.",
+    "chat_screen.restricted_friends_only.narration": "Solo puedes ver los mensajes de tus amigos. Ve a la pantalla «Restricciones» en las opciones del mundo para obtener más información.",
     "chat_screen.title": "Pantalla de chat",
     "chat_screen.usage": "Escribe un mensaje y presiona Enter para enviar",
     "chunk.toast.checkLog": "Consulta el registro del juego para más detalles",

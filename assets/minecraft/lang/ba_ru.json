@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Чат хәбәрҙәре ебәреү рөхсәт ителмәй",
     "chat_screen.restricted": "Чат сикләнгән. Ентеклерәк белеү өсөн был хәбәргә баҫығыҙ.",
     "chat_screen.restricted.narration": "Чат сикләнгән. Донъя көйләүҙәрендәге «Сикләүҙәр» экранына күсегеҙ.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Сөхбәт экраны",
     "chat_screen.usage": "Хәбәрҙе индерегеҙ һәм уны ебәрер өсөн Enter төймәһенә баҫығыҙ",
     "chunk.toast.checkLog": "Ентеклерәк мәғлүмәт журналда",

@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "Posyłanie wiadōmości na czacie niyma przizwolōne",
     "chat_screen.restricted": "Czat je ôgraniczōny. Kliknij ta wiadōmość, coby erbnyć wiyncyj informacyjōw.",
     "chat_screen.restricted.narration": "Czat je ôgraniczōny. Przelyź ku ykranowi „Ôgraniczynia” we nasztalowaniach świata.",
+    "chat_screen.restricted_friends_only": "Widzisz tylko czat ze znajomymi. Kliknij ten komunikat, aby dowiedzieć się więcej.",
+    "chat_screen.restricted_friends_only.narration": "Widoczne są tylko wiadomości od znajomych. Więcej informacji znajdziesz na ekranie „Ograniczenia” w „Ustawianiach świata”.",
     "chat_screen.title": "Ôkno czatu",
     "chat_screen.usage": "Wkludź wiadōmość a naciś Enter, coby posłać",
     "chunk.toast.checkLog": "Badnij tagebuch po wiyncyj informacyji",

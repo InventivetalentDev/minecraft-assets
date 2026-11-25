@@ -2656,6 +2656,8 @@
     "chat_screen.messages_not_allowed": "L'invio di messaggi non è consentito",
     "chat_screen.restricted": "La chat è limitata: clicca su questo messaggio per più dettagli",
     "chat_screen.restricted.narration": "La chat è limitata. Vai alla finestra delle limitazioni nelle opzioni del mondo.",
+    "chat_screen.restricted_friends_only": "You can only see friends' chat. Click this message for details.",
+    "chat_screen.restricted_friends_only.narration": "You can only see messages from friends. Go to the Restrictions screen in World Options for more information.",
     "chat_screen.title": "Schermada ciciarada",
     "chat_screen.usage": "Scrìv un messagg e schiscia \"Invio\" per mandàll",
     "chunk.toast.checkLog": "Ulteriori dettagli nei registri",
