@@ -1,0 +1,9 @@
+{
+  "break_sound": {
+    "sound_id": "minecraft:block.straw_bed.break_leave"
+  },
+  "fall_sound": "minecraft:block.straw_bed.fall",
+  "hit_sound": "minecraft:block.straw_bed.hit",
+  "place_sound": "minecraft:block.straw_bed.place",
+  "step_sound": "minecraft:block.straw_bed.step"
+}

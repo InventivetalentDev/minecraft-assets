@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.icicle.break",
+  "fall_sound": "minecraft:block.icicle.fall",
+  "hit_sound": "minecraft:block.icicle.hit",
+  "place_sound": "minecraft:block.icicle.place",
+  "step_sound": "minecraft:block.icicle.step"
+}

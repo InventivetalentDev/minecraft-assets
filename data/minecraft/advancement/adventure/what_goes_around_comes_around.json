@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:adventure/kill_a_mob",
+  "criteria": {
+    "kill_frostbite_with_ice_ball": {
+      "conditions": {
+        "entity": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:frostbite"
+          }
+        },
+        "killing_blow": {
+          "direct_entity": {
+            "minecraft:entity_type": "minecraft:ice_ball"
+          },
+          "tags": [
+            {
+              "expected": true,
+              "id": "#minecraft:is_projectile"
+            }
+          ]
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.adventure.what_goes_around_comes_around.description"
+    },
+    "icon": {
+      "id": "minecraft:ice_ball"
+    },
+    "title": {
+      "translate": "advancements.adventure.what_goes_around_comes_around.title"
+    }
+  },
+  "requirements": [
+    [
+      "kill_frostbite_with_ice_ball"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

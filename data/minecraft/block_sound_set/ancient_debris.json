@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.ancient_debris.break",
+  "fall_sound": "minecraft:block.ancient_debris.fall",
+  "hit_sound": "minecraft:block.ancient_debris.hit",
+  "place_sound": "minecraft:block.ancient_debris.place",
+  "step_sound": "minecraft:block.ancient_debris.step"
+}

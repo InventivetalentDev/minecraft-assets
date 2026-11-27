@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.wet_grass.break",
+  "fall_sound": "minecraft:block.wet_grass.fall",
+  "hit_sound": "minecraft:block.wet_grass.hit",
+  "place_sound": "minecraft:block.wet_grass.place",
+  "step_sound": "minecraft:block.wet_grass.step"
+}

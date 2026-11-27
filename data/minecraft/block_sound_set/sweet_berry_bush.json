@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.sweet_berry_bush.break",
+  "fall_sound": "minecraft:block.grass.fall",
+  "hit_sound": "minecraft:block.grass.hit",
+  "place_sound": "minecraft:block.sweet_berry_bush.place",
+  "step_sound": "minecraft:block.grass.step"
+}

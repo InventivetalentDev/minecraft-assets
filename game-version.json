@@ -1,0 +1,18 @@
+{
+    "id": "26.4-pre-2",
+    "name": "26.4 Pre-Release 2",
+    "world_version": 5132,
+    "series_id": "main",
+    "protocol_version": 1073742174,
+    "pack_version": {
+        "resource_major": 104,
+        "resource_minor": 0,
+        "data_major": 128,
+        "data_minor": 2
+    },
+    "build_time": "2026-11-27T09:58:34+00:00",
+    "java_component": "java-runtime-epsilon",
+    "java_version": 25,
+    "stable": false,
+    "use_editor": false
+}

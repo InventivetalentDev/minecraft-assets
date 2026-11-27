@@ -1,0 +1,8 @@
+[
+  {
+    "type": "minecraft:place_minecart"
+  },
+  {
+    "type": "minecraft:drop_item"
+  }
+]

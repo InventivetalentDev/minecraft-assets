@@ -1,0 +1,11 @@
+[
+  {
+    "type": "minecraft:spawn_golem_from_carved_pumpkin"
+  },
+  {
+    "type": "minecraft:equip_sulfur_cube"
+  },
+  {
+    "type": "minecraft:equip"
+  }
+]

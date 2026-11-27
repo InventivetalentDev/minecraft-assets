@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.cherry_wood.break",
+  "fall_sound": "minecraft:block.cherry_wood.fall",
+  "hit_sound": "minecraft:block.cherry_wood.hit",
+  "place_sound": "minecraft:block.cherry_wood.place",
+  "step_sound": "minecraft:block.cherry_wood.step"
+}

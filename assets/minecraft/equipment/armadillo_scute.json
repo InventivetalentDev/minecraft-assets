@@ -1,0 +1,13 @@
+{
+  "layers": {
+    "wolf_body": [
+      {
+        "texture": "minecraft:armadillo_scute"
+      },
+      {
+        "dyeable": {},
+        "texture": "minecraft:armadillo_scute_overlay"
+      }
+    ]
+  }
+}

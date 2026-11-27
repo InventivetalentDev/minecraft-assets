@@ -1,0 +1,8 @@
+[
+  {
+    "type": "minecraft:spawn_wither_from_wither_skeleton_skull"
+  },
+  {
+    "type": "minecraft:equip"
+  }
+]

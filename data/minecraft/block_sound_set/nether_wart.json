@@ -1,0 +1,7 @@
+{
+  "break_sound": "minecraft:block.nether_wart.break",
+  "fall_sound": "minecraft:block.stone.fall",
+  "hit_sound": "minecraft:block.stone.hit",
+  "place_sound": "minecraft:item.nether_wart.plant",
+  "step_sound": "minecraft:block.stone.step"
+}
